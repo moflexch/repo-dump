@@ -1,0 +1,30 @@
+# Base URLs of known public model repositories
+
+# Switzerland
+https://405.sia.ch/models/
+https://geo.so.ch/models/
+https://models.geo.admin.ch/
+http://models.geo.ai.ch/
+https://models.geo.ar.ch/
+https://models.geo.be.ch/
+http://models.geo.bl.ch/
+https://models.geo.bs.ch/
+https://models.geo.gl.ch/
+https://models.geo.gr.ch/
+https://models.geo.lu.ch/
+https://models.geo.sg.ch/
+http://models.geo.sh.ch/
+https://models.geo.sz.ch
+http://models.geo.ti.ch
+https://models.geo.zg.ch
+http://models.geo.zh.ch
+http://models.interlis.ch/
+https://models.kgk-cgc.ch/
+https://vsa.ch/models/
+https://webgis.lisag.ch/models
+
+# Liechtenstein
+https://models.geo.llv.li/
+
+# Colombia
+https://repositorio.proadmintierra.info
