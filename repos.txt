@@ -14,17 +14,17 @@ https://models.geo.gr.ch/
 https://models.geo.lu.ch/
 https://models.geo.sg.ch/
 http://models.geo.sh.ch/
-https://models.geo.sz.ch
-http://models.geo.ti.ch
-https://models.geo.zg.ch
-http://models.geo.zh.ch
+https://models.geo.sz.ch/
+http://models.geo.ti.ch/
+https://models.geo.zg.ch/
+http://models.geo.zh.ch/
 http://models.interlis.ch/
 https://models.kgk-cgc.ch/
 https://vsa.ch/models/
-https://webgis.lisag.ch/models
+https://webgis.lisag.ch/models/
 
 # Liechtenstein
 https://models.geo.llv.li/
 
 # Colombia
-https://repositorio.proadmintierra.info
+https://repositorio.proadmintierra.info/
