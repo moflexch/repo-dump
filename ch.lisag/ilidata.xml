@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+    <HEADERSECTION SENDER="ilivalidator-1.11.13-c324518be0b3f03e347b86ddba1a7fcf33757446"
+        VERSION="2.3">
+        <MODELS>
+            <MODEL NAME="DatasetIdx16" VERSION="2018-11-21" URI="mailto:ce@eisenhutinformatik.ch"></MODEL>
+        </MODELS>
+    </HEADERSECTION>
+    <DATASECTION>
+        <DatasetIdx16.DataIndex BID="b1">
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
+                <id>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</id>
+                <version>2023-08-04</version>
+                <publishingDate>2023-08-04</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog AfT Strassenverkehrssignalisation</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Strassenverkehrssignalisation_UR_V1_0</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>Grundlagen_Planung/Strassenverkehrssignalisation_Verkehrssignale_UR_V1_0.xml</path>
+                                <md5>bee68d73a37f0ec1d7360325203d522a46b6bb8f</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <version>2023-08-04</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignaln</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+        </DatasetIdx16.DataIndex>
+    </DATASECTION>
+</TRANSFER>

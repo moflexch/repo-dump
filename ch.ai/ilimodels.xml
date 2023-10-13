@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://www.interlis.ch/INTERLIS2.3 https://models.geo.ai.ch/IliRepository09.xsd"
+	xmlns="https://www.interlis.ch/INTERLIS2.3" xmlns:ili2c="https://www.interlis.ch/ili2c">
+	<HEADERSECTION SENDER="geoinformation@ai.ch" VERSION="2.3">
+		<MODELS>
+			<MODEL NAME="IliRepository09" VERSION="2019-08-30" URI="mailto:geoinformation@ai.ch"/>
+		</MODELS>
+
+		<!--
+			
+  TID schema for registered models in this repository:
+
+    Bau- und Umweltdepartement (BUD)                      AI001xxx
+    Basismodelle (AI)                                     AI999xxx
+    Bau- und Umweltdepartement (BUD)                      AI001xxx
+    [ Amt für Raumentwicklung (ARE)                       AI0011xx
+    [ Amt für Umwelt (AFU)                                AI0012xx
+    [ Landesbauamt (LBA)                                  AI0013xx
+    Erziehungsdepartment (ED)                             AI002xxx
+    Finanzdepartement (FD)                                AI003xxx
+    Gesundheits- und Sozialdepartement (GSD)              AI004xxx
+    Justiz-, Polizei- und Militärdepartment (JPMD)        AI005xxx
+    Land- und Forstwirtschaftsdepartment (LFD)            AI006xxx
+    [ Amt für Geoinformation (AGI)                        AI0061xx
+    [ Oberforstamt (OFA)                                  AI0062xx
+    [ Landwirtschaftsamt (LWA)                            AI0063xx
+    Volkswirtschaftsdepartment (VD)                       AI007xxx
+    Bezirke/Technische Betriebe                           AI31xxxx
+    [ Bezirk Appenzell                                    AI3101xx
+    [ Bezirk Gonten                                       AI3102xx
+    [ Bezirk Schlatt-Haslen                               AI3104xx
+    [ Bezirk Oberegg                                      AI3111xx
+    [ Bezirk Schwende-Rüte                                AI3112xx
+    [ Feuerschaugemeinde                                  AI3199xx
+
+-->
+
+
+		<!--
+			
+  Template for repository entry
+
+	<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001001">
+		<Name>dummy</Name>
+		<SchemaLanguage>ili2_3</SchemaLanguage>
+		<File>DBU/dummy.ili</File>
+		<Version>201x-xx-xx</Version>
+		<publishingDate>201x-xx-xx</publishingDate>
+		<dependsOnModel>
+		  <IliRepository09.ModelName_>
+		    <value>dummy</value>
+		  </IliRepository09.ModelName_>
+		</dependsOnModel>
+                       <Tags>x,x</Tags>
+		<Issuer>https://geo.ai.ch/</Issuer>
+		<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+		<furtherInformation>https://geo.ai.ch</furtherInformation>
+		<md5>x</md5>
+	</IliRepository09.RepositoryIndex.ModelMetadata>
+
+-->
+
+	</HEADERSECTION>
+	<DATASECTION>
+
+		<!-- ============================================================== -->
+		<!-- MODELLE DES KANTONS APPENZELL INNERRHODEN                      -->
+
+		<IliRepository09.RepositoryIndex BID="AIb1">
+
+			<!-- ============================================================== -->
+			<!-- Basismodelle                                          AI999xxx -->
+
+			<!--
+
+	<IliRepository09.RepositoryIndex.ModelMetadata TID="AI999001">
+		<Name>AI_Basis_UUIDDef_V1</Name>
+		<SchemaLanguage>ili2_3</SchemaLanguage>
+		<File>AGI/AI_Basis_20190212.ili</File>
+		<Version>2019-02-12</Version>
+		<publishingDate>2019-02-12</publishingDate>
+		<Title>Basismodell AI_Basis_UUID für UUID-Definitionen als Klassenattribute</Title>
+		<Tags></Tags>
+		<Issuer>https://geo.ai.ch/</Issuer>
+		<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+		<furtherInformation>https://geo.ai.ch</furtherInformation>
+		<md5>e61ff158e1ca8a5de5e16e740c83e065</md5>
+	</IliRepository09.RepositoryIndex.ModelMetadata>
+
+	<IliRepository09.RepositoryIndex.ModelMetadata TID="AI999002">
+		<Name>AI_Basis_Geometrie_V1</Name>
+		<SchemaLanguage>ili2_3</SchemaLanguage>
+		<File>AGI/AI_Basis_20190212.ili</File>
+		<Version>2019-02-12</Version>
+		<publishingDate>2019-02-12</publishingDate>
+		<Title>Basismodell AI_Basis_Geometrie mit Geometrie-Strukturdefinition</Title>
+		<dependsOnModel>
+			<IliRepository09.ModelName_>
+				<value>Units</value>
+			</IliRepository09.ModelName_>
+			<IliRepository09.ModelName_>
+				<value>CoordSys</value>
+			</IliRepository09.ModelName_>
+			<IliRepository09.ModelName_>
+				<value>GeometryCHLV95_V1</value>
+			</IliRepository09.ModelName_>
+		</dependsOnModel>
+		<Tags></Tags>
+		<Issuer>https://geo.ai.ch/</Issuer>
+		<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+		<furtherInformation>https://geo.ai.ch</furtherInformation>
+		<md5>e61ff158e1ca8a5de5e16e740c83e065</md5>
+	</IliRepository09.RepositoryIndex.ModelMetadata>
+
+-->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI999001">
+				<Name>AI_Nutzungsplanung_Codelisten</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Nutzungsplanung_Codelisten.ili</File>
+				<Version>2019-08-09</Version>
+				<publishingDate>2019-08-09</publishingDate>
+				<Title>Nutzungsplanung Codelisten Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73,145,157,159,116,131,132</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<!--md5>1a1bb00516e29f836d74942d0c4a5b27</md5-->
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+			<!-- ============================================================== -->
+			<!--    Bau- und Umweltdepartement (BUD)                   AI001xxx -->
+
+
+			<!-- ============================================================== -->
+			<!--    [ Amt für Raumentwicklung (ARE)                    AI0011xx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001101">
+				<Name>AI_Nutzungsplanung_Codelisten_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Nutzungsplanung_Codelisten_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<Title>Nutzungsplanung Codelisten Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73,145,157,159,116,131,132</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<!--md5>1a1bb00516e29f836d74942d0c4a5b27</md5-->
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001102">
+				<Name>AI_Nutzungsplanung</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Nutzungsplanung_V2_2.ili</File>
+				<Version>2022-07-01</Version>
+				<publishingDate>2022-07-01</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung (kommunal) Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>8b9f512d68348d0f823785e45ff08d9f</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001103">
+				<Name>AI_Nutzungsplanung_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Nutzungsplanung_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung (kommunal) Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>14dda1b43d5f5f5132f081668926b804</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001104">
+				<Name>AI_Nutzungsplanung_kantonal</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Nutzungsplanung_kantonal_V2_1.ili</File>
+				<Version>2020-10-06</Version>
+				<publishingDate>2020-10-06</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung (kantonal) Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>898e02de88c8836792dd9effe2629e3f</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001105">
+				<Name>AI_Nutzungsplanung_kantonal_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Nutzungsplanung_kantonal_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung (kantonal) Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>715c917b364f2220219b34c5f5464324</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001106">
+				<Name>AI_Schutzobjekte</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Nutzungsplanung_Schutz_V2_2.ili</File>
+				<Version>2020-05-15</Version>
+				<publishingDate>2020-05-15</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung Schutz Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>237b3e3077d85989d4eaba3fb6f8d399</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001107">
+				<Name>AI_Schutzobjekte_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Nutzungsplanung_Schutz_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung Schutz Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>7b6e6fbf65b4603471373210644b54dc</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001108">
+				<Name>AI_Laermempfindlichkeitsstufen</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Laermempfindlichkeitsstufen_V2_1.ili</File>
+				<Version>2020-08-19</Version>
+				<publishingDate>2020-08-19</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Lärmemfindlichkeitsstufen Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 145</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>b50698c33cf4d76d88a92e3f9403cacf</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001109">
+				<Name>AI_Laermempfindlichkeitsstufen_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Laermempfindlichkeitsstufen_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Lärmemfindlichkeitsstufen Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 145</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>fb204806436d2b42e782e788d73e0f16</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001110">
+				<Name>AI_Erschliessungsstand</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Erschliessungsstand_V2_1.ili</File>
+				<Version>2020-10-06</Version>
+				<publishingDate>2020-10-06</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Erschliessungsstand Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>94b507758febc947463a312957b49cb3</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001111">
+				<Name>AI_Erschliessungsstand_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Erschliessungsstand_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Erschliessungsstand Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>2823b4fd486d38783b8468b46dcfe196</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001112">
+				<Name>AI_Abstandslinien</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Abstandslinien_V2_1.ili</File>
+				<Version>2020-08-19</Version>
+				<publishingDate>2020-08-19</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Abstandslinien Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 159</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>9de768dfb885ddfb10dd44b843c9ce9a</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001113">
+				<Name>AI_Abstandslinien_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Abstandslinien_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Abstandslinien Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 159</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>f1480ad4bd45d70909c07f620e485e05</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001114">
+				<Name>AI_Planungszonen_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Planungszonen_V2_3.ili</File>
+				<Version>2023-07-24</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Quartierplaene Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>b911ae969114c4012ea1442584b2035a</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001115">
+				<Name>AI_Quartierplaene</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/replaced/AI_Quartierplaene_V2_1.ili</File>
+				<Version>2020-08-27</Version>
+				<publishingDate>2020-08-27</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Quartierplaene Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>ae40470d44d696b990a338437a7f0313</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001116">
+				<Name>AI_Quartierplaene_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Quartierplaene_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Quartierplaene Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/ARE</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>f8c88a657980285a50ed1988a84a805b</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<!-- ============================================================== -->
+			<!--    [ Amt für Umwelt (AFU)                             AI0012xx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001201">
+				<Name>AI_KbS_Basis</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/replaced/AI_KbS_V2_0.ili</File>
+				<Version>2019-08-09</Version>
+				<publishingDate>2019-08-09</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Kataster belastete Standorte Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 116</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AFU/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>8d9b949569aa36c97c26d40ca11b061f</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001202">
+				<Name>AI_KbS</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/replaced/AI_KbS_V2_0.ili</File>
+				<Version>2019-08-09</Version>
+				<publishingDate>2019-08-09</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_KbS_Basis</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Kataster belastete Standorte Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 116</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AFU/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>8d9b949569aa36c97c26d40ca11b061f</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001203">
+				<Name>AI_KbS_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/AI_KbS_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Kataster belastete Standorte Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 116</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AFU</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>a2bed428b40380ccb8a268d52ca1086f</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001204">
+				<Name>AI_PlanerischerGewaesserschutz</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/replaced/AI_PlanerischerGewaesserschutz_V2_1.ili</File>
+				<Version>2021-04-08</Version>
+				<publishingDate>2021-04-08</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Planerischer Gewässerschutz Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 131,132</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AFU/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>ed1c20a2d3e7dc2a2fd1bd4738200213</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001205">
+				<Name>AI_PlanerischerGewaesserschutz_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/AI_PlanerischerGewaesserschutz_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Planerischer Gewässerschutz Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 131,132</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AFU</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>2ede8bb60fc3ae455b46659482015461</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001206">
+				<Name>AI_Laermkataster</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/AI_Laermkataster_V1_0.ili</File>
+				<Version>2021-09-03</Version>
+				<publishingDate>2021-09-03</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Lärmkataster Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/AFU</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>4aa81e1c0960f47a505e5fc34022fe3b</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001207">
+				<Name>AI_Gewaesserraeume</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AFU/AI_Gewaesserraeume_V1_0.ili</File>
+				<Version>2021-01-20</Version>
+				<publishingDate>2021-01-20</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Gewässerräume Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/AFU/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>3809e08acc02d51b34fc9bd675c1f628</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<!-- ============================================================== -->
+			<!--    [ Landesbauamt (LBA)                               AI0013xx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001301">
+				<Name>STRAKATAI95</Name>
+				<SchemaLanguage>ili1</SchemaLanguage>
+				<File>LBA/strakatai95.ili</File>
+				<Version>2015-11-17</Version>
+				<publishingDate>2015-11-17</publishingDate>
+				<Title>Strassenkatatster Kanton Appenzell I.Rh., </Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/LBA/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>3746CEDB50CCAC5DA246E548F0D5CDA4</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+			<!-- ============================================================== -->
+			<!--    Erziehungsdepartment (ED)                          AI002xxx -->
+
+
+			<!-- ============================================================== -->
+			<!--    Finanzdepartement (FD)                             AI003xxx -->
+
+
+			<!-- ============================================================== -->
+			<!--    Gesundheits- und Sozialdepartement (GSD)           AI004xxx -->
+
+
+			<!-- ============================================================== -->
+			<!--    Justiz-, Polizei- und Militärdepartment (JPMD)     AI005xxx -->
+
+
+			<!-- ============================================================== -->
+			<!--    Land- und Forstwirtschaftsdepartment (LFD)         AI006xxx -->
+
+
+			<!-- ============================================================== -->
+			<!--    [ Amt für Geoinformation (AGI)                     AI0061xx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006101">
+				<Name>DM01AVAP12LV95</Name>
+				<SchemaLanguage>ili1</SchemaLanguage>
+				<File>AGI/DM01AVAP12LV95.ili</File>
+				<Version>2016-02-19</Version>
+				<publishingDate>2016-02-19</publishingDate>
+				<Title>Amtliche Vermessung Kanton Appenzell I.Rh., DM01 LV95 Version 12, Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>0F8A121249ADE4E26C37171C2CA5E75F</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006102">
+				<Name>DM01AVAP12LV95mod</Name>
+				<SchemaLanguage>ili1</SchemaLanguage>
+				<File>AGI/modified/DM01AVAP12LV95_modified.ili</File>
+				<Version>2016-02-19</Version>
+				<publishingDate>2016-02-19</publishingDate>
+				<Title>Amtliche Vermessung Kanton Appenzell I.Rh., DM01 LV95 Version 12, Appenzell I.Rh. (modified)</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>1e6ecade326e9d9b5c0de1e0c3e0fce7</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006103">
+				<Name>DM01AVCH24LV95Dmod</Name>
+				<SchemaLanguage>ili1</SchemaLanguage>
+				<File>AGI/modified/DM.01-AV-CH_LV95_24d_modified.ili</File>
+				<Version>2004-06-04</Version>
+				<publishingDate>2004-06-04</publishingDate>
+				<Title>Datenmodell 2001 der Amtlichen Vermessung "Bund" (DM.01-AV-CH) (modified)</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>b91aa82824170531aa8c1f05031722bf</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+			<!-- ============================================================== -->
+			<!--    [ Oberforstamt (OFA)                               AI0062xx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006201">
+				<Name>AI_Waldgrenzen</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>OFA/replaced/AI_Waldgrenzen_V2_1.ili</File>
+				<Version>2020-08-19</Version>
+				<publishingDate>2020-08-19</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_Hauptnutzung_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_LV95_V1_1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Waldgrenzen Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 157</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/OFA/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>4686c13a0467c45291e3efa01ebd3ac2</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006202">
+				<Name>AI_Waldgrenzen_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>OFA/AI_Waldgrenzen_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Waldgrenzen Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 157</Title>
+				<Tags/>
+				<Issuer>http://models.geo.ai.ch/OFA</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>02c9ccde6023a13e34601035ac6b2984</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006203">
+				<Name>AI_Waldreservate_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>OFA/AI_Waldreservate_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<!--IliRepository09.ModelName_>
+						<value>Waldreservate_Codelisten_V1_1</value>
+					</IliRepository09.ModelName_-->
+				</dependsOnModel>
+				<Title>Waldgrenzen Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 157</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/OFA</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>1aa9b29dcd5ea25647c8442d52bdb11d</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006204">
+				<Name>AI_Forstreviere</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>OFA/AI_Forstreviere_V1_0.ili</File>
+				<Version>2020-11-20</Version>
+				<publishingDate>2020-11-20</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Forstreviere Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/OFA/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>0b2e6ecaa78086ac522880023978574f</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+			<!-- ============================================================== -->
+			<!--    [ Landwirtschaftsamt (LWA)                               AI0063xx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006301">
+				<Name>AI_Bienenstandorte</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>LWA/replaced/AI_Bienenstandorte_V1_0.ili</File>
+				<Version>2020-10-26</Version>
+				<publishingDate>2020-10-26</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Bienenstandorte Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/LWA/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>40d7abee692eddf6c7513efbf97f3477</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006302">
+				<Name>AI_Bienenstandorte_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>LWA/AI_Bienenstandorte_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Bienenstandorte Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/LWA</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>8bf61b546d6673e01adeebe319b08fad</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+			<!-- ============================================================== -->
+			<!--    Volkswirtschaftsdepartment (VD)                    AI007xxx -->
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI007101">
+				<Name>AI_Kirchgemeinden</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AGI/replaced/AI_Kirchgemeinden_V1_0.ili</File>
+				<Version>2020-08-17</Version>
+				<publishingDate>2020-08-17</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Kirchgemeinden Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>10c14fccbebe3c3685c8c5ef1c90bae4</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI007102">
+				<Name>AI_Kirchgemeinden_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AGI/AI_Kirchgemeinden_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Kirchgemeinden Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>6cd2989b4a5fb9148d5840a1e5697b9a</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI007103">
+				<Name>AI_Schulgemeinden</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AGI/replaced/AI_Schulgemeinden_V1_0.ili</File>
+				<Version>2020-08-17</Version>
+				<publishingDate>2020-08-17</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Schulgemeinden Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>74e6d48c2f45d82f7cb2b1eb5469a929</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI007104">
+				<Name>AI_Schulgemeinden_V2_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AGI/AI_Schulgemeinden_V2_3.ili</File>
+				<Version>2023-07-25</Version>
+				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Schulgemeinden Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>e186416a70f51f375177de1a30bd14a6</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+<!--
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI007105">
+				<Name>AI_Drohnenflugverbot</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>AGI/replaced/AI_Drohnenflugverbot_V1_0.ili</File>
+				<Version>2020-10-27</Version>
+				<publishingDate>2020-10-27</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Drohnenflugverbot Kanton Appenzell I.Rh.</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/AGI/</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>6b8b5c6273351494e67efb53b504b507</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+-->
+			<!-- ============================================================== -->
+
+		</IliRepository09.RepositoryIndex>
+
+
+
+		<!-- ============================================================== -->
+		<!-- MODELLE DER Bezirke                                            -->
+
+		<IliRepository09.RepositoryIndex BID="AIb2">
+			<!-- ============================================================== -->
+			<!-- alle Bezirke/Technische Betriebe gemeinsam            AI31xxxx -->
+			<!-- LKMap Wasser/Abwasser: nur Dokumentation -->
+			<!-- ============================================================== -->
+			<!-- Bezirk Appenzell                                      AI3101xx -->
+			<!-- ============================================================== -->
+			<!-- Bezirk Gonten                                         AI3102xx -->
+			<!-- ============================================================== -->
+			<!-- Bezirk Schlatt-Haslen                                 AI3104xx -->
+			<!-- ============================================================== -->
+			<!-- Bezirk Oberegg                                        AI3111xx -->
+			<!-- ============================================================== -->
+			<!-- Bezirk Schwende-Rüte                                  AI3112xx -->
+			<!-- ============================================================== -->
+			<!-- Feuerschaugemeinde                                    AI6984xx -->
+			<!-- ============================================================== -->
+		</IliRepository09.RepositoryIndex>
+
+	</DATASECTION>
+</TRANSFER>
