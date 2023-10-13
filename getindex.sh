@@ -1,6 +1,7 @@
 #!/bin/bash
 
 file="repos.txt"
+base="repos"
 title="# Status at "
 date=`TZ='Europe/Zurich' date +"%Y-%m-%d %H:%M"`
 header="|Site|ilisite|ilimodels|ilidata|\n|---|---|---|---|\n"
@@ -17,10 +18,10 @@ do
 
   for idx in ilisite ilimodels ilidata
   do
-    http_response=$(curl -s "$line$idx.xml" -o "$folder/$idx.xml" --create-dir -w "%{http_code}")
+    http_response=$(curl -s "$line$idx.xml" -o "$base/$folder/$idx.xml" --create-dir -w "%{http_code}")
     if [ $http_response != "200" ]; then
       echo "[ignored - $http_response] $line$idx.xml"
-      rm "$folder/$idx.xml"
+      rm "$base/$folder/$idx.xml"
       printf ":black_square_button: ([$http_response]($line$idx.xml))|" >> README.md
     else
       printf ":white_check_mark: ([$http_response]($line$idx.xml))|" >> README.md

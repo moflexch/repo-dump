@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="ili2pg-4.4.6-70e53561bc07da8c82a9bd4dbe38db34a5116231" VERSION="2.3"><MODELS><MODEL NAME="IliSite09" VERSION="2009-11-19" URI="mailto:ce@eisenhutinformatik.ch"></MODEL></MODELS></HEADERSECTION>
+<DATASECTION>
+<IliSite09.SiteMetadata BID="e8d04537-dc9d-4a47-9e7c-9ea24b50f3fb">
+<IliSite09.SiteMetadata.Site TID="5"><Name>https://models.geo.gl.ch</Name><Title>Datenmodellablage des Kantons Glarus</Title><shortDescription>Datenmodellablage des Kantons Glarus. Datenmodelle des Bundesrechts (Zuständigkeit Kanton, Gemeinden), des kantonalen Rechts (Zuständigkeit Kanton, Gemeinden) und des kommunalen Rechts (Zuständigkeit Gemeinden).</shortDescription><Owner>mailto:geoinformation@gl.ch</Owner><technicalContact>mailto:geoinformation@gl.ch</technicalContact><furtherInformation>http://www.geo.gl.ch</furtherInformation><parentSite><IliSite09.RepositoryLocation_><value>http://models.geo.kgk-cgc.ch/</value></IliSite09.RepositoryLocation_></parentSite></IliSite09.SiteMetadata.Site>
+</IliSite09.SiteMetadata>
+</DATASECTION>
+</TRANSFER>

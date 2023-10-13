@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+  <HEADERSECTION SENDER="sogis" VERSION="2.3">
+    <MODELS>
+      <MODEL NAME="DatasetIdx16" VERSION="2018-10-19" URI="mailto:ce@eisenhutinformatik.ch"/>
+    </MODELS>
+  </HEADERSECTION>
+  <DATASECTION>
+  </DATASECTION>
+</TRANSFER>
