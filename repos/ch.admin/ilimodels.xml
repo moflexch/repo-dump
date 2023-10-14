@@ -15555,7 +15555,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004452">
       <Name>Revitalisierung_Fliessgewaesser_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Revitalisierung_Fliessgewaesser_V1_1.ili</File>
+      <File>BAFU/replaced/Revitalisierung_Fliessgewaesser_V1_1.ili</File>
       <Version>2021-01-27</Version>
       <publishingDate>2021-03-08</publishingDate>
       <dependsOnModel>
@@ -17932,6 +17932,32 @@
       <md5>b34e7efc3050df940b202bdb73c34f86</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004544">
+      <Name>Revitalisierung_Fliessgewaesser_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Revitalisierung_Fliessgewaesser_V1_2.ili</File>
+      <Version>2023-06-23</Version>
+      <publishingDate>2023-10-14</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_Codelisten_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_LV95_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>191.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>8116292a533f2bf0a1ed08654ecf6868</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
@@ -23709,6 +23735,62 @@
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>7240eb976b0936c09501dd8eb8da76e5</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010068">
+      <Name>PipelinesystemUnderSupervisionByFederalGovernment_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/PipelinesystemUnderSupervisionByFederalGovernment_V1.ili</File>
+      <Version>2023-06-19</Version>
+      <publishingDate>2023-10-14</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>222.1,223.1</Tags>      
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>a6adbfa4f7eab74d8e343b116b16d8ec</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+    
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010069">
+      <Name>PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1.ili</File>
+      <Version>2023-06-19</Version>
+      <publishingDate>2023-10-14</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>PipelinesystemUnderSupervisionByFederalGovernment_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>db0dc4eb37d242aed2f51f68c59623de</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>    
 
 <!-- =================================================================== -->
 <!-- BFS OFS UST FSO                                              011xxx -->
