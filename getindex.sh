@@ -4,7 +4,7 @@ file="repos.txt"
 base="repos"
 title="# Status at "
 date=`TZ='Europe/Zurich' date +"%Y-%m-%d %H:%M"`
-header="|Site|ilisite|ilimodels|ilidata|\n|---|---|---|---|\n"
+header="|Site|ilisite.xml|ilimodels.xml|ilidata.xml|\n|---|---|---|---|\n"
 
 printf "$title$date\n$header" > README.md
 
