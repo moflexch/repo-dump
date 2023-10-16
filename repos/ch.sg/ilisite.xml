@@ -16,7 +16,7 @@
 				<technicalContact>mailto:geodaten@sg.ch</technicalContact>
 				<parentSite>
 					<IliSite09.RepositoryLocation_>
-						<value>http://models.geo.kgk-cgc.ch/</value>
+						<value>https://models.geo.kgk-cgc.ch/</value>
 					</IliSite09.RepositoryLocation_>
 				</parentSite>
 			</IliSite09.SiteMetadata.Site>
