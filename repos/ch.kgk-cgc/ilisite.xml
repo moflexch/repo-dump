@@ -18,6 +18,9 @@
 	</parentSite>
 	<subsidiarySite>
 		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.ag.ch</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
 			<value>http://models.geo.ai.ch/</value>
 		</IliSite09.RepositoryLocation_>
 		<IliSite09.RepositoryLocation_>
