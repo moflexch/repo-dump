@@ -3,8 +3,8 @@
 # Switzerland
 https://405.sia.ch/models/
 https://models.geo.admin.ch/
-http://models.geo.ai.ch/
 https://models.geo.ag.ch/
+http://models.geo.ai.ch/
 https://models.geo.ar.ch/
 https://models.geo.be.ch/
 http://models.geo.bl.ch/
