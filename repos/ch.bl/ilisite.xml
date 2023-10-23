@@ -5,7 +5,7 @@
         </MODELS>
     </HEADERSECTION>
     <DATASECTION>
-        <IliSite09.SiteMetadata BID="BLb0">
+        <IliSite09.SiteMetadata BID="b1">
             <IliSite09.SiteMetadata.Site TID="1">
                 <Name>models.geo.bl.ch</Name>
                 <Title>ModelRepository Kanton Basel-Landschaft</Title>
