@@ -708,7 +708,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="172" >
                 <Name>DSS_3D_2015_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_DSS_3D_2015_2_d-20230719.ili</File>
+                <File>2015/precursorVersion/VSA_DSS_3D_2015_2_d-20230719.ili</File>
                 <Version>19.07.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -725,7 +725,6 @@
                         <value>DSS_2015_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>13.11.2018</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
@@ -734,7 +733,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="173" >
                 <Name>DSS_2015_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_DSS_2015_2_d-20230719.ili</File>
+                <File>2015/precursorVersion/VSA_DSS_2015_2_d-20230719.ili</File>
                 <Version>19.07.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -748,7 +747,6 @@
                         <value>SIA405_Base_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>13.11.2018</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
@@ -790,43 +788,6 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>7398ebd2ae478d9dc5c13b8ae3007e39</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="175" >
-                <Name>VSA_FICHE_TECHNIQUE_2015_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_fiche_technique_2015_2_f-20210514.ili</File>
-                <Version>14.05.2021</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SDEE_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>VSA_STAMMKARTE_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>7122512e67196119ce36f52c6bc9f72c</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="176" >
                 <Name>VSA_MASSNAHME_2015_LV95</Name>
@@ -915,69 +876,10 @@
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>79a1a2a51fe4b197e33b8959e1606930</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="179" >
-                <Name>SDEE_2015_3D_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_SDEE_3D_2015_2_f-20230719.ili</File>
-                <Version>19.07.2023</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SDEE_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_3D_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>097d9bb3ba19c961739d4a141b674aef</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="180" >
-                <Name>SDEE_2015_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_SDEE_2015_2_f-20230808.ili</File>
-                <Version>08.08.2023</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>3b8999005016fc9e766f917c0bed3954</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="181" >
                 <Name>VSA_STAMMKARTE_2015_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_Stammkarte_2015_2_d-20210514.ili</File>
+                <File>2015/precursorVersion/VSA_Stammkarte_2015_2_d-20210514.ili</File>
                 <Version>14.05.2021</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -1002,7 +904,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="182" >
                 <Name>VSADSSMINI_2015_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_2015_2_d-20191118.ili</File>
+                <File>2015/precursorVersion/VSADSSMINI_2015_2_d-20191118.ili</File>
                 <Version>18.11.2019</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -1020,113 +922,6 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>17fa07c2a033dc0547a610cf56d2bd65</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="183" >
-                <Name>VSADSSMINI_2015_LV95_CHECK_A</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_CHECK_A_2015_2_d-20230808.ili</File>
-                <Version>08.08.2023</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>0f53c75fe8ed3af9fc9a0332aa2c3383</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="184" >
-                <Name>VSADSSMINI_2015_LV95_CHECK_T</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_CHECK_T_2015_2_d-20230808.ili</File>
-                <Version>08.08.2023</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>49bf7c98a83286e0faff1c09895f9562</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="185" >
-                <Name>VSASDEEMINI_2015_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSASDEEMINI_2015_2_f_20191118.ili</File>
-                <Version>18.11.2019</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>7d9f7a3aa3d1c7a798547cb99d51ad5e</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="186" >
-                <Name>DSS_3D_2015_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/precursorVersion/VSA_DSS_3D_2015_2_d-20181113.ili</File>
-                <Version>13.11.2018</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>de777a857cd224ec4fe3ad0f0dcfc7c4</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="187" >
-                <Name>DSS_2015_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/precursorVersion/VSA_DSS_2015_2_d-2018113.ili</File>
-                <Version>13.11.2018</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>d57cdc29f647e4e582ac36e55017aa26</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="190" >
                 <Name>VSA_ALR_2015</Name>
@@ -1190,55 +985,6 @@
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>f3b691968075a3e66e7aa59f84403580</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="192" >
-                <Name>DSS_3D_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_DSS_3D_2015_2_d-20230719.ili</File>
-                <Version>19.07.2023</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <precursorVersion>13.11.2018</precursorVersion>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>c0aa4dbbb1d22a2fc92443bba4a5d591</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="193" >
-                <Name>DSS_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_DSS_2015_2_d-20230719.ili</File>
-                <Version>19.07.2023</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <precursorVersion>13.11.2018</precursorVersion>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>66c27e51d3b24cf109f6a00c34ea1c13</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="194" >
                 <Name>VSA_EMR_2015</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1275,43 +1021,6 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>7398ebd2ae478d9dc5c13b8ae3007e39</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="195" >
-                <Name>VSA_FICHE_TECHNIQUE_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_fiche_technique_2015_2_f-20210514.ili</File>
-                <Version>11.05.2017</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SDEE_2015</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>VSA_STAMMKARTE_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>7122512e67196119ce36f52c6bc9f72c</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="196" >
                 <Name>VSA_MASSNAHME_2015</Name>
@@ -1399,269 +1108,6 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>79a1a2a51fe4b197e33b8959e1606930</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="199" >
-                <Name>SDEE_2015_3D</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_SDEE_3D_2015_2_f-20230719.ili</File>
-                <Version>19.07.2023</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SDEE_2015</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_3D_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>097d9bb3ba19c961739d4a141b674aef</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="200" >
-                <Name>SDEE_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_SDEE_2015_2_f-20230808.ili</File>
-                <Version>08.08.2023</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>3b8999005016fc9e766f917c0bed3954</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="201" >
-                <Name>VSA_STAMMKARTE_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSA_Stammkarte_2015_2_d-20210514.ili</File>
-                <Version>11.05.2017</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>e32d505698898548669d348f75a43fbf</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="202" >
-                <Name>VSADSSMINI_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_2015_2_d-20191118.ili</File>
-                <Version>18.11.2019</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>17fa07c2a033dc0547a610cf56d2bd65</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="203" >
-                <Name>VSASDEEMINI_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSASDEEMINI_2015_2_f_20191118.ili</File>
-                <Version>18.11.2019</Version>
-                <NameLanguage>fr</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_f</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_f</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>7d9f7a3aa3d1c7a798547cb99d51ad5e</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="204" >
-                <Name>DSS_3D_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/precursorVersion/VSA_DSS_3D_2015_2_d-20181113.ili</File>
-                <Version>13.11.2018</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>de777a857cd224ec4fe3ad0f0dcfc7c4</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="205" >
-                <Name>DSS_2015</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/precursorVersion/VSA_DSS_2015_2_d-2018113.ili</File>
-                <Version>13.11.2018</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>d57cdc29f647e4e582ac36e55017aa26</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="208" >
-                <Name>VSADSSMINI_2015_LV95_CHECK_FP</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_CHECK_FP_2015_2_d-20230808.ili</File>
-                <Version>2023-08-08</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>IGSFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>MINIFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Text</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>2f03d0b2ed0f319e58a338602d9857f3</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="209" >
-                <Name>VSADSSMINI_2015_CHECK_T</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_CHECK_T_2015_2_d-20230808.ili</File>
-                <Version>08.08.2023</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>49bf7c98a83286e0faff1c09895f9562</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="210" >
-                <Name>VSADSSMINI_2015_CHECK_A</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_CHECK_A_2015_2_d-20230808.ili</File>
-                <Version>08.08.2023</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2015</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>0f53c75fe8ed3af9fc9a0332aa2c3383</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="211" >
-                <Name>VSADSSMINI_2015_CHECK_FP</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/VSADSSMINI_CHECK_FP_2015_2_d-20230808.ili</File>
-                <Version>2023-08-08</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2015</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>IGSFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>MINIFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Text</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>2f03d0b2ed0f319e58a338602d9857f3</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="212" >
                 <Name>SIA405_Base_Abwasser_1_LV95</Name>
@@ -2164,6 +1610,297 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>c1838ad0c025b590a522d1eef6a228a3</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="234" >
+                <Name>VSADSSMINI_2015_CHECK_A_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSADSSMINI_CHECK_A_2015_2_d_LV95-20231018.ili</File>
+                <Version>18.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>f792c708ede0260a188a46f775ef8cd9</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="235" >
+                <Name>VSADSSMINI_2015_CHECK_T_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSADSSMINI_CHECK_T_2015_2_d_LV95-20231018.ili</File>
+                <Version>18.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>403a87abab99c11c1ea8579ee7adf09d</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="236" >
+                <Name>VSADSSMINI_2015_CHECK_FP_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSADSSMINI_CHECK_FP_2015_2_d_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Text</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>IGSFunction</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>MINIFunction</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>9ae091e4e3f63f04335fe2045d0b8096</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="237" >
+                <Name>VSADSSMINI_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSADSSMINI_2015_2_d_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>18.11.2019</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>2c2ec96714de4dbc4506b3334a815bf6</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="238" >
+                <Name>VSASDEEMINI_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSASDEEMINI_2015_2_f_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>99ebb7bcdb019f99245ab6aa7ab1c66e</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="239" >
+                <Name>DSS_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSA_DSS_2015_2_d_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>19.07.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>c03e45068e667e34c082605faa455a83</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="240" >
+                <Name>DSS_3D_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSA_DSS_3D_2015_2_d_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>19.07.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>b78db2df07fd686fa9887a8f958ddb46</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="241" >
+                <Name>SDEE_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSA_SDEE_2015_2_f_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>afc99d06cff128a8e1c39c37cca3cfe1</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="242" >
+                <Name>SDEE_2015_3D_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSA_SDEE_3D_2015_2_f_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SDEE_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_3D_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>53146d4cfba59489468d505e24bececa</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="243" >
+                <Name>VSA_STAMMKARTE_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSA_Stammkarte_2015_2_d_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>14.05.2021</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>9054a51aad9090f772d68b1d47db2d22</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="244" >
+                <Name>VSA_FICHE_TECHNIQUE_2015_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/VSA_fiche_technique_2015_2_f_LV95-20231031.ili</File>
+                <Version>31.10.2023</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SDEE_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSA_STAMMKARTE_2015_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>ed56514e2a67f7d918d890c626c77dad</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
         </IliRepository20.RepositoryIndex>
     </DATASECTION>
