@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # time in UTC
-    - cron: '38 4,10,16 * * *'
+    - cron: '38 5,11,17 * * *'
 
 jobs:
   download-indexes:
