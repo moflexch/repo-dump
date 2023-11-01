@@ -61,9 +61,8 @@
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
-    </DatasetIdx16.DataIndex>
 <!-- neu 30.10.2023 MinorChange 2020.1-->
-    <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
         <id>vsa_organisationen_2020_1</id>
         <version>2023-10-30</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
