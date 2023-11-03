@@ -107,6 +107,23 @@
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_VEinh_UR_V2.pdf</furtherInformation>
                 <md5>e21c4fa34a59a55cd7ebee0ba9fefb3e</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="BeWi004">
+                <Name>Bodenverbesserungsgenossenschaften_UR_V1_0</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Bevoelkerung_Wirtschaft/Bodenverbesserungsgenossenschaften_UR_V1_0.ili</File>
+                <Version>2022-06-08</Version>
+                <publishingDate>2023-11-03</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>7-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/Bodenverbesserungsgenossenschaften_UR_V1_0.pdf</furtherInformation>
+                <md5>6db5d1ca473b7087b15fa4b32f066750</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  GRUNDLAGEN UND PLANUNG                           -->
             <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl001">
