@@ -27,13 +27,13 @@
       	    <LocalisedText>
       	      <DatasetIdx16.LocalisedText>
       	        <Language>de</Language>
-      	        <Text>Gewaesserraum: Zusatz OEREB-Legendensymbol</Text>
+      	        <Text>Gewaesserraum: Zusatz OEREB-Legendensymbole</Text>
       	      </DatasetIdx16.LocalisedText>
       	    </LocalisedText>
       	    <LocalisedText>
       	      <DatasetIdx16.LocalisedText>
       	        <Language>fr</Language>
-      	        <Text>Espace reserve aux eaux : Ajout du symbole de legende RDPPF</Text>
+      	        <Text>Espace reserve aux eaux : Ajout des symboles de legende RDPPF</Text>
       	      </DatasetIdx16.LocalisedText>
       	    </LocalisedText>
       	  </DatasetIdx16.MultilingualText>
@@ -43,26 +43,26 @@
       	    <LocalisedText>
       	      <DatasetIdx16.LocalisedMText>
       	        <Language>de</Language>
-      	        <Text>Gewaesserraum: zusaetzliches Legendensymbol fuer den OEREB-Kataster - laufende Aenderungen mit oder ohne Vorwirkung. Im Modell des BAFU werden nur Legendensymbole für rechtskraeftige Objekte definiert.</Text>
+      	        <Text>Gewaesserraum: zusaetzliche Legendensymbole fuer den OEREB-Kataster - Gewaesserraum/Verzichtsflaeche, laufende Aenderungen mit oder ohne Vorwirkung. Im Modell des BAFU werden nur Legendensymbole für rechtskraeftige Objekte definiert.</Text>
       	      </DatasetIdx16.LocalisedMText>
       	    </LocalisedText>
       	    <LocalisedText>
       	      <DatasetIdx16.LocalisedMText>
       	        <Language>fr</Language>
-      	        <Text>Espace reserve aux eaux : symbole de legende supplementaire pour le cadastre RDPPF - modifications en cours avec ou sans preavis. Dans le modèle de l'OFEV, seuls des symboles de légende sont définis pour les objets ayant force de loi.</Text>
+      	        <Text>Espace reserve aux eaux : symbole de legende supplementaire pour le cadastre RDPPF - Espace reserve aux eaux/surface de renoncement, modifications en cours avec ou sans preavis. Dans le modèle de l'OFEV, seuls des symboles de légende sont définis pour les objets ayant force de loi.</Text>
       	      </DatasetIdx16.LocalisedMText>
       	    </LocalisedText>
       	  </DatasetIdx16.MultilingualMText>
       	</shortDescription>
-      	<version>2023-11-03</version>
-      	<owner>mailto:ginfo@kgk-cgc.ch</owner>
+      	<version>2023-11-08</version>
+      	<owner>mailto:info@kgk-cgc.ch</owner>
       	<files>
       		<DatasetIdx16.DataFile>
       			<fileFormat>application/interlis+xml;version=2.3</fileFormat>
       			<file>
       				<DatasetIdx16.File>
       					<path>xml/Gewaesserraum_Codetexte_OEREBZusatz_V1_1.xml</path>
-      					<md5>2c6c81cb04d8d3abc88a7a8648ef1ef7</md5>
+      					<md5>73783d521864366bd798df9f9e6b9042</md5>
       				</DatasetIdx16.File>
       			</file>
       		</DatasetIdx16.DataFile>
@@ -70,7 +70,7 @@
       	<baskets>
       		<DatasetIdx16.DataIndex.BasketMetadata>
       			<id>ch.kgk-cgc.gewaesserraum_codetexte_v1_1</id> <!-- BID of basket in XTF -->
-      			<version>2023-11-03</version>
+      			<version>2023-11-08</version>
       			<model>
       				<DatasetIdx16.ModelLink>
       					<name>Gewaesserraum_LegendeEintrag_OEREBZusatz_V1_1.LegendeEintrag </name>	 <!-- qualified TOPIC name -->
