@@ -2622,7 +2622,7 @@
         <shortDescription>Die Binnenschifffahrt Objekte werden in einer Fachapplikation erfasst und über dieses Datenmodell publiziert</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>E56958B37ECB7202105CC68B4AD03C24</md5>
+        <md5>287D12D0738F66E8BBE4D72B080C3B7A</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
