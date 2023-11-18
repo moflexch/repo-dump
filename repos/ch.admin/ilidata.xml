@@ -10672,7 +10672,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAV/HaltestellenOeV_Katalog_V2_0.xml</path>
+                <path>BAV/replaced/HaltestellenOeV_Katalog_V2_0_20221127.xml</path>
                 <md5>a8b9d2332aea88c4c0e4eb90d6ad328e</md5>
               </DatasetIdx16.File>
             </file>
@@ -10717,7 +10717,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAV/ArretsTP_Catalogue_V2_0.xml</path>
+                <path>BAV/replaced/ArretsTP_Catalogue_V2_0_20221127.xml</path>
                 <md5>b8537bd79a5d25f51b118576ac2a31b1</md5>
               </DatasetIdx16.File>
             </file>
@@ -11309,6 +11309,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="204">
         <id>ch.admin.geo.models.HaltestellenOeV_Katalog_V2_0_20230327</id>
         <version>2023-03-27</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.HaltestellenOeV_Katalog_V2_0_20231115</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>        
         <publishingDate>2023-03-31</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -11335,7 +11340,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAV/HaltestellenOeV_Katalog_V2_0.xml</path>
+                <path>BAV/replaced/HaltestellenOeV_Katalog_V2_0_20230327.xml</path>
                 <md5>5c8ba6e18cc5754b771fd0d9c72b4a2e</md5>
               </DatasetIdx16.File>
             </file>
@@ -11357,6 +11362,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="205">
         <id>ch.admin.geo.models.ArretsTP_Catalogue_V2_0_20230327</id>
         <version>2023-03-27</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.HaltestellenOeV_Katalog_V2_0_20231115</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>        
         <publishingDate>2023-03-31</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -11380,7 +11390,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAV/ArretsTP_Catalogue_V2_0.xml</path>
+                <path>BAV/replaced/ArretsTP_Catalogue_V2_0_20230327.xml</path>
                 <md5>b83247d72d6b5e17288e5f741c2d20b2</md5>
               </DatasetIdx16.File>
             </file>
@@ -12789,7 +12799,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Revitalisierung_Fliessgewaesser_Catalogues_V1_2.xml</path>
+                <path>obsolete/Revitalisierung_Fliessgewaesser_Catalogues_V1_2_o0.xml</path>
                 <md5>aec5f9c738d91a71713e06d1e4633eaf</md5>
               </DatasetIdx16.File>
             </file>
@@ -12860,6 +12870,144 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b02</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="237">
+        <id>ch.admin.geo.models.Revitalisierung_Fliessgewaesser_Catalogues_V1_2_20231017</id>
+        <version>2023-10-17</version>
+        <publishingDate>2023-11-18</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Revitalisierung_Fliessgewaesser_Catalogues_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Revitalisierung_Fliessgewaesser_Catalogues_V1_2.xml</path>
+                <md5>e80f6ac0d7e9010135207038ed909e30</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-10-17</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Revitalisierung_Fliessgewaesser_V1_2.Catalogs</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.revitalisierung_fliessgewaesser_catalogues_V1_2</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="238">
+        <id>ch.admin.geo.models.HaltestellenOeV_Katalog_V2_0_20231115</id>
+        <version>2023-11-15</version>
+        <publishingDate>2023-11-18</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAV HaltestellenOeV_Katalog_V2_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/ArretsTP_V2_0</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+        <furtherInformation>https://www.bav.admin.ch/bav/de/home/themen-a-z/geoinformation/geobasisdaten/haltestellen-des-oeffentlichen-verkehrs.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAV/HaltestellenOeV_Katalog_V2_0.xml</path>
+                <md5>5c8ba6e18cc5754b771fd0d9c72b4a2e</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-11-15</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>HaltestellenOeV_V2_0.Kataloge</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>11c12cb6273f13473c1b71ee14afe319</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="239">
+        <id>ch.admin.geo.models.ArretsTP_Catalogue_V2_0_20231115</id>
+        <version>2023-11-15</version>
+        <publishingDate>2023-11-18</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAV ArretsTP_Catalogue_V2_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+        <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-a-z/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAV/ArretsTP_Catalogue_V2_0.xml</path>
+                <md5>b83247d72d6b5e17288e5f741c2d20b2</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-11-15</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ArretsTP_V2_0.Catalogues</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>a476606fbf044c74e0e08399bf3179a2</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
