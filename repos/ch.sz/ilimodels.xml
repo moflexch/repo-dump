@@ -1354,7 +1354,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1">
         <Name>SZ_Schleppschlauchpflicht_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFL/SZ_Schleppschlauchpflicht_V1.ili</File>
+        <File>AFL/replaced/SZ_Schleppschlauchpflicht_V1_2021-10-04.ili</File>
         <Version>2021-10-04</Version>
         <publishingDate>2021-10-04</publishingDate>
         <Title>Flächen mit Schleppschlauchpflicht</Title>
@@ -1362,6 +1362,19 @@
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>913b7d75e1c7b9f01c1753973ed34fef</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1">
+        <Name>SZ_Schleppschlauchpflicht_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFL/SZ_Schleppschlauchpflicht_V1.ili</File>
+        <Version>2023-11-20</Version>
+        <publishingDate>2023-11-20</publishingDate>
+        <precursorVersion>2021-10-04</precursorVersion>
+        <Title>Flächen mit Schleppschlauchpflicht</Title>
+        <shortDescription>Flächen die von der Pflicht der Ausbringung mit emissionsmindernden Verfahren betroffen sind.</shortDescription>
+        <Issuer>http://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>FF5D89484D7697D4D608685830B551A9</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Umwelt und Energie AFU-->

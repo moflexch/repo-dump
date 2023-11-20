@@ -31576,6 +31576,27 @@
 <!-- =================================================================== -->
 <!-- Swisstopo Swisstopo Swisstopo Swisstopo                      519xxx -->
 
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519001">
+      <Name>OfficialIndexOfLocalities_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/OfficialIndexOfLocalities_V1_0.ili</File>
+      <Version>2024-01-01</Version>
+      <publishingDate>2023-11-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>181.1</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:plz@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/en/geodata/official-geographic-directories/directory-towns-cities.html</furtherInformation>
+      <md5>e502914386a54ee640310dc98117fc5c</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- V_D D_M D_M FDCS                                             520xxx -->
 
