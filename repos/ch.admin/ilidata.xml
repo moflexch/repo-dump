@@ -10619,7 +10619,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BLW/Orchards_Catalogue_V1.xml</path>
+                <path>BLW/replaced/Orchards_Catalogue_V1_20221121.xml</path>
                 <md5>cb145bdce6824f8c4fe855557afa5b43</md5>
               </DatasetIdx16.File>
             </file>
@@ -10876,7 +10876,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BLW/Landwirtschaftliche_Infrastrukturanlagen_Catalogues_V1_0.xml</path>
+                <path>BLW/replaced/Landwirtschaftliche_Infrastrukturanlagen_Catalogues_V1_0_20230207.xml</path>
                 <md5>977da0100f0b84aa245be4f037c3ff72</md5>
               </DatasetIdx16.File>
             </file>
@@ -11850,7 +11850,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BLW/LWB_Nutzungsflaechen_Kataloge_V2_0.xml</path>
+                <path>BLW/replaced/LWB_Nutzungsflaechen_Kataloge_V2_0_20230317.xml</path>
                 <md5>3b75781026a13cb06105bbb9eb10698a</md5>
               </DatasetIdx16.File>
             </file>
@@ -12513,7 +12513,7 @@
           </DatasetIdx16.Code_>
         </categories>
         <technicalContact>mailto:info@sbfi.admin.ch</technicalContact>
-        <furtherInformation>https://www.sbfi.admin.chn</furtherInformation>
+        <furtherInformation>https://www.sbfi.admin.ch</furtherInformation>
         <files>
           <DatasetIdx16.DataFile>
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
@@ -12819,8 +12819,8 @@
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
       <DatasetIdx16.DataIndex.DatasetMetadata TID="236">
-        <id>ch.admin.geo.models.SectoralPlanForSubterraneanFreightTransportInfrastructure_Catalogues_V1_4_20220620</id>
-        <version>2022-06-20</version>
+        <id>ch.admin.geo.models.SectoralPlanForSubterraneanFreightTransportInfrastructure_Catalogues_V1_4_20231010</id>
+        <version>2023-10-10</version>
         <publishingDate>2023-10-18</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -12837,8 +12837,8 @@
             <value>http://codes.interlis.ch/type/referenceData</value>
           </DatasetIdx16.Code_>
         </categories>
-        <technicalContact>mailto:info@sbfi.admin.ch</technicalContact>
-        <furtherInformation>https://www.sbfi.admin.chn</furtherInformation>
+        <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+        <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/raeumliche-abstimmung/sug.html</furtherInformation>
         <files>
           <DatasetIdx16.DataFile>
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
@@ -13008,6 +13008,147 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>a476606fbf044c74e0e08399bf3179a2</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="240">
+        <id>ch.admin.geo.models.Orchards_Catalogue_V1_20231107</id>
+        <version>2023-11-07</version>
+        <precursorVersion>2022-11-21</precursorVersion>
+        <publishingDate>2023-11-21</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BLW Orchards_Catalogue_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/Orchards_V1</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+        <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/minimale-geodatenmodelle.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BLW/Orchards_Catalogue_V1.xml</path>
+                <md5>d95404843f3584887e559e4f478408aa</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-11-07</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>fruitType_Catalogue_V1.Codelists</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.blw.orchards_catalogue_v1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="241">
+        <id>ch.admin.geo.models.LWB_Nutzungsflaechen_Kataloge_V2_0_20231107</id>
+        <version>2023-11-07</version>
+        <precursorVersion>2023-03-17</precursorVersion>
+        <publishingDate>2023-11-21</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BLW LWB_Nutzungsflaechen_Kataloge_V2_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+        <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/landwirtschaftliche-kulturflaechen.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BLW/LWB_Nutzungsflaechen_Kataloge_V2_0.xml</path>
+                <md5>63c79dd5ae4fd28d610acb5db9e8f719</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-11-21</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>LWB_Nutzungsflaechen_V2_0.LNF_Kataloge</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.blw.lwb_nutzungsflaechen_kataloge_v2_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="242">
+        <id>ch.admin.geo.models.Landwirtschaftliche_Infrastrukturanlagen_Catalogues_V1_0_20231107</id>
+        <version>2023-11-07</version>
+        <precursorVersion>2023-02-07</precursorVersion>
+        <publishingDate>2023-11-21</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BLW Landwirtschaftliche_Infrastrukturanlagen_Catalogues_V1_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+        <furtherInformation>https://www.blw.admin.ch/blw/de/home.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BLW/Landwirtschaftliche_Infrastrukturanlagen_Catalogues_V1_0.xml</path>
+                <md5>e86c58840d2bb1899b7886a903fb1d76</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-02-07</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Landwirtschaftliche_Infrastrukturanlagen_V1_0.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.blw.landwirtschaftliche_infrastrukturanlagen_catalogues_v1_0</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
