@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="AG" VERSION="2.3">
+<MODELS>
+<MODEL NAME="IliRepository09" VERSION="2012-02-20" URI="mailto:ce@eisenhutinformatik.ch"/>
+</MODELS>
+</HEADERSECTION>
+<DATASECTION>
+<!-- ===================================================================== -->
+<!-- Modelle der Abteilung Raumentwicklung ARE -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="ARE">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Schnittstellenmodell_ARE_AG_LV95">
+<Name>Schnittstellenmodell_ARE_AG_LV95</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>ARE/DNP_Geobasisdatenmodell.ili</File>
+<Version>2023-08-15</Version>
+<publishingDate>2023-09-08</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+
+<!-- ===================================================================== -->
+<!-- Modelle des Vermessungsamts ARPVA -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="ARPVA">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="DM01AVAG25LV95">
+<Name>DM01AVAG25LV95</Name>
+<SchemaLanguage>ili1</SchemaLanguage>
+<File>ARPVA/DM01AVAG25LV95.ili</File>
+<Version>2011-12-01</Version>
+<publishingDate>2019-08-19</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="MOpublic95_ili1">
+<Name>MOpublic95_ili1</Name>
+<SchemaLanguage>ili1</SchemaLanguage>
+<File>ARPVA/MOpublic95_ili1.ili</File>
+<Version>2013-02-01</Version>
+<publishingDate>2013-02-01</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+</DATASECTION>
+</TRANSFER>
