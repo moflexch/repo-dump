@@ -64,7 +64,7 @@
 <!-- neu 30.10.2023 MinorChange 2020.1-->
       <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
         <id>vsa_organisationen_2020_1</id>
-        <version>2023-10-30</version>
+        <version>2023-11-23</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -98,7 +98,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>organisation/vsa_organisationen_2020_1.xtf</path>
-                <md5>005c34fbcbd3417b38d7d54a3d898394</md5>
+                <md5>26d2282e483a56bdf6d3491166e883c4</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
