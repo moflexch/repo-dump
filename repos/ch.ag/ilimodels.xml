@@ -20,7 +20,52 @@
 <technicalContact>mailto:geoportal@ag.ch</technicalContact>
 </IliRepository09.RepositoryIndex.ModelMetadata>
 </IliRepository09.RepositoryIndex>
-
+<!-- ===================================================================== -->
+<!-- Modelle der Abteilung Umwelt AFU -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="AFU">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Abwasserkataster_AG">
+<Name>Abwasserkataster_AG_V2_LV95</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>AFU/Abwasserkataster_AG_V21_2023-04-21_IL23.ili</File>
+                <Version>2.1.0 vom 21.4.2023</Version>
+                <publishingDate>2023-04-21</publishingDate>
+				<Issuer>https://models.geo.ag.ch</Issuer>
+                <technicalContact>mailto:geoportal@ag.ch</technicalContact>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Genereller_Entwaesserungsplan_AG">
+<Name>Genereller_Entwaesserungsplan_AG</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>AFU/Genereller_Entwaesserungsplan_AG_V20_2023-04-21_IL23.ili</File>
+                <Version>2.0.0 vom 21.04.2023</Version>
+                <publishingDate>2023-04-21</publishingDate>
+				 <Issuer>https://models.geo.ag.ch</Issuer>
+                <technicalContact>mailto:geoportal@ag.ch</technicalContact>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
 <!-- ===================================================================== -->
 <!-- Modelle des Vermessungsamts ARPVA -->
 <!-- ===================================================================== -->
