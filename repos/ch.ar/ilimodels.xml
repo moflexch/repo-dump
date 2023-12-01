@@ -456,8 +456,6 @@
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>944cac4c7bc80f0f867a183a8989f1ed</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-    </IliRepository09.RepositoryIndex>
-    <IliRepository09.RepositoryIndex BID="ARW">
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Waldreservate_V1">
         <Name>AR_Waldreservate_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -487,8 +485,6 @@
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>82e1a5004f74f850d515badf75266084</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-    </IliRepository09.RepositoryIndex>
-    <IliRepository09.RepositoryIndex BID="ARW">
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Wildruhezonen_V1">
         <Name>AR_Wildruhezonen_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
