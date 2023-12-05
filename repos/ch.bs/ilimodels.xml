@@ -498,11 +498,11 @@
                 <md5>e36003ddcce72351d7e8a9b37de89042</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS009008">
-                <Name>SC_Schulstandorte_GGDM_V1_0_LV95</Name>
+                <Name>SC_SchulstandorteBasel_GGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gesellschaft_Kultur/SC_Schulstandorte_GGDM_V1_0_LV95.ili</File>
-                <Version>2022-07-15</Version>
-                <publishingDate>2022-07-26</publishingDate>
+                <File>Gesellschaft_Kultur/SC_SchulstandorteBasel_GGDM_V2_0_LV95.ili</File>
+                <Version>2023-11-09</Version>
+                <publishingDate>2023-12-05</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -510,7 +510,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>fa5cd81694b7defe1c955da7ddbeb9a5</md5>
+                <md5>da8224474bb65bcf40c6d2612b2c6f75</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS009010">
                 <Name>TK_TagesheimeKitas_KGDM_V1_0_LV95</Name>
@@ -1926,11 +1926,11 @@
                 <md5>c054497f876f7b22c06d5d50d31581d5</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025018">
-                <Name>VB_Veloabstellplaetze_KGDM_V1_1_LV95</Name>
+                <Name>VB_Veloabstellplaetze_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/VB_Veloabstellplaetze_KGDM_V1_1_LV95.ili</File>
-                <Version>2022-08-05</Version>
-                <publishingDate>2022-09-13</publishingDate>
+                <File>Verkehr/VB_Veloabstellplaetze_KGDM_V2_0_LV95.ili</File>
+                <Version>2023-11-21</Version>
+                <publishingDate>2023-12-05</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -1938,7 +1938,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>d4644c9feea9481738d1d1ae3e15da2e</md5>
+                <md5>899c687b9ca7694b3b000d2ef4f7ee0b</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025019">
                 <Name>WW_Wanderwege_KGDM_V1_0_LV95</Name>
@@ -2059,6 +2059,51 @@
                 <Issuer>https://www.geo.bs.ch/</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>71e9de3c77e3964168c3a1766c0ff57d</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025027">
+              <Name>SJ_Sharingzonen_KGDM_V1_0_LV95</Name>
+              <SchemaLanguage>ili2_3</SchemaLanguage>
+              <File>Verkehr/SJ_Sharingzonen_KGDM_V1_0_LV95.ili</File>
+              <Version>2023-11-14</Version>
+              <publishingDate>2023-12-05</publishingDate>
+              <dependsOnModel>
+                <IliRepository20.ModelName_>
+                  <value>BS_Basis_KGDM_V1_0_LV95</value>
+                </IliRepository20.ModelName_>
+              </dependsOnModel>
+              <Issuer>https://www.geo.bs.ch</Issuer>
+              <technicalContact>mailto:geo@bs.ch</technicalContact>
+              <md5>06d4a7b5d0b3132403486736cc37b61f</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025028">
+                <Name>VV_Veloverleihstationen_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Verkehr/VV_Veloverleihstationen_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-11-06</Version>
+                <publishingDate>2023-12-05</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>885739bfef0f9192803db6f9a0944842</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025029">
+                <Name>VM_VerbotszonenGeteilteMikromobilitaet_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Verkehr/VM_VerbotszonenGeteilteMikromobilitaet_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-11-14</Version>
+                <publishingDate>2023-12-05</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>699083c69834f7bef7a71f5c01383673</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Wald_Flora_Fauna                  BS026xxx       -->
