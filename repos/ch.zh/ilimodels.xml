@@ -38,7 +38,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_V1_LV95_2017-10-09_IL23">
         <Name>Waldreservate_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ALN/Waldreservate_ZH_V1_LV95_2017-10-09_IL23.ili</File>
+        <File>ALN/replaced/Waldreservate_ZH_V1_LV95_2017-10-09_IL23.ili</File>
         <Version>2017-10-09</Version>
         <publishingDate>2017-10-09</publishingDate>
         <dependsOnModel>
@@ -184,7 +184,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Gewaesserraum_ZH_Master_V4">
         <Name>Gewaesserraum_ZH_V4</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ARE/Gewaesserraum_ZH_Master_V4.ili</File>
+        <File>ARE/replaced/Gewaesserraum_ZH_Master_V4.ili</File>
         <Version>2017-11-14</Version>
         <publishingDate>2017-11-14</publishingDate>
         <dependsOnModel>
@@ -210,12 +210,50 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Gewaesserraum_ZH_Transfer_V4">
         <Name>Gewaesserraum_ZH_V4</Name>
         <SchemaLanguage>ili1</SchemaLanguage>
-        <File>ARE/Gewaesserraum_ZH_Transfer_V4.ili</File>
+        <File>ARE/replaced/Gewaesserraum_ZH_Transfer_V4.ili</File>
         <Version>2017-11-15</Version>
         <publishingDate>2017-11-15</publishingDate>
         <Title>Gewässerraum</Title>
         <shortDescription>Geobasisdatensatz Nr. 190 Gewaesserraum; Transfermodell</shortDescription>
         <Issuer>http://gis.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Gewaesserraum_ZH_Master_V5">
+        <Name>Gewaesserraum_ZH_V4</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/Gewaesserraum_ZH_Master_V5.ili</File>
+        <Version>2023-10-30</Version>
+        <publishingDate>2023-10-30</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CHAdminCodes_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Gewässerraum</Title>
+        <shortDescription>Geobasisdatensatz Nr. 190 Gewaesserraum; Mastermodell</shortDescription>
+        <Issuer>http://www.bd.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Gewaesserraum_ZH_Transfer_V5">
+        <Name>Gewaesserraum_ZH_V5</Name>
+        <SchemaLanguage>ili1</SchemaLanguage>
+        <File>ARE/Gewaesserraum_ZH_Transfer_V5.ili</File>
+        <Version>2023-10-30</Version>
+        <publishingDate>2023-10-30</publishingDate>
+        <Title>Gewässerraum</Title>
+        <shortDescription>Geobasisdatensatz Nr. 190 Gewaesserraum; Transfermodell</shortDescription>
+        <Issuer>http://oereb.zh.ch</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
@@ -278,7 +316,7 @@
             <value>CHAdminCodes_V1</value>
           </IliRepository09.ModelName_>
         </dependsOnModel>
-        <Title>Gewässerraum</Title>
+        <Title>Grundwasser</Title>
         <shortDescription>Geobasisdatensatz Nr. 130  Gewaesserschutzbereiche, Nr. 131 Grundwasserschutzzonen, Nr. 132 Grundwasserschutzareale; Mastermodell</shortDescription>
         <Issuer>http://models.geo.zh.ch</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
@@ -293,6 +331,44 @@
         <Title>Grundwasser</Title>
         <shortDescription>Geobasisdatensatz Nr. 130 Gewaesserschutzbereiche, Nr. 131 Grundwasserschutzzonen, Nr. 132 Grundwasserschutzareale; Transfermodell</shortDescription>
         <Issuer>http://gis.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_Master_V5">
+        <Name>Waldreservate_ZH_V5</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/Waldreservate_ZH_Master_V5.ili</File>
+        <Version>2023-09-11</Version>
+        <publishingDate>2023-09-11</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CHAdminCodes_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Waldreservate</Title>
+        <shortDescription>Geobasisdatensatz Nr. 160-ZH Waldreservate des Kantons; Mastermodell</shortDescription>
+        <Issuer>http://www.bd.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_Transfer_V5">
+        <Name>Waldreservate_ZH_V5</Name>
+        <SchemaLanguage>ili1</SchemaLanguage>
+        <File>ARE/Waldreservate_ZH_Transfer_V5.ili</File>
+        <Version>2023-09-11</Version>
+        <publishingDate>2023-09-11</publishingDate>
+        <Title>Waldreservate</Title>
+        <shortDescription>Geobasisdatensatz Nr. 160-ZH Waldreservate des Kantons; Transfermodell</shortDescription>
+        <Issuer>http://oereb.zh.ch</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
