@@ -29778,7 +29778,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="019129">
       <Name>swissBOUNDARIES3D_ili2_LV95_V1_4</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>Swisstopo/swissBOUNDARIES3D_ili2_LV95_V1_4.ili</File>
+      <File>Swisstopo/replaced/swissBOUNDARIES3D_ili2_LV95_V1_4.ili</File>
       <Version>2023-01-01</Version>
       <publishingDate>2023-01-05</publishingDate>
       <dependsOnModel>
@@ -29810,6 +29810,25 @@
       <furtherInformation>https://www.swisstopo.admin.ch</furtherInformation>
       <md5>f48f5f6fbb20c3ef439b0189599fef17</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="019131">
+      <Name>swissBOUNDARIES3D_ili2_LV95_V1_5</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>Swisstopo/swissBOUNDARIES3D_ili2_LV95_V1_5.ili</File>
+      <Version>2024-01-01</Version>
+      <publishingDate>2023-12-09</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>39.3</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:geodata@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/geodata/landscape/boundaries3d.html</furtherInformation>
+      <md5>64c466d94c0ddd7083173af3b6fc47d6</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
 <!-- =================================================================== -->
 <!-- V_D D_M D_M FDCS                                             020xxx -->
