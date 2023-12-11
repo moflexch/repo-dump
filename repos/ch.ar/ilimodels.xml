@@ -93,7 +93,7 @@
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>c0ba30f75b89c10c22a909fa038a0fae</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-        <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Bohrungen_Sondierungen_V1_1">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Bohrungen_Sondierungen_V1_1">
         <Name>AR_Bohrungen_Sondierungen_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFU/AR_Bohrungen_Sondierungen_V1_1.ili</File>
@@ -132,6 +132,23 @@
         <Issuer>https://models.geo.ar.ch/AFU</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>9d327e2e19ddce2496b1cbea545630e4</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_EignungsgebieteErdwaermesonden_V1">
+        <Name>AR_Schleppschlauchpflicht_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFU/AR_Schleppschlauchpflicht_V1.ili</File>
+        <Version>2023-09-21</Version>
+        <publishingDate>2023-12-11</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Schleppschlauchpflicht</Title>
+        <shortDescription>kantonales Modell zur Umsetzung des Schleppschlauch-Obligatoriums</shortDescription>
+        <Issuer>https://models.geo.ar.ch/AFU</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>a9f80f3c14aaf5abe65c2debd3675e00</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
