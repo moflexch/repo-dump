@@ -220,7 +220,7 @@
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Gewaesserraum_ZH_Master_V5">
-        <Name>Gewaesserraum_ZH_V4</Name>
+        <Name>Gewaesserraum_ZH_V5</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>ARE/Gewaesserraum_ZH_Master_V5.ili</File>
         <Version>2023-10-30</Version>
