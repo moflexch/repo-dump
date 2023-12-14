@@ -1207,16 +1207,30 @@
         TID="SZ_Quarantaeneorganismen_Landwirtschaft_V1">
         <Name>SZ_Quarantaeneorganismen_Landwirtschaft_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFL/SZ_Quarantaeneorganismen_Landwirtschaft_V1.ili</File>
+        <File>AFL/replaced/SZ_Quarantaeneorganismen_Landwirtschaft_V1.ili</File>
         <Version>2022-11-08</Version>
         <publishingDate>2022-11-14</publishingDate>
         <Title>Quarantäneorganismen Landwirtschaft</Title>
-        <shortDescription>Information die zur Eindämmung von Schädlingbefällen in der Landwirtschaft notwendig sind.</shortDescription>
+        <shortDescription>Information, die zur Eindämmung von Schädlingbefällen in der Landwirtschaft notwendig sind.</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <furtherInformation>https://www.sz.ch</furtherInformation>
         <browseOnly>false</browseOnly>
         <md5>ce78d34503de87f48c8d214efc2aff65</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Quarantaeneorganismen_Landwirtschaft_V1_1">
+        <Name>SZ_Quarantaeneorganismen_Landwirtschaft_V1_1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFL/SZ_Quarantaeneorganismen_Landwirtschaft_V1_1.ili</File>
+        <Version>2023-12-14</Version>
+        <publishingDate>2023-12-14</publishingDate>
+        <Title>Quarantäneorganismen Landwirtschaft</Title>
+        <shortDescription>Information, die zur Eindämmung von Schädlingbefällen in der Landwirtschaft notwendig sind</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <furtherInformation>https://www.sz.ch</furtherInformation>
+        <browseOnly>false</browseOnly>
+        <md5>B33246BE50D259C7B3118AD50124B349</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata
         TID="SZ_Strukturverbesserungen_Landwirtschaft_20190320">
