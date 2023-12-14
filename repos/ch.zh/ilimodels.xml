@@ -241,7 +241,7 @@
         </dependsOnModel>
         <Title>Gewässerraum</Title>
         <shortDescription>Geobasisdatensatz Nr. 190 Gewaesserraum; Mastermodell</shortDescription>
-        <Issuer>http://www.bd.zh.ch</Issuer>
+        <Issuer>http://models.geo.zh.ch</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
