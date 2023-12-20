@@ -34,6 +34,19 @@
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <md5>547321d9038ba19a5075df049429ae32</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="PlanerischerGewaesserschutz_NWOW_V1_2_Prod">
+        <Name>PlanerischerGewaesserschutz_NWOW_V1_2_Prod</Name>
+        <SchemaLanguage>ili1</SchemaLanguage>
+        <File>GEWAESSER/PlanerischerGewaesserschutz_V1_2_Prod.ili</File>
+        <Version>2023-12-20</Version>
+        <publishingDate/>
+        <Title/>
+        <shortDescription/>
+        <Issuer>https://models.gis-daten.ch</Issuer>
+        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
+        <md5>fb3191acdfdb1b83eac761b6362f4f6f</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
 	  
    
     </IliRepository09.RepositoryIndex>
