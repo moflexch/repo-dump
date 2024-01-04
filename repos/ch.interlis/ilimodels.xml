@@ -1072,6 +1072,17 @@
         <md5>71f3d2744d650b1d36f3a3aa3a9796eb</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
 
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="70">
+        <Name>MinimalRuntimeSystem01</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>tools/MinimalRuntimeSystem01.ili</File>
+        <Version>2018-06-05</Version>
+        <publishingDate>2024-01-04</publishingDate>
+        <technicalContact>mailto:info@interlis.ch</technicalContact>
+        <furtherInformation>https://www.interlis.ch</furtherInformation>
+        <md5>5050cf73cc8c931dfa388fd207a96a18</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+
     </IliRepository09.RepositoryIndex>
 
     <!-- ====================================================================  -->
