@@ -28,7 +28,7 @@
         <File>LI/LI_Base_V1.ili</File>
         <Version>2018-10-08</Version>
         <Title>LI_Base_V1</Title>
-        <md5>E0FA5977DF64D9CDE5A350408EE62D52</md5>
+        <md5>C5366CACCDDDDF056D69EC7281807989</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="3">
         <Name>LLVFunction</Name>
@@ -43,16 +43,8 @@
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>LI/GeometryLILV95_V1.ili</File>
         <Version>2018-10-08</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
         <Title>GeometryLILV95</Title>
-        <md5>662527585FC93F167CA930CFFD765567</md5>
+        <md5>DE7EF0F228670AD0C87418E4424E0C78</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="5">
         <Name>NutzungsplanungFL10</Name>
@@ -183,7 +175,7 @@
           </IliRepository09.ModelName_>
         </dependsOnModel>
         <Title>PlanerischerGewaesserschutz</Title>
-        <md5>3A231907D1C24695FC54596D51918803</md5>
+        <md5>E971497D1DF2A5A863643D5FFBB5F7ED</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="13">
         <Name>Naturschutzgebiete_LI_V1</Name>
@@ -271,7 +263,7 @@
           </IliRepository09.ModelName_>
         </dependsOnModel>
         <Title>Nutzungsplanung (Version 2)</Title>
-        <md5>4F4EADD31D8DE734B20DD38D929FF19D</md5>
+        <md5>F3ADA8E3BBAECC44534FEAA124DB901B</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="17">
         <Name>Laermempfindlichkeitsstufen_FL2</Name>
@@ -352,7 +344,7 @@
           </IliRepository09.ModelName_>
         </dependsOnModel>
         <Title>Oereb Codelisten V1</Title>
-        <md5>A7272943B274B5F8448EE10BEF322B26</md5>
+        <md5>ECA509A1C8508433BE2BCEF3D165FB85</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="20">
         <Name>Bohrdaten_LI_V1</Name>
