@@ -4,17 +4,27 @@
             <MODEL NAME="IliRepository09" VERSION="2009-11-19" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
         <!-- 
-         TID schema for registered models in this repository:
+        TID schema for registered models in this repository:
 
-           Bevoelkerung_Wirtschaft       BeWixxx
-           Grundlagen_Planung            GrPlxxx
-           Natur_Umwelt                  NaUmxxx
+        ABM                  ABMXXX
+        AFJ                  AFJXXX
+        AfSt                 AfStXXX
+        AFT                  AFTXXX
+        AFU                  AFUXXX
+        AfWoeV               AfWoeVXXX
+        ALA                  ALAXXX
+        ARE                  AREXXX
+        ASSV                 ASSVXXX
+        JD-DS                JD-DSXXX
+        KAPO                 KAPOXXX
+        Lisag                LisagXXX
+
 
         -->
                <!-- 
          Template for repository entry
 
-        	<IliRepository09.RepositoryIndex.ModelMetadata TID="BeWiP001">
+        	<IliRepository09.RepositoryIndex.ModelMetadata TID="ARE001">
         		<Name>dummy</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
         		<File>dir/dummy.ili</File>
@@ -26,7 +36,7 @@
         		  </IliRepository09.ModelName_>
         		</dependsOnModel>
                <Tags>xx-UR</Tags>
-        		<Issuer>https://lisag.ch</Issuer>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
         		<furtherInformation>http://https://webgis.lisag.ch/PDF/Datenmodelle/x.pdf</furtherInformation>
         		<md5>hash</md5>
@@ -36,148 +46,30 @@
     </HEADERSECTION>
     <DATASECTION>
         <IliRepository09.RepositoryIndex BID="URb1">
+
             <!--  ===============================================  -->
-            <!--  BEVOELKERUNG UND WIRTSCHAFT                       -->
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="BeWi001">
-                <Name>DM_Seilbahnen_UR_V1</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Bevoelkerung_Wirtschaft/DM_Seilbahnen_UR_V1.ili</File>
-                <Version>2016-01-07</Version>
-                <publishingDate>2016-01-07</publishingDate>
-                <dependsOnModel>
-                    <IliRepository09.ModelName_>
-                        <value>Units</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>CoordSys</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>GeometryCHLV95_V1</value>
-                    </IliRepository09.ModelName_>
-                </dependsOnModel>
-                <Tags>57-UR</Tags>
-                <Issuer>https://lisag.ch</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Seilbahnen_UR_V1.pdf</furtherInformation>
-                <md5>169c08e31d6ee1ce2ded6d408d50827e</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="BeWi002">
-                <Name>DM_Strassen_UR_V1_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Bevoelkerung_Wirtschaft/DM_Strassen_UR_V1_LV95.ili</File>
-                <Version>2014-09-23</Version>
-                <publishingDate>2014-09-23</publishingDate>
-                <dependsOnModel>
-                    <IliRepository09.ModelName_>
-                        <value>Units</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>CoordSys</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>GeometryCHLV95_V1</value>
-                    </IliRepository09.ModelName_>
-                </dependsOnModel>
-                <Tags>41-UR,43-UR</Tags>
-                <Issuer>https://lisag.ch</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassen_UR_UML.pdf</furtherInformation>
-                <md5>ee937bdb1a961587abace35a7c9878d0</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="BeWi003">
-                <Name>DM_VEinh_UR_V2</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Bevoelkerung_Wirtschaft/DM_VEinh_UR_V2.ili</File>
-                <Version>2022-04-26</Version>
-                <publishingDate>2022-04-26</publishingDate>
-                <dependsOnModel>
-                    <IliRepository09.ModelName_>
-                        <value>Units</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>CoordSys</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>GeometryCHLV95_V1</value>
-                    </IliRepository09.ModelName_>
-                </dependsOnModel>
-                <Tags>2-UR,9-UR,13-UR,26-UR</Tags>
-                <Issuer>https://lisag.ch</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_VEinh_UR_V2.pdf</furtherInformation>
-                <md5>e21c4fa34a59a55cd7ebee0ba9fefb3e</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="BeWi004">
-                <Name>Bodenverbesserungsgenossenschaften_UR_V1_0</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Bevoelkerung_Wirtschaft/Bodenverbesserungsgenossenschaften_UR_V1_0.ili</File>
-                <Version>2022-06-08</Version>
-                <publishingDate>2023-11-03</publishingDate>
-                <dependsOnModel>
-                    <IliRepository09.ModelName_>
-                        <value>GeometryCHLV95_V1</value>
-                    </IliRepository09.ModelName_>
-                </dependsOnModel>
-                <Tags>7-UR</Tags>
-                <Issuer>https://webgis.lisag.ch/models/</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/Bodenverbesserungsgenossenschaften_UR_V1_0.pdf</furtherInformation>
-                <md5>6db5d1ca473b7087b15fa4b32f066750</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
+            <!--  Amt für Bevölkerungsschutz und Militär [ABM]     -->
+
+
             <!--  ===============================================  -->
-            <!--  GRUNDLAGEN UND PLANUNG                           -->
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl001">
-                <Name>Laermempfindlichkeitsstufen_UR_V1_01_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grundlagen_Planung/Laermempfindlichkeitsstufen_UR_V1_01_LV95.ili</File>
-                <Version>2014-06-02</Version>
-                <publishingDate>2014-06-02</publishingDate>
-                <Tags>145,14-UR</Tags>
-                <Issuer>https://lisag.ch</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
-                <md5>1062bcf22e2db9557fe53656ec0b07f9</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl002">
-                <Name>Nutzungsplanung_UR_V1_02_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grundlagen_Planung/Nutzungsplanung_UR_V1_02_LV95.ili</File>
-                <Version>2018-07-01</Version>
-                <publishingDate>2018-07-01</publishingDate>
-                <Tags>73,14-UR</Tags>
-                <Issuer>https://lisag.ch</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
-                <md5>09aa95c85f752cf1df05a2c9e9849224</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl003">
-                <Name>Waldabstandslinien_UR_V1_01_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grundlagen_Planung/Waldabstandslinien_UR_V1_01_LV95.ili</File>
-                <Version>2014-06-02</Version>
-                <publishingDate>2014-06-02</publishingDate>
-                <Tags>159,14-UR</Tags>
-                <Issuer>https://lisag.ch</Issuer>
-                <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
-                <md5>4b14916ee1f87f2e36aada912a1bd627</md5>
-            </IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl004">
+            <!--  Amt für Forst und Jagd [AFJ]                     -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ001">
         		<Name>Waldgrenzen_UR_V1_02_LV95</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>Grundlagen_Planung/replaced/Waldgrenzen_UR_V1_02_LV95.ili</File>
+        		<File>AFJ/replaced/Waldgrenzen_UR_V1_02_LV95.ili</File>
         		<Version>2018-07-01</Version>
         		<publishingDate>2018-07-01</publishingDate>
                 <Tags>173</Tags>
-        		<Issuer>https://lisag.ch</Issuer>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
         		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
-        		<md5>6eb34c08e6f1731e5098aef5ab08a2d6</md5>
+        		<md5>93d43b6e798ca6e16aa1b73ba540e11a</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl005">
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ002">
         		<Name>Waldgrenzen_UR_V1_03_LV95</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>Grundlagen_Planung/Waldgrenzen_UR_V1_03_LV95.ili</File>
+        		<File>AFJ/Waldgrenzen_UR_V1_03_LV95.ili</File>
         		<Version>2022-05-17</Version>
         		<publishingDate>2022-05-18</publishingDate>
         		<dependsOnModel>
@@ -192,39 +84,18 @@
         		  </IliRepository09.ModelName_>
         		</dependsOnModel>
                 <Tags>173</Tags>
-        		<Issuer>https://lisag.ch</Issuer>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
         		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
-        		<md5>559af3ae24d61a94039a0c7c9d2bbf88</md5>
+        		<md5>b4314a1aee2faa83bb936a0119ae5637</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="GrPl006">
-        		<Name>Strassenverkehrssignalisation_UR_V1_0</Name>
-        		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>Grundlagen_Planung/Strassenverkehrssignalisation_UR_V1_0.ili</File>
-        		<Version>2023-04-21</Version>
-        		<publishingDate>2023-04-21</publishingDate>
-        		<dependsOnModel>
-        		  <IliRepository09.ModelName_>
-        		    <value>GeometryCHLV95_V1</value>
-        		  </IliRepository09.ModelName_>
-                  <IliRepository09.ModelName_>
-        		    <value>CatalogueObjects_V1</value>
-        		  </IliRepository09.ModelName_>
-        		</dependsOnModel>
-                <Tags>53-UR</Tags>
-        		<Issuer>https://lisag.ch</Issuer>
-        		<technicalContact>mailto:mail@lisag.ch</technicalContact>
-        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
-        		<md5>9213a6ebf42eb0d5e2a2e8fc26c09779</md5>
-        	</IliRepository09.RepositoryIndex.ModelMetadata>
-            <!--  ===============================================  -->
-            <!--  NATUR UND UMWELT                       -->
-            <IliRepository09.RepositoryIndex.ModelMetadata TID="NaUm001">
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ003">
         		<Name>Jagdbanngebiete_kantonal_UR_V1</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>Natur_Umwelt/Jagdbanngebiete_kantonal_UR_V1.ili</File>
+        		<File>inGenehmigung/Jagdbanngebiete_kantonal_UR_V1.ili</File>
         		<Version>2022-10-03</Version>
-        		<publishingDate>2022-10-03</publishingDate>
+        		<publishingDate>2024-04-01</publishingDate>
         		<dependsOnModel>
         		  <IliRepository09.ModelName_>
         		    <value>GeometryCHLV95_V1</value>
@@ -240,11 +111,493 @@
         		  </IliRepository09.ModelName_>
         		</dependsOnModel>
                 <Tags>168.1,168.2</Tags>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
+        		<technicalContact>mailto:mail@lisag.ch</technicalContact>
+        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Jagdbanngebiete_kantonal_UR_V1.pdf</furtherInformation>
+        		<md5>df88621951bd23ad3ea1bbdc6f160935</md5>
+        	</IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ004">
+                <Name>Waldgrenzen_UR_V2</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Waldgrenzen_UR_V2.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>157</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldgrenzen_UR_V2.pdf</furtherInformation>
+                <md5>8a21fe49b9ebd298acce8fab5683541e</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ005">
+                <Name>Waldreservat_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Waldreservat_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Waldreservate_Codelisten_V1_1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>157</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldreservat_UR_V1.pdf</furtherInformation>
+                <md5>ea9305c770a3c65b39d27823b18f065d</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Steuern [AfSt]                           -->
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Tiefbau [AFT]                            -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFT001">
+                <Name>DM_Strassen_UR_V1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>AFT/DM_Strassen_UR_V1_LV95.ili</File>
+                <Version>2014-09-23</Version>
+                <publishingDate>2014-09-23</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CoordSys</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>41-UR,43-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassen_UR_UML.pdf</furtherInformation>
+                <md5>6599c073d9e7f9ec4e9740336a3b1b14</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFT002">
+        		<Name>Strassenverkehrssignalisation_UR_V1_0</Name>
+        		<SchemaLanguage>ili2_3</SchemaLanguage>
+        		<File>inGenehmigung/Strassenverkehrssignalisation_UR_V1_0.ili</File>
+        		<Version>2023-04-21</Version>
+        		<publishingDate>2024-04-01</publishingDate>
+        		<dependsOnModel>
+        		  <IliRepository09.ModelName_>
+        		    <value>GeometryCHLV95_V1</value>
+        		  </IliRepository09.ModelName_>
+                  <IliRepository09.ModelName_>
+        		    <value>CatalogueObjects_V1</value>
+        		  </IliRepository09.ModelName_>
+        		</dependsOnModel>
+                <Tags>53-UR</Tags>
         		<Issuer>https://lisag.ch</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
-        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/CH168_Jagdbanngebiete_kantonal.pdf</furtherInformation>
-        		<md5>a9a33613212068b0a46e1eca4fb2754f</md5>
+        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
+        		<md5>d15daa13078b38bbf40a8de606d2faa1</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Umwelt [AFU]                             -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU001">
+                <Name>Gewaesserraum_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Gewaesserraum_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>190</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
+                <md5>db00cf8e4b56b344777fd0a3c0b8f63d</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU002">
+                <Name>PlanerischerGewaesserschutz_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/PlanerischerGewaesserschutz_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>130,131,132</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_PlanerischerGewaesserschutz_UR_V1.pdf</furtherInformation>
+                <md5>1df6ae26efff8d0735581410e9c48743</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Wirtschaft und öffentlichen Verkehr  [AfWoeV] -->
+
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Landwirtschaft [ALA]                     -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA001">
+                <Name>DM_Seilbahnen_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ALA/DM_Seilbahnen_UR_V1.ili</File>
+                <Version>2016-01-07</Version>
+                <publishingDate>2016-01-07</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CoordSys</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>57-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Seilbahnen_UR_V1.pdf</furtherInformation>
+                <md5>1bd3bead485ae7b4884c37f70fb18649</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA002">
+                <Name>Bodenverbesserungsgenossenschaften_UR_V1_0</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Bodenverbesserungsgenossenschaften_UR_V1_0.ili</File>
+                <Version>2022-06-08</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>7-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bodenverbesserungsgenossenschaften_UR_V1_0.pdf</furtherInformation>
+                <md5>6db5d1ca473b7087b15fa4b32f066750</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Raumentwicklung [ARE]                    -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE001">
+                <Name>Laermempfindlichkeitsstufen_UR_V1_01_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ARE/Laermempfindlichkeitsstufen_UR_V1_01_LV95.ili</File>
+                <Version>2014-06-02</Version>
+                <publishingDate>2014-06-02</publishingDate>
+                <Tags>145,14-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
+                <md5>aaf6c6e19b3dcd33e197889dc1d6bdd0</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE002">
+                <Name>Nutzungsplanung_UR_V1_02_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ARE/Nutzungsplanung_UR_V1_02_LV95.ili</File>
+                <Version>2018-07-01</Version>
+                <publishingDate>2018-07-01</publishingDate>
+                <Tags>73,14-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
+                <md5>551249a947e8806c3a2a9cded741274c</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE003">
+                <Name>Waldabstandslinien_UR_V1_01_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ARE/Waldabstandslinien_UR_V1_01_LV95.ili</File>
+                <Version>2014-06-02</Version>
+                <publishingDate>2014-06-02</publishingDate>
+                <Tags>159,14-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/T-Geodatmod-NP_Doku_141111.pdf</furtherInformation>
+                <md5>ac441eab5018327185e1ad54cb6c01f0</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE004">
+                <Name>Baulinien_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Baulinien_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>15-UR,61-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Baulinien_UR_V1.pdf</furtherInformation>
+                <md5>c30c2a59ffe9f561ab1a3b14b6a8a186</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE005">
+                <Name>Bausperren_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Bausperren_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>19-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bausperren_UR_V1.pdf</furtherInformation>
+                <md5>840f175b62f5e8e3cdaf1f9db79f4977</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+            
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE006">
+                <Name>Laermempfindlichkeitsstufen_UR_V2</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Laermempfindlichkeitsstufen_UR_V2.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>145</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
+                <md5>200b70cad66e7fdac0a81e151d76d4c3</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE007">
+                <Name>Nutzungsplanung_UR_V2</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Nutzungsplanung_UR_V2.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>73A,73B</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Nutzungsplanung_UR_V2.pdf</furtherInformation>
+                <md5>6a4a121b5f8087741a39e0c166e9b37c</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE008">
+                <Name>Planungszonen_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Planungszonen_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>76A,76B</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Planungszonen_UR_V1.pdf</furtherInformation>
+                <md5>50cf302eb8a710a64010167452ba7282</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE009">
+                <Name>Quartierplaene_Quartiergestaltungsplaene_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Quartierplaene_Quartiergestaltungsplaene_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>76A,76B</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Quartierplaene_Quartiergestaltungsplaene_UR_V1.pdf</furtherInformation>
+                <md5>d30844e0c53fe6ad729d06f9ca5202a9</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE010">
+                <Name>Schutzmassnahmen_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Schutzmassnahmen_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>65-UR,66-UR,67-UR,68-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
+                <md5>fe4c3374880a0e35362710f32efa6838</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE011">
+                <Name>Waldabstandslinien_UR_V2</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Waldabstandslinien_UR_V2.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>65-UR,66-UR,67-UR,68-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldabstandslinien_UR_V2.pdf</furtherInformation>
+                <md5>aba55502b74c07e0168f524cdaefec68</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <!--  ===============================================  -->
+            <!--  Amt für Strassen- und Schiffsverkehr [ASSV]      -->
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Strassen- und Schiffsverkehr [ASSV]      -->
+
+
+            <!--  ===============================================  -->
+            <!--  Amt für Justiz [JD-DS]                           -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="JD-DS001">
+                <Name>DM_VEinh_UR_V2</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>JD-DS/DM_VEinh_UR_V2.ili</File>
+                <Version>2022-04-26</Version>
+                <publishingDate>2022-04-26</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CoordSys</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>2-UR,9-UR,13-UR,26-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_VEinh_UR_V2.pdf</furtherInformation>
+                <md5>2a28e103fe85f9d909cd1c172edea519</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <!--  ===============================================  -->
+            <!--  Kantonspolizei [KAPO]                            -->
+
+
+            <!--  ===============================================  -->
+            <!--  Lisag [Lisag]                                    -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="Lisag001">
+                <Name>OEREB_Basis_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/OEREB_Basis_UR_V1.ili</File>
+                <Version>2023-11-10</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_OEREB_Basis_UR_V1.pdf</furtherInformation>
+                <md5>110b1d9fbcbcb6209e5c32e7ba41b0c5</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+            
+            
         </IliRepository09.RepositoryIndex>
     </DATASECTION>
 </TRANSFER>

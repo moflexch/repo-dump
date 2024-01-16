@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="ilivalidator-1.11.13-c324518be0b3f03e347b86ddba1a7fcf33757446"
-        VERSION="2.3">
+    <HEADERSECTION SENDER="ilivalidator-1.11.13-c324518be0b3f03e347b86ddba1a7fcf33757446" VERSION="2.3">
         <MODELS>
             <MODEL NAME="DatasetIdx16" VERSION="2018-11-21" URI="mailto:ce@eisenhutinformatik.ch"></MODEL>
         </MODELS>
@@ -11,7 +10,7 @@
             <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
                 <id>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</id>
                 <version>2023-08-04</version>
-                <publishingDate>2023-08-04</publishingDate>
+                <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
                     <DatasetIdx16.MultilingualText>
@@ -31,24 +30,26 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>Grundlagen_Planung/Strassenverkehrssignalisation_Verkehrssignale_UR_V1_0.xml</path>
-                                <md5>bee68d73a37f0ec1d7360325203d522a46b6bb8f</md5>
+                                <path>inGenehmigung/Strassenverkehrssignalisation_Verkehrssignale_UR_V1_0.xml</path>
+                                <md5>fdd365d4f904c736400e14dabf2e38e0a63b43be</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
                 </files>
                 <baskets>
                     <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</id>
                         <version>2023-08-04</version>
                         <model>
                             <DatasetIdx16.ModelLink>
-                                <name>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignaln</name>
+                                <name>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</name>
                             </DatasetIdx16.ModelLink>
                         </model>
                         <owner>mailto:mail@lisag.ch</owner>
@@ -56,6 +57,315 @@
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
+                <id>Baulinien_UR_V1.Katalog_Baulinien_UR</id>
+                <version>2023-11-10</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Baulinien</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Baulinien_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Baulinien_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Baulinien_Katalog_UR_V1_20231110.xml</path>
+                                <md5>7119b9846eac18a024f52339d2d9f791a635f73d</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_baulinien</id>
+                        <version>2023-11-10</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Baulinien_UR_V1.Katalog_Baulinien_UR</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_baulinien</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="3">
+                <id>Laermempfindlichkeitsstufen_UR_V2.Katalog_Laermempfindlichkeitsstufen_UR</id>
+                <version>2023-11-10</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Baulinien</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Laermempfindlichkeitsstufen_UR_V2</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Laermempfindlichkeitsstufen_Katalog_UR_V2_20231110.xml</path>
+                                <md5>003fe52efafe8b06404950fa731221b279c433cd</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_laermempfindlichkeitsstufen</id>
+                        <version>2023-11-10</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Laermempfindlichkeitsstufen_UR_V2.Katalog_Laermempfindlichkeitsstufen_UR</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_laermempfindlichkeitsstufen</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="4">
+                <id>Nutzungsplanung_UR_V2.Katalog_NP_UR</id>
+                <version>2023-11-10</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Nutzungsplanung</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Nutzungsplanung_UR_V2</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Nutzungsplanung_UR_V2.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Nutzungsplanung_Katalog_UR_V2_20231011.xml</path>
+                                <md5>d5dc0bf681f067f47225712feb716d32c9bc98e1</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_nutzungsplanung</id>
+                        <version>2023-11-10</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Nutzungsplanung_UR_V2.Katalog_NP_UR</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_nutzungsplanung</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="5">
+                <id>Schutzmassnahmen_UR_V1.Katalog_Zonenkategorien</id>
+                <version>2023-11-10</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Schutzmassnahmen</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Schutzmassnahmen_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Schutzmassnahmen_Katalog_UR_V1_20240115.xml</path>
+                                <md5>518a555bbf1cc2ca43c044343e36abb31bbadd90</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_schutzmassnahmen</id>
+                        <version>2023-11-10</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Schutzmassnahmen_UR_V1.Katalog_Schutzmassnahmen_UR</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_schutzmassnahmen</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="6">
+                <id>Waldabstandslinien_UR_V2.Katalog_Waldabstand_UR</id>
+                <version>2023-11-10</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Waldabstand</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Waldreservate_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldreservate_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Waldabstandslininen_Katalog_UR_V2_20231110.xml</path>
+                                <md5>b31e00b3b65bcaaf6df7e355400a2892c3046f62</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_waldabstand_ur</id>
+                        <version>2023-11-10</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Waldabstandslinien_UR_V2.Katalog_Waldabstand_UR</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_waldabstand_ur</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="7">
+                <id>Waldgrenzen_UR_V2.Katalog_Waldgrenzen_UR</id>
+                <version>2023-11-10</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Waldgrenzen</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Waldgrenzen_UR_V2</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldgrenzen_UR_V2.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Waldgrenzen_Katalog_UR_V2_20231110.xml</path>
+                                <md5>0c0ec4262bbd94d2f6c9f65b61ce26f493e8cbe1</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_waldgrenze_ur</id>
+                        <version>2023-11-10</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Waldgrenzen_UR_V2.Katalog_Waldgrenzen_UR</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_waldgrenze_ur</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+
+
         </DatasetIdx16.DataIndex>
     </DATASECTION>
 </TRANSFER>
