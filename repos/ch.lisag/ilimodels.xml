@@ -214,10 +214,10 @@
         		  </IliRepository09.ModelName_>
         		</dependsOnModel>
                 <Tags>53-UR</Tags>
-        		<Issuer>https://lisag.ch</Issuer>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
         		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
-        		<md5>d15daa13078b38bbf40a8de606d2faa1</md5>
+        		<md5>b6ab7cbcea4bcad8ffa286fec278a118</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
 
 
@@ -265,6 +265,29 @@
                 <md5>1df6ae26efff8d0735581410e9c48743</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU003">
+                <Name>Entsorgungsrouten_Siedlungsabfaelle_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/Entsorgungsrouten_Siedlungsabfaelle_UR_V1.ili</File>
+                <Version>2019-12-19</Version>
+                <publishingDate>2024-04-01</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CoordSys</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>35-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Entsorgungsrouten_Siedlungsabfaelle_UR_V1.pdf</furtherInformation>
+                <md5>c537a464fb6e501ce51ad3952899750a</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <!--  ===============================================  -->
             <!--  Amt für Wirtschaft und öffentlichen Verkehr  [AfWoeV] -->
@@ -554,7 +577,7 @@
                 <Name>DM_VEinh_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>JD-DS/DM_VEinh_UR_V2.ili</File>
-                <Version>2022-04-26</Version>
+                <Version>2015-05-08</Version>
                 <publishingDate>2022-04-26</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -571,7 +594,31 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_VEinh_UR_V2.pdf</furtherInformation>
-                <md5>2a28e103fe85f9d909cd1c172edea519</md5>
+                <md5>23747d85826344e913c35fe836be36e4</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata> 
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="JD-DS002">
+                <Name>VEinh_UR_V2_1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>inGenehmigung/VEinh_UR_V2_1.ili</File>
+                <Version>2022-04-26</Version>
+                <publishingDate>2022-04-26</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CoordSys</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>2-UR,9-UR,13-UR,26-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_VEinh_UR_V2_1.pdf</furtherInformation>
+                <md5>53029a167c758dd44bc56aa883ea065e</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <!--  ===============================================  -->
