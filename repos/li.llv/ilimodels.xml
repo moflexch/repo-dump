@@ -17,305 +17,63 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="1">
         <Name>DM01AVFLLV95V41</Name>
         <SchemaLanguage>ili1</SchemaLanguage>
-        <File>ATG/DM01AVFLLV95V41.ili</File>
+        <File>IL1/DM01AVFLLV95V41.ili</File>
         <Version>DM01AVFLLV95V41</Version>
-        <Title>Datenmodell der Amtlichen Vermessung</Title>
+        <Title>Datenmodell der amtlichen Vermessung (DM01-AV-FL)</Title>
         <md5>F449F88EAA545DBB9DDFA63E4E7B38B6</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="2">
-        <Name>LI_Base_V1</Name>
+        <Name>Archaeologie_LI_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>LI/LI_Base_V1.ili</File>
-        <Version>2018-10-08</Version>
-        <Title>LI_Base_V1</Title>
-        <md5>C5366CACCDDDDF056D69EC7281807989</md5>
+        <File>AKU/Archaeologie_LI_V1.ili</File>
+        <Version>2023-05-11</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell Archaeologie (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>35204820C36A9CAA58053291E1872FDE</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="3">
-        <Name>LLVFunction</Name>
+        <Name>Boden_LI_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/LLVFunction.ili</File>
-        <Version>2014-10-29</Version>
-        <Title>LLVFunction</Title>
-        <md5>1C307AB6AE83393E9CDD8B35047361EF</md5>
+        <File>AU/Boden_LI_V1.ili</File>
+        <Version>2022-12-02</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Base_LV95</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell UDK Boden (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>99E60B3D150E727908E63AC93F929130</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="4">
-        <Name>GeometryLILV95_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>LI/GeometryLILV95_V1.ili</File>
-        <Version>2018-10-08</Version>
-        <Title>GeometryLILV95</Title>
-        <md5>DE7EF0F228670AD0C87418E4424E0C78</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="5">
-        <Name>NutzungsplanungFL10</Name>
-        <SchemaLanguage>ili1</SchemaLanguage>
-        <File>ATG/replaced/NutzungsplanungFL10.ili</File>
-        <Version>NutzungsplanungFL10</Version>
-        <Title>Datenmodell Zonenplan (Interlis1,depreciated)</Title>
-        <md5>EE2F67BFB2A06161ECADAA4E7AD1FF47</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="6">
-        <Name>NutzungsplanungFL10a</Name>
-        <SchemaLanguage>ili1</SchemaLanguage>
-        <File>ATG/NutzungsplanungFL10a.ili</File>
-        <Version>NutzungsplanungFL10a</Version>
-        <Title>Datenmodell Zonenplan (Interlis1)</Title>
-        <md5>899B253F6D24E53F43DCBB2349A58E17</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="7">
-        <Name>Nutzungsplanung_FL1a</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/replaced/Nutzungsplanung_FL1a.ili</File>
-        <Version>2019-10-16</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>CHAdminCodes_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Nutzungsplanung V1 (INTERLIS2,depreciated)</Title>
-        <md5>E07F30BD47B5575C3C07437B1AA4C443</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="8">
-        <Name>Laermempfindlichkeitsstufen_FL1a</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/replaced/Laermempfindlichkeitsstufen_FL1a.ili</File>
-        <Version>2016-12-23</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>CHAdminCodes_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Laermempfindlichkeitsstufen V1 (depreciated)</Title>
-        <md5>4FE9B7207AD2F7F3B59FBB2563E1E8EC</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="9">
-        <Name>Planungsinstrumente_FL1a</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/replaced/Planungsinstrumente_FL1a.ili</File>
-        <Version>2019-10-16</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>CHAdminCodes_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryLILV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Planungsinstrumente V2 (depreciated)</Title>
-        <md5>97E1DD90FD92A9C14989BC600502918F</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="10">
-        <Name>Gefahrenkartierung_FL1</Name>
-        <SchemaLanguage>ili1</SchemaLanguage>
-        <File>ABS/Gefahrenkartierung_FL1.ili</File>
-        <Version>Gefahrenkartierung_FL1</Version>
-        <Title>Gefahrenkartierung (INTERLIS1)</Title>
-        <md5>12F0B59CB119EA749DB6450E0CE4540E</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="11">
-        <Name>AntennaLocation_LIE_LV95_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AU/AntennaLocation_LIE_LV95_V1.ili</File>
-        <Version>2018-04-15</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>AntennaLocation</Title>
-        <md5>01F1D706A4E4716695CD21C2A05D4452</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="12">
-        <Name>PlanerischerGewaesserschutz_LI_V1_2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AU/PlanerischerGewaesserschutz_LI_V1_2.ili</File>
-        <Version>2018-10-29</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryLILV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>PlanerischerGewaesserschutz</Title>
-        <md5>E971497D1DF2A5A863643D5FFBB5F7ED</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="13">
-        <Name>Naturschutzgebiete_LI_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AU/Naturschutzgebiete_LI_V1.ili</File>
-        <Version>2019-07-04</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryLILV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Naturschutzgebiete</Title>
-        <md5>73629ABCB13857D5D11ABB82096B037D</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="14">
-        <Name>Landschaftsschutzgebiete_LI_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AU/Landschaftsschutzgebiete_LI_V1.ili</File>
-        <Version>2019-07-04</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryLILV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Landschaftsschutzgebiete</Title>
-        <md5>B531124E66B427CA58257D1791A2BF4F</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="15">
-        <Name>Waldreservate_LI_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AU/Waldreservate_LI_V1.ili</File>
-        <Version>2019-07-04</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryLILV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Waldreservate und Sonderwaldflaechen</Title>
-        <md5>010B954E94E075AD2E4A3837CAE07068</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="16">
-        <Name>Nutzungsplanung_FL2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/Nutzungsplanung_FL2.ili</File>
-        <Version>2022-08-31</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Nutzungsplanung (Version 2)</Title>
-        <md5>F3ADA8E3BBAECC44534FEAA124DB901B</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="17">
-        <Name>Laermempfindlichkeitsstufen_FL2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/Laermempfindlichkeitsstufen_FL2.ili</File>
-        <Version>2022-08-30</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>CHAdminCodes_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Laermempfindlichkeitsstufen (Version 2)</Title>
-        <md5>698A2CBD2FA2637BFD5C41EA19F2C042</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="18">
-        <Name>Planungsinstrumente_FL2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ATG/Planungsinstrumente_FL2.ili</File>
-        <Version>2022-08-31</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Planungsinstrumente (Version 2)</Title>
-        <md5>819E8E99E283AC4CE6ED2D592554A967</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="19">
         <Name>FL_Codelists_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>LI/FL_Codelists_V1.ili</File>
+        <File>ATG/FL_Codelists_V1.ili</File>
         <Version>2021-11-19</Version>
         <dependsOnModel>
           <IliRepository09.ModelName_>
@@ -343,14 +101,85 @@
             <value>CoordSys</value>
           </IliRepository09.ModelName_>
         </dependsOnModel>
-        <Title>Oereb Codelisten V1</Title>
         <md5>ECA509A1C8508433BE2BCEF3D165FB85</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="20">
-        <Name>Bohrdaten_LI_V1</Name>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="5">
+        <Name>GeometryLILV95_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AU/Bohrdaten_LI_V1.ili</File>
-        <Version>2022-11-07</Version>
+        <File>LI/GeometryLILV95_V1.ili</File>
+        <Version>2018-10-08</Version>
+        <technicalContact>mailto:info@atg.llv.li</technicalContact>
+        <furtherInformation>https://www.abi.llv.li</furtherInformation>
+        <md5>0F7F0ED9537B49DDBB4D18F18AB2C7E6</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="6">
+        <Name>Haltestellen_Buslinien_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ATG/Haltestellen_Buslinien_LI_V1.ili</File>
+        <Version>2022-05-05</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell Haltestellen Buslinien (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>1241CE9475CEEEF2490E619B707DABB6</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="7">
+        <Name>Hazard_Mapping_LV95_V1_3FL</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ABS/Hazard_Mapping_LV95_V1_3FL.ili</File>
+        <Version>2021-03-01</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Gefahrenkartierung mit Erweiterung FL</Title>
+        <technicalContact>mailto:geodaten@llv.li</technicalContact>
+        <furtherInformation>https://www.llv.li/de/landesverwaltung/amt-fuer-bevoelkerungsschutz/wissenswertes/naturgefahren</furtherInformation>
+        <md5>FFEBAE5500158A754F9ED3508D0155C7</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="8">
+        <Name>JagdReviere_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/JagdReviere_LI_V1.ili</File>
+        <Version>2022-04-25</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell UDK JagdReviere (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>62DFB861E1B20C02B34133A54271B330</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="9">
+        <Name>KlimaLuft_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/KlimaLuft_LI_V1.ili</File>
+        <Version>2022-12-02</Version>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>GeometryCHLV95_V1</value>
@@ -365,32 +194,12 @@
             <value>Base_LV95</value>
           </IliRepository09.ModelName_>
         </dependsOnModel>
-        <Title>Bohrdaten V1</Title>
-        <md5>1F858B6A9D1B414578216A35E5594604</md5>
+        <Title>Datenmodell UDK KlimaLuft (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>9A984B86C8593F27FC4B3D42932D6108</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="21">
-        <Name>Archaeologie_LI_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AKU/Archaeologie_LI_V1.ili</File>
-        <Version>2023-05-11</Version>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>Units</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>LI_Base_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-          <IliRepository09.ModelName_>
-            <value>CoordSys</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <Title>Archaeologischer Perimeter</Title>
-        <md5>63A83B6A35CEDECE232D4A4096450C5C</md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="22">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="10">
         <Name>Kulturgueterschutz_LI_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AKU/Kulturgueterschutz_LI_V1.ili</File>
@@ -409,15 +218,327 @@
             <value>CoordSys</value>
           </IliRepository09.ModelName_>
         </dependsOnModel>
-        <Title>Kulturgueterschutz (Denkmalschutz)</Title>
-        <md5>5D6B74EC373620EB6AEC76AEF5601479</md5>
+        <Title>Datenmodell Kulturgueterschutz (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>80CE5C713BD18C17DBD2B749D394C948</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="11">
+        <Name>Laerm_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Laerm_LI_V1.ili</File>
+        <Version>2023-03-28</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Base_LV95</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell UDK Laerm (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>D0E5C19B637F08552FBDB8F9A7A3B7B7</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="12">
+        <Name>Laermempfindlichkeitsstufen_FL2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ATG/Laermempfindlichkeitsstufen_FL2.ili</File>
+        <Version>2022-08-30</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>CHAdminCodes_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell Laermempfindlichkeit (Version 2)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://models.geo.llv.li/ATG/NutzungsplanungFL2V13.pdf</furtherInformation>
+        <md5>484FD549986A132359ED5C1BFC2B0B5D</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="13">
+        <Name>Landschaftsschutzgebiete_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Landschaftsschutzgebiete_LI_V1.ili</File>
+        <Version>2019-07-04</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>8E2BFB9B3CCF69E8C8F06DB3DE0C1574</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="14">
+        <Name>LI_Base_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>LI/LI_Base_V1.ili</File>
+        <Version>2018-10-08</Version>
+        <Title>Basismodelle Liechtenstein</Title>
+        <technicalContact>mailto:info.abi@llv.li</technicalContact>
+        <furtherInformation>https://www.llv.li</furtherInformation>
+        <md5>4D7F1186AAC3800D9B75CBFCDBA2820B</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="15">
+        <Name>Naturschutz_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Naturschutz_LI_V1.ili</File>
+        <Version>2019-06-01</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>9DC27C57D679231D27B2D2F1D5267FCB</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="16">
+        <Name>Naturschutzgebiete_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Naturschutzgebiete_LI_V1.ili</File>
+        <Version>2019-07-04</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>4C7FAC91687ED0034D054CB1BC00A4D4</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="17">
+        <Name>Naturschutzgebiete_LI_V1_2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Naturschutzgebiete_LI_V1_2.ili</File>
+        <Version>2019-07-04</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>82457BC0A1B82852FFCC917C69F8B9FF</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="18">
+        <Name>Nutzungsplanung_FL2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ATG/Nutzungsplanung_FL2.ili</File>
+        <Version>2022-08-31</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell Nutzungsplanung (Version 2)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://models.geo.llv.li/ATG/NutzungsplanungFL2V13.pdf</furtherInformation>
+        <md5>44DE11F96413E3395FCD71AFBE4CFFC9</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="19">
+        <Name>OfficialIndexOfAddresses_V1_FL</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ATG/OfficialIndexOfAddresses_V1_FL.ili</File>
+        <Version>2023-08-03</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LocalisationCH_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>InternationalCodes_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Localisation_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Dictionaries_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>WithLatestModification_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>27343B127B130471037E0AF296D1D8C1</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="20">
+        <Name>OfficialIndexOfStreets_V1_FL</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ATG/OfficialIndexOfStreets_V1_FL.ili</File>
+        <Version>2023-04-08</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LocalisationCH_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>InternationalCodes_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Localisation_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Dictionaries_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>WithLatestModification_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>offizielles Verzeichnis der Strassen</Title>
+        <technicalContact>  mailto:info@atg.llv.li</technicalContact>
+        <furtherInformation>  https://geodaten.llv.li</furtherInformation>
+        <md5>93E73A3E9C44A0DF079BC1A0712D8290</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="21">
+        <Name>Pflanzenschutzgebiete_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Pflanzenschutzgebiete_LI_V1.ili</File>
+        <Version>2019-06-01</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>B820E1DD8B2422770FD5092ACF24BEFD</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="22">
+        <Name>PlanerischerGewaesserschutz_LI_V1_2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/PlanerischerGewaesserschutz_LI_V1_2.ili</File>
+        <Version>2018-10-29</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Planerischer Gewaesserschutz (Version 1.2)</Title>
+        <technicalContact>mailto:info.au@llv.li</technicalContact>
+        <furtherInformation>https://www.llv.li/</furtherInformation>
+        <md5>778DA593FD843E295C863647B37CC84B</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="23">
-        <Name>Hazard_Mapping_LV95_V1_3FL</Name>
+        <Name>Planungsinstrumente_FL2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ABS/Hazard_Mapping_LV95_V1_3FL.ili</File>
-        <Version>2021-03-01</Version>
+        <File>ATG/Planungsinstrumente_FL2.ili</File>
+        <Version>2022-08-31</Version>
         <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell Planungsinstrumente (Version 2)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://models.geo.llv.li/ATG/NutzungsplanungFL2V13.pdf</furtherInformation>
+        <md5>55876FB8BD0B4D68511ADE41A86A57E7</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="24">
+        <Name>Schutzbauten_LV95_V1_FL</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ABS/Schutzbauten_LV95_V1_FL.ili</File>
+        <Version>2021-11-04</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Schutzbauten_LV95_V1</value>
+          </IliRepository09.ModelName_>
           <IliRepository09.ModelName_>
             <value>Units</value>
           </IliRepository09.ModelName_>
@@ -427,9 +548,77 @@
           <IliRepository09.ModelName_>
             <value>CoordSys</value>
           </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV03_V1</value>
+          </IliRepository09.ModelName_>
         </dependsOnModel>
-        <Title>Gefahrenkartierung FL (IL2)</Title>
-        <md5>593D2075A1DAD73BE8BD29A4345A8132</md5>
+        <Title>Datenmodellerweiterung Schutzbauten (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>9A37C5F50ADEC1626A9570C53549F18D</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="25">
+        <Name>Waldreservate_LI_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Waldreservate_LI_V1.ili</File>
+        <Version>2019-07-04</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>010B954E94E075AD2E4A3837CAE07068</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="26">
+        <Name>Waldreservate_LI_V1_2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AU/Waldreservate_LI_V1_2.ili</File>
+        <Version>2022-06-28</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>LI_Base_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <md5>428C601C6A0D4C1910F313AB8956669A</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="27">
+        <Name>WanderwegeFL1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ATG/WanderwegeFL1.ili</File>
+        <Version>2022-19-04</Version>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryLILV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell Wanderwege (Version 1)</Title>
+        <technicalContact>mailto:info.atg@llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
+        <md5>B5ED63329131D10D3C12FC113A70DAB5</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
   </DATASECTION>
