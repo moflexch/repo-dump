@@ -60,7 +60,7 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
                 <id>Baulinien_UR_V1.Katalog_Baulinien_UR</id>
-                <version>2023-11-10</version>
+                <version>2024-01-26</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
@@ -87,8 +87,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Baulinien_Katalog_UR_V1_20231110.xml</path>
-                                <md5>7119b9846eac18a024f52339d2d9f791a635f73d</md5>
+                                <path>inGenehmigung/Baulinien_Katalog_UR_V1_20240126.xml</path>
+                                <md5>xx</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -111,7 +111,7 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="3">
                 <id>Laermempfindlichkeitsstufen_UR_V2.Katalog_Laermempfindlichkeitsstufen_UR</id>
-                <version>2023-11-10</version>
+                <version>2024-01-26</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
@@ -138,8 +138,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Laermempfindlichkeitsstufen_Katalog_UR_V2_20231110.xml</path>
-                                <md5>003fe52efafe8b06404950fa731221b279c433cd</md5>
+                                <path>inGenehmigung/Laermempfindlichkeitsstufen_Katalog_UR_V2_20240126.xml</path>
+                                <md5>xx</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>

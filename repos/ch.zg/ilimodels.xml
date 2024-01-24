@@ -253,8 +253,8 @@
 			<Name>ZG_hydrogeo_wva_V1</Name>
 			<SchemaLanguage>ili2_3</SchemaLanguage>
 			<File>AFU/ZG_hydrogeo_wva_V1.ili</File>
-			<Version>2021-10-29</Version>
-			<publishingDate>2022-10-17</publishingDate>
+			<Version>2023-10-23</Version>
+			<publishingDate>2024-01-24</publishingDate>
 			<dependsOnModel>
 				<IliRepository09.ModelName_>
 					<value>TWVinNotlagen_LV95_V1</value>
@@ -277,7 +277,7 @@
 			<Issuer>http://models.geo.zg.ch</Issuer>
 			<technicalContact>mailto:geoportal.gis@zg.ch</technicalContact>
 			<furtherInformation>https://www.zg.ch/behoerden/baudirektion/amt-fuer-umwelt</furtherInformation>
-			<md5>a47699caafd458edee0f5f06c5e2be18</md5>
+			<md5>a320471ff912c786dcbb43ab9e71377e</md5>
 		</IliRepository09.RepositoryIndex.ModelMetadata>
 		
 		<IliRepository09.RepositoryIndex.ModelMetadata TID="ZG002009">

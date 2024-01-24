@@ -5271,7 +5271,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1_20210202.xml</path>
+                <path>BFE/replaced/ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1_20210202.xml</path>
                 <md5>46f708e7485a3eafd6b711bbbfc23b24</md5>
               </DatasetIdx16.File>
             </file>
@@ -12899,7 +12899,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Revitalisierung_Fliessgewaesser_Catalogues_V1_2.xml</path>
+                <path>obsolete/Revitalisierung_Fliessgewaesser_Catalogues_V1_2_o1.xml</path>
                 <md5>e80f6ac0d7e9010135207038ed909e30</md5>
               </DatasetIdx16.File>
             </file>
@@ -13149,6 +13149,147 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.blw.landwirtschaftliche_infrastrukturanlagen_catalogues_v1_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="243">
+        <id>ch.admin.geo.models.Revitalisierung_Fliessgewaesser_Catalogues_V1_2_20240111</id>
+        <version>2024-01-11</version>
+        <publishingDate>2024-01-24</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Revitalisierung_Fliessgewaesser_Catalogues_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Revitalisierung_Fliessgewaesser_Catalogues_V1_2.xml</path>
+                <md5>d5bbb71cca1dd974b70b0b3afe94923d</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-01-11</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Revitalisierung_Fliessgewaesser_V1_2.Catalogs</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.revitalisierung_fliessgewaesser_catalogues_V1_2</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="244">
+        <id>ch.admin.geo.models.Hydrologische_Messnetze_Catalogues_V1_1_20231219</id>
+        <version>2023-12-19</version>
+        <publishingDate>2024-01-24</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Hydrologische_Messnetze_Catalogues_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Hydrologische_Messnetze_Catalogues_V1_1.xml</path>
+                <md5>2a236358c55344ced9efe55a85d1d5b6</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-12-19</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Hydrologische_Messnetze_V1_1.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.Hydrologische_Messnetze_Catalogues_V1_1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="245">
+        <id>ch.admin.geo.models.ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1_20240115</id>
+        <version>2024-01-15</version>
+        <precursorVersion>2021-02-02</precursorVersion>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1_20210202</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
+        <publishingDate>2024-01-24</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1.xml</path>
+                <md5>4347098086002b44ad4f725cdcd37510</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-01-15</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ImpulseConsultingRenewableHeating_V1_1.ConsultantCategoryCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>

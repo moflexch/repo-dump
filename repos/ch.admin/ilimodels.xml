@@ -14532,7 +14532,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004406">
       <Name>Hydrologische_Messnetze_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Hydrologische_Messnetze_V1.ili</File>
+      <File>BAFU/replaced/Hydrologische_Messnetze_V1.ili</File>
       <Version>2020-04-29</Version>
       <publishingDate>2020-04-29</publishingDate>
       <dependsOnModel>
@@ -18001,6 +18001,39 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>c996b4b7212c94c2cd4f8a81fc4f8274</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004546">
+      <Name>Hydrologische_Messnetze_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Hydrologische_Messnetze_V1_1.ili</File>
+      <Version>2023-12-19</Version>
+      <publishingDate>2024-01-24</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CodeISO</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>133.4,135.2,135.3</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>66a4c81e20db74216bbd11f4ad7a56ce</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -23872,6 +23905,31 @@
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>db0dc4eb37d242aed2f51f68c59623de</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>    
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010070">
+      <Name>SolarAndWindEnergyProjects_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/SolarAndWindEnergyProjects_V1.ili</File>
+      <Version>2023-11-10</Version>
+      <publishingDate>2024-01-24</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>229.1,230.1</Tags>      
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>5875f68f4ae5c50bd01b5b27a101aaee</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>    
+
 
 <!-- =================================================================== -->
 <!-- BFS OFS UST FSO                                              011xxx -->

@@ -227,7 +227,7 @@
                 <Name>Gewaesserraum_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>inGenehmigung/Gewaesserraum_UR_V1.ili</File>
-                <Version>2023-11-10</Version>
+                <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -241,14 +241,14 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
-                <md5>db00cf8e4b56b344777fd0a3c0b8f63d</md5>
+                <md5>1014ce73667271687ea22c8083add9ca</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU002">
                 <Name>PlanerischerGewaesserschutz_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>inGenehmigung/PlanerischerGewaesserschutz_UR_V1.ili</File>
-                <Version>2023-11-10</Version>
+                <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -262,7 +262,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_PlanerischerGewaesserschutz_UR_V1.pdf</furtherInformation>
-                <md5>1df6ae26efff8d0735581410e9c48743</md5>
+                <md5>29083d956e99c6fba5c550874a42b666</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU003">
@@ -384,7 +384,7 @@
                 <Name>Baulinien_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>inGenehmigung/Baulinien_UR_V1.ili</File>
-                <Version>2023-11-10</Version>
+                <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -401,14 +401,14 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Baulinien_UR_V1.pdf</furtherInformation>
-                <md5>c30c2a59ffe9f561ab1a3b14b6a8a186</md5>
+                <md5>384bbb76e7b6658fd430abf663091731</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE005">
                 <Name>Bausperren_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>inGenehmigung/Bausperren_UR_V1.ili</File>
-                <Version>2023-11-10</Version>
+                <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -422,14 +422,14 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bausperren_UR_V1.pdf</furtherInformation>
-                <md5>840f175b62f5e8e3cdaf1f9db79f4977</md5>
+                <md5>ef9078f87c80659f17d5dc76e6838fbe</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
             
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE006">
                 <Name>Laermempfindlichkeitsstufen_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>inGenehmigung/Laermempfindlichkeitsstufen_UR_V2.ili</File>
-                <Version>2023-11-10</Version>
+                <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -446,7 +446,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
-                <md5>200b70cad66e7fdac0a81e151d76d4c3</md5>
+                <md5>c0504c99e292ab2aaab241a0a10920a6</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE007">
@@ -631,7 +631,7 @@
                 <Name>OEREB_Basis_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>inGenehmigung/OEREB_Basis_UR_V1.ili</File>
-                <Version>2023-11-10</Version>
+                <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -641,7 +641,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_OEREB_Basis_UR_V1.pdf</furtherInformation>
-                <md5>110b1d9fbcbcb6209e5c32e7ba41b0c5</md5>
+                <md5>78e29796efda3c4bcf158f051f467cb2</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
             
             
