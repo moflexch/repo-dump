@@ -200,9 +200,9 @@
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFT002">
-        		<Name>Strassenverkehrssignalisation_UR_V1_0</Name>
+        		<Name>Strassenverkehrssignalisation_UR_V1</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>inGenehmigung/Strassenverkehrssignalisation_UR_V1_0.ili</File>
+        		<File>inGenehmigung/Strassenverkehrssignalisation_UR_V1.ili</File>
         		<Version>2023-04-21</Version>
         		<publishingDate>2024-04-01</publishingDate>
         		<dependsOnModel>
@@ -217,7 +217,7 @@
         		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
         		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
-        		<md5>b6ab7cbcea4bcad8ffa286fec278a118</md5>
+        		<md5>584d88bf32212f273349acd8faad0dec</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
 
 
@@ -321,9 +321,9 @@
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA002">
-                <Name>Bodenverbesserungsgenossenschaften_UR_V1_0</Name>
+                <Name>Bodenverbesserungsgenossenschaften_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Bodenverbesserungsgenossenschaften_UR_V1_0.ili</File>
+                <File>inGenehmigung/Bodenverbesserungsgenossenschaften_UR_V1.ili</File>
                 <Version>2022-06-08</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -334,8 +334,8 @@
                 <Tags>7-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bodenverbesserungsgenossenschaften_UR_V1_0.pdf</furtherInformation>
-                <md5>6db5d1ca473b7087b15fa4b32f066750</md5>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bodenverbesserungsgenossenschaften_UR_V1.pdf</furtherInformation>
+                <md5>60b2003e6e4eff51f430f11cf29269dc</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
 

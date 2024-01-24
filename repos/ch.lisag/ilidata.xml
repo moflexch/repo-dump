@@ -8,7 +8,7 @@
     <DATASECTION>
         <DatasetIdx16.DataIndex BID="b1">
             <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
-                <id>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</id>
+                <id>Strassenverkehrssignalisation_UR_V1.Katalog_Verkehrssignal</id>
                 <version>2023-08-04</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
@@ -26,7 +26,7 @@
                         <value>http://codes.interlis.ch/type/referenceData</value>
                     </DatasetIdx16.Code_>
                     <DatasetIdx16.Code_>
-                        <value>http://codes.interlis.ch/model/Strassenverkehrssignalisation_UR_V1_0</value>
+                        <value>http://codes.interlis.ch/model/Strassenverkehrssignalisation_UR_V1</value>
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
@@ -36,8 +36,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Strassenverkehrssignalisation_Verkehrssignale_UR_V1_0.xml</path>
-                                <md5>fdd365d4f904c736400e14dabf2e38e0a63b43be</md5>
+                                <path>inGenehmigung/Strassenverkehrssignalisation_Verkehrssignale_UR_V1.xml</path>
+                                <md5>439d7b8b4950b2fa498d20a58f79dc4d2d450365</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -45,15 +45,15 @@
                 <baskets>
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
-                        <id>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</id>
+                        <id>Strassenverkehrssignalisation_UR_V1.Katalog_Verkehrssignal</id>
                         <version>2023-08-04</version>
                         <model>
                             <DatasetIdx16.ModelLink>
-                                <name>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</name>
+                                <name>Strassenverkehrssignalisation_UR_V1.Katalog_Verkehrssignal</name>
                             </DatasetIdx16.ModelLink>
                         </model>
                         <owner>mailto:mail@lisag.ch</owner>
-                        <localId>Strassenverkehrssignalisation_UR_V1_0.Katalog_Verkehrssignal</localId>
+                        <localId>Strassenverkehrssignalisation_UR_V1.Katalog_Verkehrssignal</localId>
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>
