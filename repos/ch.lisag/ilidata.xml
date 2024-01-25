@@ -162,7 +162,7 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="4">
                 <id>Nutzungsplanung_UR_V2.Katalog_NP_UR</id>
-                <version>2023-11-10</version>
+                <version>2024-01-26</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
@@ -189,8 +189,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Nutzungsplanung_Katalog_UR_V2_20231011.xml</path>
-                                <md5>d5dc0bf681f067f47225712feb716d32c9bc98e1</md5>
+                                <path>inGenehmigung/Nutzungsplanung_Katalog_UR_V2_20240126.xml</path>
+                                <md5>xx</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -199,7 +199,7 @@
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
                         <id>ch.ur.katalog_nutzungsplanung</id>
-                        <version>2023-11-10</version>
+                        <version>2024-01-26</version>
                         <model>
                             <DatasetIdx16.ModelLink>
                                 <name>Nutzungsplanung_UR_V2.Katalog_NP_UR</name>
@@ -213,7 +213,7 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="5">
                 <id>Schutzmassnahmen_UR_V1.Katalog_Zonenkategorien</id>
-                <version>2023-11-10</version>
+                <version>2024-01-26</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
@@ -240,8 +240,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Schutzmassnahmen_Katalog_UR_V1_20240115.xml</path>
-                                <md5>518a555bbf1cc2ca43c044343e36abb31bbadd90</md5>
+                                <path>inGenehmigung/Schutzmassnahmen_Katalog_UR_V1_20240126.xml</path>
+                                <md5>xx</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -250,7 +250,7 @@
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
                         <id>ch.ur.katalog_schutzmassnahmen</id>
-                        <version>2023-11-10</version>
+                        <version>2024-01-26</version>
                         <model>
                             <DatasetIdx16.ModelLink>
                                 <name>Schutzmassnahmen_UR_V1.Katalog_Schutzmassnahmen_UR</name>
@@ -264,7 +264,7 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="6">
                 <id>Waldabstandslinien_UR_V2.Katalog_Waldabstand_UR</id>
-                <version>2023-11-10</version>
+                <version>2024-01-26</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
@@ -291,8 +291,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Waldabstandslininen_Katalog_UR_V2_20231110.xml</path>
-                                <md5>b31e00b3b65bcaaf6df7e355400a2892c3046f62</md5>
+                                <path>inGenehmigung/Waldabstandslininen_Katalog_UR_V2_20240126.xml</path>
+                                <md5>xx</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -301,7 +301,7 @@
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
                         <id>ch.ur.katalog_waldabstand_ur</id>
-                        <version>2023-11-10</version>
+                        <version>2024-01-26</version>
                         <model>
                             <DatasetIdx16.ModelLink>
                                 <name>Waldabstandslinien_UR_V2.Katalog_Waldabstand_UR</name>
@@ -315,7 +315,7 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="7">
                 <id>Waldgrenzen_UR_V2.Katalog_Waldgrenzen_UR</id>
-                <version>2023-11-10</version>
+                <version>2024-01-26</version>
                 <publishingDate>2024-04-01</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
@@ -342,8 +342,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Waldgrenzen_Katalog_UR_V2_20231110.xml</path>
-                                <md5>0c0ec4262bbd94d2f6c9f65b61ce26f493e8cbe1</md5>
+                                <path>inGenehmigung/Waldgrenzen_Katalog_UR_V2_20240126.xml</path>
+                                <md5>xx</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -352,7 +352,7 @@
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
                         <id>ch.ur.katalog_waldgrenze_ur</id>
-                        <version>2023-11-10</version>
+                        <version>2024-01-26</version>
                         <model>
                             <DatasetIdx16.ModelLink>
                                 <name>Waldgrenzen_UR_V2.Katalog_Waldgrenzen_UR</name>
