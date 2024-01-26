@@ -13293,6 +13293,96 @@
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="246">
+        <id>ch.admin.geo.models.SolarAndWindEnergyProjects_EnergySourceCatalogue_V1_20231110</id>
+        <version>2023-11-10</version>
+        <publishingDate>2024-01-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE SolarAndWindEnergyProjects_EnergySourceCatalogue_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/SolarAndWindEnergyProjects_EnergySourceCatalogue_V1.xml</path>
+                <md5>a54c5b23974e18350d2b6466d9f25544</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-11-10</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>SolarAndWindEnergyProjects_V1.EnergySourceCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="247">
+        <id>ch.admin.geo.models.SolarAndWindEnergyProjects_StatusCatalogue_V1_20231110</id>
+        <version>2023-11-10</version>
+        <publishingDate>2024-01-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE SolarAndWindEnergyProjects_StatusCatalogue_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/SolarAndWindEnergyProjects_StatusCatalogue_V1.xml</path>
+                <md5>fdaa4546ca8ec8e55db6b4fce85ff100</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-01-15</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>SolarAndWindEnergyProjects_V1.StatusCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
 
     </DatasetIdx16.DataIndex>
   </DATASECTION>
