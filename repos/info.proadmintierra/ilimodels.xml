@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="mkilimodelsxml-1.20.0-20170824" VERSION="2.3"><MODELS><MODEL NAME="IliRepository09" VERSION="2009-12-01" URI="mailto:ce@eisenhutinformatik.ch"></MODEL></MODELS></HEADERSECTION>
+<DATASECTION>
+<IliRepository09.RepositoryIndex BID="b1">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="0"><Name>IliVErrors</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/tools/IliVErrors.ili</File><Version>2016-06-10</Version><publishingDate>2019-10-18</publishingDate><Issuer>mailto:ceis@localhost</Issuer><md5>487f79c5bdf9ba9d5db9602ce303435b</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="1"><Name>LADM_COL</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/ISO/LADM_COL.ili</File><Version>2017-11-15</Version><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_></dependsOnModel><Title>ISO 19152 LADM country profile COL Core Model.</Title><shortDescription>-----------------------------------------------------------
+
+LADM es un modelo conceptual de la realidad que concreta una ontología y establece una semántica para la administración del territorio.
+
+-----------------------------------------------------------</shortDescription><Issuer>mailto:user@localhost</Issuer><md5>f6de3b6f4dc77e370e8837d23214c25a</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="2"><Name>Ordenamiento_Territorial_V0_0_7</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Ordenamiento_Territorial/Ordenamiento_Territorial.ili</File><Version>2018-01-24</Version><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_></dependsOnModel><Issuer>mailto:ASUS@localhost</Issuer><md5>6408abd517d023f6a0c1d17683dab354</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="3"><Name>Diagnostico_Juridico_V1_0</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Diagnostico_Juridico_V1_0.ili</File><Version>V1.0</Version><VersionComment> 2017-11-08 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_0</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL</value></IliRepository09.ModelName_></dependsOnModel><Title>Diagnostico juridico.</Title><shortDescription>!! 07.11.2017/fm: Version inicial del modelo de Diagnóstico jurídico
+!! 08.11.2017: FM/ Ajuste de las variables del Predio_Juridico conforme al anexo 'Informe de la realidad física y jurídica del barrido predial'</shortDescription><Issuer>mailto:user@localhost</Issuer><md5>ebbf33370657e57797479c8eaa1e2a07</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="4"><Name>LADM_COL_RESERVAS_LEY2DA</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Reservas_Ley_Segunda/LADM_COL_RESERVAS_LEY2DA_V0_0_1.ili</File><Version>2018-01-18</Version><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_></dependsOnModel><Issuer>mailto:ASUS@localhost</Issuer><md5>31af8f179a3659dbbfa464de49407253</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="5"><Name>Avaluos_COL_ES_V2_0</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/legacy/Avaluos_COL_ES_V2_0.ili</File><Version>V2.1.1</Version><VersionComment> 2017-06-02 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Catastro_COL_ES_V2_1_6</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_></dependsOnModel><Title>Perfil Nacional colombiano de la ISO 19152 LADM COL generado con INTERLIS 2 - Extension de Avaluos.</Title><shortDescription>-----------------------------------------------------------
+Inicia como V21 por provenir de la extraccion a partir del TOPIC "Avaluos" del modelo de Catastro-Registro V21
+-----------------------------------------------------------
+Perfil Nacional colombiano de la ISO 19152 LADM COL generado con INTERLIS 2
+Extension de Avaluos
+
+-----------------------------------------------------------
+Revisiones historicas
+2017.06.02 vbp: Extraido el modelo a parir del TOPIC del mismo nombre en el modelo de Catastro y Registro
+2017.06.29 vbp: Añadidos dominios procedentes de Catastro-Registro
+2017.06.29 vbp: Extraidos dominios de valores de atributos de las clases --&gt; integridad estructural, facilidad de lectura, unicidad de criterio en todos los modelos.
+-----------------------------------------------------------
+
+02.06.2017/vb: Generacion del modelo extraido a partir de version anterior del modelo de Catastro, donde aparecia como TOPIC
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>f76fdb4c2aab4457d01a9468ccd093bc</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="6"><Name>Topologia_CR_Nucleo_V2_2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Util/Topologia_CR_Nucleo_V2_2_1.ili</File><Version>V2_2_1</Version><VersionComment> 2018-05-15 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>INTERLIS_TOPOLOGY</value></IliRepository09.ModelName_></dependsOnModel><Issuer>mailto:user@localhost</Issuer><md5>f54b89ed8e7391cbb9b8d40512b3bef0</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="7"><Name>Cartografia_Referencia_V2_2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Cartografia_Referencia_V2_2_1.ili</File><Version>V2.2.1</Version><VersionComment> 2018-04-19 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_1</value></IliRepository09.ModelName_></dependsOnModel><Title>Cartografia de referencia.</Title><shortDescription>02.08.2018: FM/ Actualizacion de dependencia a la version 2.2.1 del nucleo y LADM 1.1
+19.04.2018: FM-GC/ Cambio de geometrias de GM_Surface2D a GM_MultiSurface2D</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>a268795316343be8a5ffbfd7669c576a</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="8"><Name>ISO19107_V1_MAGNABOG</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/ISO/ISO19107_V1_MAGNABOG.ili</File><Version>2016-03-07</Version><publishingDate>2019-10-18</publishingDate><Issuer>http://www.swisslm.ch/models</Issuer><md5>631743bd16357fe27363cc70877b9171</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="9"><Name>LADM_COL_V1_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/ISO/LADM_COL_V1_1.ili</File><Version>V1.1.0</Version><VersionComment> 2018-04-19 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_></dependsOnModel><Title>ISO 19152 LADM country profile COL Core Model.</Title><shortDescription>-----------------------------------------------------------
+
+LADM es un modelo conceptual de la realidad que concreta una ontología y establece una semántica para la administración del territorio.
+
+-----------------------------------------------------------
+revision history
+-----------------------------------------------------------
+
+30.01.2018/fm : Cambio del tipo de dato del atributo Ext_Direccion de la clase Unidad Espacial a ExtDireccion; atributo ext_PID de la calse LA_Interesado cambia de OID a ExtInteresado; Cambio de cardinalidad en relacion miembros entre LA_Interesado y LA_Agrupacion_Interesados de 0..1 a 0..*
+07.02.2018/fm-gc: Ajuste al tipo de dato de la unidad Peso, pasa a tener precision 1 para evitar ser tratado cmo atributo entero y aumentar su tamaño
+19.02.2018/fm-gc: ampliación del dominio al tipo de dato Peso
+26.02.2018/fm-lj: cambio del nombre del dominio ISO19125_Type a ISO19125_Tipo
+19.04.2018/vb fm: Ajuste al constraint Fraccion, denominador mayor a 0
+19.04.2018/vb fm: Cambio en la cardinalidad del atributo u_Local_Id de la clase LA_BAUnit de 0..1 a 1
+17.07.2018/fm : se incluye escritura en dominio COL_FuenteAdministrativaTipo
+10.08.2018/fm : Se eliminan los atributos ai_local_id y ai_espacio_de_nombres de la clase LA_Agrupacion_Interesados
+27.08.2018/fm : Ajuste a la cardinalidad de asociacion puntoFuente de 1..* a 0..*
+25.09.2018/at: Se ajusta la longitud del atributo Codigo_Registral_Transaccion en la clase COL_FuenteAdministrativa a 5 caracteres de acuerdo a la Resolución 3973 de 2018
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>301f80ee2a0168fe63240377a24e001f</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="10"><Name>Catastro_COL_ES_V2_1_6</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/legacy/Catastro_COL_ES_V2_1_6.ili</File><Version>V2.1.6</Version><VersionComment> 2017-07-12 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_></dependsOnModel><Title>ISO 19152 LADM country profile COL modeled with INTERLIS 2.</Title><shortDescription>-----------------------------------------------------------
+revision history
+-----------------------------------------------------------
+
+10.05.2016/mg: EJEMPLO INTERLIS POR OFERTAS
+16.06.2016/mg: Taller IGAC/SNR
+23.08.2016/mg: Relaciones
+15.09.2016/mg: Comentarios Modelo
+20.11.2016/aa: Topic Ficha
+25.11.2016/aa: Ajustes FichaPredio
+02.12.2016/ss: Nuevas clases, atributos y tipos
+15.12.2016/lj: Ajuste tipos (IGAC/SNR), BAUnit GM_surface
+31.03.2017/fm: Simplificación de herencia
+25.05.2017/fm: Se elimina la relacion HipotecaDerecho, se elimina la clase InteresadoBAUnit, se elimina marca abstract en las clases derivadas de RRR
+26.05.2017/fm: Se cambian las clases terreno servidumbre de paso y construccion al paquete de unidades espaciales. Se acorta el nombre del Modelo. ajuste al diseño del diagrama de clases. Se elimina InteresadoNacion
+09.06.2017/vm: Referido al modelo LADM traducido al español
+09.06.2017/vm: cambio de version a 2.1.1, incluye cambios por LADM en español y de  nombres de atributo por no seguir las convenciones adoptadas.
+15.06.2017/fm: cambio de version a 2.1.2, se quita el atributo geometría de la clase predio. se reemplaza el atributo OID por los atributos atributos namespace y localId. Se añaden atributos folio matriz y segregados al predio. se elimina el dominio transaccion_registral_tipo
+20.06.2017/fm: Ajuste a nombres de las clases y atributos LA_
+04.07.2017/sr: Ajuste de nombres de clases y atributos, creacion de relaciones, ajuste subdominios
+04.07.2017/fm: Se unifican los modelos LADM_ES y Catastro_COL, se eliminan las clases que extienden de responsabilidad, restriccion, derecho, hipoteca, fuente_administrativa y fuente espacial. eliminan atributos opcionales no usados de la clase hipoteca
+11.07.2017/fm: se adiciona el atributo area_creada
+12.07.2017/fm: se adiciona el atributo Estado_Nupre en la clase predio
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>bcb234abe7f79190a05ddc5a946f44e2</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="11"><Name>Ficha_Predial_V2_2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Ficha_Predial_V2_2_1.ili</File><Version>V2.2.1</Version><VersionComment> 2018-02-01 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Avaluos_V2_2_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_1</value></IliRepository09.ModelName_></dependsOnModel><Title>Ficha Predial.</Title><shortDescription>01.02.2018/ : Cambio en cardinalidad en asociacion predioFicha_predio de 1 a 0..1
+08.08.2018/ : (AT) Cambio en el nombre del atributo Actividad_Economica por Destinacion_Economica; Cambio en el nombre del dominio COL_UsoTipo por COL_DestinacionEconomicaTipo; Cambio en cardinalidad de atributos en clase Predio_Ficha
+10.08.2018/ fm : cambio en el rol de interesado natural y jurídico ahora se asocia a Col_Interesado
+21.08.2018/ : (AT) Se agrega el dominio COL_FormalidadTipo para los valores del atributo Formalidad en clase Predio_Ficha
+17.09.2018/ fm: cambio en el orden de los roles de la asociación PredioFicha_Predio para evitar la creación de la tabla de paso en el modelo físico cuando hay dependencia de topics
+17.09.2018/ (AT): Cambio en los nombres de los dominios COL_PredioTipoPublicoTipo y COL_PredioTipo para evitar redundancias</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>9550e584605c0c1099af8dc93ba2b1a9</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="12"><Name>INTERLIS_TOPOLOGY</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/tools/INTERLIS_TOPOLOGY.ili</File><Version>2017-09-19</Version><VersionComment> 2018-01-01 </VersionComment><publishingDate>2019-10-18</publishingDate><Issuer>mailto:agenciadeimplementacion@incige.com</Issuer><md5>cfe855652c76dcc169f2e0a0e378727d</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="13"><Name>Avaluos_V2_2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Avaluos_V2_2_1.ili</File><Version>V2.2.1</Version><VersionComment> 2018-02-01 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_1</value></IliRepository09.ModelName_></dependsOnModel><Title>Perfil Nacional colombiano de la ISO 19152 LADM COL generado con INTERLIS 2 - Extension de Avaluos.</Title><shortDescription>-----------------------------------------------------------
+Revisiones historicas
+2017.06.02 vbp: Extraido el modelo a parir del TOPIC del mismo nombre en el modelo de Catastro y Registro
+2017.06.29 vbp: Añadidos dominios procedentes de Catastro-Registro
+2017.06.29 vbp: Extraidos dominios de valores de atributos de las clases --&gt; integridad estructural, facilidad de lectura, unicidad de criterio en todos los modelos.
+-----------------------------------------------------------
+
+02.06.2017/vb: Generacion del modelo extraido a partir de version anterior del modelo de Catastro, donde aparecia como TOPIC
+09.11.2017/ : cambio de nombre al dominio COL_DestinoEconomicoTipo
+01.02.2018/ : Cambio en cardinalidad en asociacion avaluoPredio de 1 a 0..1
+05.02.2018/ : Cambio en cardinalidad en asociaciones avaluoConstruccion y AvaluoUnidadConstruccion de 1 a 0..1
+07.03.2018/fm-gc : Cambio en tipo de geometria de las clases Zona_Homogenea_Fisica y Zona_Homogenea_Geoeconomica de GM_Surface2D a GM_MultiSurface2D
+08.03.2018/fm-gc: se ajusta la cardinalidad de atributo Comun_Uso_Exclusivo en la clase Predio
+09.07.2018/ : Cambio en cardinalidad en asociaciones avaluoConstruccion y AvaluoUnidadConstruccion de 1 a 0..1
+08.08.2018/ : (AT) Se agrega la clase abstracta Calificacion_Unidad_Construccion con clases especializadas Calificacion_No_Convencional y Calificacion_Convencional; Cambio en la cardinalidad de relación entre Unidad_Construccion y Calificacion_Unidad_Construccion pasa de 1 - 1..* a 1 - 1; Cambio en los valores del dominio COL_AccesoTipo; Se agrega el atributo numérico Nivel_de_Acceso en clase Unidad_Construccion; Cambio en el nombre del atributo Actividad_Econo por Uso; Se agrega el dominio COL_UsoConstruccionTipo para que tengan correspondencia con dominios SNC; Cambio en tipo de dato Material de manera que se quita el dominio y se deja abierto para el operador; Cambio en los valores del dominio COL_DestinoEconomicoTipo; Se elimina el atributo numero_total_pisos de clase Unidad_Construccion; Se cambia la cardinalidad de los atributos de Unidad_Construccion y Predio; Cambio de nombre en los atributos Conservacion_Cubierta y Puntos_Cubierta_Conservacion de la clase Calificacion_Convencional por Conservacion_Estructura y Puntos_Estructura_Conservacion; Ajuste de valores de los dominio COL_TipoCalificarTipo, COL_ArmazonTipo, COL_MurosTipo, COL_CubiertaTipo, COL_CubrimientoMurosTipo, COL_CalidadEnchapeTipo; Se agregan los dominios COL_ConservacionCalificacion y COL_AnexoTipo; Se adiciona el atributo Num_Sotanos en la clase Predio_Matriz_PH
+21.08.2018/ : (AT) Se modifica el atributo Cercania_Hitos de la clase Predio dejandolo de tipo String
+23.08.2018/ : (AT) Se cambia el nombre de la relación y de los roles entre unidad_construccion y calificacion_unidad_construccion
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>170b6fc30b788f23f8b7b9cb0815f79a</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="14"><Name>Catastro_Registro_Nucleo_V2_2_0</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Catastro_Registro_Nucleo_V2_2_0.ili</File><Version>V2.2.0</Version><VersionComment> 2017-14-14 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL</value></IliRepository09.ModelName_></dependsOnModel><Title>ISO 19152 LADM country profile COL modeled with INTERLIS 2.</Title><shortDescription>-----------------------------------------------------------
+revision history
+-----------------------------------------------------------
+
+10.05.2016/mg: EJEMPLO INTERLIS POR OFERTAS
+16.06.2016/mg: Taller IGAC/SNR
+23.08.2016/mg: Relaciones
+15.09.2016/mg: Comentarios Modelo
+20.11.2016/aa: Topic Ficha
+25.11.2016/aa: Ajustes FichaPredio
+02.12.2016/ss: Nuevas clases, atributos y tipos
+15.12.2016/lj: Ajuste tipos (IGAC/SNR), BAUnit GM_surface
+31.03.2017/fm: Simplificación de herencia
+25.05.2017/fm: Se elimina la relacion HipotecaDerecho, se elimina la clase InteresadoBAUnit, se elimina marca abstract en las clases derivadas de RRR
+26.05.2017/fm: Se cambian las clases terreno servidumbre de paso y construccion al paquete de unidades espaciales. Se acorta el nombre del Modelo. ajuste al diseño del diagrama de clases. Se elimina InteresadoNacion
+09.06.2017/vm: Referido al modelo LADM traducido al español
+09.06.2017/vm: cambio de version a 2.1.1, incluye cambios por LADM en español y de  nombres de atributo por no seguir las convenciones adoptadas.
+15.06.2017/fm: cambio de version a 2.1.2, se quita el atributo geometría de la clase predio. se reemplaza el atributo OID por los atributos atributos namespace y localId. Se añaden atributos folio matriz y segregados al predio. se elimina el dominio transaccion_registral_tipo
+20.06.2017/fm: Ajuste a nombres de las clases y atributos LA_
+04.07.2017/sr: Ajuste de nombres de clases y atributos, creacion de relaciones, ajuste subdominios
+04.07.2017/fm: Se unifican los modelos LADM_ES y Catastro_COL, se eliminan las clases que extienden de responsabilidad, restriccion, derecho, hipoteca, fuente_administrativa y fuente espacial. eliminan atributos opcionales no usados de la clase hipoteca
+11.07.2017/fm: se adiciona el atributo poligono_creado
+12.07.2017/fm: se adiciona el atributo Estado_Nupre en la clase predio
+17.07.2017/fm: poligono creado debe ser obligatorio para la clase terreno.
+28.09.2017/fm : Cambio del nombre en la clase alerta por publicidad, Publicidad Extiende de objeto versionado, se elimita atributo fecha de vigencia. Ajuste al atributo plantacion comercial de la clase terreno. Se extraen los atributos de la clase predio e interesados a los modelos extendidos de ficha y registro. version 2.2.0
+20.10.2017/ag : Ajustes a atributos de la clase terreno, cambio a dominio multivalorado, se crean dominios, col_servidumbre, col_afectacion, col_explotacion, col_territorioAgricula, col_cuerpoAgua, se elimina la obligatoriedad del rol responsable en las relaciones responsableFuente y topografoFuente
+28.10.2017/gc : Soporte de geometrías multi-parte para LA_UnidadEspacial (y las clases que la extienden) y Terreno.
+02.11.2017/ : Cambio del nombre del modelo de Catastro_COL_ES a Catastro_Registro_Nucleo
+07.11.2017/fm: Cambio de nombre a la clase CadenaCarasLindero a CadenaCarasLimite
+14.11.2017/fm : taducción del dominio COL_BuildingUnitTipo
+14.12.2017/fm : definicion de extends entre topics catastro registro nucleo y Ladm_nucleo
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>01d909114ade7b0e12b1bc3cbbd0e8e9</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="15"><Name>Parques_Nacionales_Naturales_V0_0_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Sistema_Parques_Nacionales_Naturales/Parques_Nacionales_Naturales_V0_0_1.ili</File><Version>2018-01-18</Version><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_></dependsOnModel><Issuer>mailto:ASUS@localhost</Issuer><md5>27875782231d75febde523c8f4edefcb</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="16"><Name>Avaluos_V2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Avaluos_V2_1.ili</File><Version>V2.1.1</Version><VersionComment> 2017-06-02 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_0</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL</value></IliRepository09.ModelName_></dependsOnModel><Title>Perfil Nacional colombiano de la ISO 19152 LADM COL generado con INTERLIS 2 - Extension de Avaluos.</Title><shortDescription>-----------------------------------------------------------
+Revisiones historicas
+2017.06.02 vbp: Extraido el modelo a parir del TOPIC del mismo nombre en el modelo de Catastro y Registro
+2017.06.29 vbp: Añadidos dominios procedentes de Catastro-Registro
+2017.06.29 vbp: Extraidos dominios de valores de atributos de las clases --&gt; integridad estructural, facilidad de lectura, unicidad de criterio en todos los modelos.
+-----------------------------------------------------------
+
+02.06.2017/vb: Generacion del modelo extraido a partir de version anterior del modelo de Catastro, donde aparecia como TOPIC
+09.11.2017/ : cambio de nombre al dominio COL_DestinoEconomicoTipo
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>0d0e6596ae84baf2a0692355eb423d4a</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="17"><Name>Diagnostico_Juridico_V2_2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Diagnostico_Juridico_V2_2_1.ili</File><Version>V2.2.1</Version><VersionComment> 2018-02-08 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_1</value></IliRepository09.ModelName_></dependsOnModel><Title>Diagnostico Juridico.</Title><shortDescription>07.11.2017/fm: Version inicial del modelo de Diagnóstico jurídico
+08.11.2017: FM/ Ajuste de las variables del Predio_Juridico conforme al anexo 'Informe de la realidad física y jurídica del barrido predial'
+02.08.2018: FM/ Actualizacion de dependencia a la version 2.2.1 del nucleo y LADM 1.1</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>5690b7874347da2356ea79f645d835d4</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="18"><Name>Ficha_COL_ES_V2_0</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/legacy/Ficha_COL_ES_V2_0.ili</File><Version>V2.1.1</Version><VersionComment> 2017-06-02 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Catastro_COL_ES_V2_1_6</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Avaluos_COL_ES_V2_0</value></IliRepository09.ModelName_></dependsOnModel><Title>Perfil Nacional colombiano de la ISO 19152 LADM COL generado con INTERLIS 2 - Extension de Ficha predial.</Title><shortDescription>-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>84df07cf89d88d96eaaf62009c8084d0</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="19"><Name>Catastro_Registro_Nucleo_V2_2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Catastro_Registro_Nucleo_V2_2_1.ili</File><Version>V2.2.1</Version><VersionComment> 2018-02-19 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_></dependsOnModel><Title>ISO 19152 LADM country profile COL modeled with INTERLIS 2.</Title><shortDescription>-----------------------------------------------------------
+revision history
+-----------------------------------------------------------
+
+10.05.2016/mg: EJEMPLO INTERLIS POR OFERTAS
+16.06.2016/mg: Taller IGAC/SNR
+23.08.2016/mg: Relaciones
+15.09.2016/mg: Comentarios Modelo
+20.11.2016/aa: Topic Ficha
+25.11.2016/aa: Ajustes FichaPredio
+02.12.2016/ss: Nuevas clases, atributos y tipos
+15.12.2016/lj: Ajuste tipos (IGAC/SNR), BAUnit GM_surface
+31.03.2017/fm: Simplificación de herencia
+25.05.2017/fm: Se elimina la relacion HipotecaDerecho, se elimina la clase InteresadoBAUnit, se elimina marca abstract en las clases derivadas de RRR
+26.05.2017/fm: Se cambian las clases terreno servidumbre de paso y construccion al paquete de unidades espaciales. Se acorta el nombre del Modelo. ajuste al diseño del diagrama de clases. Se elimina InteresadoNacion
+09.06.2017/vm: Referido al modelo LADM traducido al español
+09.06.2017/vm: cambio de version a 2.1.1, incluye cambios por LADM en español y de  nombres de atributo por no seguir las convenciones adoptadas.
+15.06.2017/fm: cambio de version a 2.1.2, se quita el atributo geometría de la clase predio. se reemplaza el atributo OID por los atributos atributos namespace y localId. Se añaden atributos folio matriz y segregados al predio. se elimina el dominio transaccion_registral_tipo
+20.06.2017/fm: Ajuste a nombres de las clases y atributos LA_
+04.07.2017/sr: Ajuste de nombres de clases y atributos, creacion de relaciones, ajuste subdominios
+04.07.2017/fm: Se unifican los modelos LADM_ES y Catastro_COL, se eliminan las clases que extienden de responsabilidad, restriccion, derecho, hipoteca, fuente_administrativa y fuente espacial. eliminan atributos opcionales no usados de la clase hipoteca
+11.07.2017/fm: se adiciona el atributo poligono_creado
+12.07.2017/fm: se adiciona el atributo Estado_Nupre en la clase predio
+17.07.2017/fm: poligono creado debe ser obligatorio para la clase terreno.
+28.09.2017/fm : Cambio del nombre en la clase alerta por publicidad, Publicidad Extiende de objeto versionado, se elimita atributo fecha de vigencia. Ajuste al atributo plantacion comercial de la clase terreno. Se extraen los atributos de la clase predio e interesados a los modelos extendidos de ficha y registro. version 2.2.0
+20.10.2017/ag : Ajustes a atributos de la clase terreno, cambio a dominio multivalorado, se crean dominios, col_servidumbre, col_afectacion, col_explotacion, col_territorioAgricula, col_cuerpoAgua, se elimina la obligatoriedad del rol responsable en las relaciones responsableFuente y topografoFuente
+28.10.2017/gc : Soporte de geometrías multi-parte para LA_UnidadEspacial (y las clases que la extienden) y Terreno.
+02.11.2017/ : Cambio del nombre del modelo de Catastro_COL_ES a Catastro_Registro_Nucleo
+07.11.2017/fm: Cambio de nombre a la clase CadenaCarasLindero a CadenaCarasLimite
+14.11.2017/fm : taducción del dominio COL_BuildingUnitTipo
+14.12.2017/fm : definicion de extends entre topics catastro registro nucleo y Ladm_nucleo
+30.01.2018/fm : Cambio del tipo de dato del atributo Ext_Direccion de la clase Unidad Espacial a ExtDireccion; atributo ext_PID de la calse LA_Interesado cambia de OID a ExtInteresado; Cambio de cardinalidad en relacion miembros entre LA_Interesado y LA_Agrupacion_Interesados de 0..1 a 0..*
+19.02.2018/fm : Cambio en longitud de atributo DocumentoIdentidad de 10 a 12 posiciones
+17.07.2018/fm : cambio en cardinalidad asociación ConstruccionUnidadConstruccion de 1..* a 0..*; ampliación del tamaño para campo de nombre en Interesado Natural; se incluyen los valores nuip, cedula militar, registro civil, cedula militar, secuencial SRN y secuencial IGAC al dominio COL_InteresadoDocumentoTipo
+30.07.2018/fm : Cambio obligatoriedad atributo area_registral de clase terreno de 1 a 0..1
+31.07.2018/fm: Creación de la clase COL_Interesado integrando los atributos de interesado natural e interesado jurídico; se agrega area en la clase construcción; se adiciona valor Carta_Venta al dominio COL_FuenteAdministrativaTipo; inclusion de atributo nombre en la clase COL_FuenteAdministrativa
+10.08.2018/fm: Eliminado clase Interesado Natural e Interesado Juridico
+28.08.2018/fm: Ajuste a cardinalidad en la composición predio_copropiedad, se elimina el requerido.
+28.08.2018/fm-at: Se incluye el tipo de predio conforme a la resolucion 070 de 2011; Se elimina el atributo tipo_construccion de la clase Unidad_Construcción ya que el dominio hace referencia a tipos de predios y no a tipos de construcciones
+10.09.2018/fm-at: Ajuste a los tipos de Predio conforme a la resolucion 070
+21.09.2018/at: Se agrega el valor "Hipoteca" al dominio COL_RestriccionTipo, se ajusta la longitud del atributo Codigo_Registral en las clases especializadas de LA_RRR de 3 a 4 caracteres
+25.09.2018/at: Se ajusta la longitud del atributo Codigo_Registral en las clases especializadas de LA_RRR a 5 caracteres de acuerdo a la Resolución 3973 de 2018
+18.10.2018/at: Se agregan los atributos p_Espacio_De_Nombres y p_Local_Id a la clase Publicidad
+29.10.2018/fm: se amplia el tamaño de campo FMI en la clase predio para almacenar cadenas como 'LIBRO 2 TOMO 1/961 FOLIO 37/46 PARTIDA N 58'
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>d35d93d99bea5ba22f4cfc76ede298c7</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="20"><Name>Ficha_Predial_V2_2</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Ficha_Predial_V2_2.ili</File><Version>V2.1.1</Version><VersionComment> 2017-06-02 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Avaluos_V2_1</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_0</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL</value></IliRepository09.ModelName_></dependsOnModel><Issuer>http://www.proadmintierra.info/</Issuer><md5>d7fd6a9d699fa591ddc36bd4dff7058c</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="21"><Name>Amenaza_Riesgo_V0_0</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Condicion_Amenaza_Riesgo/Amenaza_Riesgo_V0_0.ili</File><Version>2018-01-24</Version><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL_V1_1</value></IliRepository09.ModelName_></dependsOnModel><Title>Aproximación conceptual a un modelo de Amenaza y Riesgo usando LADM_COL.</Title><shortDescription>No es un modelo oficial, ni ha sido trabajado en conjunto con entidades encargadas del tema en Colombia.</shortDescription><Issuer>mailto:agenciadeimplementacion@incige.com</Issuer><md5>604083636a4282536e383d64a8182900</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="22"><Name>Cartografia_Referencia_V2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/Cartografia_Referencia_V2_1.ili</File><Version>V2.1</Version><VersionComment> 2017-06-02 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>Catastro_Registro_Nucleo_V2_2_0</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>LADM_COL</value></IliRepository09.ModelName_></dependsOnModel><Issuer>http://www.proadmintierra.info/</Issuer><md5>f9e6aff30046507d6bb940b0fce23cda</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="23"><Name>LimitesPolAdmin_COL_ES_V2_1</Name><SchemaLanguage>ili2_3</SchemaLanguage><File>LADM_COL/Catastro_Multiproposito/legacy/LimitesPolAdmin_COL_ES_V2_1.ili</File><Version>V2.1</Version><VersionComment> 2017-06-02 </VersionComment><publishingDate>2019-10-18</publishingDate><dependsOnModel><IliRepository09.ModelName_><value>Catastro_COL_ES_V2_1_6</value></IliRepository09.ModelName_><IliRepository09.ModelName_><value>ISO19107_V1_MAGNABOG</value></IliRepository09.ModelName_></dependsOnModel><Title>Perfil Nacional colombiano de la ISO 19152 LADM COL generado con INTERLIS 2 - Extension de Limites politico administrativos.</Title><shortDescription>-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+(c) IGAC y SNR con apoyo de la Cooperacion Suiza
+
+-----------------------------------------------------------</shortDescription><Issuer>http://www.proadmintierra.info/</Issuer><md5>00060a577ed9d14e67f5ff5d348f3051</md5></IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+</DATASECTION>
+</TRANSFER>
