@@ -234,6 +234,9 @@
                         <value>OEREB_Basis_UR_V1</value>
                     </IliRepository09.ModelName_>
                     <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
                         <value>GeometryCHLV95_V1</value>
                     </IliRepository09.ModelName_>
                 </dependsOnModel>
@@ -241,7 +244,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
-                <md5>1014ce73667271687ea22c8083add9ca</md5>
+                <md5>e752bd6e2361d3fc7b06e3dc1f31404f</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU002">

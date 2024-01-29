@@ -364,6 +364,57 @@
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>
 
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="8">
+                <id>Gewaesserraum_UR_V1.Katalog_Gewaesserraum_UR</id>
+                <version>2024-01-26</version>
+                <publishingDate>2024-04-01</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Gewässerraum</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Gewaesserraum_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>inGenehmigung/Gewaesserraum_Katalog_UR_V1_20240126.xml</path>
+                                <md5>xx</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_gewaesserraum_ur</id>
+                        <version>2024-01-26</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Gewaesserraum_UR_V1.Katalog_Gewaesserraum_UR </name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_gewaesserraum_ur</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
 
 
         </DatasetIdx16.DataIndex>
