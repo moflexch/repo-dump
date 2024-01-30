@@ -8496,7 +8496,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004157">
       <Name>GEP_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/GEP_V1.ili</File>
+      <File>BAFU/replaced/GEP_V1.ili</File>
       <Version>2016-11-22</Version>
       <publishingDate>2017-01-17</publishingDate>
       <dependsOnModel>
@@ -8523,7 +8523,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004158">
       <Name>GEP_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/GEP_V1.ili</File>
+      <File>BAFU/replaced/GEP_V1.ili</File>
       <Version>2016-11-22</Version>
       <publishingDate>2017-01-17</publishingDate>
       <dependsOnModel>
@@ -18034,6 +18034,34 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>66a4c81e20db74216bbd11f4ad7a56ce</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004547">
+      <Name>GEP_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/GEP_V1.ili</File>
+      <Version>2023-08-22</Version>
+      <publishingDate>2024-01-30</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2016-11-22</precursorVersion>     
+      <Tags>129.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>7e0879df49e88d3a3506375de05c52d2</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->

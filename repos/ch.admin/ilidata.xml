@@ -7459,7 +7459,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/GEP_Codetexte_V1_20210816.xml</path>
+                <path>BAFU/replaced/GEP_Codetexte_V1_20210816.xml</path>
                 <md5>ef2ece62e3bf99b78d7ed8791cd20c23</md5>
               </DatasetIdx16.File>
             </file>
@@ -13380,6 +13380,52 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="248">
+        <id>ch.admin.geo.models.GEP_Codetexte_V1_20230816</id>
+        <version>2023-08-22</version>
+        <precursorVersion>2021-08-16</precursorVersion>
+        <publishingDate>2024-01-30</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU GEP_Codetexte_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/GEP_Codetexte_V1.xml</path>
+                <md5>0847b484b219212bb0ca3a9c1dec9ba4</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-08-22</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>GEP_LV95_V1.CAT</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.gep_codetexte_v1</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
