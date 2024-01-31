@@ -292,6 +292,29 @@
                 <md5>c537a464fb6e501ce51ad3952899750a</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU004">
+                <Name>DM_Tank_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>AFU/DM_Tank_UR_V1.ili</File>
+                <Version>2014-09-24</Version>
+                <publishingDate>2024-01-31</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CoordSys</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV03_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>35-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Tank_UR_V1.pdf</furtherInformation>
+                <md5>666fe92daec2cd4dafe245494adf0d50</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Amt für Wirtschaft und öffentlichen Verkehr  [AfWoeV] -->
 
