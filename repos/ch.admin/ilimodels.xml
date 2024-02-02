@@ -27873,7 +27873,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="019015">
       <Name>PLZOCH1LV95D</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>Swisstopo/PLZO-CH_LV95_1d_ili1.ili</File>
+      <File>Swisstopo/replaced/PLZO-CH_LV95_1d_ili1.ili</File>
       <Version>2012-08-27</Version>
       <publishingDate>2012-11-01</publishingDate>
       <Tags>181.1</Tags>
@@ -27886,7 +27886,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="019016">
       <Name>NPALCH1MN95F</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>Swisstopo/PLZO-CH_LV95_1f_ili1.ili</File>
+      <File>Swisstopo/replaced/PLZO-CH_LV95_1f_ili1.ili</File>
       <Version>2012-08-27</Version>
       <publishingDate>2012-11-01</publishingDate>
       <Tags>181.1</Tags>
@@ -27899,7 +27899,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="019017">
       <Name>CAPLCH1MN95I</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>Swisstopo/PLZO-CH_LV95_1i_ili1.ili</File>
+      <File>Swisstopo/replaced/PLZO-CH_LV95_1i_ili1.ili</File>
       <Version>2012-08-27</Version>
       <publishingDate>2012-11-01</publishingDate>
       <Tags>181.1</Tags>
@@ -29961,7 +29961,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020004">
       <Name>DM01AVCH24LV95D</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/DM.01-AV-CH_LV95_24d_ili1.ili</File>
+      <File>V_D/replaced/DM.01-AV-CH_LV95_24d_ili1.ili</File>
       <Version>2004-06-04</Version>
       <publishingDate>2008-03-06</publishingDate>
       <Tags>51.1,52.1,53.1,54.1,55.1,56.1,57.1,58.1,59.1,60.1,61.1,62.1,63.1,64.1</Tags>
@@ -30542,7 +30542,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020040">
       <Name>MD01MOCH24MN95F</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/DM.01-AV-CH_LV95_24f_ili1.ili</File>
+      <File>V_D/replaced/DM.01-AV-CH_LV95_24f_ili1.ili</File>
       <Version>2018-02-14</Version>
       <publishingDate>2018-02-14</publishingDate>
       <precursorVersion>2004-06-04</precursorVersion>
@@ -30674,7 +30674,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020047">
       <Name>MD01MOCH24MN95F_ili2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>V_D/DM.01-AV-CH_LV95_24f_ili2.ili</File>
+      <File>V_D/replaced/DM.01-AV-CH_LV95_24f_ili2.ili</File>
       <Version>2018-02-16</Version>
       <publishingDate>2018-02-16</publishingDate>
       <dependsOnModel>
@@ -30812,7 +30812,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020054">
       <Name>MD01MUCH24MN95I</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/DM.01-AV-CH_LV95_24i_ili1.ili</File>
+      <File>V_D/replaced/DM.01-AV-CH_LV95_24i_ili1.ili</File>
       <Version>2020-01-14</Version>
       <publishingDate>2020-01-14</publishingDate>
       <precursorVersion>2019-05-07</precursorVersion>
@@ -30860,7 +30860,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020057">
       <Name>DM01AVCH24LV95D_ili2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>V_D/DM.01-AV-CH_LV95_24d_ili2.ili</File>
+      <File>V_D/replaced/DM.01-AV-CH_LV95_24d_ili2.ili</File>
       <Version>2020-04-28</Version>
       <publishingDate>2020-04-28</publishingDate>
       <dependsOnModel>
@@ -30989,7 +30989,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020063">
       <Name>MD01MUCH24MN95I_ili2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>V_D/DM.01-AV-CH_LV95_24i_ili2.ili</File>
+      <File>V_D/replaced/DM.01-AV-CH_LV95_24i_ili2.ili</File>
       <Version>2020-12-28</Version>
       <publishingDate>2020-12-28</publishingDate>
       <dependsOnModel>
