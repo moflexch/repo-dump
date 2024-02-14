@@ -37,15 +37,15 @@
       
       <IliRepository09.RepositoryIndex.ModelMetadata TID="PlanerischerGewaesserschutz_NWOW_V1_2_Prod">
         <Name>PlanerischerGewaesserschutz_NWOW_V1_2_Prod</Name>
-        <SchemaLanguage>ili1</SchemaLanguage>
-        <File>GEWAESSER/PlanerischerGewaesserschutz_V1_2_Prod.ili</File>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>GEWAESSER/PlanerischerGewaesserschutz_NWOW_V1_2_Prod.ili</File>
         <Version>2023-12-20</Version>
         <publishingDate/>
         <Title/>
         <shortDescription/>
         <Issuer>https://models.gis-daten.ch</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>fb3191acdfdb1b83eac761b6362f4f6f</md5>
+        <md5>40c0dfa8143046a54a5ecb6b0fc135d9</md5>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>PlanerischerGewaesserschutz_V1_2</value>
