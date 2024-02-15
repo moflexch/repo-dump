@@ -165,7 +165,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldreservat_UR_V1.pdf</furtherInformation>
-                <md5>30fa3b2cb0b9284e5c918b0ef3fe9afa</md5>
+                <md5>9276921276341d12af9b466939861549</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
 
@@ -667,7 +667,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_OEREB_Basis_UR_V1.pdf</furtherInformation>
-                <md5>b922964a6d4e7a10406510bc5d60575e</md5>
+                <md5>35a0eb4cb40efdde888b6b56cca7f46d</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
             
             
