@@ -18056,7 +18056,7 @@
           <value>Units</value>
         </IliRepository09.ModelName_>
       </dependsOnModel>
-      <precursorVersion>2016-11-22</precursorVersion>     
+      <precursorVersion>2016-11-22</precursorVersion>
       <Tags>129.1</Tags>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
@@ -22158,7 +22158,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="009046">
       <Name>CadastreOfObstacleLimitationSurfaces_V2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAZL/CadastreOfObstacleLimitationSurfaces_V2.ili</File>
+      <File>BAZL/replaced/CadastreOfObstacleLimitationSurfaces_V2.ili</File>
       <Version>2022-03-29</Version>
       <publishingDate>2022-05-06</publishingDate>
       <dependsOnModel>
@@ -22177,6 +22177,31 @@
       <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
       <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
       <md5>d61c3dc35ce9f1c84e5076fb9ef7292c</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="009047">
+      <Name>CadastreOfObstacleLimitationSurfaces_V2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAZL/CadastreOfObstacleLimitationSurfaces_V2.ili</File>
+      <Version>2024-01-19</Version>
+      <publishingDate>2024-02-15</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>INTERLIS_ext</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WithLatestModification_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2022-03-29</precursorVersion>
+      <Tags>106.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAZL/</Issuer>
+      <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
+      <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
+      <md5>e4e05a6b559180508690b917d8a332d1</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -29961,7 +29986,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020004">
       <Name>DM01AVCH24LV95D</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/replaced/DM.01-AV-CH_LV95_24d_ili1.ili</File>
+      <File>V_D/DM.01-AV-CH_LV95_24d_ili1.ili</File>
       <Version>2004-06-04</Version>
       <publishingDate>2008-03-06</publishingDate>
       <Tags>51.1,52.1,53.1,54.1,55.1,56.1,57.1,58.1,59.1,60.1,61.1,62.1,63.1,64.1</Tags>
@@ -30542,7 +30567,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020040">
       <Name>MD01MOCH24MN95F</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/replaced/DM.01-AV-CH_LV95_24f_ili1.ili</File>
+      <File>V_D/DM.01-AV-CH_LV95_24f_ili1.ili</File>
       <Version>2018-02-14</Version>
       <publishingDate>2018-02-14</publishingDate>
       <precursorVersion>2004-06-04</precursorVersion>
@@ -30812,7 +30837,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020054">
       <Name>MD01MUCH24MN95I</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/replaced/DM.01-AV-CH_LV95_24i_ili1.ili</File>
+      <File>V_D/DM.01-AV-CH_LV95_24i_ili1.ili</File>
       <Version>2020-01-14</Version>
       <publishingDate>2020-01-14</publishingDate>
       <precursorVersion>2019-05-07</precursorVersion>

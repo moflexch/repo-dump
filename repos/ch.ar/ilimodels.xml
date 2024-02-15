@@ -133,7 +133,7 @@
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>9d327e2e19ddce2496b1cbea545630e4</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_EignungsgebieteErdwaermesonden_V1">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Schleppschlauchpflicht_V1">
         <Name>AR_Schleppschlauchpflicht_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFU/AR_Schleppschlauchpflicht_V1.ili</File>
