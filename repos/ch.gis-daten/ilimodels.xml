@@ -45,7 +45,7 @@
         <shortDescription/>
         <Issuer>https://models.gis-daten.ch</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>a2eeaf9e66a6f2dc37c63a56e407901e</md5>
+        <md5>0dbc1c1ee185c083c68a295ee6cc8316</md5>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>PlanerischerGewaesserschutz_V1_2</value>

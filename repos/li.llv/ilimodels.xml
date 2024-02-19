@@ -221,7 +221,7 @@
         <Title>Datenmodell Kulturgueterschutz (Version 1)</Title>
         <technicalContact>mailto:info.atg@llv.li</technicalContact>
         <furtherInformation>https://geodaten.llv.li</furtherInformation>
-        <md5>80CE5C713BD18C17DBD2B749D394C948</md5>
+        <md5>DC178482FDCEC2C5E17D5EC427D87CA5</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="11">
         <Name>Laerm_LI_V1</Name>
@@ -457,8 +457,8 @@
           </IliRepository09.ModelName_>
         </dependsOnModel>
         <Title>offizielles Verzeichnis der Strassen</Title>
-        <technicalContact>  mailto:info@atg.llv.li</technicalContact>
-        <furtherInformation>  https://geodaten.llv.li</furtherInformation>
+        <technicalContact>mailto:info@atg.llv.li</technicalContact>
+        <furtherInformation>https://geodaten.llv.li</furtherInformation>
         <md5>93E73A3E9C44A0DF079BC1A0712D8290</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="21">
