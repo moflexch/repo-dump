@@ -265,7 +265,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_PlanerischerGewaesserschutz_UR_V1.pdf</furtherInformation>
-                <md5>29083d956e99c6fba5c550874a42b666</md5>
+                <md5>f53cfa9e2697d9dfcc9fcb8e185e8138</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU003">
