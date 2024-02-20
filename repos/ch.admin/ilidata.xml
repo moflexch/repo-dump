@@ -7459,7 +7459,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/replaced/GEP_Codetexte_V1_20210816.xml</path>
+                <path>obsolete/GEP_Codetexte_V1_20210816.xml</path>
                 <md5>ef2ece62e3bf99b78d7ed8791cd20c23</md5>
               </DatasetIdx16.File>
             </file>
@@ -13384,7 +13384,7 @@
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
       <DatasetIdx16.DataIndex.DatasetMetadata TID="248">
-        <id>ch.admin.geo.models.GEP_Codetexte_V1_20230816</id>
+        <id>ch.admin.geo.models.GEP_Codetexte_V1_20230822</id>
         <version>2023-08-22</version>
         <precursorVersion>2021-08-16</precursorVersion>
         <publishingDate>2024-01-30</publishingDate>
@@ -13411,7 +13411,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>BAFU/GEP_Codetexte_V1.xml</path>
-                <md5>0847b484b219212bb0ca3a9c1dec9ba4</md5>
+                <md5>2c7e1c0e9c1e73f8aec78d00ae457800</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>

@@ -8496,7 +8496,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004157">
       <Name>GEP_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/replaced/GEP_V1.ili</File>
+      <File>obsolete/GEP_V1_o0.ili</File>
       <Version>2016-11-22</Version>
       <publishingDate>2017-01-17</publishingDate>
       <dependsOnModel>
@@ -8523,7 +8523,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004158">
       <Name>GEP_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/replaced/GEP_V1.ili</File>
+      <File>obsolete/GEP_V1_o0ili</File>
       <Version>2016-11-22</Version>
       <publishingDate>2017-01-17</publishingDate>
       <dependsOnModel>
@@ -18037,7 +18037,35 @@
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004547">
-      <Name>GEP_V1</Name>
+      <Name>GEP_LV03_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/GEP_V1.ili</File>
+      <Version>2023-08-22</Version>
+      <publishingDate>2024-01-30</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV03_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2016-11-22</precursorVersion>
+      <Tags>129.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>5445355efa8c4f2d265d2036fc4bb7a5</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004548">
+      <Name>GEP_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
       <File>BAFU/GEP_V1.ili</File>
       <Version>2023-08-22</Version>
@@ -18058,10 +18086,10 @@
       </dependsOnModel>
       <precursorVersion>2016-11-22</precursorVersion>
       <Tags>129.1</Tags>
-      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <Issuer>https://models.geo.admin.ch/BAFU</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
-      <md5>7e0879df49e88d3a3506375de05c52d2</md5>
+      <md5>5445355efa8c4f2d265d2036fc4bb7a5</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -20893,7 +20921,6 @@
       <SchemaLanguage>ili2_3</SchemaLanguage>
       <File>obsolete/SectoralPlanForSubterraneanFreightTransportInfrastructure_V1_4_o0.ili</File>
       <Version>2022-06-20</Version>
-      <precursorVersion>2023-10-10</precursorVersion>      
       <publishingDate>2023-10-18</publishingDate>
       <dependsOnModel>
         <IliRepository09.ModelName_>
@@ -20918,6 +20945,7 @@
           <value>BaseModel_SectoralPlans_LV95_V1_4</value>
         </IliRepository09.ModelName_>
       </dependsOnModel>
+      <precursorVersion>2022-06-20</precursorVersion>
       <Tags>226</Tags>
       <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
       <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
@@ -22158,7 +22186,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="009046">
       <Name>CadastreOfObstacleLimitationSurfaces_V2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAZL/replaced/CadastreOfObstacleLimitationSurfaces_V2.ili</File>
+      <File>obsolete/CadastreOfObstacleLimitationSurfaces_V2_o0.ili</File>
       <Version>2022-03-29</Version>
       <publishingDate>2022-05-06</publishingDate>
       <dependsOnModel>
@@ -22201,7 +22229,7 @@
       <Issuer>https://models.geo.admin.ch/BAZL/</Issuer>
       <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
       <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
-      <md5>e4e05a6b559180508690b917d8a332d1</md5>
+      <md5>d43d828a9d87f36a4b9915141783e57a</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
