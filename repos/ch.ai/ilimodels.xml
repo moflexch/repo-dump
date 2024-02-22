@@ -302,7 +302,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>715c917b364f2220219b34c5f5464324</md5>
+				<md5>65dd81196882ca3e3608d66a8692d14c</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 
@@ -380,7 +380,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>7b6e6fbf65b4603471373210644b54dc</md5>
+				<md5>ba5015efbca77b55b3b0c8805f84c0fe</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001108">
@@ -457,7 +457,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE/</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>fb204806436d2b42e782e788d73e0f16</md5>
+				<md5>1de6fc81b69ff9b8e2033c479edad945</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001110">
@@ -534,7 +534,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>2823b4fd486d38783b8468b46dcfe196</md5>
+				<md5>084e7c8c0b3e5ba0c7e66375284e84fb</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001112">
@@ -574,7 +574,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE/replaced</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>9de768dfb885ddfb10dd44b843c9ce9a</md5>
+				<md5>def05de57ae9550b9085fab18399f110</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001113">
@@ -611,7 +611,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>f1480ad4bd45d70909c07f620e485e05</md5>
+				<md5>e2fc3150a464d20459c3d3893e026550</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001114">
@@ -725,7 +725,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>f8c88a657980285a50ed1988a84a805b</md5>
+				<md5>ad8c43347ab059f222b0ac6cbc058ccc</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<!-- ============================================================== -->
