@@ -714,9 +714,9 @@
             <!--  Gewaesser                         BS011xxx       -->
             <!--  ===============================================  -->
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011001">
-                <Name>GW_Gewaesserzustand_KGDM_V1_0_LV95</Name>
+                <Name>GW_Gewaesserzustand_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gewaesser/GW_Gewaesserzustand_KGDM_V1_0_LV95.ili</File>
+                <File>Gewaesser/GW_Gewaesserzustand_KGDM_V2_0_LV95.ili</File>
                 <Version>2019-01-15</Version>
                 <publishingDate>2017-09-18</publishingDate>
                 <dependsOnModel>
@@ -726,7 +726,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>7fb19593a524d1a43f3943ad7d995319</md5>
+                <md5>f5b60ee885fb3855ba4a6b15b8ba9b6e</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011004">
                 <Name>GR_Grundwasserschutz_KGDM_V1_0_LV95</Name>
@@ -841,8 +841,8 @@
               <Issuer>https://www.geo.bs.ch</Issuer>
               <technicalContact>mailto:geo@bs.ch</technicalContact>
               <md5>5017c5e135fc8ee1ffd0baad379425ff</md5>
-          </IliRepository20.RepositoryIndex.ModelMetadata>            
-          <!--  ===============================================  -->
+          </IliRepository20.RepositoryIndex.ModelMetadata>                  
+        <!--  ===============================================  -->
             <!--  Grenzen                           BS012xxx       -->
             <!--  ===============================================  -->
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012001">
@@ -2120,6 +2120,21 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>699083c69834f7bef7a71f5c01383673</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025030">
+                <Name>VT_GebietseinteilungVerkehrstechnik_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Verkehr/VT_GebietseinteilungVerkehrstechnik_KGDM_V1_0_LV95.ili</File>
+                <Version>2024-02-09</Version>
+                <publishingDate>2024-03-05</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>83867f11a9af297cd973043a6f27e0ae</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Wald_Flora_Fauna                  BS026xxx       -->
             <!--  ===============================================  -->
@@ -2332,11 +2347,11 @@
                 <md5>1dc1f55b173cfaf035c661414d4d7ca1</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS027003">
-                <Name>ES_Entsorgungsstellen_KGDM_V1_0_LV95</Name>
+                <Name>ES_Entsorgungsstellen_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Wasser_und_Abfallsysteme/ES_Entsorgungsstellen_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-03-01</Version>
-                <publishingDate>2022-04-05</publishingDate>
+                <File>Wasser_und_Abfallsysteme/ES_Entsorgungsstellen_KGDM_V2_0_LV95.ili</File>
+                <Version>2024-02-07</Version>
+                <publishingDate>2024-03-05</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -2344,7 +2359,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>beb1258f567884858b00ba7bfaebc9d1</md5>
+                <md5>6532aea9375fea72bd54f70da277b757</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
              <IliRepository20.RepositoryIndex.ModelMetadata TID="BS027004">
                 <Name>AF_Abfuhrzonen_GGDM_V1_0_LV95</Name>
