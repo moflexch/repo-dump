@@ -69,7 +69,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ002">
         		<Name>Waldgrenzen_UR_V1_03_LV95</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>AFJ/Waldgrenzen_UR_V1_03_LV95.ili</File>
+        		<File>AFJ/replaced/Waldgrenzen_UR_V1_03_LV95.ili</File>
         		<Version>2022-05-17</Version>
         		<publishingDate>2022-05-18</publishingDate>
         		<dependsOnModel>
@@ -93,7 +93,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ003">
         		<Name>Jagdbanngebiete_kantonal_UR_V1</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>inGenehmigung/Jagdbanngebiete_kantonal_UR_V1.ili</File>
+        		<File>AFJ/Jagdbanngebiete_kantonal_UR_V1.ili</File>
         		<Version>2022-10-03</Version>
         		<publishingDate>2024-04-01</publishingDate>
         		<dependsOnModel>
@@ -113,14 +113,14 @@
                 <Tags>168.1,168.2</Tags>
         		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
-        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Jagdbanngebiete_kantonal_UR_V1.pdf</furtherInformation>
+        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Jagdbanngebiete_kantonal_UR_V1.pdf</furtherInformation>
         		<md5>df88621951bd23ad3ea1bbdc6f160935</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ004">
                 <Name>Waldgrenzen_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Waldgrenzen_UR_V2.ili</File>
+                <File>AFJ/Waldgrenzen_UR_V2.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -137,14 +137,14 @@
                 <Tags>157</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldgrenzen_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldgrenzen_UR_V2.pdf</furtherInformation>
                 <md5>a3fdb6b4612dcfdf67892805c22cceec</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ005">
                 <Name>Waldreservat_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Waldreservat_UR_V1.ili</File>
+                <File>AFJ/Waldreservat_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -164,7 +164,7 @@
                 <Tags>157</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldreservat_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldreservat_UR_V1.pdf</furtherInformation>
                 <md5>9276921276341d12af9b466939861549</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
@@ -202,7 +202,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFT002">
         		<Name>Strassenverkehrssignalisation_UR_V1</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
-        		<File>inGenehmigung/Strassenverkehrssignalisation_UR_V1.ili</File>
+        		<File>AFT/Strassenverkehrssignalisation_UR_V1.ili</File>
         		<Version>2023-04-21</Version>
         		<publishingDate>2024-04-01</publishingDate>
         		<dependsOnModel>
@@ -216,7 +216,7 @@
                 <Tags>53-UR</Tags>
         		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
-        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
+        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
         		<md5>584d88bf32212f273349acd8faad0dec</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
 
@@ -226,7 +226,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU001">
                 <Name>Gewaesserraum_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Gewaesserraum_UR_V1.ili</File>
+                <File>AFU/Gewaesserraum_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -243,14 +243,14 @@
                 <Tags>190</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
                 <md5>e752bd6e2361d3fc7b06e3dc1f31404f</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU002">
                 <Name>PlanerischerGewaesserschutz_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/PlanerischerGewaesserschutz_UR_V1.ili</File>
+                <File>AFU/PlanerischerGewaesserschutz_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -264,14 +264,14 @@
                 <Tags>130,131,132</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_PlanerischerGewaesserschutz_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_PlanerischerGewaesserschutz_UR_V1.pdf</furtherInformation>
                 <md5>f53cfa9e2697d9dfcc9fcb8e185e8138</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU003">
                 <Name>Entsorgungsrouten_Siedlungsabfaelle_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Entsorgungsrouten_Siedlungsabfaelle_UR_V1.ili</File>
+                <File>AFU/Entsorgungsrouten_Siedlungsabfaelle_UR_V1.ili</File>
                 <Version>2019-12-19</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -288,7 +288,7 @@
                 <Tags>35-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Entsorgungsrouten_Siedlungsabfaelle_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Entsorgungsrouten_Siedlungsabfaelle_UR_V1.pdf</furtherInformation>
                 <md5>c537a464fb6e501ce51ad3952899750a</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
@@ -349,7 +349,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA002">
                 <Name>Bodenverbesserungsgenossenschaften_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Bodenverbesserungsgenossenschaften_UR_V1.ili</File>
+                <File>ALA/Bodenverbesserungsgenossenschaften_UR_V1.ili</File>
                 <Version>2022-06-08</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -360,7 +360,7 @@
                 <Tags>7-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bodenverbesserungsgenossenschaften_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/ALA/DM_Bodenverbesserungsgenossenschaften_UR_V1.pdf</furtherInformation>
                 <md5>60b2003e6e4eff51f430f11cf29269dc</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
@@ -370,7 +370,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE001">
                 <Name>Laermempfindlichkeitsstufen_UR_V1_01_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>ARE/Laermempfindlichkeitsstufen_UR_V1_01_LV95.ili</File>
+                <File>ARE/replaced/Laermempfindlichkeitsstufen_UR_V1_01_LV95.ili</File>
                 <Version>2014-06-02</Version>
                 <publishingDate>2014-06-02</publishingDate>
                 <Tags>145,14-UR</Tags>
@@ -383,7 +383,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE002">
                 <Name>Nutzungsplanung_UR_V1_02_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>ARE/Nutzungsplanung_UR_V1_02_LV95.ili</File>
+                <File>ARE/replaced/Nutzungsplanung_UR_V1_02_LV95.ili</File>
                 <Version>2018-07-01</Version>
                 <publishingDate>2018-07-01</publishingDate>
                 <Tags>73,14-UR</Tags>
@@ -396,7 +396,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE003">
                 <Name>Waldabstandslinien_UR_V1_01_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>ARE/Waldabstandslinien_UR_V1_01_LV95.ili</File>
+                <File>ARE/replaced/Waldabstandslinien_UR_V1_01_LV95.ili</File>
                 <Version>2014-06-02</Version>
                 <publishingDate>2014-06-02</publishingDate>
                 <Tags>159,14-UR</Tags>
@@ -409,7 +409,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE004">
                 <Name>Baulinien_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Baulinien_UR_V1.ili</File>
+                <File>ARE/Baulinien_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -426,14 +426,14 @@
                 <Tags>15-UR,61-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Baulinien_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Baulinien_UR_V1.pdf</furtherInformation>
                 <md5>384bbb76e7b6658fd430abf663091731</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE005">
                 <Name>Bausperren_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Bausperren_UR_V1.ili</File>
+                <File>ARE/Bausperren_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -447,14 +447,14 @@
                 <Tags>19-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Bausperren_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Bausperren_UR_V1.pdf</furtherInformation>
                 <md5>ef9078f87c80659f17d5dc76e6838fbe</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
             
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE006">
                 <Name>Laermempfindlichkeitsstufen_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Laermempfindlichkeitsstufen_UR_V2.ili</File>
+                <File>ARE/Laermempfindlichkeitsstufen_UR_V2.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -471,14 +471,14 @@
                 <Tags>145</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
                 <md5>c0504c99e292ab2aaab241a0a10920a6</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE007">
                 <Name>Nutzungsplanung_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Nutzungsplanung_UR_V2.ili</File>
+                <File>ARE/Nutzungsplanung_UR_V2.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -495,14 +495,14 @@
                 <Tags>73A,73B</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Nutzungsplanung_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/ARE/DM_Nutzungsplanung_UR_V2.pdf</furtherInformation>
                 <md5>d8688cca09649691023ace5f9e9b5f09</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE008">
                 <Name>Planungszonen_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Planungszonen_UR_V1.ili</File>
+                <File>ARE/Planungszonen_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -516,14 +516,14 @@
                 <Tags>76A,76B</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Planungszonen_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Planungszonen_UR_V1.pdf</furtherInformation>
                 <md5>e074680b1d2f347b76dccdb4ea9c4d80</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE009">
                 <Name>Quartierplaene_Quartiergestaltungsplaene_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Quartierplaene_Quartiergestaltungsplaene_UR_V1.ili</File>
+                <File>ARE/Quartierplaene_Quartiergestaltungsplaene_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -537,14 +537,14 @@
                 <Tags>76A,76B</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Quartierplaene_Quartiergestaltungsplaene_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/ARE/DM_Quartierplaene_Quartiergestaltungsplaene_UR_V1.pdf</furtherInformation>
                 <md5>b59b30e832ee4ca3f94d58e4e173764c</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE010">
                 <Name>Schutzmassnahmen_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Schutzmassnahmen_UR_V1.ili</File>
+                <File>ARE/Schutzmassnahmen_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -561,14 +561,14 @@
                 <Tags>65-UR,66-UR,67-UR,68-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
                 <md5>3a9a01d506628d74d619dc5f8e5f4b61</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE011">
                 <Name>Waldabstandslinien_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/Waldabstandslinien_UR_V2.ili</File>
+                <File>ARE/Waldabstandslinien_UR_V2.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -585,7 +585,7 @@
                 <Tags>65-UR,66-UR,67-UR,68-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldabstandslinien_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldabstandslinien_UR_V2.pdf</furtherInformation>
                 <md5>08d2fdd7bf5b51f2a84acc12410db83f</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
@@ -602,7 +602,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="JD-DS001">
                 <Name>DM_VEinh_UR_V2</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>JD-DS/DM_VEinh_UR_V2.ili</File>
+                <File>JD-DS/replaced/DM_VEinh_UR_V2.ili</File>
                 <Version>2015-05-08</Version>
                 <publishingDate>2022-04-26</publishingDate>
                 <dependsOnModel>
@@ -626,7 +626,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="JD-DS002">
                 <Name>VEinh_UR_V2_1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/VEinh_UR_V2_1.ili</File>
+                <File>JD-DS/VEinh_UR_V2_1.ili</File>
                 <Version>2022-04-26</Version>
                 <publishingDate>2022-04-26</publishingDate>
                 <dependsOnModel>
@@ -643,7 +643,7 @@
                 <Tags>2-UR,9-UR,13-UR,26-UR</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_VEinh_UR_V2_1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_VEinh_UR_V2_1.pdf</furtherInformation>
                 <md5>53029a167c758dd44bc56aa883ea065e</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
@@ -656,7 +656,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="Lisag001">
                 <Name>OEREB_Basis_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>inGenehmigung/OEREB_Basis_UR_V1.ili</File>
+                <File>Lisag/OEREB_Basis_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -666,7 +666,7 @@
                 </dependsOnModel>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_OEREB_Basis_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_OEREB_Basis_UR_V1.pdf</furtherInformation>
                 <md5>35a0eb4cb40efdde888b6b56cca7f46d</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
             

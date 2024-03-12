@@ -30,13 +30,13 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Strassenverkehrssignalisation_UR_V1.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Strassenverkehrssignalisation_Verkehrssignale_UR_V1.xml</path>
+                                <path>AFT/Strassenverkehrssignalisation_Verkehrssignale_UR_V1.xml</path>
                                 <md5>439d7b8b4950b2fa498d20a58f79dc4d2d450365</md5>
                             </DatasetIdx16.File>
                         </file>
@@ -81,14 +81,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Baulinien_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Baulinien_UR_V1.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Baulinien_Katalog_UR_V1_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>ARE/Baulinien_Katalog_UR_V1_20240126.xml</path>
+                                <md5>9486a3328cf97714fe0fe7a37d5b65e600598fac</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -132,14 +132,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Laermempfindlichkeitsstufen_Katalog_UR_V2_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>ARE/Laermempfindlichkeitsstufen_Katalog_UR_V2_20240126.xml</path>
+                                <md5>f5639c6314d24c97b0a403fb49a1a79c561999a5</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -183,14 +183,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Nutzungsplanung_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Nutzungsplanung_UR_V2.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Nutzungsplanung_Katalog_UR_V2_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>ARE/Nutzungsplanung_Katalog_UR_V2_20240126.xml</path>
+                                <md5>031eadddc5abf5b85d76188edf9d486f538af5a7</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -234,14 +234,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Schutzmassnahmen_Katalog_UR_V1_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>ARE/Schutzmassnahmen_Katalog_UR_V1_20240126.xml</path>
+                                <md5>b0feb163f1adcb5a147c42187963efdf1134188b</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -285,14 +285,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldreservate_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldreservate_UR_V1.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Waldabstandslininen_Katalog_UR_V2_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>ARE/Waldabstandslinien_Katalog_UR_V2_20240126.xml</path>
+                                <md5>cc23735c40235936730fe9795d0fc9099d43624c</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -336,14 +336,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Waldgrenzen_UR_V2.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldgrenzen_UR_V2.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Waldgrenzen_Katalog_UR_V2_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>AFJ/Waldgrenzen_Katalog_UR_V2_20240126.xml</path>
+                                <md5>3066b67a62b59421bc71fe531ee7508c15d9ca36</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -387,14 +387,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/inGenehmigung/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Gewaesserraum_UR_V1.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>inGenehmigung/Gewaesserraum_Katalog_UR_V1_20240126.xml</path>
-                                <md5>xx</md5>
+                                <path>AFU/Gewaesserraum_Katalog_UR_V1_20240126.xml</path>
+                                <md5>f20127d77d4939096d5813ad22710c7f1697bd8a</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -414,8 +414,6 @@
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>
-
-
 
         </DatasetIdx16.DataIndex>
     </DATASECTION>
