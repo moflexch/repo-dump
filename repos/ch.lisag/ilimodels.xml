@@ -472,7 +472,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Laermempfindlichkeitsstufen_UR_V2.pdf</furtherInformation>
-                <md5>c0504c99e292ab2aaab241a0a10920a6</md5>
+                <md5>e5e0389609252443ee0c6d11ca7a376a</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE007">
