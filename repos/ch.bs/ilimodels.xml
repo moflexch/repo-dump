@@ -365,6 +365,21 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>ae06e36c7133c604deea948a2f083841</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006006">
+                <Name>EN_GebietseinteilungEnergiefachstellen_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Energie/EN_GebietseinteilungEnergiefachstellen_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-03-04</Version>
+                <publishingDate>2024-04-09</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>b56a3cae46880a1742abd57dfc2a01a6</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gebaeude_Anlagen                  BS007xxx       -->
             <!--  ===============================================  -->
@@ -714,9 +729,9 @@
             <!--  Gewaesser                         BS011xxx       -->
             <!--  ===============================================  -->
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011001">
-                <Name>GW_Gewaesserzustand_KGDM_V2_0_LV95</Name>
+                <Name>GW_Gewaesserzustand_KGDM_V2_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gewaesser/GW_Gewaesserzustand_KGDM_V2_0_LV95.ili</File>
+                <File>Gewaesser/GW_Gewaesserzustand_KGDM_V2_1_LV95.ili</File>
                 <Version>2019-01-15</Version>
                 <publishingDate>2017-09-18</publishingDate>
                 <dependsOnModel>
@@ -726,7 +741,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>f5b60ee885fb3855ba4a6b15b8ba9b6e</md5>
+                <md5>a80e5410d1f6e26aeea23ae461bab9a5</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011004">
                 <Name>GR_Grundwasserschutz_KGDM_V1_0_LV95</Name>
@@ -841,7 +856,22 @@
               <Issuer>https://www.geo.bs.ch</Issuer>
               <technicalContact>mailto:geo@bs.ch</technicalContact>
               <md5>5017c5e135fc8ee1ffd0baad379425ff</md5>
-          </IliRepository20.RepositoryIndex.ModelMetadata>                  
+          </IliRepository20.RepositoryIndex.ModelMetadata>     
+          <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011014">
+            <Name>GY_Grundwassernutzung_KGDM_V1_0_LV95</Name>
+            <SchemaLanguage>ili2_3</SchemaLanguage>
+            <File>Gewaesser/GY_Grundwassernutzung_KGDM_V1_0_LV95.ili</File>
+            <Version>2024-02-06</Version>
+            <publishingDate>2024-03-05</publishingDate>
+            <dependsOnModel>
+              <IliRepository20.ModelName_>
+                <value>BS_Basis_KGDM_V1_0_LV95</value>
+              </IliRepository20.ModelName_>
+            </dependsOnModel>
+            <Issuer>https://www.geo.bs.ch</Issuer>
+            <technicalContact>mailto:geo@bs.ch</technicalContact>
+            <md5>033c00811823dfa12de978dcdc274e5b</md5>
+        </IliRepository20.RepositoryIndex.ModelMetadata>            
         <!--  ===============================================  -->
             <!--  Grenzen                           BS012xxx       -->
             <!--  ===============================================  -->
@@ -2133,7 +2163,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>83867f11a9af297cd973043a6f27e0ae</md5>
+                <md5>e38178019fed9438a8b954f3f5d5210c</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Wald_Flora_Fauna                  BS026xxx       -->
