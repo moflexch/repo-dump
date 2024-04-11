@@ -16459,7 +16459,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004485">
       <Name>ERKAS_Betriebe_Kataster_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/ERKAS_Betriebe_V2_0.ili</File>
+      <File>obsolete/ERKAS_Betriebe_V2_0_o0.ili</File>
       <Version>2021-10-11</Version>
       <publishingDate>2021-12-10</publishingDate>
       <dependsOnModel>
@@ -16480,7 +16480,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004486">
       <Name>ERKAS_Betriebe_Karte_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/ERKAS_Betriebe_V2_0.ili</File>
+      <File>obsolete/ERKAS_Betriebe_V2_0_o0.ili</File>
       <Version>2021-10-11</Version>
       <publishingDate>2021-12-10</publishingDate>
       <dependsOnModel>
@@ -18090,6 +18090,50 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>5445355efa8c4f2d265d2036fc4bb7a5</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004549">
+      <Name>ERKAS_Betriebe_Kataster_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/ERKAS_Betriebe_V2_0.ili</File>
+      <Version>2024-03-21</Version>
+      <publishingDate>2024-04-11</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2021-10-11</precursorVersion>
+      <Tags>112.1,113.1,205.2,207.1,208.1,209.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>797bac3367dd4ab8da1a379afcd94ae0</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004550">
+      <Name>ERKAS_Betriebe_Karte_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/ERKAS_Betriebe_V2_0.ili</File>
+      <Version>2024-03-21</Version>
+      <publishingDate>2024-04-11</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2021-10-11</precursorVersion>
+      <Tags>210.1,212.2,214.1,215.1,216.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>797bac3367dd4ab8da1a379afcd94ae0</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -20756,7 +20800,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008101">
       <Name>HaltestellenOeV_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/HaltestellenOeV_V2_0.ili</File>
+      <File>obsolete/HaltestellenOeV_V2_0_o0.ili</File>
       <Version>2020-10-19</Version>
       <publishingDate>2020-11-23</publishingDate>
       <dependsOnModel>
@@ -20783,7 +20827,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008102">
       <Name>ArretsTP_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/ArretsTP_V2_0.ili</File>
+      <File>obsolete/ArretsTP_V2_0_o0.ili</File>
       <Version>2020-10-19</Version>
       <publishingDate>2020-11-23</publishingDate>
       <dependsOnModel>
@@ -20951,6 +20995,65 @@
       <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
       <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/raeumliche-abstimmung/sug.html</furtherInformation>
       <md5>e08713dd9618b0c33a163b18708fbe0f</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008109">
+      <Name>HaltestellenOeV_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/HaltestellenOeV_V2_0.ili</File>
+      <Version>2024-03-20</Version>
+      <publishingDate>2024-04-11</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>TransportunternehmenOeV_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2020-10-19</precursorVersion>
+      <Tags>98.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/de/home/themen-a-z/geoinformation/geobasisdaten/haltestellen-des-oeffentlichen-verkehrs.html</furtherInformation>
+      <md5>06ccd53de0748ea0eac6148a1d271b7b</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008110">
+      <Name>ArretsTP_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/ArretsTP_V2_0.ili</File>
+      <Version>2024-03-20</Version>
+      <publishingDate>2024-04-11</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>HaltestellenOeV_V2_0</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>EntreprisesTP_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2020-10-19</precursorVersion>
+      <Tags>98.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-a-z/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html</furtherInformation>
+      <md5>a571a08da1ae1b8ea777639e03a7787f</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
