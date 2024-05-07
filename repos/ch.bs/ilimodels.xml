@@ -365,21 +365,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>ae06e36c7133c604deea948a2f083841</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006006">
-                <Name>EN_GebietseinteilungEnergiefachstellen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Energie/EN_GebietseinteilungEnergiefachstellen_KGDM_V1_0_LV95.ili</File>
-                <Version>2023-03-04</Version>
-                <publishingDate>2024-04-09</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>b56a3cae46880a1742abd57dfc2a01a6</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gebaeude_Anlagen                  BS007xxx       -->
             <!--  ===============================================  -->
@@ -1371,10 +1356,10 @@
                 <md5>ba163ca0dc442aabcb197bd7785f66d7</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023010">
-                <Name>RN_NutzungsplanungRiehen_GGDM_V1_0_LV95</Name>
+                <Name>RN_NutzungsplanungRiehen_GGDM_V1_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/RN_NutzungsplanungRiehen_GGDM_V1_0_LV95.ili</File>
-                <Version>2019-09-18</Version>
+                <File>Raumplanung/RN_NutzungsplanungRiehen_GGDM_V1_1_LV95.ili</File>
+                <Version>2024-03-25</Version>
                 <publishingDate>2019-09-19</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
@@ -1386,7 +1371,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>c4b7c21a33912cb2af72d719cf5b6711</md5>
+                <md5>74402131f7525fef3378531c900cc026</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>  
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023012">
                 <Name>WA_Wohnanteilplan_GGDM_V1_0_LV95</Name>
@@ -1713,10 +1698,10 @@
                 <md5>3410657fc6683e70281fd1f7aa86d7ff</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024007">
-                <Name>BP_Boulevardplan_KGDM_V1_0_LV95</Name>
+                <Name>BP_Boulevardplan_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Umweltschutz_Laerm/BP_Boulevardplan_KGDM_V1_0_LV95.ili</File>
-                <Version>2021-12-23</Version>
+                <File>Umweltschutz_Laerm/BP_Boulevardplan_KGDM_V2_0_LV95.ili</File>
+                <Version>2024-04-15</Version>
                 <publishingDate>2022-02-01</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
@@ -1725,7 +1710,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>24adc4e2905da3fe22a00f00896f25ac</md5>
+                <md5>2d5bf02093e367456f5d4fb2d217f340</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024010">
                 <Name>PM_Schallpegelmessungen_KGDM_V1_0_LV95</Name>
