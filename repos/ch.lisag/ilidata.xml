@@ -189,8 +189,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>ARE/Nutzungsplanung_Katalog_UR_V2_20240126.xml</path>
-                                <md5>031eadddc5abf5b85d76188edf9d486f538af5a7</md5>
+                                <path>ARE/Nutzungsplanung_Katalog_UR_V2_20240522.xml</path>
+                                <md5>a760e2e8713ee9c4d516409afa7c405cec60998d</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
