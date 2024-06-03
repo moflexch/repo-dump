@@ -9,7 +9,7 @@
     <DatasetIdx16.DataIndex BID="b1">
       <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
         <id>vsa_organisationen</id>
-        <version>204-04-18</version>
+        <version>2024-06-03</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -43,7 +43,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>organisation/vsa_organisationen.xtf</path>
-                <md5>97553370e67ce0e3cff23b106d3316cd</md5>
+                <md5>51963365eb6ccfc9f50ff95bb3ebb63e</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
@@ -64,7 +64,7 @@
 <!-- neu 30.10.2023 MinorChange 2020.1-->
       <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
         <id>vsa_organisationen_2020_1</id>
-        <version>204-04-18</version>
+        <version>2024-06-03</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -81,7 +81,7 @@
                 <DatasetIdx16.LocalisedMText>
                     <Language>de</Language>
                     <Text>
-                        Seit dem Release 2020 von VSA-DSS und VSA-DSS Mini erfolgt die Bewirtschaftung der Angaben zu den Organisationen  zentral auf Basis der Wegleitung Daten der Siedlungsentwässerung. Der VSA bewirtschaftet dazu zusammen mit den interessierten Kantonen eine harmonisierte Liste über die Organisationen. Zum heutigen Zeitpunkt sind folgende Kantone in der Liste enthalten: AG, BE, BL, FR, LU, SH, SO, SZ, TG, ZH
+                        Seit dem Release 2020 von VSA DSS und VSA DSS Mini erfolgt die Bewirtschaftung der Angaben zu den Organisationen  zentral auf Basis der Wegleitung Daten der Siedlungsentwässerung. Der VSA bewirtschaftet dazu zusammen mit den interessierten Kantonen eine harmonisierte Liste über die Organisationen. Zum heutigen Zeitpunkt sind folgende Kantone in der Liste enthalten: AG, BE, BL, FR, LU, SH, SO, SZ, TG, ZH
                     </Text>
                 </DatasetIdx16.LocalisedMText>
             </LocalisedText>
@@ -98,7 +98,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>organisation/vsa_organisationen_2020_1.xtf</path>
-                <md5>8ae802b42beed198bc64f5db58553d11</md5>
+                <md5>bb4305ee8ce1ad466cd9af9239b3e9be</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
