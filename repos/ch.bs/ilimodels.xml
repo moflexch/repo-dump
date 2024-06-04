@@ -962,7 +962,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>7a950410dc2436ad3722d41ac04d47b6</md5>
+                <md5>bc81285567ff1fd5321b6fb2b461d859</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012014">
                 <Name>GU_GebietseinteilungGebaeudeunterhalt_KGDM_V1_0_LV95</Name>
