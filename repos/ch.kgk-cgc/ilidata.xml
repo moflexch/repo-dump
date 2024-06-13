@@ -20,7 +20,7 @@
         </restrictions>
       </DatasetIdx16.DataIndex.Metadata>
 
-      <DatasetIdx16.DataIndex.DatasetMetadata TID="73a5a73f-8207-40e5-b8b7-8dc7686d5618">
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="cffbe039-5f3a-4232-8f33-0fdb7e3e5473">
       	<id>ch.kgk-cgc.gewaesserraum-legendensymbol-oerebzusatz</id>
       	<title>
       	  <DatasetIdx16.MultilingualText>
@@ -54,7 +54,7 @@
       	    </LocalisedText>
       	  </DatasetIdx16.MultilingualMText>
       	</shortDescription>
-      	<version>2023-11-08</version>
+      	<version>2024-06-13</version>
       	<owner>mailto:info@kgk-cgc.ch</owner>
       	<files>
       		<DatasetIdx16.DataFile>
@@ -62,7 +62,7 @@
       			<file>
       				<DatasetIdx16.File>
       					<path>xml/Gewaesserraum_Codetexte_OEREBZusatz_V1_1.xml</path>
-      					<md5>73783d521864366bd798df9f9e6b9042</md5>
+      					<md5>2c9de0429189958c8d3aa6f174a03c37</md5>
       				</DatasetIdx16.File>
       			</file>
       		</DatasetIdx16.DataFile>
