@@ -150,6 +150,26 @@
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>a9f80f3c14aaf5abe65c2debd3675e00</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Windpotenzial_V1">
+        <Name>AR_Windpotenzial_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFU/AR_Windpotenzial_V1.ili</File>
+        <Version>2024-06-07</Version>
+        <publishingDate>2024-06-14</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Windpotenzial Kt AR</Title>
+        <shortDescription>kantonales Modell zur Darstellung der Windleistung 150 m ü. G. gemäss Windleistungskataster NTB Buchs (in W/m2 der vom Rotor abgestrichenen Kreisfläche)</shortDescription>
+        <Issuer>https://models.geo.ar.ch/AFU</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>0d35f06208ee36f8dd97345f2f41c2f9</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
     <!--Modelle der Abteilung Raumentwicklung ARE-->
