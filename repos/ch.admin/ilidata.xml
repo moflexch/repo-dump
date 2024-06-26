@@ -7481,6 +7481,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="126">
         <id>ch.admin.geo.models.Rodungen_Codetexte_V1_20210705</id>
         <version>2021-07-05</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.Rodungen_Codetexte_V1_1_20240506</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2021-10-06</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -7504,7 +7509,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Rodungen_Codetexte_V1_20210705.xml</path>
+                <path>BAFU/replaced/Rodungen_Codetexte_V1_20210705.xml</path>
                 <md5>8f57a51c8ddba01cc61420b28a23a0b1</md5>
               </DatasetIdx16.File>
             </file>
@@ -13531,6 +13536,51 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>592a6c28-6721-45a8-8887-7ef111783a08</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="251">
+        <id>ch.admin.geo.models.Rodungen_Codetexte_V1_1_20240506</id>
+        <version>2024-05-06</version>
+        <publishingDate>2024-06-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Rodungen_Codetexte_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Rodungen_Codetexte_V1_1.xml</path>
+                <md5>177faf5a4af1b587e1993c8590bcf35c</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-05-06</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Rodungen_V1_1.Rodungen</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.rodungen_codetexte_v1</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
