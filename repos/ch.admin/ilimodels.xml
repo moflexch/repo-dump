@@ -8089,7 +8089,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004141">
       <Name>DBGZ_NADUF_Codelisten_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/DBGZ_NADUF_V1_1.ili</File>
+      <File>BAFU/replaced/DBGZ_NADUF_V1_1.ili</File>
       <Version>2016-03-17</Version>
       <publishingDate>2016-03-17</publishingDate>
       <dependsOnModel>
@@ -14445,7 +14445,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004403">
       <Name>DBGZ_NADUF_LV03_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/DBGZ_NADUF_V1_1.ili</File>
+      <File>BAFU/replaced/DBGZ_NADUF_V1_1.ili</File>
       <Version>2020-04-29</Version>
       <publishingDate>2020-04-29</publishingDate>
       <dependsOnModel>
@@ -14479,7 +14479,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004404">
       <Name>DBGZ_NADUF_LV95_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/DBGZ_NADUF_V1_1.ili</File>
+      <File>BAFU/replaced/DBGZ_NADUF_V1_1.ili</File>
       <Version>2020-04-29</Version>
       <publishingDate>2020-04-29</publishingDate>
       <dependsOnModel>
@@ -17864,7 +17864,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004540">
       <Name>ARA_DB_REP_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/ARA_DB_REP_V1_2.ili</File>
+      <File>obsolete/ARA_DB_REP_V1_2.ili</File>
       <Version>2023-07-11</Version>
       <publishingDate>2023-07-12</publishingDate>
       <dependsOnModel>
@@ -17960,7 +17960,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004544">
       <Name>Revitalisierung_Fliessgewaesser_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Revitalisierung_Fliessgewaesser_V1_2.ili</File>
+      <File>obsolete/Revitalisierung_Fliessgewaesser_V1_2_o0.ili</File>
       <Version>2023-06-23</Version>
       <publishingDate>2023-10-14</publishingDate>
       <dependsOnModel>
@@ -18156,6 +18156,123 @@
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>527250d939f96b4e34975296ef83e2cf</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004552">
+      <Name>Revitalisierung_Fliessgewaesser_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Revitalisierung_Fliessgewaesser_V1_2.ili</File>
+      <Version>2024-06-13</Version>
+      <publishingDate>2024-06-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_Codelisten_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_LV95_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2023-06-23</precursorVersion>
+      <Tags>191.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>67604e5e01e5b56c8a6c7351310d3ab6</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004553">
+      <Name>ARA_DB_REP_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/ARA_DB_REP_V1_2.ili</File>
+      <Version>2023-08-22</Version>
+      <publishingDate>2024-06-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2023-07-11</precursorVersion>
+      <Tags>128.1,134.5</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>1f40fbb98cb821dc53f03e9a5388ce0c</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004554">
+      <Name>NAWA_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/NAWA_V1_2.ili</File>
+      <Version>2024-04-08</Version>
+      <publishingDate>2024-06-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CodeISO</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>133.3</Tags>
+      <Issuer>http://models.geo.admin.ch/BAFU</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>6f55d5a24b6d6d08bafdab4ae86c29f0</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004555">
+      <Name>Kant_Gewaesserzustand_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Kant_Gewaesserzustand_V1_2.ili</File>
+      <Version>2024-04-08</Version>
+      <publishingDate>2024-06-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CodeISO</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>134.1</Tags>
+      <Issuer>http://models.geo.admin.ch/BAFU</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>fcaf7fbe5c0fb77ec2ad127bac6f18e0</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
@@ -33047,7 +33164,7 @@
       <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
       <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
-      <md5>5d23483f3a36276ddae538457c07debc</md5>
+      <md5>aa84822ed387459dcf0ab3eed7c5a3f0</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
     
 <!-- =================================================================== -->

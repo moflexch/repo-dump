@@ -3364,7 +3364,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/DBGZ_NADUF_Catalogues_V1_1.xml</path>
+                <path>BAFU/replaced/DBGZ_NADUF_Catalogues_V1_1.xml</path>
                 <md5>3bb47190670728137147b9ba8a66d8f2</md5>
               </DatasetIdx16.File>
             </file>
@@ -12185,7 +12185,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/ARA_DB_REP_Codetexte_V1_2.xml</path>
+                <path>obsolete/ARA_DB_REP_Codetexte_V1_2_o0.xml</path>
                 <md5>647139c5cd212e01d0b64a524e87171b</md5>
               </DatasetIdx16.File>
             </file>
@@ -13581,6 +13581,142 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.bafu.rodungen_codetexte_v1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="252">
+        <id>ch.admin.geo.models.ARA_DB_REP_Codetexte_V1_2_20231204</id>
+        <version>2023-12-04</version>
+        <precursorVersion>2023-07-11</precursorVersion>
+        <publishingDate>2024-06-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU ARA_DB_REP_Codetexte_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/ARA_DB_REP_Codetexte_V1_2.xml</path>
+                <md5>f3620c7099aaf9ada27062c7902a6c2f</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2023-12-04</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ARA_DB_REP_V1_2.CAT</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.geo.models.ch.admin.bafu.ara_db_rep_codetexte_v1_2</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="253">
+        <id>ch.admin.geo.models.NAWA_Catalogues_V1_2_20240408</id>
+        <version>2024-04-08</version>
+        <publishingDate>2024-06-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NAWA_Catalogues_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NAWA_Catalogues_V1_2.xml</path>
+                <md5>f7cf61abff88c274bdc5a7fd3b69aead</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-04-08</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NAWA_V1_2.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="254">
+        <id>ch.admin.geo.models.Kant_Gewaesserzustand_V1_2_20240408</id>
+        <version>2024-04-08</version>
+        <publishingDate>2024-06-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Kant_Gewaesserzustand_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Kant_Gewaesserzustand_Catalogues_V1_2.xml</path>
+                <md5>5c22478b8b3eb015ccf9ee292a698ea8</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-04-08</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Kant_Gewaesserzustand_V1_2.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
