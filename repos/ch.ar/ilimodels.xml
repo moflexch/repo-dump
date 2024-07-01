@@ -448,7 +448,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Gewaesserraum_V1">
         <Name>AR_Gewaesserraum_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>TBA/AR_Gewaesserraum_20210708.ili</File>
+        <File>TBA/replaced/AR_Gewaesserraum_20210708.ili</File>
         <Version>2021-06-23</Version>
         <publishingDate>2021-07-12</publishingDate>
         <dependsOnModel>
@@ -464,6 +464,35 @@
         <Issuer>https://models.geo.ar.ch/TBA</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>3b1056f5ba8a4cb895d134f784847b46</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Gewaesserraum_V2">
+        <Name>AR_Gewaesserraum_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>TBA/AR_Gewaesserraum_V2.ili</File>
+        <Version>2024-04-05</Version>
+        <publishingDate>2024-07-01</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CHAdminCodes_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Math</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Text</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Gewässerraumfestlegung</Title>
+        <shortDescription>Dieses Modell erweitert das Bundesmodell Gewässerraum mit den kantonalen Anforderungen und ist optimiert für die Datenerfassung mit dem QGIS Model Baker.</shortDescription>
+        <Issuer>https://models.geo.ar.ch/TBA</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>edd89fc730e06e308b97da2e19859350</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
