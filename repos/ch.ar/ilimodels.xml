@@ -470,7 +470,7 @@
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>TBA/AR_Gewaesserraum_V2.ili</File>
         <Version>2024-04-05</Version>
-        <publishingDate>2024-07-01</publishingDate>
+        <publishingDate>2024-07-09</publishingDate>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>GeometryCHLV95_V1</value>
@@ -489,10 +489,10 @@
           </IliRepository09.ModelName_>
         </dependsOnModel>
         <Title>Gewässerraumfestlegung</Title>
-        <shortDescription>Dieses Modell erweitert das Bundesmodell Gewässerraum mit den kantonalen Anforderungen und ist optimiert für die Datenerfassung mit dem QGIS Model Baker.</shortDescription>
+        <shortDescription>Dieses Modell erweitert das Bundesmodell Gewässerraum mit den kantonalen Anforderungen. Es ist für die Datenerfassung mit dem QGIS Model Baker optimiert.</shortDescription>
         <Issuer>https://models.geo.ar.ch/TBA</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
-        <md5>edd89fc730e06e308b97da2e19859350</md5>
+        <md5>9ac7b43d724a1513e53db1e1243d86fa</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
