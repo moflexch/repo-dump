@@ -343,6 +343,30 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
       <!--==================================================-->
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Oekomorphologie_Fliessgewaesser_V1">
+        <Name>SZ_Oekomorphologie_Fliessgewaesser_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFG/replaced/SZ_Oekomorphologie_Fliessgewaesser_V1.ili</File>
+        <Version>2024-01-04</Version>
+        <publishingDate>2024-07-25</publishingDate>
+        <Title>Ökomorpholigie der Fliessgewässer</Title>
+        <shortDescription>Dieses Modell führt die Klassen der Revitalisierungsplanung von Fliessgewässern. Es orientiert sich an dem Bundesmodell und fokussiert auf die Ökomorphologie. Die im Bundesmodell zusätzlich enthaltenen Klassen zur Revitalisierungsplanung sind im Thema A180 behandelt.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>B0340B1A36FBC461D9730CA567979867</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Oekomorphologie_Fliessgewaesser_V1_1">
+        <Name>SZ_Oekomorphologie_Fliessgewaesser_V1_1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFG/replaced/SZ_Oekomorphologie_Fliessgewaesser_V1.ili</File>
+        <Version>2024-07-24</Version>
+        <publishingDate>2024-07-25</publishingDate>
+        <Title>Ökomorpholigie der Fliessgewässer</Title>
+        <shortDescription>Dieses Modell führt die Klassen der Revitalisierungsplanung von Fliessgewässern. Es orientiert sich an dem Bundesmodell und fokussiert auf die Ökomorphologie. Die im Bundesmodell zusätzlich enthaltenen Klassen zur Revitalisierungsplanung sind im Thema A180 behandelt.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>CC45366E72332D7083DDA0C637FC2711</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_planerischerGewaesserschutz_oberirdisch_V1">
         <Name>SZ_planerischerGewaesserschutz_oberirdisch_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -371,7 +395,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_RevitalisierungGewaesser_V1">
         <Name>SZ_RevitalisierungGewaesser_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_RevitalisierungGewaesser_V1.ili</File>
+        <File>AFG/replaced/SZ_RevitalisierungGewaesser_V1.ili</File>
         <Version>2020-01-14</Version>
         <publishingDate>2020-01-28</publishingDate>
         <dependsOnModel>
@@ -392,7 +416,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_RevitalisierungGewaesser_V1_Erfassung">
         <Name>SZ_RevitalisierungGewaesser_V1_Erfassung</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_RevitalisierungGewaesser_V1_Erfassung.ili</File>
+        <File>AFG/replaced/SZ_RevitalisierungGewaesser_V1_Erfassung.ili</File>
         <Version>2020-01-14</Version>
         <publishingDate>2020-01-28</publishingDate>
         <dependsOnModel>
