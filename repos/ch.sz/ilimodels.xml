@@ -358,7 +358,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Oekomorphologie_Fliessgewaesser_V1_1">
         <Name>SZ_Oekomorphologie_Fliessgewaesser_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/replaced/SZ_Oekomorphologie_Fliessgewaesser_V1.ili</File>
+        <File>AFG/SZ_Oekomorphologie_Fliessgewaesser_V1_1.ili</File>
         <Version>2024-07-24</Version>
         <publishingDate>2024-07-25</publishingDate>
         <Title>Ökomorpholigie der Fliessgewässer</Title>
