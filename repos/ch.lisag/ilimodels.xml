@@ -49,6 +49,23 @@
 
             <!--  ===============================================  -->
             <!--  Amt für Bevölkerungsschutz und Militär [ABM]     -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ABM001">
+        		<Name>Schutzbautenkataster_UR_V1</Name>
+        		<SchemaLanguage>ili2_3</SchemaLanguage>
+        		<File>ABM/Schutzbautenkataster_UR_V1.ili</File>
+        		<Version>2024-07-10</Version>
+        		<publishingDate>2024-07-10</publishingDate>
+                <dependsOnModel>
+        		  <IliRepository09.ModelName_>
+        		    <value>GeometryCHLV95_V1</value>
+        		  </IliRepository09.ModelName_>
+        		</dependsOnModel>
+                <Tags>4-UR</Tags>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
+        		<technicalContact>mailto:mail@lisag.ch</technicalContact>
+        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzbautenkataster_UR_V1.pdf</furtherInformation>
+        		<md5>ffb5848aa966f356c2e52f5ca924106c</md5>
+        	</IliRepository09.RepositoryIndex.ModelMetadata>
 
 
             <!--  ===============================================  -->
