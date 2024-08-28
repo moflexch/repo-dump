@@ -392,6 +392,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>D6584E3FC87AF55507BCD0389EBA4080</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Revitalisierungsplanung_Fliessgewaesser_V1">
+        <Name>SZ_Revitalisierungsplanung_Fliessgewaesser_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFG/SZ_Revitalisierungsplanung_Fliessgewaesser_V1.ili</File>
+        <Version>2023-12-22</Version>
+        <publishingDate>2024-08-28</publishingDate>
+        <Title>Planung der Revitalisierungen von Gewässern (Bereich Fliessgewässer)</Title>
+        <shortDescription>Dieses Modell führt die Klassen der Revitalisierungsplanung von Fliessgewässern. Es orientiert sich an dem Bundesmodell. Die im Bundesmodell enthaltenen Klassen zur Ökomorphologie sind auf Stufe des Kantons im Thema A026 behandelt.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>6838E035FE441A779B302462EE2881D0</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_RevitalisierungGewaesser_V1">
         <Name>SZ_RevitalisierungGewaesser_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
