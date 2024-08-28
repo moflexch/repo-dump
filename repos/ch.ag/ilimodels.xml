@@ -1,69 +1,93 @@
-
-        <!doctype html>
-<html lang="de" class="no-js trackable">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta http-equiv="Status" content="ID500"/>
-    <title>Kanton Aargau</title>
-    <style>html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}a{background-color:transparent}strong{font-weight:600}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}*,:after,:before{box-sizing:inherit}body{font-size:1.5rem;font-family:AGPN,Arial,sans-serif;font-weight:400;font-style:normal;line-height:1.5}@media (min-width:600px){body{font-size:1.6rem}}@media (min-width:992px){body{font-size:1.8rem}}h1,h2{font-size:1em;margin:0}a{color:#007ab8;text-decoration:none}html{font-size:62.5%;max-width:100%;box-sizing:border-box;background:#004774}body{min-width:320px;max-width:100%;overflow-x:hidden;color:#262626;background-color:#e5f4fc;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;padding-top:6.5543rem}@media (min-width:600px){body{padding-top:9.06982rem}}.page{position:relative}.main{z-index:5;position:relative}.contentcol{position:relative;background:#fff;margin:0 -1.2rem;padding:1.2rem}@media (min-width:600px){.contentcol{margin:0 -1.8rem;padding:1.8rem 3.6rem}}.contentcol>:last-child:not(.contentfooter){margin-bottom:2.4rem}.contentcol p:not([class]){margin-top:2.4rem;margin-bottom:0}.contentcol .leadtext{font-size:115%;font-weight:600;line-height:1.6}.contentcol p:not([class]){margin-bottom:0;line-height:1.5}.pagesection{position:relative}.pagesection:not(.pagesection--fullwidth):not(.pagesection--wide):not(.pagesection--narrow) .pagesection__inner{min-width:calc(320px - 2.4rem);max-width:1130px;width:calc(100% - 2.4rem);margin-right:auto;margin-left:auto}@media (min-width:600px){.contentcol .leadtext{font-size:120%}.pagesection:not(.pagesection--fullwidth):not(.pagesection--wide):not(.pagesection--narrow) .pagesection__inner{width:calc(100% - 3.6rem)}}@media (min-width:992px){body{padding-top:11.58533rem}.page:after,.page:before{position:absolute;display:block;content:"";width:calc((100% - 1130px - 4.8rem)/ 2);top:0;bottom:0}.page:before{left:0;background:linear-gradient(270deg,#e6f5fc 0,#f2fafd)}.page:after{right:0;background:linear-gradient(90deg,#e6f5fc 0,#f2fafd)}.contentcol{margin:0;padding:2.4rem 9.6rem}.pagesection__inner{padding:2.4rem 0}.pagesection:not(.pagesection--fullwidth):not(.pagesection--wide):not(.pagesection--narrow) .pagesection__inner{width:calc(100% - 4.8rem)}}.pagetitle{font-size:190%;font-weight:400;page-break-after:avoid;line-height:1.15;margin:1.5em 0 0}@media (min-width:600px){.pagetitle{font-size:200%}}.header{z-index:50;display:block;position:absolute;top:0;right:0;bottom:0;left:0;position:fixed;bottom:auto;background:#fff;box-shadow:0 0 2.4rem 0 rgba(38,38,38,.5);will-change:height;height:6.5543rem}@media (min-width:600px){.header{height:9.06982rem}}@media (min-width:992px){.pagetitle{font-size:210%}.header{height:11.58533rem}}.header__inner{min-width:calc(320px - 2.4rem);max-width:1130px;width:calc(100% - 2.4rem);margin-right:auto;margin-left:auto;position:relative;padding:0;display:flex;justify-content:space-between;align-content:flex-end;align-items:center;height:100%;overflow:hidden}@media (min-width:600px){.header__inner{width:calc(100% - 3.6rem)}}@media (min-width:992px){.header__inner{width:calc(100% - 4.8rem)}.header__inner{background:#fff}}.header__title{position:absolute;border:0;clip:rect(0 0 0 0);width:1px;height:1px;margin:-1px;padding:0;overflow:hidden}.header__sitenav{display:flex;flex:1 1 1%;padding:0;list-style-type:none;max-height:5.58533rem;will-change:max-height}.header__logo{position:relative;top:-1px;flex-grow:0;flex-shrink:0;margin:auto 0;color:#262626;fill:currentColor;width:7rem;height:3.5543rem;will-change:height}@media (min-width:600px){.header__logo{width:9rem;height:4.56982rem}}.header__logo:link,.header__logo:visited{color:#262626;fill:currentColor}.header__department{display:none;visibility:hidden;color:#262626;text-decoration:none;position:relative;bottom:-.15em;font-size:.84rem;vertical-align:bottom;align-self:flex-end;white-space:nowrap;line-height:1.3;margin-left:.6rem}.header__department:link{color:#262626}.header__department:visited{color:#262626;text-decoration:none}.header__department:before{display:inline-block;text-decoration:underline}.header__department:after{text-decoration:underline;text-decoration:none}.header__department:before{text-decoration:none}@media (min-width:480px){.header__department{display:initial;visibility:visible}}@media (min-width:600px){.header__department{font-size:1.08rem;margin-left:.9rem}}@media (min-width:992px){.header__logo{width:11rem;height:5.58533rem}.header__department{font-size:1.32rem;letter-spacing:0;margin-left:1.2rem}}.header__department:link,.header__department:visited{color:#262626}.footer{font-size:1.5rem;color:#fff;background-color:#007ab8;position:relative;z-index:1}.footer__inner{min-width:calc(320px - 2.4rem);max-width:1130px;width:calc(100% - 2.4rem);margin-right:auto;margin-left:auto;position:relative;padding-top:2.4rem;padding-bottom:2.4rem}@media (min-width:600px){.footer__inner{width:calc(100% - 3.6rem)}.footer__inner{padding:1.8rem 0}}@media (min-width:992px){.footer__inner{width:calc(100% - 4.8rem)}.footer__inner{padding:4.8rem 0}}.footer__logo{text-decoration:none;display:inline-block;width:128px;height:69px;color:#fff;fill:#fff;margin-bottom:0}.footer__logo:link{color:#fff}.footer__logo:visited{color:#fff;text-decoration:none}.footer__logo:before{display:inline-block}.footer__logo:after,.footer__logo:before{text-decoration:underline}.footer__logo:after{text-decoration:none}.footer__logo:before{text-decoration:none}.footer__logo-sprite{display:block;width:128px;height:69px}.footer__row{margin-top:2.4rem}@media (min-width:600px){.footer__logo{display:block;margin-bottom:0}.footer__row{display:flex;flex-wrap:wrap;flex-direction:row}.footer__section{width:50%;order:0;padding-right:2.4rem}}.footer__section{margin-top:1.8rem}@media (min-width:992px){.footer__row{flex-wrap:nowrap}.footer__section{width:auto}.footer__section:last-child{padding-right:0}.footer__section--third{flex:0 1 33.33333%}}.footer__heading{font-size:1.5rem;font-weight:600;border-bottom:1px solid;margin-top:0;padding-bottom:.4em;display:flex;height:3em;align-items:flex-end}@media (min-width:992px){.footer__heading{font-size:1.6rem}}.footer__navigation{list-style:none;padding:0;margin:0}.footer__navigation-item{padding:.9rem 0;border-bottom:1px solid hsla(0,0%,100%,.5);line-height:1.35}.footer__navigation-item:last-child{border:0}.footer__richtext p{margin:.5em 0 0}.footer__richtext p:first-child{margin-top:0}.footer__richtext .link{color:#fff;text-decoration:none}.footer__richtext .link:link{color:#fff}.footer__richtext .link:visited{color:#fff;text-decoration:none}.footer__richtext .link:before{display:inline-block;text-decoration:underline}.footer__richtext .link:after{text-decoration:underline;text-decoration:none}.footer__richtext .link:before{text-decoration:none}.footer__imprint{font-size:1.2rem;padding:1.8rem 0;letter-spacing:.03em;text-align:center;background-color:#004774;color:#fff}.footer__imprint-inner{min-width:calc(320px - 2.4rem);max-width:1130px;width:calc(100% - 2.4rem);margin-right:auto;margin-left:auto}@media (min-width:600px){.footer__imprint{text-align:left}.footer__imprint-inner{width:calc(100% - 3.6rem)}.footer__imprint-inner{display:flex;flex-direction:row-reverse;align-content:space-between;padding:0}}@media (min-width:992px){.footer__imprint{font-size:1.3rem}.footer__imprint-inner{width:calc(100% - 4.8rem)}.footer__imprint-inner{padding:0}}.footer__copyright{display:block;color:#fff}.footer__copyright{flex:1 0 1%;margin-top:0}.link{text-decoration:none;white-space:nowrap}.link,.link:link{color:#007ab8}.link:visited{color:#007ab8;text-decoration:none}.link:before{display:inline-block}.link:after,.link:before{text-decoration:underline}.link:after{text-decoration:none}.link:before{text-decoration:none}</style>
-    <style>@font-face{font-family:AGPN;src:url(https://static.ag.ch/global/releases/v8.0.0/fonts/agpn-regular.woff2) format("woff2"),url(https://static.ag.ch/global/releases/v8.0.0/fonts/agpn-regular.woff) format("woff");font-weight:400;font-style:normal}@font-face{font-family:AGPN;src:url(https://static.ag.ch/global/releases/v8.0.0/fonts/agpn-semibold.woff2) format("woff2"),url(https://static.ag.ch/global/releases/v8.0.0/fonts/agpn-semibold.woff) format("woff");font-weight:600;font-style:normal}</style>
-  </head>
-  <body>
-    <div class="page">
-      <header aria-label="Kopf" class="header">
-        <div class="header__inner">
-          <h2 class="header__title">HauptmenÃ¼</h2>
-          <div class="header__sitenav">
-            <a aria-label="Kanton Aargau Logo" class="header__logo" href="https://www.ag.ch">
-              <svg class="header__logo-image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.8 72"><title>Kanton Aargau Logo</title><path class="header__logo-wave-1" d="M8 15.5c3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7 2.5 0 3.7-.8 5.1-1.7 1.4-1 3-2 6.1-2 3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7s3.7-.8 5.1-1.7c1.4-1 3-2 6.1-2s4.7 1.1 6.1 2c1.4.9 2.6 1.7 5.1 1.7 5 0 7.5-3.8 7.5-3.8V2.5S69.6 6.2 64 6.2s-5.6-3.7-11.2-3.7-5.6 3.7-11.2 3.7S36 2.5 30.4 2.5s-5.6 3.7-11.2 3.7S13.6 2.5 8 2.5.5 6.2.5 6.2v12.3c1.2-1.2 3.5-3 7.5-3"/><path class="header__logo-wave-2" d="M8 30.4c3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7 2.5 0 3.7-.8 5.1-1.7 1.4-.9 3-2 6.1-2 3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7s3.7-.8 5.1-1.7c1.4-.9 3-2 6.1-2s4.7 1.1 6.1 2c1.4.9 2.6 1.7 5.1 1.7 5.1 0 7.5-3.8 7.5-3.8V18.1c-1.1 1.3-3.4 3.1-7.5 3.1-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7s-3.7.8-5.1 1.7c-1.4.9-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-2.5 0-3.7.8-5.1 1.7-1.4.9-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-5.2 0-7.5 3.8-7.5 3.8v12.2C1.7 32.2 4 30.4 8 30.4"/><path class="header__logo-wave-3" d="M64 36.1c-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-2.5 0-3.7.8-5.1 1.7-1.4 1-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.5-1.7-5.1-1.7-2.5 0-3.7.8-5.1 1.7-1.4 1-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-5 0-7.5 3.8-7.5 3.8v12.9s1.9-3.7 7.5-3.7 5.6 3.7 11.2 3.7 5.6-3.7 11.2-3.7 5.6 3.7 11.2 3.7 5.6-3.7 11.2-3.7 5.6 3.7 11.2 3.7 7.5-3.7 7.5-3.7V33c-1.2 1.3-3.5 3.1-7.5 3.1"/><path class="header__logo-star1" d="M92.2 0l-3.5 10.6H77.5l9 6.6L83 27.8l9.1-6.6 9.1 6.6-3.5-10.7 9-6.6H95.6"/><path class="header__logo-star2" d="M113.4 35.1l-3.5-10.6-3.5 10.6H95.2l9 6.6-3.5 10.6 9.1-6.6 9.1 6.6-3.5-10.6 9-6.6"/><path class="header__logo-star3" d="M127.7 0l-3.5 10.6H113l9 6.6-3.5 10.6 9.1-6.6 9.1 6.6-3.5-10.7 9-6.6H131"/><path class="header__logo-l-k" d="M7.6 60.3l-5.5 5.5v-5.5H.6v11.2h1.5v-3.9l1.8-1.8 4 5.6h1.9l-4.9-6.6 4.7-4.5"/><path class="header__logo-l-a" d="M15.2 63.6c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.2 3.1H14l1.2-3.3m-2.9 7.8l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2H15l-4.3 11.2h1.6z"/><path class="header__logo-l-n" d="M23.1 71.5V60.3h1.5l5.9 8.8v-8.8h1.4v11.2h-1.5l-5.9-8.8v8.8"/><path class="header__logo-l-t" d="M37.1 71.4v-9.8h-3.7v-1.3h8.8v1.3h-3.7v9.8"/><path class="header__logo-l-o" d="M45.4 62.4c.7-.7 1.6-1.1 2.7-1.1.7 0 1.4.2 2 .6.6.4 1 .9 1.3 1.6.3.7.5 1.5.5 2.4 0 1.4-.4 2.5-1.1 3.3-.7.8-1.6 1.2-2.7 1.2s-2-.4-2.7-1.2c-.7-.8-1.1-1.8-1.1-3.1 0-1.8.3-3 1.1-3.7m-2 6.3c.4.9 1 1.6 1.9 2.1.8.5 1.8.7 2.8.7 1 0 1.9-.2 2.7-.7.8-.4 1.5-1.1 1.9-2 .5-.9.7-1.9.7-3s-.2-2.1-.6-3c-.4-.9-1.1-1.6-1.9-2-.8-.5-1.7-.7-2.8-.7-1.6 0-2.8.5-3.8 1.6-1 1-1.5 2.5-1.5 4.3-.1.9.2 1.8.6 2.7"/><path class="header__logo-l-n" d="M55.4 71.4V60.3h1.5l5.9 8.8v-8.8h1.4v11.2h-1.5l-5.9-8.8v8.8"/><path class="header__logo-l-a" d="M75.9 63.6c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.2 3.1h-3.8l1.2-3.3M73 71.4l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2h-1.6l-4.3 11.2H73zm14.3-7.8c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.1 3.1H86l1.3-3.3m-2.8 7.8l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2h-1.6l-4.3 11.2h1.6z"/><path class="header__logo-l-r" d="M96 61.5h3.5c.8 0 1.4.2 1.8.5.4.3.6.8.6 1.3 0 .4-.1.7-.3 1-.2.3-.5.5-.9.7-.4.1-.9.2-1.6.2H96v-3.7m0 9.9v-5h1.7c.4 0 .7 0 .8.1.2.1.4.2.7.3.2.1.5.4.8.7.3.4.6.9 1.1 1.5l1.5 2.3h1.8l-1.9-3c-.4-.6-.8-1.1-1.2-1.5-.2-.2-.5-.4-.9-.6 1.1-.1 1.9-.5 2.4-1 .5-.6.8-1.2.8-2 0-.6-.2-1.2-.5-1.7s-.7-.9-1.2-1.1c-.5-.2-1.3-.3-2.3-.3h-4.9v11.2l1.3.1z"/><path class="header__logo-l-g" d="M110.8 67v-1.3h4.7v4.1c-.7.6-1.5 1-2.2 1.3-.8.3-1.5.4-2.4.4-1.1 0-2.1-.2-3-.7-.9-.5-1.6-1.1-2-2-.5-.9-.7-1.9-.7-2.9 0-1.1.2-2.1.7-3 .4-.9 1.1-1.6 1.9-2.1.8-.5 1.8-.7 2.9-.7.8 0 1.5.1 2.2.4.6.3 1.1.6 1.5 1.1.4.5.6 1.1.8 1.8l-1.3.4c-.2-.6-.4-1-.6-1.3-.2-.3-.6-.6-1.1-.8-.5-.2-1-.3-1.5-.3-.7 0-1.2.1-1.7.3-.5.2-.9.5-1.2.8-.3.3-.5.7-.7 1.1-.3.7-.4 1.4-.4 2.2 0 1 .2 1.8.5 2.5s.8 1.2 1.5 1.5c.6.3 1.3.5 2.1.5.6 0 1.3-.1 1.9-.4.6-.3 1.1-.5 1.4-.8V67h-3.3"/><path class="header__logo-l-a" d="M121 63.6c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.1 3.1h-3.8l1.3-3.3m-2.8 7.8l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2h-1.6l-4.3 11.2h1.6z"/><path class="header__logo-l-u" d="M135.2 60.3h1.5v6.4c0 1.1-.1 2-.4 2.6-.3.7-.7 1.2-1.4 1.6-.7.4-1.5.6-2.6.6-1 0-1.9-.2-2.6-.5-.7-.4-1.1-.9-1.4-1.5-.3-.7-.4-1.6-.4-2.8v-6.4h1.5v6.4c0 1 .1 1.7.3 2.1.2.5.5.8.9 1.1.4.2 1 .4 1.6.4 1.1 0 1.8-.2 2.3-.7.5-.5.7-1.4.7-2.8v-6.5"/></svg>
-            </a>
-            <a href="https://www.ag.ch" class="header__department">Kanton Aargau</a>
-          </div>
-        </div>
-      </header>
-      <main class="main" id="main">
-        <div class="pagesection">
-          <div class="pagesection__inner">
-            <div class="contentcol">
-              <h1 class="pagetitle">St&ouml;rung</h1>
-              <p class="leadtext">Das ReverseProxy System ist aktuell nicht verf&uuml;gbar.</p>
-              <p>Versuchen sie es bitte sp&auml;ter erneut oder wenden sie sich an den Service Desk der Informatik Aargau.</p>
-              <p>Besten Dank f&uuml;r Ihr Verst&aumlndnis<br>Kanton Aargau</p>
-            </div>
-          </div>
-        </div>
-      </main>
-      <footer class="footer" aria-label="Fusszeile">
-        <div class="footer__inner">
-          <a aria-label="Kanton Aargau Logo" class="footer__logo" href="https://www.ag.ch">
-            <span class="sprite sprite--ag-logo footer__logo-sprite">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.8 72"><title>Kanton Aargau Logo</title><path class="header__logo-wave-1" d="M8 15.5c3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7 2.5 0 3.7-.8 5.1-1.7 1.4-1 3-2 6.1-2 3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7s3.7-.8 5.1-1.7c1.4-1 3-2 6.1-2s4.7 1.1 6.1 2c1.4.9 2.6 1.7 5.1 1.7 5 0 7.5-3.8 7.5-3.8V2.5S69.6 6.2 64 6.2s-5.6-3.7-11.2-3.7-5.6 3.7-11.2 3.7S36 2.5 30.4 2.5s-5.6 3.7-11.2 3.7S13.6 2.5 8 2.5.5 6.2.5 6.2v12.3c1.2-1.2 3.5-3 7.5-3"/><path class="header__logo-wave-2" d="M8 30.4c3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7 2.5 0 3.7-.8 5.1-1.7 1.4-.9 3-2 6.1-2 3.1 0 4.7 1.1 6.1 2 1.4.9 2.6 1.7 5.1 1.7s3.7-.8 5.1-1.7c1.4-.9 3-2 6.1-2s4.7 1.1 6.1 2c1.4.9 2.6 1.7 5.1 1.7 5.1 0 7.5-3.8 7.5-3.8V18.1c-1.1 1.3-3.4 3.1-7.5 3.1-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7s-3.7.8-5.1 1.7c-1.4.9-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-2.5 0-3.7.8-5.1 1.7-1.4.9-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-5.2 0-7.5 3.8-7.5 3.8v12.2C1.7 32.2 4 30.4 8 30.4"/><path class="header__logo-wave-3" d="M64 36.1c-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-2.5 0-3.7.8-5.1 1.7-1.4 1-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.5-1.7-5.1-1.7-2.5 0-3.7.8-5.1 1.7-1.4 1-3 2-6.1 2-3.1 0-4.7-1.1-6.1-2-1.4-.9-2.6-1.7-5.1-1.7-5 0-7.5 3.8-7.5 3.8v12.9s1.9-3.7 7.5-3.7 5.6 3.7 11.2 3.7 5.6-3.7 11.2-3.7 5.6 3.7 11.2 3.7 5.6-3.7 11.2-3.7 5.6 3.7 11.2 3.7 7.5-3.7 7.5-3.7V33c-1.2 1.3-3.5 3.1-7.5 3.1"/><path class="header__logo-star1" d="M92.2 0l-3.5 10.6H77.5l9 6.6L83 27.8l9.1-6.6 9.1 6.6-3.5-10.7 9-6.6H95.6"/><path class="header__logo-star2" d="M113.4 35.1l-3.5-10.6-3.5 10.6H95.2l9 6.6-3.5 10.6 9.1-6.6 9.1 6.6-3.5-10.6 9-6.6"/><path class="header__logo-star3" d="M127.7 0l-3.5 10.6H113l9 6.6-3.5 10.6 9.1-6.6 9.1 6.6-3.5-10.7 9-6.6H131"/><path class="header__logo-l-k" d="M7.6 60.3l-5.5 5.5v-5.5H.6v11.2h1.5v-3.9l1.8-1.8 4 5.6h1.9l-4.9-6.6 4.7-4.5"/><path class="header__logo-l-a" d="M15.2 63.6c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.2 3.1H14l1.2-3.3m-2.9 7.8l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2H15l-4.3 11.2h1.6z"/><path class="header__logo-l-n" d="M23.1 71.5V60.3h1.5l5.9 8.8v-8.8h1.4v11.2h-1.5l-5.9-8.8v8.8"/><path class="header__logo-l-t" d="M37.1 71.4v-9.8h-3.7v-1.3h8.8v1.3h-3.7v9.8"/><path class="header__logo-l-o" d="M45.4 62.4c.7-.7 1.6-1.1 2.7-1.1.7 0 1.4.2 2 .6.6.4 1 .9 1.3 1.6.3.7.5 1.5.5 2.4 0 1.4-.4 2.5-1.1 3.3-.7.8-1.6 1.2-2.7 1.2s-2-.4-2.7-1.2c-.7-.8-1.1-1.8-1.1-3.1 0-1.8.3-3 1.1-3.7m-2 6.3c.4.9 1 1.6 1.9 2.1.8.5 1.8.7 2.8.7 1 0 1.9-.2 2.7-.7.8-.4 1.5-1.1 1.9-2 .5-.9.7-1.9.7-3s-.2-2.1-.6-3c-.4-.9-1.1-1.6-1.9-2-.8-.5-1.7-.7-2.8-.7-1.6 0-2.8.5-3.8 1.6-1 1-1.5 2.5-1.5 4.3-.1.9.2 1.8.6 2.7"/><path class="header__logo-l-n" d="M55.4 71.4V60.3h1.5l5.9 8.8v-8.8h1.4v11.2h-1.5l-5.9-8.8v8.8"/><path class="header__logo-l-a" d="M75.9 63.6c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.2 3.1h-3.8l1.2-3.3M73 71.4l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2h-1.6l-4.3 11.2H73zm14.3-7.8c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.1 3.1H86l1.3-3.3m-2.8 7.8l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2h-1.6l-4.3 11.2h1.6z"/><path class="header__logo-l-r" d="M96 61.5h3.5c.8 0 1.4.2 1.8.5.4.3.6.8.6 1.3 0 .4-.1.7-.3 1-.2.3-.5.5-.9.7-.4.1-.9.2-1.6.2H96v-3.7m0 9.9v-5h1.7c.4 0 .7 0 .8.1.2.1.4.2.7.3.2.1.5.4.8.7.3.4.6.9 1.1 1.5l1.5 2.3h1.8l-1.9-3c-.4-.6-.8-1.1-1.2-1.5-.2-.2-.5-.4-.9-.6 1.1-.1 1.9-.5 2.4-1 .5-.6.8-1.2.8-2 0-.6-.2-1.2-.5-1.7s-.7-.9-1.2-1.1c-.5-.2-1.3-.3-2.3-.3h-4.9v11.2l1.3.1z"/><path class="header__logo-l-g" d="M110.8 67v-1.3h4.7v4.1c-.7.6-1.5 1-2.2 1.3-.8.3-1.5.4-2.4.4-1.1 0-2.1-.2-3-.7-.9-.5-1.6-1.1-2-2-.5-.9-.7-1.9-.7-2.9 0-1.1.2-2.1.7-3 .4-.9 1.1-1.6 1.9-2.1.8-.5 1.8-.7 2.9-.7.8 0 1.5.1 2.2.4.6.3 1.1.6 1.5 1.1.4.5.6 1.1.8 1.8l-1.3.4c-.2-.6-.4-1-.6-1.3-.2-.3-.6-.6-1.1-.8-.5-.2-1-.3-1.5-.3-.7 0-1.2.1-1.7.3-.5.2-.9.5-1.2.8-.3.3-.5.7-.7 1.1-.3.7-.4 1.4-.4 2.2 0 1 .2 1.8.5 2.5s.8 1.2 1.5 1.5c.6.3 1.3.5 2.1.5.6 0 1.3-.1 1.9-.4.6-.3 1.1-.5 1.4-.8V67h-3.3"/><path class="header__logo-l-a" d="M121 63.6c.3-.7.5-1.4.6-2.1.2.6.4 1.4.8 2.3l1.1 3.1h-3.8l1.3-3.3m-2.8 7.8l1.2-3.4h4.7l1.3 3.4h1.7l-4.6-11.2h-1.6l-4.3 11.2h1.6z"/><path class="header__logo-l-u" d="M135.2 60.3h1.5v6.4c0 1.1-.1 2-.4 2.6-.3.7-.7 1.2-1.4 1.6-.7.4-1.5.6-2.6.6-1 0-1.9-.2-2.6-.5-.7-.4-1.1-.9-1.4-1.5-.3-.7-.4-1.6-.4-2.8v-6.4h1.5v6.4c0 1 .1 1.7.3 2.1.2.5.5.8.9 1.1.4.2 1 .4 1.6.4 1.1 0 1.8-.2 2.3-.7.5-.5.7-1.4.7-2.8v-6.5"/></svg>
-            </span>
-          </a>
-          <div class="footer__row">
-            <div class="footer__section footer__section--third">
-              <h2 class="footer__heading">Kontakt</h2>
-              <ul class="footer__navigation">
-                <li class="footer__navigation-item">
-                  <div class="footer__richtext">
-                    <p><strong>Staatskanzlei</strong><br>Regierungsgeb&auml;ude<br>5000 Aarau</p>
-                    <p><a href="tel:+41628353535" class="link" title="Telefonnummer +41 (0)62 835 35 35 anrufen">+41 (0)62 835 35 35</a></p>
-                    <p><a href="mailto:info@ag.ch" class="link" title="E-Mail an info@ag.ch senden">E-Mail</a></p>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="footer__imprint">
-          <div class="footer__imprint-inner">
-            <span class="footer__copyright">&copy; Kanton Aargau 2022 - WAF</span>
-          </div>
-        </div>
-      </footer>
-    </div>
-  </body>
-</html>
-      
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="AG" VERSION="2.3">
+<MODELS>
+<MODEL NAME="IliRepository09" VERSION="2012-02-20" URI="mailto:ce@eisenhutinformatik.ch"/>
+</MODELS>
+</HEADERSECTION>
+<DATASECTION>
+<!-- ===================================================================== -->
+<!-- Modelle der Abteilung Raumentwicklung ARE -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="ARE">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Schnittstellenmodell_ARE_AG_LV95">
+<Name>Schnittstellenmodell_ARE_AG_LV95</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>ARE/DNP_Geobasisdatenmodell.ili</File>
+<Version>2023-08-15</Version>
+<publishingDate>2023-09-08</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+<!-- ===================================================================== -->
+<!-- Modelle der Abteilung Umwelt AFU -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="AFU">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Abwasserkataster_AG">
+<Name>Abwasserkataster_AG_V2_LV95</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>AFU/Abwasserkataster_AG_V21_2023-04-21_IL23.ili</File>
+                <Version>2.1.0 vom 21.4.2023</Version>
+                <publishingDate>2023-04-21</publishingDate>
+				<Issuer>https://models.geo.ag.ch</Issuer>
+                <technicalContact>mailto:geoportal@ag.ch</technicalContact>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Genereller_Entwaesserungsplan_AG">
+<Name>Genereller_Entwaesserungsplan_AG</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>AFU/Genereller_Entwaesserungsplan_AG_V20_2023-04-21_IL23.ili</File>
+                <Version>2.0.0 vom 21.04.2023</Version>
+                <publishingDate>2023-04-21</publishingDate>
+				 <Issuer>https://models.geo.ag.ch</Issuer>
+                <technicalContact>mailto:geoportal@ag.ch</technicalContact>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>SIA405_Base_LV95</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+<!-- ===================================================================== -->
+<!-- Modelle des Vermessungsamts ARPVA -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="ARPVA">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="DM01AVAG25LV95">
+<Name>DM01AVAG25LV95</Name>
+<SchemaLanguage>ili1</SchemaLanguage>
+<File>ARPVA/DM01AVAG25LV95.ili</File>
+<Version>2011-12-01</Version>
+<publishingDate>2019-08-19</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="MOpublic95_ili1">
+<Name>MOpublic95_ili1</Name>
+<SchemaLanguage>ili1</SchemaLanguage>
+<File>ARPVA/MOpublic95_ili1.ili</File>
+<Version>2013-02-01</Version>
+<publishingDate>2013-02-01</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+</DATASECTION>
+</TRANSFER>
