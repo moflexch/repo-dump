@@ -1513,15 +1513,26 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>fb35188701e215c67552441c30ef5eec</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_geologische_Berichte_Umwelt_V2.ili">
+        <Name>SZ_geologische_Berichte_Umwelt_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFU/SZ_geologische_Berichte_Umwelt_V2.ili</File>
+        <Version>2023-03-01</Version>
+        <publishingDate>2024-08-29</publishingDate>
+        <Title>Datenmodell für geologische Berichte des Zuständigkeitsgebietes des AFU (Amt für Umwelt und Energie)</Title>
+        <shortDescription>Die geologischen Bereicht führen Informationen zu verschiedene Untersuchungen, wie z.B. Bohrungen</shortDescription>
+        <Issuer>http://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>4EC462407ED92C4A88CE750E24F4DEC4</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Bohrdaten_V1">
         <Name>SZ_Bohrdaten_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_Bohrdaten_V1.ili</File>
+        <File>AFU/replaced/SZ_Bohrdaten_V1.ili</File>
         <Version>2020-06-29</Version>
         <publishingDate>2020-06-30</publishingDate>
         <Title>Datenmodell zur Bewirtschaftung von Bohrdaten</Title>
-        <shortDescription>Die Bohrdaten werden in Form von geologischen Berichten
-          geführt</shortDescription>
+        <shortDescription>Die Bohrdaten werden in Form von geologischen Berichten geführt</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>D41AFA68DEE734CAAC6542D405E9FE9F</md5>
