@@ -354,11 +354,11 @@
             <!--  Gebaeude_Anlagen                  BS007xxx       -->
             <!--  ===============================================  -->
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS007001">
-                <Name>HB_Hochbauprojekte_KGDM_V1_0_LV95</Name>
+                <Name>HB_Hochbauprojekte_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gebaeude_Anlagen/HB_Hochbauprojekte_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-01-15</Version>
-                <publishingDate>2018-06-04</publishingDate>
+                <File>Gebaeude_Anlagen/HB_Hochbauprojekte_KGDM_V2_0_LV95.ili</File>
+                <Version>2024-08-08</Version>
+                <publishingDate>2024-09-03</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -366,7 +366,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>1abf03c513243d6c6e0f6b25e68e4d7f</md5>
+                <md5>fabd9da8694ed37cfa11ff5c565daf68</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS007002">
                 <Name>ZU_HeizzentralenUnterstationenSchluesselrohre_KGDM_V1_0_LV95</Name>
@@ -681,11 +681,11 @@
                 <md5>6029389ba510a8fb7bf50a60da3ffacb</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="BS010006">
-                <Name>IK_UebertragbareKrankheiten_KGDM_V1_1_LV95</Name>
+                <Name>IK_UebertragbareKrankheiten_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gesundheit/IK_UebertragbareKrankheiten_KGDM_V1_1_LV95.ili</File>
-                <Version>2023-10-12</Version>
-                <publishingDate>2023-11-07</publishingDate>
+                <File>Gesundheit/IK_UebertragbareKrankheiten_KGDM_V2_0_LV95.ili</File>
+                <Version>2024-07-17</Version>
+                <publishingDate>2024-09-03</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -693,7 +693,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>6e63f4ff58c8a9ad0f95100a8e1b4f9f</md5>
+                <md5>55aa5fb00503e53818c2d7ca56060e6e</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gewaesser                         BS011xxx       -->
@@ -1066,6 +1066,21 @@
             <!--  ===============================================  -->
             <!--  Landwirtschaft                    BS016xxx       -->
             <!--  ===============================================  -->
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS016001">
+                <Name>WY_Landwirtschaft_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Landwirtschaft/WY_Landwirtschaft_KGDM_V1_0_LV95.ili</File>
+                <Version>2024-08-08</Version>
+                <publishingDate>2024-09-03</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>925ed704a47c6cd00fc9504e020f56f5</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Leitungskataster                  BS017xxx       -->
             <!--  ===============================================  -->
@@ -1668,11 +1683,11 @@
                 <md5>ea94df295ce27f54ce5d1824093afb2a</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024005">
-                <Name>HS_Hundesignalisation_KGDM_V1_0_LV95</Name>
+                <Name>HS_Hundesignalisation_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Umweltschutz_Laerm/HS_Hundesignalisation_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-05-30</Version>
-                <publishingDate>2022-07-05</publishingDate>
+                <File>Umweltschutz_Laerm/HS_Hundesignalisation_KGDM_V2_0_LV95.ili</File>
+                <Version>2024-08-15</Version>
+                <publishingDate>2024-09-03</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -1680,7 +1695,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>3410657fc6683e70281fd1f7aa86d7ff</md5>
+                <md5>99affb4aa1dc786daad2d1e97492f340</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024007">
                 <Name>BP_Boulevardplan_KGDM_V2_0_LV95</Name>
