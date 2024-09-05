@@ -608,10 +608,23 @@
 
             <!--  ===============================================  -->
             <!--  Amt für Strassen- und Schiffsverkehr [ASSV]      -->
-
-
-            <!--  ===============================================  -->
-            <!--  Amt für Strassen- und Schiffsverkehr [ASSV]      -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ASSV001">
+                <Name>Schiffsstandplaetze_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ASSV/Schiffsstandplaetze_UR_V1.ili</File>
+                <Version>2024-08-26</Version>
+                <publishingDate>2024-09-05</publishingDate>
+				<dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>55-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schiffsstandplaetze_UR_V1.pdf</furtherInformation>
+                <md5>2c2dab493acbe6d872c703770e79de3c</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
 
 
             <!--  ===============================================  -->
