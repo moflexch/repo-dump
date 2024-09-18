@@ -16519,7 +16519,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004488">
       <Name>ERKAS_Strassen_Karte_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/ERKAS_Strassen_V2_0.ili</File>
+      <File>obsolete/ERKAS_Strassen_V2_0_o1.ili</File>
       <Version>2021-10-11</Version>
       <publishingDate>2021-12-10</publishingDate>
       <dependsOnModel>
@@ -16537,7 +16537,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004489">
       <Name>ERKAS_Strassen_Kataster_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/ERKAS_Strassen_V2_0.ili</File>
+      <File>obsolete/ERKAS_Strassen_V2_0_o1.ili</File>
       <Version>2021-12-23</Version>
       <publishingDate>2022-01-03</publishingDate>
       <dependsOnModel>
@@ -18273,6 +18273,43 @@
       <md5>fcaf7fbe5c0fb77ec2ad127bac6f18e0</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004556">
+      <Name>ERKAS_Strassen_Karte_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/ERKAS_Strassen_V2_0.ili</File>
+      <Version>2023-12-13</Version>
+      <publishingDate>2024-09-18</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2021-10-11</precursorVersion>
+      <Tags>210.2,211.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>88b62a7a32ab7c984504b2a775008070</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004557">
+      <Name>ERKAS_Strassen_Kataster_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/ERKAS_Strassen_V2_0.ili</File>
+      <Version>2024-09-03</Version>
+      <publishingDate>2024-09-18</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2021-12-23</precursorVersion>
+      <Tags>113.2,204.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>88b62a7a32ab7c984504b2a775008070</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
@@ -30101,7 +30138,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="019126">
       <Name>FPDatenservice_DM</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>Swisstopo/FPDatenservice_DM.ili</File>
+      <File>Swisstopo/replaced/FPDatenservice_DM.ili</File>
       <Version>2022-11-08</Version>
       <publishingDate>2022-11-08</publishingDate>
       <dependsOnModel>
@@ -32051,6 +32088,29 @@
       <md5>e502914386a54ee640310dc98117fc5c</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519002">
+      <Name>FixpunkteLV_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/FixpunkteLV_V1_0.ili</File>
+      <Version>2024-02-13</Version>
+      <publishingDate>2024-09-18</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometrie_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualitaet_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/schweizerische-bezugssysteme</furtherInformation>
+      <md5>081d01a1cb9340c493d884b20fe21753</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- V_D D_M D_M FDCS                                             520xxx -->
 
@@ -33776,6 +33836,46 @@
       <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
       <md5>751e7f64eae8023e49c2549a7987713c</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520068">
+      <Name>AMO_Grafik_LV95_e_V2_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/AMO_Grafik_LV95_e_V2_0.ili</File>
+      <Version>2025-01-01</Version>
+      <publishingDate>2024-09-18</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:amo@swisstopo.ch</technicalContact>
+      <furtherInformation>http://www.cadastre.ch</furtherInformation>
+      <md5>bd1f8f4535b0a010df0d5a2b85f92842</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+    
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520069">
+      <Name>AMO_Grafik_LV95_PNF_V2_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/AMO_Grafik_LV95_PNF_V2_0.ili</File>
+      <Version>2025-01-01</Version>
+      <publishingDate>2024-09-18</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:amo@swisstopo.ch</technicalContact>
+      <furtherInformation>http://www.cadastre.ch</furtherInformation>
+      <md5>112a9585bcc2e3261b2fcc28c1d494f2</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
     
 <!-- =================================================================== -->
