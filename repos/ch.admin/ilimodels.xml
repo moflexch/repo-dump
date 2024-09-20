@@ -32657,7 +32657,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520023">
       <Name>DMAV_Bodenbedeckung_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_Bodenbedeckung_V1_0.ili</File>
+      <File>obsolete/DMAV_Bodenbedeckung_V1_0_o1.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -32710,7 +32710,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520025">
       <Name>DMAV_Dienstbarkeitsgrenzen_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_Dienstbarkeitsgrenzen_V1_0.ili</File>
+      <File>obsolete/DMAV_Dienstbarkeitsgrenzen_V1_0_o1.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -32831,7 +32831,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520029">
       <Name>DMAV_FixpunkteLV_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_FixpunkteLV_V1_0.ili</File>
+      <File>obsolete/DMAV_FixpunkteLV_V1_0_o1.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -32917,7 +32917,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520032">
       <Name>DMAV_HoheitsgrenzenAV_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_HoheitsgrenzenAV_V1_0.ili</File>
+      <File>obsolete/DMAV_HoheitsgrenzenAV_V1_0_o1.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -33037,7 +33037,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520037">
       <Name>DMAV_Toleranzstufen_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_Toleranzstufen_V1_0.ili</File>
+      <File>obsolete/DMAV_Toleranzstufen_V1_0_o1.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -33230,7 +33230,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520046">
       <Name>DMAV_CouvertureDuSol_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_CouvertureDuSol_V1_0.ili</File>
+      <File>obsolete/DMAV_CouvertureDuSol_V1_0_o0.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-08-26</publishingDate>
       <dependsOnModel>
@@ -33287,7 +33287,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520048">
       <Name>DMAV_AssiettesDeServitudes_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_AssiettesDeServitudes_V1_0.ili</File>
+      <File>obsolete/DMAV_AssiettesDeServitudes_V1_0_o0.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-08-26</publishingDate>
       <dependsOnModel>
@@ -33416,7 +33416,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520052">
       <Name>DMAV_PointsFixesMN_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_PointsFixesMN_V1_0.ili</File>
+      <File>obsolete/DMAV_PointsFixesMN_V1_0_o0.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-08-26</publishingDate>
       <dependsOnModel>
@@ -33508,7 +33508,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520055">
       <Name>DMAV_LimitesTerritorialesMO_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_LimitesTerritorialesMO_V1_0.ili</File>
+      <File>obsolete/DMAV_LimitesTerritorialesMO_V1_0_o0.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-08-26</publishingDate>
       <dependsOnModel>
@@ -33638,7 +33638,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520060">
       <Name>DMAV_NiveauxTolerance_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>V_D/DMAV_NiveauxTolerance_V1_0.ili</File>
+      <File>obsolete/DMAV_NiveauxTolerance_V1_0_o0.ili</File>
       <Version>2024-05-15</Version>
       <publishingDate>2024-08-26</publishingDate>
       <dependsOnModel>
@@ -33876,6 +33876,269 @@
       <technicalContact>mailto:amo@swisstopo.ch</technicalContact>
       <furtherInformation>http://www.cadastre.ch</furtherInformation>
       <md5>112a9585bcc2e3261b2fcc28c1d494f2</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520070">
+      <Name>DMAV_Bodenbedeckung_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_Bodenbedeckung_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometrie_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Modinfo_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualitaet_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Grafik_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.8</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>18d2d4480240d4204c62f8b1d99e96f6</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520071">
+      <Name>DMAV_CouvertureDuSol_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_CouvertureDuSol_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>DMAV_Bodenbedeckung_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_GeometrieFR_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_ModinfoFR_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualite_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Grafique_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.8</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>96cfe4f040211d704584990a68771a72</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520072">
+      <Name>DMAV_Dienstbarkeitsgrenzen_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_Dienstbarkeitsgrenzen_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometrie_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Grafik_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.5</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>d303ac48be5d9c2aef5f47248f4107e4</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520073">
+      <Name>DMAV_AssiettesDeServitudes_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_AssiettesDeServitudes_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>DMAV_Dienstbarkeitsgrenzen_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_GeometrieFR_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Grafique_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.5</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>7b6cf55d2188617be678deb92a7bd424</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520074">
+      <Name>DMAV_FixpunkteLV_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_FixpunkteLV_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometrie_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualitaet_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>7f730c43703f6e572d6126820a6eb895</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520075">
+      <Name>DMAV_PointsFixesMN_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_PointsFixesMN_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>DMAV_FixpunkteLV_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_GeometrieFR_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualite_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>1b397b5f8717ec210f9b7e785e4e9445</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520076">
+      <Name>DMAV_HoheitsgrenzenAV_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_HoheitsgrenzenAV_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Topologie_V1_0</value>
+        </IliRepository20.ModelName_>
+     </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.3</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>254acbbab2d2ea9fddfe650b0a0b9b23</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520077">
+      <Name>DMAV_LimitesTerritorialesMO_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_LimitesTerritorialesMO_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>DMAV_HoheitsgrenzenAV_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Topologie_V1_0</value>
+        </IliRepository20.ModelName_>
+     </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.3</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>a24f1e50c575d97d48c5ab1ec335209b</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520078">
+      <Name>DMAV_Toleranzstufen_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_Toleranzstufen_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+     </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.11</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>56f694be193281c123f3218c0932a507</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="520079">
+      <Name>DMAV_NiveauxTolerance_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>V_D/DMAV_NiveauxTolerance_V1_0.ili</File>
+      <Version>2024-09-20</Version>
+      <publishingDate>2024-09-20</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>DMAV_Toleranzstufen_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+     </dependsOnModel>
+      <precursorVersion>2024-05-15</precursorVersion>
+      <Tags>228.11</Tags>
+      <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
+      <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
+      <md5>e03a291e7a1cda4acaf17e8b6cc35c3b</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
     
 <!-- =================================================================== -->
