@@ -18,6 +18,11 @@
             <value>http://models.geo.kgk-cgc.ch/</value>
           </IliSite09.RepositoryLocation_>
         </parentSite>
+        <subsidiarySite>
+          <IliSite09.RepositoryLocation_>
+            <value>https://models.geo.ar.ch/Toppings/</value>
+          </IliSite09.RepositoryLocation_>
+        </subsidiarySite>
       </IliSite09.SiteMetadata.Site>
     </IliSite09.SiteMetadata>
   </DATASECTION>
