@@ -18006,7 +18006,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004546">
       <Name>Hydrologische_Messnetze_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Hydrologische_Messnetze_V1_1.ili</File>
+      <File>obsolete/Hydrologische_Messnetze_V1_1_o0.ili</File>
       <Version>2023-12-19</Version>
       <publishingDate>2024-01-24</publishingDate>
       <dependsOnModel>
@@ -18310,6 +18310,41 @@
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>88b62a7a32ab7c984504b2a775008070</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004558">
+      <Name>Hydrologische_Messnetze_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Hydrologische_Messnetze_V1_1.ili</File>
+      <Version>2024-09-26</Version>
+      <publishingDate>2024-10-10</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CodeISO</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2023-12-19</precursorVersion>
+      <Tags>133.4,135.2,135.3</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>97deae698e40ef97bc3fa2272a973a57</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
