@@ -2026,6 +2026,18 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Raumentwicklung ARE-->
       <!--==================================================-->
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Richtplan_V1">
+        <Name>SZ_Richtplan_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/SZ_Richtplan_V1.ili</File>
+        <Version>2024-02-21</Version>
+        <publishingDate>2024-10-15</publishingDate>
+        <Title>Richtplan kantonal</Title>
+        <shortDescription>Dieses Modell dient der Datenerfassung der Elemente für den kantonalen Richtplan</shortDescription>
+        <Issuer>http://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>1D83D82C4299FA3A85896E263255327C</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Nutzungsplanung_kantonal_Siedlung_V2">
         <Name>SZ_Nutzungsplanung_kantonal_Siedlung_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
