@@ -3730,7 +3730,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="001078">
       <Name>Zones_reservees_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>ARE/Zones_reservees_V1_1.ili</File>
+      <File>obsolete/Zones_reservees_V1_1_o2.ili</File>
       <Version>2023-03-20</Version>
       <publishingDate>2023-03-31</publishingDate>
       <dependsOnModel>
@@ -3761,7 +3761,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="001079">
       <Name>ZoneDiPianificazione_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>ARE/ZoneDiPianificazione_V1_1.ili</File>
+      <File>obsolete/ZoneDiPianificazione_V1_1_o2.ili</File>
       <Version>2023-03-20</Version>
       <publishingDate>2023-03-31</publishingDate>
       <dependsOnModel>
@@ -3877,6 +3877,68 @@
       <technicalContact>mailto:info@are.admin.ch</technicalContact>
       <furtherInformation>https://www.are.admin.ch/mgm</furtherInformation>
       <md5>f7ca73e988fdfa0a3e54334158fc0547</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="001083">
+      <Name>Zones_reservees_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>ARE/Zones_reservees_V1_1.ili</File>
+      <Version>2024-10-14</Version>
+      <publishingDate>2024-10-16</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Planungszonen_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InternationalCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2023-03-20</precursorVersion>
+      <Tags>76.1</Tags>
+      <Issuer>https://models.geo.admin.ch/ARE/</Issuer>
+      <technicalContact>mailto:info@are.admin.ch</technicalContact>
+      <furtherInformation>https://www.are.admin.ch/mgm</furtherInformation>
+      <md5>54ffe1a0e8ae87dd4e2ce4cab61823a2</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="001084">
+      <Name>ZoneDiPianificazione_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>ARE/ZoneDiPianificazione_V1_1.ili</File>
+      <Version>2024-10-14</Version>
+      <publishingDate>2024-10-16</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Planungszonen_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InternationalCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2023-03-20</precursorVersion>
+      <Tags>76.1</Tags>
+      <Issuer>https://models.geo.admin.ch/ARE/</Issuer>
+      <technicalContact>mailto:info@are.admin.ch</technicalContact>
+      <furtherInformation>https://www.are.admin.ch/mgm</furtherInformation>
+      <md5>7ed5429def6f006d3f565154d7a269ea</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
