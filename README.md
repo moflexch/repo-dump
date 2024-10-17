@@ -1,7 +1,7 @@
-# Status at 2024-10-17 13:46
+# Status at 2024-10-17 19:46
 |Site|ilisite.xml|ilimodels.xml|ilidata.xml|
 |---|---|---|---|
-|[ch.sia](https://405.sia.ch/models/)|:black_square_button: ([000](https://405.sia.ch/models/ilisite.xml))|:black_square_button: ([000](https://405.sia.ch/models/ilimodels.xml))|:black_square_button: ([000](https://405.sia.ch/models/ilidata.xml))|
+|[ch.sia](https://405.sia.ch/models/)|:white_check_mark: ([200](https://405.sia.ch/models/ilisite.xml))|:white_check_mark: ([200](https://405.sia.ch/models/ilimodels.xml))|:black_square_button: ([404](https://405.sia.ch/models/ilidata.xml))|
 |[ch.admin](https://models.geo.admin.ch/)|:white_check_mark: ([200](https://models.geo.admin.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.admin.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.geo.admin.ch/ilidata.xml))|
 |[ch.ag](https://models.geo.ag.ch/)|:white_check_mark: ([200](https://models.geo.ag.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.ag.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.ag.ch/ilidata.xml))|
 |[ch.ai](http://models.geo.ai.ch/)|:white_check_mark: ([200](http://models.geo.ai.ch/ilisite.xml))|:white_check_mark: ([200](http://models.geo.ai.ch/ilimodels.xml))|:black_square_button: ([404](http://models.geo.ai.ch/ilidata.xml))|
@@ -21,7 +21,7 @@
 |[ch.lisag](https://webgis.lisag.ch/models/)|:white_check_mark: ([200](https://webgis.lisag.ch/models/ilisite.xml))|:white_check_mark: ([200](https://webgis.lisag.ch/models/ilimodels.xml))|:white_check_mark: ([200](https://webgis.lisag.ch/models/ilidata.xml))|
 |[ch.zg](https://models.geo.zg.ch/)|:white_check_mark: ([200](https://models.geo.zg.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.zg.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.zg.ch/ilidata.xml))|
 |[ch.zh](http://models.geo.zh.ch/)|:white_check_mark: ([200](http://models.geo.zh.ch/ilisite.xml))|:white_check_mark: ([200](http://models.geo.zh.ch/ilimodels.xml))|:white_check_mark: ([200](http://models.geo.zh.ch/ilidata.xml))|
-|[ch.interlis](http://models.interlis.ch/)|:white_check_mark: ([200](http://models.interlis.ch/ilisite.xml))|:white_check_mark: ([200](http://models.interlis.ch/ilimodels.xml))|:black_square_button: ([404](http://models.interlis.ch/ilidata.xml))|
+|[ch.interlis](http://models.interlis.ch/)|:black_square_button: ([000](http://models.interlis.ch/ilisite.xml))|:white_check_mark: ([200](http://models.interlis.ch/ilimodels.xml))|:black_square_button: ([404](http://models.interlis.ch/ilidata.xml))|
 |[ch.kgk-cgc](https://models.kgk-cgc.ch/)|:white_check_mark: ([200](https://models.kgk-cgc.ch/ilisite.xml))|:white_check_mark: ([200](https://models.kgk-cgc.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.kgk-cgc.ch/ilidata.xml))|
 |[ch.vsa](https://vsa.ch/models/)|:white_check_mark: ([200](https://vsa.ch/models/ilisite.xml))|:white_check_mark: ([200](https://vsa.ch/models/ilimodels.xml))|:white_check_mark: ([200](https://vsa.ch/models/ilidata.xml))|
 |[li.llv](https://models.geo.llv.li/)|:white_check_mark: ([200](https://models.geo.llv.li/ilisite.xml))|:white_check_mark: ([200](https://models.geo.llv.li/ilimodels.xml))|:black_square_button: ([404](https://models.geo.llv.li/ilidata.xml))|
