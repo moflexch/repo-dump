@@ -8654,7 +8654,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004161">
       <Name>Grundwasservorkommen_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Grundwasservorkommen_V1.ili</File>
+      <File>BAFU/replaced/Grundwasservorkommen_V1.ili</File>
       <Version>2016-11-22</Version>
       <publishingDate>2017-01-17</publishingDate>
       <dependsOnModel>
@@ -8672,7 +8672,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004162">
       <Name>Grundwasservorkommen_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Grundwasservorkommen_V1.ili</File>
+      <File>BAFU/replaced/Grundwasservorkommen_V1.ili</File>
       <Version>2016-11-22</Version>
       <publishingDate>2017-01-17</publishingDate>
       <dependsOnModel>
@@ -18377,8 +18377,8 @@
       <Name>Hydrologische_Messnetze_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
       <File>BAFU/Hydrologische_Messnetze_V1_1.ili</File>
-      <Version>2024-09-26</Version>
-      <publishingDate>2024-10-10</publishingDate>
+      <Version>2024-10-29</Version>
+      <publishingDate>2024-11-01</publishingDate>
       <dependsOnModel>
         <IliRepository09.ModelName_>
           <value>LocalisationCH_V1</value>
@@ -18404,9 +18404,8 @@
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
-      <md5>97deae698e40ef97bc3fa2272a973a57</md5>
+      <md5>95caaf189b8f1c7bf8112e616ed333b4</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
-
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
@@ -32118,6 +32117,24 @@
 
 <!-- =================================================================== -->
 <!-- BAFU OFEV UFAM FOEN                                          504xxx -->
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="504001">
+      <Name>Grundwasservorkommen_V2_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAFU/Grundwasservorkommen_V2_0.ili</File>
+      <Version>2024-10-15</Version>
+      <publishingDate>2024-11-04</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>139.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>7bd762d869cb217c02f051da005669ec</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           505xxx -->
