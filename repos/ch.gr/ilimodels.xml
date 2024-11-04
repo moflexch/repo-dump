@@ -121,7 +121,7 @@
 	<IliRepository09.RepositoryIndex.ModelMetadata TID="5">
 		<Name>PlanerischerGewaesserschutz_LV95_V1_1_GR</Name>
 		<SchemaLanguage>ili2_3</SchemaLanguage>
-		<File>2_Natur_und_Umwelt/L_Umweltschutz_Naturschutz/PlanerischerGewaesserschutz_V1_1_GR.ili</File>
+		<File>2_Natur_und_Umwelt/L_Umweltschutz_Naturschutz/replaced/PlanerischerGewaesserschutz_V1_1_GR.ili</File>
 		<Version>2017-06-20</Version>
 		<publishingDate>2021-01-22</publishingDate>
 		<dependsOnModel>
@@ -221,6 +221,33 @@
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>6eba635b6cdd12e97875ea8ced09ffeb</md5>
+	</IliRepository09.RepositoryIndex.ModelMetadata>
+    
+	<IliRepository09.RepositoryIndex.ModelMetadata TID="9">
+		<Name>PlanerischerGewaesserschutz_V1_2_GR</Name>
+		<SchemaLanguage>ili2_3</SchemaLanguage>
+		<File>2_Natur_und_Umwelt/L_Umweltschutz_Naturschutz/replaced/PlanerischerGewaesserschutz_V1_2_GR.ili</File>
+		<Version>2023-08-30</Version>
+		<publishingDate>2024-11-04</publishingDate>
+		<dependsOnModel>
+		  <IliRepository09.ModelName_>
+		    <value>LocalisationCH_V1</value>
+		  </IliRepository09.ModelName_>
+		  <IliRepository09.ModelName_>
+		    <value>CHAdminCodes_V1</value>
+		  </IliRepository09.ModelName_>
+		  <IliRepository09.ModelName_>
+		    <value>Units</value>
+		  </IliRepository09.ModelName_>
+		  <IliRepository09.ModelName_>
+		    <value>GeometryCHLV95_V1</value>
+		  </IliRepository09.ModelName_>
+		</dependsOnModel>
+		<Tags/>
+		<Issuer>http://geo.gr.ch</Issuer>
+		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
+		<furtherInformation>http://geo.gr.ch</furtherInformation>
+		<md5>23b7403318e75a2dacdc8f6175709c98</md5>
 	</IliRepository09.RepositoryIndex.ModelMetadata>
 
 	<IliRepository09.RepositoryIndex.ModelMetadata TID="NUP000">
