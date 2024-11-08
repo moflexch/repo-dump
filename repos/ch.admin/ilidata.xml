@@ -13056,7 +13056,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BLW/Orchards_Catalogue_V1.xml</path>
+                <path>BLW/replaced/Orchards_Catalogue_V1_20231107.xml</path>
                 <md5>d95404843f3584887e559e4f478408aa</md5>
               </DatasetIdx16.File>
             </file>
@@ -13720,7 +13720,56 @@
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
-
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="255">
+        <id>ch.admin.geo.models.Orchards_Catalogue_V1_20241031</id>
+        <version>2024-10-31</version>
+        <precursorVersion>2023-11-07</precursorVersion>
+        <publishingDate>2024-11-08</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BLW Orchards_Catalogue_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/Orchards_V1</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+        <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/minimale-geodatenmodelle.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BLW/Orchards_Catalogue_V1.xml</path>
+                <md5>7065919b3f139b4f8686dbfb1641d145</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-10-31</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>fruitType_Catalogue_V1.Codelists</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.blw.orchards_catalogue_v1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      
     </DatasetIdx16.DataIndex>
   </DATASECTION>
 </TRANSFER>
