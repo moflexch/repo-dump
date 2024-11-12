@@ -13102,7 +13102,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BLW/LWB_Nutzungsflaechen_Kataloge_V2_0.xml</path>
+                <path>BLW/replaced/LWB_Nutzungsflaechen_Kataloge_V2_0_20231107.xml</path>
                 <md5>63c79dd5ae4fd28d610acb5db9e8f719</md5>
               </DatasetIdx16.File>
             </file>
@@ -13766,6 +13766,52 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.blw.orchards_catalogue_v1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="256">
+        <id>ch.admin.geo.models.LWB_Nutzungsflaechen_Kataloge_V2_0_20241031</id>
+        <version>2024-10-31</version>
+        <precursorVersion>2023-11-07</precursorVersion>
+        <publishingDate>2024-11-12</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BLW LWB_Nutzungsflaechen_Kataloge_V2_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+        <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/landwirtschaftliche-kulturflaechen.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BLW/LWB_Nutzungsflaechen_Kataloge_V2_0.xml</path>
+                <md5>129e16fd3d30d91a343604d845ff59c6</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-10-31</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>LWB_Nutzungsflaechen_V2_0.LNF_Kataloge</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.blw.lwb_nutzungsflaechen_kataloge_v2_0</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>

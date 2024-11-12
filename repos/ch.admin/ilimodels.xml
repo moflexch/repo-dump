@@ -27760,7 +27760,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="014136">
       <Name>LWB_Bewirtschaftungseinheiten_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BLW/LWB_Bewirtschaftungseinheiten_V2_0.ili</File>
+      <File>BLW/replaced/LWB_Bewirtschaftungseinheiten_V2_0.ili</File>
       <Version>2023-03-17</Version>
       <publishingDate>2023-04-28</publishingDate>
       <dependsOnModel>
@@ -27780,6 +27780,30 @@
       <technicalContact>mailto:info@blw.admin.ch</technicalContact>
       <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/landwirtschaftliche-kulturflaechen.html</furtherInformation>
       <md5>9303620a3f88893afbc5d8112f276d45</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="014137">
+      <Name>LWB_Bewirtschaftungseinheiten_V3_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BLW/LWB_Bewirtschaftungseinheiten_V3_0.ili</File>
+      <Version>2024-10-31</Version>
+      <publishingDate>2024-11-12</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LWB_Landwirtschaftliche_Zonengrenzen_Kataloge_V2_0</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CoordSys</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>153.6</Tags>
+      <Issuer>https://models.geo.admin.ch/BLW/</Issuer>
+      <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+      <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/landwirtschaftliche-kulturflaechen.html</furtherInformation>
+      <md5>14b88f684f7f60785c2b17d61c9172d4</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -32222,7 +32246,7 @@
       <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
       <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.swisstopo.admin.ch/de/schweizerische-bezugssysteme</furtherInformation>
-      <md5>081d01a1cb9340c493d884b20fe21753</md5>
+      <md5>24f6e4c59e30241839c85c27a744cc45</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
