@@ -470,7 +470,7 @@
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>TBA/AR_Gewaesserraum_V2.ili</File>
         <Version>2024-04-05</Version>
-        <publishingDate>2024-10-07</publishingDate>
+        <publishingDate>2024-11-15</publishingDate>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>GeometryCHLV95_V1</value>
@@ -492,7 +492,7 @@
         <shortDescription>Dieses Modell erweitert das Bundesmodell Gewässerraum mit den kantonalen Anforderungen. Es ist für die Datenerfassung mit dem QGIS Model Baker optimiert.</shortDescription>
         <Issuer>https://models.geo.ar.ch/TBA</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
-        <md5>19f05a348071c1b9a8d1c36a46faea68</md5>
+        <md5>7c213f938dd3066ee84ef95993a85536</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_dichtUeberbauteGebiete_V1">
         <Name>AR_dichtUeberbauteGebiete_V1</Name>
