@@ -2321,7 +2321,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/InventarWasserentnahmen_Catalogues_V1.xml</path>
+                <path>BAFU/replaced/InventarWasserentnahmen_Catalogues_V1.xml</path>
                 <md5>7e709cc992a7fea819b1ec649542549a</md5>
               </DatasetIdx16.File>
             </file>
@@ -13812,6 +13812,51 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.blw.lwb_nutzungsflaechen_kataloge_v2_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="257">
+        <id>ch.admin.geo.models.InventarWasserentnahmen_Catalogues_V1_1_20220914</id>
+        <version>2022-09-14</version>
+        <publishingDate>2024-11-21</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU InventarWasserentnahmen_Catalogues_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/InventarWasserentnahmen_Catalogues_V1_1.xml</path>
+                <md5>19a556f5edf4c1489844b2050266f32c</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2022-09-14</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>InventarWasserentnahmen_V1_1.Catalogs</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>

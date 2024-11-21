@@ -8127,7 +8127,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004140">
       <Name>InventarWasserentnahmen_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/InventarWasserentnahmen_V1.ili</File>
+      <File>BAFU/replaced/InventarWasserentnahmen_V1.ili</File>
       <Version>2015-12-24</Version>
       <publishingDate>2016-01-11</publishingDate>
       <dependsOnModel>
@@ -18406,6 +18406,75 @@
       <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>95caaf189b8f1c7bf8112e616ed333b4</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004559">
+      <Name>InventarWasserentnahmen_Catalogs_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/InventarWasserentnahmen_V1_1.ili</File>
+      <Version>2022-09-14</Version>
+      <publishingDate>2024-11-21</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_Codelisten_V1_1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>140.1,140.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>66a555506f7505a1df8ac97d85e8409b</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004560">
+      <Name>InventarWasserentnahmen_LV95_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/InventarWasserentnahmen_V1_1.ili</File>
+      <Version>2022-09-14</Version>
+      <publishingDate>2024-11-21</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_LV95_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InventarWasserentnahmen_Catalogs_V1_1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>140.1,140.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>66a555506f7505a1df8ac97d85e8409b</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004561">
+      <Name>InventarWasserentnahmen_LV03_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/InventarWasserentnahmen_V1_1.ili</File>
+      <Version>2022-09-14</Version>
+      <publishingDate>2024-11-21</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WasserBase_LV03_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InventarWasserentnahmen_Catalogs_V1_1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>140.1,140.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>66a555506f7505a1df8ac97d85e8409b</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>    
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
