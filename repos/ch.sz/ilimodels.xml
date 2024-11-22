@@ -343,6 +343,18 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
       <!--==================================================-->
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Lebensraum_Fisch_V2">
+        <Name>SZ_Lebensraum_Fisch_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFG/SZ_Lebensraum_Fisch_V2.ili</File>
+        <Version>2023-06-21</Version>
+        <publishingDate>2024-11-22</publishingDate>
+        <Title>Lebensraum Fisch</Title>
+        <shortDescription>Dieses Modell beschreibt den Lebensraum von Fischen in Fliess- und Standgewässern</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>493337e0f8a21b28de9fa72267c7dc8b</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Oekomorphologie_Fliessgewaesser_V1">
         <Name>SZ_Oekomorphologie_Fliessgewaesser_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -776,7 +788,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Lebensraum_Fisch_20170202">
         <Name>SZ_Lebensraum_Fisch_20170202</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_Lebensraum_Fisch_2017-02-02.ili</File>
+        <File>AFG/replaced/SZ_Lebensraum_Fisch_2017-02-02.ili</File>
         <Version>2017-02-02</Version>
         <publishingDate>2017-02-02</publishingDate>
         <Title>Lebensraum Fisch</Title>
