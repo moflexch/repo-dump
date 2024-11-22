@@ -9010,7 +9010,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004177">
       <Name>TWVinNotlagen_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/TWVinNotlagen_V1.ili</File>
+      <File>BAFU/replaced/TWVinNotlagen_V1.ili</File>
       <Version>2016-11-08</Version>
       <publishingDate>2017-03-09</publishingDate>
       <dependsOnModel>
@@ -9031,7 +9031,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004178">
       <Name>TWVinNotlagen_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/TWVinNotlagen_V1.ili</File>
+      <File>BAFU/replaced/TWVinNotlagen_V1.ili</File>
       <Version>2016-11-08</Version>
       <publishingDate>2017-03-09</publishingDate>
       <dependsOnModel>
@@ -11406,7 +11406,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004272">
       <Name>Grundwasseraustritte_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Grundwasseraustritte_V1.ili</File>
+      <File>BAFU/replaced/Grundwasseraustritte_V1.ili</File>
       <Version>2018-05-08</Version>
       <publishingDate>2018-05-14</publishingDate>
       <dependsOnModel>
@@ -11431,7 +11431,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004273">
       <Name>Grundwasseraustritte_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Grundwasseraustritte_V1.ili</File>
+      <File>BAFU/replaced/Grundwasseraustritte_V1.ili</File>
       <Version>2018-05-08</Version>
       <publishingDate>2018-05-14</publishingDate>
       <dependsOnModel>
@@ -18475,6 +18475,54 @@
       <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>66a555506f7505a1df8ac97d85e8409b</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>    
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004562">
+      <Name>Grundwasseraustritte_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Grundwasseraustritte_V2_0.ili</File>
+      <Version>2024-09-11</Version>
+      <publishingDate>2024-11-22</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>PlanerischerGewaesserschutz_V1_2</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>141.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>ff9765c2e83170fcece85f3d6f502730</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004563">
+      <Name>TWVinMangellagen_V2_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/TWVinMangellagen_V2_0.ili</File>
+      <Version>2024-11-11</Version>
+      <publishingDate>2024-11-22</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>66.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>2663e74d84e29188031d821475650a23</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
