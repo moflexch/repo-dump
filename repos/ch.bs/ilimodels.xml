@@ -637,7 +637,7 @@
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>Gesellschaft_Kultur/PT_Partizipation_KGDM_V1_0_LV95.ili</File>
                 <Version>2024-09-30</Version>
-                <publishingDate>2024-11-05</publishingDate>
+                <publishingDate>2025-02-04</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -645,7 +645,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>d6d231fb506bfa18bcf4d63ae51a11c1</md5>
+                <md5>5c0045c5c2bea78e26fc7602e9f8e355</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gesundheit                        BS010xxx       -->
