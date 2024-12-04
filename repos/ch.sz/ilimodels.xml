@@ -1485,9 +1485,9 @@
         </dependsOnModel>
         <Title>Kantonale Kehrichtverbrennungsanlagen, Inertstoffdeponien und Matrialentnamestellen</Title>
         <shortDescription>Dieses Modell ist eine kantonale Auslegung des Bundesmodells Abfallanlagen und Materialentnahmestelle (Identifikatoren 114.1 und 114.3). Es wurde umstrukturiert und erweitert</shortDescription>
-        <Issuer>http://models.geo.sz.ch</Issuer>
+        <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>1F6B16E8E104A49ECD48623B4471D9C7</md5>
+        <md5>030C63C56C0884CA6A2E94F40280C54F</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Pruefperimeter_Bodenverschiebung_V1">
         <Name>SZ_Pruefperimeter_Bodenverschiebung_V1</Name>

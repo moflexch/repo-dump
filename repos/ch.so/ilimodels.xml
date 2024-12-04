@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="ilimodels.xsl"?>
-<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<?xml version="1.0" encoding="UTF-8"?><TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
 <HEADERSECTION SENDER="SOGIS-INTERLIS-REPOSITORY-CREATOR" VERSION="2.3"><MODELS><MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="http://models.interlis.ch/core"></MODEL></MODELS></HEADERSECTION>
 <DATASECTION>
 <IliRepository20.RepositoryIndex BID="b1">
