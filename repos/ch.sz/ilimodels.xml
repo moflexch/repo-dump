@@ -1475,7 +1475,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1_1">
         <Name>SZ_Abfallanlagen_MatEntnahmestellen_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_Abfallanlagen_MatEntnahmestellen_V1_1.ili</File>
+        <File>AFU/replaced/SZ_Abfallanlagen_MatEntnahmestellen_V1_1_ili2.3.ili</File>
         <Version>2022-07-28</Version>
         <publishingDate>2022-10-31</publishingDate>
         <dependsOnModel>
@@ -2584,6 +2584,23 @@
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>106a1f7fe081954298c76c3021f1071f</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1_1">
+        <Name>SZ_Abfallanlagen_MatEntnahmestellen_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Abfallanlagen_MatEntnahmestellen_V1_1.ili</File>
+        <Version>2022-07-28</Version>
+        <publishingDate>2024-12-05</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>Units</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>kantonale Kehrichtverbrennungsanlagen, Inertstoffdeponien und Matrialentnamestellen</Title>
+        <shortDescription>Dieses Modell ist eine kantonale Auslegung des Bundesmodells Abfallanlagen und Materialentnahmestelle (Identifikatoren 114.1 und 114.3). Es wurde umstrukturiert und erweitert</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>F13EB049D71CD3DA2B8785CC15E642FC</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1">
         <Name>SZ_Abfallanlagen_MatEntnahmestellen_V1</Name>
