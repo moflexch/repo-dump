@@ -32366,6 +32366,23 @@
       <md5>24f6e4c59e30241839c85c27a744cc45</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519003">
+      <Name>DeepWells_V1</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/DeepWells_V1.ili</File>
+      <Version>2024-11-11</Version>
+      <publishingDate>2024-12-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:info@swisstopo.chh</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/wissen-fakten/geologie/geologische-daten.html</furtherInformation>
+      <md5>38578b96ee06d92458845922c99b6c7f</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- V_D D_M D_M FDCS                                             520xxx -->
 
