@@ -562,8 +562,8 @@
                 <Name>Schutzmassnahmen_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>ARE/Schutzmassnahmen_UR_V1.ili</File>
-                <Version>2024-01-26</Version>
-                <publishingDate>2024-04-01</publishingDate>
+                <Version>2024-12-18</Version>
+                <publishingDate>2024-12-18</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
                         <value>OEREB_Basis_UR_V1</value>
@@ -579,7 +579,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzmassnahmen_UR_V1.pdf</furtherInformation>
-                <md5>3a9a01d506628d74d619dc5f8e5f4b61</md5>
+                <md5>1ef2e2c5160bef3c54943e19b3980796</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE011">

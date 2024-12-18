@@ -212,9 +212,9 @@
             </DatasetIdx16.DataIndex.DatasetMetadata>
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="5">
-                <id>Schutzmassnahmen_UR_V1.Katalog_Zonenkategorien</id>
-                <version>2024-01-26</version>
-                <publishingDate>2024-04-01</publishingDate>
+                <id>Schutzmassnahmen_UR_V1.Katalog_Schutzmassnahmen_UR</id>
+                <version>2024-12-18</version>
+                <publishingDate>2024-12-18</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
                     <DatasetIdx16.MultilingualText>
@@ -240,8 +240,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>ARE/Schutzmassnahmen_Katalog_UR_V1_20240126.xml</path>
-                                <md5>2e8e353ae32b96b4add69191cde07ae29e6b8603</md5>
+                                <path>ARE/Schutzmassnahmen_Katalog_UR_V1_20241218.xml</path>
+                                <md5>058595d8774f70f28436d7722347508663ae987c</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -250,7 +250,7 @@
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
                         <id>ch.ur.katalog_schutzmassnahmen</id>
-                        <version>2024-01-26</version>
+                        <version>2024-12-18</version>
                         <model>
                             <DatasetIdx16.ModelLink>
                                 <name>Schutzmassnahmen_UR_V1.Katalog_Schutzmassnahmen_UR</name>
