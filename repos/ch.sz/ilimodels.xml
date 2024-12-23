@@ -2646,7 +2646,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Unternehmen_V2_1">
         <Name>SZ_Unternehmen_V2_1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFU/SZ_Unternehmen_V2_1.ili</File>
+        <File>AFU/replaced/SZ_Unternehmen_V2_1_V_2023-06-29.ili</File>
         <Version>2023-06-29</Version>
         <publishingDate>2023-06-29</publishingDate>
         <Title>Datenmodell der Unternehmen</Title>
@@ -2654,6 +2654,18 @@
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>7f6fd96e85d8dea773e9d0674646645e</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Unternehmen_V2_1">
+        <Name>SZ_Unternehmen_V2_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Unternehmen_V2_1.ili</File>
+        <Version>2024-12-13</Version>
+        <publishingDate>2024-12-23</publishingDate>
+        <Title>Datenmodell der Unternehmen</Title>
+        <shortDescription>Stammdaten von Unternehmen, auf welche aus verschiedenen Fachmodellen Bezug genommen wird</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>A883C5C712C06B89B8A33BF2165A124A</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
