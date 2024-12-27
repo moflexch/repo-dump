@@ -986,6 +986,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>CA0F787B07A84DADB880B78CBA101ECE</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Verfahren_Waldrecht_V1">
+        <Name>SZ_Verfahren_Waldrecht_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AWN/SZ_Verfahren_Waldrecht_V1.ili</File>
+        <Version>2024-07-29</Version>
+        <publishingDate>2024-12-27</publishingDate>
+        <Title>Verfahren Waldrecht</Title>
+        <shortDescription>Übergeordnetes Thema, welches der Erfassung der verschiedenen Verfahren im Waldrecht dient. Insbesondere werden die Verfahren der 'Waldfeststellung' wie auch der 'Rodung' darin behandelt.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>88C87C05795348CF8E334A4D91D92992</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waldabstandslinien_V2">
         <Name>SZ_Waldabstandslinien_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1098,10 +1110,22 @@
         <browseOnly>true</browseOnly>
         <md5>EFC7E4FD75B0BD094EE8FCB9BBA1391B</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waldfeststellungen_V2">
+        <Name>SZ_Waldfeststellungen_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AWN/SZ_Waldfeststellungen_V2.ili</File>
+        <Version>2023-09-08</Version>
+        <publishingDate>2024-12-27</publishingDate>
+        <Title>Waldfeststellungen</Title>
+        <shortDescription>Modell zur Erfassung der Wald- und Stockgrenzen aufgrund von Waldfeststellungen. Die Waldgrenzen aufgrund von Rodungen werden im Thema A188 erfasst.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>DE21A83A5FAE733B388A372891298788</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waldfeststellungen_20170111">
         <Name>SZ_Waldfeststellungen_20170111</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWN/SZ_Waldfeststellungen_2017-01-11.ili</File>
+        <File>AWN/replaced/SZ_Waldfeststellungen_2017-01-11.ili</File>
         <Version>2017-01-11</Version>
         <publishingDate>2017-01-13</publishingDate>
         <Title>Waldfeststellungen kantonal</Title>
