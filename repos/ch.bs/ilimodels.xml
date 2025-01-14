@@ -365,6 +365,21 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>f5c35dd87b73f7991189b72a4230d9a4</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006007">
+              <Name>KP_KantonalePhotovoltaikanlagen_KGDM_V1_0_LV95</Name>
+              <SchemaLanguage>ili2_3</SchemaLanguage>
+              <File>Energie/KP_KantonalePhotovoltaikanlagen_KGDM_V1_0_LV95.ili</File>
+              <Version>2024-11-04</Version>
+              <publishingDate>2025-01-14</publishingDate>
+              <dependsOnModel>
+                <IliRepository20.ModelName_>
+                  <value>BS_Basis_KGDM_V1_0_LV95</value>
+                </IliRepository20.ModelName_>
+              </dependsOnModel>
+              <Issuer>https://www.geo.bs.ch</Issuer>
+              <technicalContact>mailto:geo@bs.ch</technicalContact>
+              <md5>05cf6c45bf0e9cf1d65425fdaaab8d11</md5>
+          </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gebaeude_Anlagen                  BS007xxx       -->
             <!--  ===============================================  -->
@@ -645,7 +660,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>5c0045c5c2bea78e26fc7602e9f8e355</md5>
+                <md5>f99e4a5676b8860dc2ef3bdce334ab27</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gesundheit                        BS010xxx       -->
@@ -2180,7 +2195,22 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>e38178019fed9438a8b954f3f5d5210c</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <!--  ===============================================  -->
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025031">
+              <Name>LG_Lichtsignalanlagen_KGDM_V1_0_LV95</Name>
+              <SchemaLanguage>ili2_3</SchemaLanguage>
+              <File>Verkehr/LG_Lichtsignalanlagen_KGDM_V1_0_LV95.ili</File>
+              <Version>2024-11-27</Version>
+              <publishingDate>2025-02-04</publishingDate>
+              <dependsOnModel>
+                <IliRepository20.ModelName_>
+                  <value>BS_Basis_KGDM_V1_0_LV95</value>
+                </IliRepository20.ModelName_>
+              </dependsOnModel>
+              <Issuer>https://www.geo.bs.ch</Issuer>
+              <technicalContact>mailto:geo@bs.ch</technicalContact>
+              <md5>00777bc97791d85a3f6b232de38baec5</md5>
+          </IliRepository20.RepositoryIndex.ModelMetadata>
+          <!--  ===============================================  -->
             <!--  Wald_Flora_Fauna                  BS026xxx       -->
             <!--  ===============================================  -->
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026001">
@@ -2344,11 +2374,11 @@
                 <md5>e067bd6f2aa2a797da20529e67264bbe</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026020">
-                <Name>NI_Naturinventar_KGDM_V1_0_LV95</Name>
+                <Name>NI_Naturinventar_KGDM_V1_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Wald_Flora_Fauna/NI_Naturinventar_KGDM_V1_0_LV95.ili</File>
-                <Version>2024-01-22</Version>
-                <publishingDate>2024-02-06</publishingDate>
+                <File>Wald_Flora_Fauna/NI_Naturinventar_KGDM_V1_1_LV95.ili</File>
+                <Version>2024-12-10</Version>
+                <publishingDate>2025-01-14</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -2356,7 +2386,22 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>88ee806953b088051e0eb2d2a8fff113</md5>
+                <md5>59c060bfc4f46b73db3da799f6411a06</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026021">
+                <Name>NI_Naturinventar_KGDM_V2_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Wald_Flora_Fauna/NI_Naturinventar_KGDM_V2_0_LV95.ili</File>
+                <Version>2024-12-03</Version>
+                <publishingDate>2025-01-14</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>11cf948718d3346c4a77f8b5113a1faf</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Wasser_und_Abfallsysteme          BS027xxx       -->
