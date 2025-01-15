@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="SIA-20250113" VERSION="2.3">
+    <HEADERSECTION SENDER="SIA-20250115" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -2658,12 +2658,6 @@
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_i</value>
                     </IliRepository20.ModelName_>
                     <IliRepository20.ModelName_>
                         <value>Base_LV95</value>
