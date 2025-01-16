@@ -2580,10 +2580,22 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Umweltschutz AFU-->
       <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grundwassermessstellen_V1_1">
+        <Name>SZ_Grundwassermessstellen_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Grundwassermessstellen_V1_1.ili</File>
+        <Version>2025-01-16</Version>
+        <publishingDate>2025-01-16</publishingDate>
+        <Title>Grundwassermessstellen</Title>
+        <shortDescription>Standort von Grundwassermessstellen in Anlehnung an den Bundes-Geobasisdatensatz 134.3 (MGDM Messnetze zurErhebung der Grundwasser-Qualität)</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>4E9C9CB42CAF73DBEADF0FD6AD1EA4CE</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grundwassermessstellen_V1">
         <Name>SZ_Grundwassermessstellen_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFU/SZ_Grundwassermessstellen_V1.ili</File>
+        <File>AFU/replaced/SZ_Grundwassermessstellen_V1.ili</File>
         <Version>2022-07-29</Version>
         <publishingDate>2022-07-29</publishingDate>
         <Title>Grundwassermessstellen</Title>
