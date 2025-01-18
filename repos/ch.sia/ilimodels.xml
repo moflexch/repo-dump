@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="SIA-20250115" VERSION="2.3">
+    <HEADERSECTION SENDER="SIA-20250118" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -1029,6 +1029,30 @@
                 <Issuer>http://www.sia.ch/405</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <md5>c33cdf93f2869ca8434dc97a6313324c</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="97" >
+                <Name>SIA405_ABWASSER_3D_2015</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/precursorVersion/SIA405_Abwasser_3D_2015_2_d-20180417.ili</File>
+                <Version>17.04.2018</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2015</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <md5>146fdad074e0eba0c9bba5e71dc461ab</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="98" >
                 <Name>SIA405_Base</Name>
@@ -2670,8 +2694,8 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="258" >
                 <Name>SIA405_LKMap_2015_i_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2015/SIA405_LKMap_i_2015_LV95-20251001.ili</File>
-                <Version>10.1.2025</Version>
+                <File>2015/SIA405_LKMap_2015_2_i_LV95-20250118.ili</File>
+                <Version>18.01.2025</Version>
                 <NameLanguage>it</NameLanguage>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
@@ -2693,9 +2717,9 @@
                         <value>SIA405_LKMap_2015_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <Issuer>http://www.sia.ch/405</Issuer>
+                <Issuer>https://405.sia.ch/</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <md5>d8b11bfc50980fc8ee8948babe0ead71</md5>
+                <md5>dd3c798beeabc9a49a326f9d973722d7</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="259" >
                 <Name>SIA405_Base_i_LV95</Name>
@@ -2715,6 +2739,30 @@
                     </IliRepository20.ModelName_>
                     <IliRepository20.ModelName_>
                         <value>SIA405_Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <md5>2deddce398ec3b307bedb745b5f26d0e</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="260" >
+                <Name>SIA405_Base_i</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2015/SIA405_Base_i-20191216.ili</File>
+                <Version>16.12.2019</Version>
+                <NameLanguage>it</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_i</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>http://www.sia.ch/405</Issuer>
