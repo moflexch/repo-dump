@@ -30,7 +30,7 @@
         <publishingDate/>
         <Title/>
         <shortDescription/>
-        <Issuer>https://models.gis-daten.ch</Issuer>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <md5>692ad895dfd0199620985d2ee9e8cac3</md5>
         <dependsOnModel>
@@ -49,7 +49,7 @@
         <publishingDate/>
         <Title/>
         <shortDescription/>
-        <Issuer>https://models.gis-daten.ch</Issuer>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <md5>11d7f00d8fb7b54a5108dc96a0aab8fc</md5>
         <dependsOnModel>
