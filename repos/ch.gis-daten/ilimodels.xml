@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-  <HEADERSECTION SENDER="gisdaten-20230821" VERSION="2.3">
+  <HEADERSECTION SENDER="gisdaten-20250120" VERSION="2.3">
     <MODELS>
-      <MODEL NAME="IliRepository09" VERSION="2023-08-21" URI="mailto:ce@eisenhutinformatik.ch"/>
+      <MODEL NAME="IliRepository09" VERSION="2025-01-20" URI="mailto:ce@eisenhutinformatik.ch"/>
     </MODELS>
     <!--
   TID schema for registered models in this repository:
@@ -21,20 +21,51 @@
       <!-- Interlis 2.3 Modelle                        -->
 
       <!-- Raumplanung GIS Daten AG    -->
-	  
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="Nutzungsplanung_NWOW_V1_03_Erw">
-        <Name>Nutzungsplanung_NWOW_V1_03_Erw</Name>
-        <SchemaLanguage>ili1</SchemaLanguage>
-        <File>RAUMPLANUNG/Nutzungsplanung_NWOW_V1_03_Erw.ili</File>
-        <Version>2023-03-31</Version>
+
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Raumplanung_Basis_NWOW_V2">
+        <Name>Raumplanung_Basis_NWOW_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>RAUMPLANUNG/Raumplanung_Basis_NWOW_V2.ili</File>
+        <Version>2025-01-20</Version>
         <publishingDate/>
         <Title/>
         <shortDescription/>
         <Issuer>https://models.gis-daten.ch</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>547321d9038ba19a5075df049429ae32</md5>
+        <md5>692ad895dfd0199620985d2ee9e8cac3</md5>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       
+      
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Nutzungsplanung_NWOW_V2">
+        <Name>Nutzungsplanung_NWOW_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>RAUMPLANUNG/Nutzungsplanung_NWOW_V2.ili</File>
+        <Version>2025-01-20</Version>
+        <publishingDate/>
+        <Title/>
+        <shortDescription/>
+        <Issuer>https://models.gis-daten.ch</Issuer>
+        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
+        <md5>11d7f00d8fb7b54a5108dc96a0aab8fc</md5>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Raumplanung_Basis_NWOW_V2</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+
       <IliRepository09.RepositoryIndex.ModelMetadata TID="PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1">
         <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
