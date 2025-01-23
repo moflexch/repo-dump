@@ -14228,6 +14228,51 @@
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="266">
+        <id>ch.admin.geo.models.ch.admin.bafu.Holznutzungsbewilligung_Codelisten_V1_0_20241220</id>
+        <version>2024-12-20</version>
+        <publishingDate>2025-01-23</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog Holznutzungsbewilligung_Codelisten_V1_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>httpa://www.bafu.admin.ch/geodatenmodelle/</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.4</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Holznutzungsbewilligung_Codelisten_V1_0.xml</path>
+                <md5>1502d21a2d40ad6d190f031c3abdf66f</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-12-20</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Holznutzungsbewilligung_V1:0:Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.Holznutzungsbewilligung_V1_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
       
     </DatasetIdx16.DataIndex>
   </DATASECTION>

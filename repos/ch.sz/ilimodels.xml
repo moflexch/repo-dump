@@ -1452,7 +1452,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1">
         <Name>SZ_Schleppschlauchpflicht_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFL/SZ_Schleppschlauchpflicht_V1.ili</File>
+        <File>AFL/replaced/SZ_Schleppschlauchpflicht_V1_2023-11-20.ili</File>
         <Version>2023-11-20</Version>
         <publishingDate>2023-11-20</publishingDate>
         <precursorVersion>2021-10-04</precursorVersion>
@@ -2729,6 +2729,21 @@
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>5b21379f4a1a479ff8a8cdb9f73fcb6a</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <!--==================================================-->
+      <!--Modelle des Amtes für Landwirtschaft AFL-->
+      <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1_1">
+        <Name>SZ_Schleppschlauchpflicht_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFL/SZ_Schleppschlauchpflicht_V1_1.ili</File>
+        <Version>2025-01-22</Version>
+        <publishingDate>2025-01-23</publishingDate>
+        <Title>Flächen mit Schleppschlauchpflicht</Title>
+        <shortDescription>Flächen, die von der Pflicht der Ausbringung mit emissionsmindernden Verfahren betroffen sind.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>4E68249CE982C2648E96B8A5E8C3CE22</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Amt für Militär, Feuer- und Zivilschutz AMFZ-->
