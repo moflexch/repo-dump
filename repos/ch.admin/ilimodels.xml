@@ -32412,6 +32412,45 @@
       <md5>38578b96ee06d92458845922c99b6c7f</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519004">
+      <Name>HoheitsgrenzenLV_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/HoheitsgrenzenLV_V1_0.ili</File>
+      <Version>2024-12-31</Version>
+      <publishingDate>2025-01-23</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>39.4</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/landesgrenze</furtherInformation>
+      <md5>cef4737c81bfbd58b094299473a3c8ed</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519005">
+      <Name>HoheitsgrenzpunkteLV_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/HoheitsgrenzpunkteLV_V1_0.ili</File>
+      <Version>2024-12-31</Version>
+      <publishingDate>2025-01-23</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>Units</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>39.5</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/landesgrenze</furtherInformation>
+      <md5>91e850ce4583eabb802dd5bcb35ab313</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- V_D D_M D_M FDCS                                             520xxx -->
 

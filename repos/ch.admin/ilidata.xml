@@ -7711,7 +7711,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>VBS/SectoralPlanForMilitaryInfrastructure_Catalogues_V1_4_20211027.xml</path>
+                <path>VBS/replaced/SectoralPlanForMilitaryInfrastructure_Catalogues_V1_4_20211027.xml</path>
                 <md5>b841457961c0dc3b726b3db7a564390e</md5>
               </DatasetIdx16.File>
             </file>
@@ -14270,6 +14270,73 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.bafu.Holznutzungsbewilligung_V1_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="267">
+        <id>ch.admin.geo.models.SectoralPlanForMilitaryInfrastructure_Catalogues_V1_4_20250205</id>
+        <version>2025-02-05</version>
+        <publishingDate>2025-02-05</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog VBS SectoralPlanForMilitaryInfrastructure_Catalogues_V1_4</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/BaseModel_SectoralPlans_LV03_V1_4</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/BaseModel_SectoralPlans_LV95_V1_4</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/SectoralPlanForMilitaryInfrastructure_LV03_V1_4</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/SectoralPlanForMilitaryInfrastructure_LV95_V1_4</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@are.admin.ch</technicalContact>
+        <furtherInformation>http://www.are.admin.ch</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>VBS/SectoralPlanForMilitaryInfrastructure_Catalogues_V1_4_20250205.xml</path>
+                <md5>3e7eff6539f21ddf59738a9a676739d0</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-02-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>BaseModel_SectoralPlans_Catalogues_V1_4.Catalogue_FacilityKind</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b01</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-02-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>BaseModel_SectoralPlans_Catalogues_V1_4.Catalogue_MeasureType</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b02</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
