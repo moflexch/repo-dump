@@ -12021,6 +12021,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="219">
         <id>ch.admin.geo.models.KGS_PBC_Catalogues_V2_1_20230302</id>
         <version>2023-03-02</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.KGS_PBC_Catalogues_V2_2_20250107</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2023-05-02</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -12044,7 +12049,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BABS/KGS_PBC_Catalogues_V2_1.xml</path>
+                <path>BABS/replaced/KGS_PBC_Catalogues_V2_1.xml</path>
                 <md5>3354b767c3c08c3f76cc0b889b5c39ba</md5>
               </DatasetIdx16.File>
             </file>
@@ -12930,7 +12935,7 @@
           <DatasetIdx16.DataLink>
             <datasetId>ch.admin.geo.models.HaltestellenOeV_Katalog_V2_0_20240512</datasetId>
           </DatasetIdx16.DataLink>
-        </followupData>        
+        </followupData>
         <publishingDate>2023-11-18</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -14337,6 +14342,51 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b02</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="268">
+        <id>ch.admin.geo.models.KGS_PBC_Catalogues_V2_2_20250107</id>
+        <version>2025-01-07</version>
+        <publishingDate>2025-01-23</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>KGS_PBC_Catalogues_V2_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:Geographisches-Informationssystem@babs.admin.ch</technicalContact>
+        <furtherInformation>https://www.babs.admin.ch/de/aufgabenbabs/kgs/inventar.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BABS/KGS_PBC_Catalogues_V2_2.xml</path>
+                <md5>ebf27c23c538b538a3385a2182228b38</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-01-07</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>KGS_PBC_V2_2.KGS_Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.babs.kgs_pbc_catalogues_v2_2</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>

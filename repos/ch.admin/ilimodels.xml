@@ -4741,7 +4741,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="003006">
       <Name>KGS_PBC_V2_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BABS/KGS_PBC_V2_1.ili</File>
+      <File>BABS/replaced/KGS_PBC_V2_1.ili</File>
       <Version>2023-03-02</Version>
       <publishingDate>2023-05-02</publishingDate>
       <dependsOnModel>
@@ -4764,6 +4764,33 @@
       <furtherInformation>https://www.babs.admin.ch/de/aufgabenbabs/kgs/inventar.html</furtherInformation>
       <md5>a92fd59c5088c48c16ec22a19e9fe664</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+    
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="003007">
+      <Name>KGS_PBC_V2_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BABS/KGS_PBC_V2_2.ili</File>
+      <Version>2025-01-07</Version>
+      <publishingDate>2025-01-23</publishingDate>
+      <dependsOnModel>
+         <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>65.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BABS/</Issuer>
+      <technicalContact>mailto:Geographisches-Informationssystem@babs.admin.ch</technicalContact>
+      <furtherInformation>https://www.babs.admin.ch/de/aufgabenbabs/kgs/inventar.html</furtherInformation>
+      <md5>2c16a2faafa8276ecbbc9b3ff4df3962</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>  
 
 <!-- =================================================================== -->
 <!-- BAFU OFEV UFAM FOEN                                          004xxx -->
