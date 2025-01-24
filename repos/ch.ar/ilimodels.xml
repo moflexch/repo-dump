@@ -296,7 +296,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Schutzplanung_kantonal_20191101">
         <Name>AR_Schutzplanung_kantonal_20191101</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ARE/AR_Schutzplanung_kantonal_20191101.ili</File>
+        <File>ARE/replaced/AR_Schutzplanung_kantonal_20191101.ili</File>
         <Version>2019-11-01</Version>
         <publishingDate>2020-10-21</publishingDate>
         <dependsOnModel>
@@ -416,6 +416,32 @@
         <Issuer>https://models.geo.ar.ch/ARE</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>3fc84a771832834cf763e4ca262898ac</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Schutzplanung_kantonal_V2">
+        <Name>AR_Schutzplanung_kantonal_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/AR_Schutzplanung_kantonal_V2.ili</File>
+        <Version>2024-11-20</Version>
+        <publishingDate>2025-01-23</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GraphicCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>AR_Raumplanung_Codeliste_20191101</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Kantonaler Schutzzonenplan</Title>
+        <shortDescription>Das Modell umfasst die kantonalen Schutzobjekte im Bereich Natur, Landschaft und Ortsbild.</shortDescription>
+        <Issuer>https://models.geo.ar.ch/ARW</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>4051c49e82eefe59c59a1e0478cafa03</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
