@@ -2062,6 +2062,18 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Raumentwicklung ARE-->
       <!--==================================================-->
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Fruchtfolgeflaechen_V1">
+        <Name>SZ_Fruchtfolgeflaechen_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/SZ_Fruchtfolgeflaechen_V1.ili</File>
+        <Version>2024-04-08</Version>
+        <publishingDate>2025-01-27</publishingDate>
+        <Title>Fruchtfolgeflächen</Title>
+        <shortDescription>Dieses Modell dient der Erfassung der Fruchtfolgeflächen. Es leitet sich vom Bundesmodell 'Fruchtfolgeflaechen_LV95_V1' ab</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>525065B2DEA0107C17DCCD8E54695F23</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Richtplan_V1">
         <Name>SZ_Richtplan_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
