@@ -1,4 +1,4 @@
-# Status at 2025-02-02 18:45
+# Status at 2025-02-03 06:46
 |Site|ilisite.xml|ilimodels.xml|ilidata.xml|
 |---|---|---|---|
 |[ch.sia](https://405.sia.ch/models/)|:white_check_mark: ([200](https://405.sia.ch/models/ilisite.xml))|:white_check_mark: ([200](https://405.sia.ch/models/ilimodels.xml))|:black_square_button: ([404](https://405.sia.ch/models/ilidata.xml))|
@@ -16,7 +16,7 @@
 |[ch.sg](https://models.geo.sg.ch/)|:white_check_mark: ([200](https://models.geo.sg.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.sg.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.geo.sg.ch/ilidata.xml))|
 |[ch.sh](http://models.geo.sh.ch/)|:white_check_mark: ([200](http://models.geo.sh.ch/ilisite.xml))|:white_check_mark: ([200](http://models.geo.sh.ch/ilimodels.xml))|:white_check_mark: ([200](http://models.geo.sh.ch/ilidata.xml))|
 |[ch.so](https://geo.so.ch/models/)|:white_check_mark: ([200](https://geo.so.ch/models/ilisite.xml))|:white_check_mark: ([200](https://geo.so.ch/models/ilimodels.xml))|:white_check_mark: ([200](https://geo.so.ch/models/ilidata.xml))|
-|[ch.sz](https://models.geo.sz.ch/)|:black_square_button: ([000](https://models.geo.sz.ch/ilisite.xml))|:black_square_button: ([000](https://models.geo.sz.ch/ilimodels.xml))|:black_square_button: ([000](https://models.geo.sz.ch/ilidata.xml))|
+|[ch.sz](https://models.geo.sz.ch/)|:white_check_mark: ([200](https://models.geo.sz.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.sz.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.sz.ch/ilidata.xml))|
 |[ch.tg](https://models.geo.tg.ch/)|:white_check_mark: ([200](https://models.geo.tg.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.tg.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.geo.tg.ch/ilidata.xml))|
 |[ch.lisag](https://webgis.lisag.ch/models/)|:white_check_mark: ([200](https://webgis.lisag.ch/models/ilisite.xml))|:white_check_mark: ([200](https://webgis.lisag.ch/models/ilimodels.xml))|:white_check_mark: ([200](https://webgis.lisag.ch/models/ilidata.xml))|
 |[ch.zg](https://models.geo.zg.ch/)|:black_square_button: ([500](https://models.geo.zg.ch/ilisite.xml))|:black_square_button: ([500](https://models.geo.zg.ch/ilimodels.xml))|:black_square_button: ([500](https://models.geo.zg.ch/ilidata.xml))|
