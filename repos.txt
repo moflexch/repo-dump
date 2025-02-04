@@ -7,7 +7,7 @@ https://models.geo.ag.ch/
 http://models.geo.ai.ch/
 https://models.geo.ar.ch/
 https://models.geo.be.ch/
-http://models.geo.bl.ch/
+https://models.geo.bl.ch/
 https://models.geo.bs.ch/
 https://models.geo.gl.ch/
 https://models.geo.gr.ch/
