@@ -9878,7 +9878,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004212">
       <Name>Waldreservate_Codelisten_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Waldreservate_V1_1.ili</File>
+      <File>BAFU/replaced/Waldreservate_V1_1.ili</File>
       <Version>2017-05-09</Version>
       <publishingDate>2017-06-20</publishingDate>
       <dependsOnModel>
@@ -9899,7 +9899,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004213">
       <Name>Waldreservate_LV03_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Waldreservate_V1_1.ili</File>
+      <File>BAFU/replaced/Waldreservate_V1_1.ili</File>
       <Version>2017-05-09</Version>
       <publishingDate>2017-06-20</publishingDate>
       <dependsOnModel>
@@ -9923,7 +9923,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004214">
       <Name>Waldreservate_LV95_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Waldreservate_V1_1.ili</File>
+      <File>BAFU/replaced/Waldreservate_V1_1.ili</File>
       <Version>2017-05-09</Version>
       <publishingDate>2017-06-20</publishingDate>
       <dependsOnModel>
@@ -18228,7 +18228,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004551">
       <Name>Rodungen_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Rodungen_V1_1.ili</File>
+      <File>obsolete/Rodungen_V1_1_o0.ili</File>
       <Version>2024-05-06</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -18549,6 +18549,28 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>2663e74d84e29188031d821475650a23</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004564">
+      <Name>Rodungen_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Rodungen_V1_1.ili</File>
+      <Version>2025-01-27</Version>
+      <publishingDate>2025-02-04</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-05-06</precursorVersion>
+      <Tags>185.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>79d712c5b20d7d3b75b7b17b0dbac687</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -32325,13 +32347,46 @@
         </IliRepository20.ModelName_>
         <IliRepository20.ModelName_>
           <value>InternationalCodes_V2</value>
-        </IliRepository20.ModelName_>                        
+        </IliRepository20.ModelName_>
       </dependsOnModel>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>6874e759c0d14279af0d966c6ac58f45</md5>
-    </IliRepository20.RepositoryIndex.ModelMetadata>    
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="504003">
+      <Name>Waldreservate_V2_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAFU/Waldreservate_V2_0.ili</File>
+      <Version>2025-01-23</Version>
+      <publishingDate>2025-04-02</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>CatalogueObjects_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Units</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>LocalisationCH_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>InternationalCodes_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>160.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>6d9302b12ab7b69136dfd8a4eb391f3b</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           505xxx -->

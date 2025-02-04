@@ -5910,7 +5910,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Waldreservate_Catalogues_V1_1.xml</path>
+                <path>BAFU/replaced/Waldreservate_Catalogues_V1_1_20170509.xml</path>
                 <md5>308ce4e7c17de0248077b6bc74adac1e</md5>
               </DatasetIdx16.File>
             </file>
@@ -13570,7 +13570,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Rodungen_Codetexte_V1_1.xml</path>
+                <path>obsolete/Rodungen_Codetexte_V1_1_o0.xml</path>
                 <md5>07b782b15fc02ec3aa51968ac905c874</md5>
               </DatasetIdx16.File>
             </file>
@@ -14390,7 +14390,150 @@
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
-      
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="269">
+        <id>ch.admin.geo.models.Waldreservate_Catalogues_V2_0_20250123</id>
+        <version>2025-01-23</version>
+        <publishingDate>2025-02-04</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Waldreservate_Catalogues_V2_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/Waldreservate_V2_0</value>
+          </DatasetIdx16.Code_>
+
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Waldreservate_Catalogues_V2_0.xml</path>
+                <md5>607224dee1233a679141df106db6ddad</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-01-23</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Waldreservate_V2_0:Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.waldreservate_catalogues_v2_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="270">
+        <id>ch.admin.geo.models.Waldreservate_kantonal_Catalogues_V2_0_20250123</id>
+        <version>2025-01-23</version>
+        <publishingDate>2025-02-04</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Waldreservate_kantonal_Catalogues_V2_0</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/Waldreservate_V2_0</value>
+          </DatasetIdx16.Code_>
+
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Waldreservate_kantonal_Catalogues_V2_0.xml</path>
+                <md5>be71ef8b391bd591d43ac32cae383eb8</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-01-23</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Waldreservate_V2_0:Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.waldreservate_kantonal_catalogues_v2_0</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="271">
+        <id>ch.admin.geo.models.Rodungen_Codetexte_V1_1_20250127</id>
+        <version>2025-01-27</version>
+        <publishingDate>2025-02-04</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Rodungen_Codetexte_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Rodungen_Codetexte_V1_1.xml</path>
+                <md5>2a4dcd5ea151b690ec7478d7bd794221</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-05-06</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Rodungen_V1_1.Rodungen</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.rodungen_codetexte_v1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+
     </DatasetIdx16.DataIndex>
   </DATASECTION>
 </TRANSFER>
