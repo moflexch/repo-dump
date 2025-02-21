@@ -22,31 +22,16 @@
 
       <!-- Raumplanung GIS Daten AG    -->
 
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="Raumplanung_Basis_NWOW_V2">
-        <Name>Raumplanung_Basis_NWOW_V2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>RAUMPLANUNG/Raumplanung_Basis_NWOW_V2.ili</File>
-        <Version>2025-01-20</Version>
-        <publishingDate/>
-        <Title/>
-        <shortDescription/>
-        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
-        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>692ad895dfd0199620985d2ee9e8cac3</md5>
-        <dependsOnModel>
-          <IliRepository09.ModelName_>
-            <value>GeometryCHLV95_V1</value>
-          </IliRepository09.ModelName_>
-        </dependsOnModel>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
+
       
       
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Nutzungsplanung_NWOW_V2">
         <Name>Nutzungsplanung_NWOW_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>RAUMPLANUNG/Nutzungsplanung_NWOW_V2.ili</File>
-        <Version>2025-01-20</Version>
+        <Version>2025-02-20</Version>
         <publishingDate/>
+        <Tags>GeobasisdatenID?</Tags>
         <Title/>
         <shortDescription/>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
@@ -54,17 +39,39 @@
         <md5>11d7f00d8fb7b54a5108dc96a0aab8fc</md5>
         <dependsOnModel>
           <IliRepository09.ModelName_>
-            <value>Raumplanung_Basis_NWOW_V2</value>
+           <value>Raumplanung_Basis_NWOW_V2</value>
           </IliRepository09.ModelName_>
-        </dependsOnModel>
-        <dependsOnModel>
+          <IliRepository09.ModelName_>
+           <value>CatalogueObjects_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+           <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+       </dependsOnModel>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Raumplanung_Basis_NWOW_V2">
+        <Name>Raumplanung_Basis_NWOW_V2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>RAUMPLANUNG/Raumplanung_Basis_NWOW_V2.ili</File>
+        <Version>2025-02-20</Version>
+        <publishingDate>2025-02-20</publishingDate>
+		<dependsOnModel>
           <IliRepository09.ModelName_>
             <value>GeometryCHLV95_V1</value>
           </IliRepository09.ModelName_>
         </dependsOnModel>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
+		<furtherInformation>https://models.gis-daten.ch/nw-ow/RAUMPLANUNG/PDF/Datenmodelle/T-Geodatmod-NP_Doku_xxxxxxx.pdf</furtherInformation>
+        <md5>692ad895dfd0199620985d2ee9e8cac3</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-
-
+	  
+	  
+	  
+	  
 
       <IliRepository09.RepositoryIndex.ModelMetadata TID="PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1">
         <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
