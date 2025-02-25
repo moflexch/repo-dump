@@ -439,9 +439,21 @@
         </dependsOnModel>
         <Title>Kantonaler Schutzzonenplan</Title>
         <shortDescription>Das Modell umfasst die kantonalen Schutzobjekte im Bereich Natur, Landschaft und Ortsbild.</shortDescription>
-        <Issuer>https://models.geo.ar.ch/ARW</Issuer>
+        <Issuer>https://models.geo.ar.ch/ARE</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>4051c49e82eefe59c59a1e0478cafa03</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+	        <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Gemeinden_V1">
+        <Name>AR_Gemeinden_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/AR_Gemeinden_V1.ili</File>
+        <Version>2025-02-20</Version>
+        <publishingDate>2025-02-25</publishingDate>
+        <Title>Gemeinden im Kanton Appenzell Ausserrhoden</Title>
+        <shortDescription>Das Modell beschreibt den dazugehörigen XML Katalog, welcher die zwanzig Appenzell Ausserrhoder Gemeinden auflistet.</shortDescription>
+        <Issuer>https://models.geo.ar.ch/ARE</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>f55cda55b86941ddb9e7287c84671ae9</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
