@@ -21437,7 +21437,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008109">
       <Name>HaltestellenOeV_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/HaltestellenOeV_V2_0.ili</File>
+      <File>BAV/replaced/HaltestellenOeV_V2_0.ili</File>
       <Version>2024-03-20</Version>
       <publishingDate>2024-04-11</publishingDate>
       <dependsOnModel>
@@ -21465,7 +21465,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008110">
       <Name>ArretsTP_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/ArretsTP_V2_0.ili</File>
+      <File>BAV/replaced/ArretsTP_V2_0.ili</File>
       <Version>2024-03-20</Version>
       <publishingDate>2024-04-11</publishingDate>
       <dependsOnModel>
@@ -21491,6 +21491,63 @@
       <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
       <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-a-z/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html</furtherInformation>
       <md5>a571a08da1ae1b8ea777639e03a7787f</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008111">
+      <Name>HaltestellenOeV_V2_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/HaltestellenOeV_V2_1.ili</File>
+      <Version>2025-02-03</Version>
+      <publishingDate>2025-02-28</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>TransportunternehmenOeV_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>98.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/de/home/themen-a-z/geoinformation/geobasisdaten/haltestellen-des-oeffentlichen-verkehrs.html</furtherInformation>
+      <md5>e11ce383132d558c1f3e8073a17f41cc</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008112">
+      <Name>ArretsTP_V2_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/ArretsTP_V2_1.ili</File>
+      <Version>2025-02-03</Version>
+      <publishingDate>2025-02-28</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>HaltestellenOeV_V2_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>EntreprisesTP_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>98.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-a-z/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html</furtherInformation>
+      <md5>585b0d3e28811d599e3fdae3fc637423</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -27851,7 +27908,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="014133">
       <Name>LWB_Nutzungsflaechen_V2_0</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BLW/LWB_Nutzungsflaechen_V2_0.ili</File>
+      <File>BLW/replaced/LWB_Nutzungsflaechen_V2_0.ili</File>
       <Version>2023-03-17</Version>
       <publishingDate>2023-04-28</publishingDate>
       <dependsOnModel>
@@ -27970,6 +28027,36 @@
       <technicalContact>mailto:info@blw.admin.ch</technicalContact>
       <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/landwirtschaftliche-kulturflaechen.html</furtherInformation>
       <md5>14b88f684f7f60785c2b17d61c9172d4</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="014138">
+      <Name>LWB_Nutzungsflaechen_V3_0</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BLW/LWB_Nutzungsflaechen_V3_0.ili</File>
+      <Version>2025-02-19</Version>
+      <publishingDate>2025-02-28</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LWB_Bewirtschaftungseinheiten_V3_0</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CoordSys</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>153.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BLW/</Issuer>
+      <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+      <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/landwirtschaftliche-kulturflaechen.html</furtherInformation>
+      <md5>815c23a6ce9d0b38800ca0ea9daaeb1e</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
