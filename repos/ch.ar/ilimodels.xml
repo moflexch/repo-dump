@@ -453,7 +453,7 @@
         <shortDescription>Das Modell beschreibt den dazugehörigen XML Katalog, welcher die zwanzig Appenzell Ausserrhoder Gemeinden auflistet.</shortDescription>
         <Issuer>https://models.geo.ar.ch/ARE</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
-        <md5>acb9057148b9acdf71f4bb3fd510596e</md5>
+        <md5>ab6600f7c25ee41cb67a87098b9cf158</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
