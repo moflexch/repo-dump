@@ -14575,14 +14575,14 @@
             <file>
               <DatasetIdx16.File>
                 <path>BLW/LWB_Nutzungsflaechen_Kataloge_V3_0.xml</path>
-                <md5>f4b452dedc6027163ee330753fe92ad9</md5>
+                <md5>2a5bc505077e895462ab9d6737afe709</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
         </files>
         <baskets>
           <DatasetIdx16.DataIndex.BasketMetadata>
-            <version>2025-02-191</version>
+            <version>2025-02-19</version>
             <model>
               <DatasetIdx16.ModelLink>
                 <name>LWB_Nutzungsflaechen_V3_0.LNF_Kataloge</name>
