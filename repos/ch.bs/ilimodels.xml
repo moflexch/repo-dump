@@ -652,7 +652,7 @@
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>Gesellschaft_Kultur/PT_Partizipation_KGDM_V1_0_LV95.ili</File>
                 <Version>2024-09-30</Version>
-                <publishingDate>2025-02-04</publishingDate>
+                <publishingDate>2025-03-04</publishingDate>
                 <dependsOnModel>
                   <IliRepository20.ModelName_>
                     <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -660,7 +660,7 @@
                 </dependsOnModel>
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>f99e4a5676b8860dc2ef3bdce334ab27</md5>
+                <md5>5244d1aa074ea2b0a63b4aa5d89383c0</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gesundheit                        BS010xxx       -->
@@ -1694,6 +1694,21 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>3a253d20994fbe66d5fba0d525d31d73</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>				
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023034">
+              <Name>HD_Dachflaechenkataster_KGDM_V1_0_LV95</Name>
+              <SchemaLanguage>ili2_3</SchemaLanguage>
+              <File>Raumplanung/HD_Dachflaechenkataster_KGDM_V1_0_LV95.ili</File>
+              <Version>2025-02-10</Version>
+              <publishingDate>2025-03-04</publishingDate>
+              <dependsOnModel>
+                <IliRepository20.ModelName_>
+                  <value>BS_Basis_KGDM_V1_0_LV95</value>
+                </IliRepository20.ModelName_>
+              </dependsOnModel>
+              <Issuer>https://www.geo.bs.ch</Issuer>
+              <technicalContact>mailto:geo@bs.ch</technicalContact>
+              <md5>98d649ec7e86765fe4598e7b709885d3</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>				
             <!--  ===============================================  -->
             <!--  Umweltschutz_Laerm                BS024xxx       -->
             <!--  ===============================================  -->
@@ -2200,7 +2215,7 @@
               <SchemaLanguage>ili2_3</SchemaLanguage>
               <File>Verkehr/LG_Lichtsignalanlagen_KGDM_V1_0_LV95.ili</File>
               <Version>2024-11-27</Version>
-              <publishingDate>2025-02-04</publishingDate>
+              <publishingDate>2025-03-04</publishingDate>
               <dependsOnModel>
                 <IliRepository20.ModelName_>
                   <value>BS_Basis_KGDM_V1_0_LV95</value>
@@ -2208,7 +2223,7 @@
               </dependsOnModel>
               <Issuer>https://www.geo.bs.ch</Issuer>
               <technicalContact>mailto:geo@bs.ch</technicalContact>
-              <md5>00777bc97791d85a3f6b232de38baec5</md5>
+              <md5>e20df1d42053b7957eb588b240a7abf3</md5>
           </IliRepository20.RepositoryIndex.ModelMetadata>
           <!--  ===============================================  -->
             <!--  Wald_Flora_Fauna                  BS026xxx       -->
