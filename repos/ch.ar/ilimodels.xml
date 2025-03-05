@@ -441,7 +441,7 @@
         <shortDescription>Das Modell umfasst die kantonalen Schutzobjekte im Bereich Natur, Landschaft und Ortsbild.</shortDescription>
         <Issuer>https://models.geo.ar.ch/ARE</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
-        <md5>d4cbd919158e49c048e69a55f8917503</md5>
+        <md5>7d8865505fde2b9d8142b017af99e8a3</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
 	        <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Gemeinden_V1">
         <Name>AR_Gemeinden_V1</Name>
