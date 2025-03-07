@@ -17217,7 +17217,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004514">
       <Name>LBK_Haupt_uebrigeStrassen_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/replaced/LBK_Haupt_uebrigeStrassen_V1_2.ili</File>
+      <File>obsolete/LBK_Haupt_uebrigeStrassen_V1_2_o1.ili</File>
       <Version>2022-10-19</Version>
       <publishingDate>2022-11-17</publishingDate>
       <dependsOnModel>
@@ -18021,7 +18021,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004543">
       <Name>LBK_Haupt_uebrigeStrassen_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/LBK_Haupt_uebrigeStrassen_V1_2.ili</File>
+      <File>BAFU/replaced/LBK_Haupt_uebrigeStrassen_V1_2.ili</File>
       <Version>2023-01-24</Version>
       <publishingDate>2023-09-01</publishingDate>
       <dependsOnModel>
@@ -18571,6 +18571,33 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>79d712c5b20d7d3b75b7b17b0dbac687</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004565">
+      <Name>LBK_Haupt_uebrigeStrassen_V1_3</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/LBK_Haupt_uebrigeStrassen_V1_3.ili</File>
+      <Version>2025-01-15</Version>
+      <publishingDate>2025-03-07</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>144.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>40fd6502236277a64e03e4ebccb634e9</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->

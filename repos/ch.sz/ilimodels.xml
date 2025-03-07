@@ -1613,7 +1613,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waermenutzung_V2">
         <Name>SZ_Waermenutzung_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_Waermenutzung_V2.ili</File>
+        <File>AFU/replaced/SZ_Waermenutzung_V2.ili</File>
         <Version>2023-09-13</Version>
         <publishingDate>2023-09-13</publishingDate>
         <dependsOnModel>
@@ -2592,6 +2592,23 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Umweltschutz AFU-->
       <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Waermenutzung_V2_1">
+        <Name>SZ_Waermenutzung_V2_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Waermenutzung_V2_1.ili</File>
+        <Version>2025-03-05</Version>
+        <publishingDate>2025-03-07</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>Units</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Datenmodell zum Thema Wärmenutzung</Title>
+        <shortDescription>Dieses Modell beschreibt die Zulässigkeit einers Gebietes für die Wärmenutzung aus dem Untergrund oder dem Grundwasser sowie die im Kanton erstellten Wärmenutzungsanlagen</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>6707275528EFDE7496931E70D356E264</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grundwassermessstellen_V1_1">
         <Name>SZ_Grundwassermessstellen_V1_1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>

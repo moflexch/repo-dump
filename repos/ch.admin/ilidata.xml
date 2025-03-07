@@ -9406,7 +9406,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/replaced/LBK_Haupt_uebrigeStrassen_Catalogues_V1_2_20220309.xml</path>
+                <path>obsolete/LBK_Haupt_uebrigeStrassen_Catalogues_V1_2_o1.xml</path>
                 <md5>8f738f5ed5f0b2f604e2004c6e472857</md5>
               </DatasetIdx16.File>
             </file>
@@ -12461,6 +12461,11 @@
         <id>ch.admin.geo.models.LBK_Haupt_uebrigeStrassen_Catalogues_V1_2_20230124</id>
         <version>2023-01-24</version>
         <precursorVersion>2020-10-19</precursorVersion>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.LBK_Haupt_uebrigeStrassen_Catalogues_V1_3_20250115</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2023-09-01</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -12484,7 +12489,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/LBK_Haupt_uebrigeStrassen_Catalogues_V1_2.xml</path>
+                <path>BAFU/replaced/LBK_Haupt_uebrigeStrassen_Catalogues_V1_2.xml</path>
                 <md5>b5b9451adcb83cbc2a745c6d29bc0697</md5>
               </DatasetIdx16.File>
             </file>
@@ -14686,6 +14691,51 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>e0a76fc7-f37a-4a6e-ad91-c72d7dc82fb9</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="275">
+        <id>ch.admin.geo.models.LBK_Haupt_uebrigeStrassen_Catalogues_V1_3_20250115</id>
+        <version>2025-01-15</version>
+        <publishingDate>2025-03-07</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU LBK_Haupt_uebrigeStrassen_Catalogues_V1_3</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/LBK_Haupt_uebrigeStrassen_Catalogues_V1_3.xml</path>
+                <md5>34381c07dcf4321789ce06d777d942bf</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-01-15</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>LBK_Haupt_uebrigeStrassen_V1_3.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.lbk_haupt_uebrigeStrassen_catalogues_v1_3</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
