@@ -30649,7 +30649,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="019132">
       <Name>swissTLM3D_ili2_V2_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>Swisstopo/swissTLM3D_ili2_V2_2.ili</File>
+      <File>Swisstopo/replaced/swissTLM3D_ili2_V2_2.ili</File>
       <Version>2024-01-01</Version>
       <publishingDate>2024-03-05</publishingDate>
       <dependsOnModel>
@@ -30697,7 +30697,25 @@
       <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
       <technicalContact>mailto:info@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.swisstopo.admin.ch/de/geodata/amtliche-verzeichnisse/gebaeudeadressenverzeichnis.html</furtherInformation>
-      <md5>413a164f151c899f35c544f36657a13b</md5>
+      <md5>82200e8cfa0c5af05230cf29a0fd5a9b</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="019135">
+      <Name>swissTLM3D_ili2_V2_3</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>Swisstopo/swissTLM3D_ili2_V2_3.ili</File>
+      <Version>2025-01-01</Version>
+      <publishingDate>2025-03-11</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CoordSys</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>38.1</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:geodata@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch</furtherInformation>
+      <md5>1a7e16638caf42eb958f5005afe60cb6</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
