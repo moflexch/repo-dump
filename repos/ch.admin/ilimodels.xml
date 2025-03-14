@@ -32526,7 +32526,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="504003">
       <Name>Waldreservate_V2_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>BAFU/Waldreservate_V2_0.ili</File>
+      <File>obsolete/Waldreservate_V2_0_o0.ili</File>
       <Version>2025-01-23</Version>
       <publishingDate>2025-02-04</publishingDate>
       <dependsOnModel>
@@ -32554,6 +32554,40 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>6d9302b12ab7b69136dfd8a4eb391f3b</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="504004">
+      <Name>Waldreservate_V2_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAFU/Waldreservate_V2_0.ili</File>
+      <Version>2025-03-07</Version>
+      <publishingDate>2025-03-14</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>CatalogueObjects_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Units</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>LocalisationCH_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>InternationalCodes_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2025-01-23</precursorVersion>
+      <Tags>160.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>96143f0a7f19641bd0a88b87561269b1</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
