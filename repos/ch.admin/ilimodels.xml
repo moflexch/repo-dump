@@ -31084,7 +31084,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020026">
       <Name>AMO_Grafik_LV95_e</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/AMO_Grafik_LV95_e.ili</File>
+      <File>V_D/replaced/AMO_Grafik_LV95_e.ili</File>
       <Version>2009-06-22</Version>
       <publishingDate>2014-10-21</publishingDate>
       <Issuer>http://models.geo.admin.ch/V_D/</Issuer>
@@ -31186,7 +31186,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="020032">
       <Name>AMO_Grafik_LV95_PNF</Name>
       <SchemaLanguage>ili1</SchemaLanguage>
-      <File>V_D/AMO_Grafik_LV95_PNF.ili</File>
+      <File>V_D/replaced/AMO_Grafik_LV95_PNF.ili</File>
       <Version>2015-10-14</Version>
       <publishingDate>2015-11-03</publishingDate>
       <Issuer>http://models.geo.admin.ch/V_D/</Issuer>
