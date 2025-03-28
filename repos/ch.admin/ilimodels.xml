@@ -22784,7 +22784,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="009045">
       <Name>UASGeographicalZone_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAZL/UASGeographicalZone_V1.ili</File>
+      <File>BAZL/replaced/UASGeographicalZone_V1.ili</File>
       <Version>2022-04-08</Version>
       <publishingDate>2022-04-19</publishingDate>
       <dependsOnModel>
@@ -32604,6 +32604,32 @@
 
 <!-- =================================================================== -->
 <!-- BAZL OFAC UFAC FOCA                                          509xxx -->
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="509001">
+      <Name>UASGeographicalZone_V2</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAZL/UASGeographicalZone_V2.ili</File>
+      <Version>2025-03-10</Version>
+      <publishingDate>2025-03-28</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>InternationalCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CatalogueObjects_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/BAZL/</Issuer>
+      <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
+      <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
+      <md5>dd01d15a357225d8ecdd816806788a8d</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
 <!-- BFE OFEN UFE SFOE                                            510xxx -->
