@@ -22784,7 +22784,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="009045">
       <Name>UASGeographicalZone_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAZL/replaced/UASGeographicalZone_V1.ili</File>
+      <File>BAZL/UASGeographicalZone_V1.ili</File>
       <Version>2022-04-08</Version>
       <publishingDate>2022-04-19</publishingDate>
       <dependsOnModel>
