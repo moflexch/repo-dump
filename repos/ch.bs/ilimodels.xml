@@ -1286,7 +1286,22 @@
             <technicalContact>mailto:geo@bs.ch</technicalContact>
             <md5>a97056f45956d6b9cff6ffc9caa65b10</md5>
         </IliRepository20.RepositoryIndex.ModelMetadata>            
-      <!--  ===============================================  -->
+        <IliRepository20.RepositoryIndex.ModelMetadata TID="BS019010">
+          <Name>NO_Notfalltreffpunkte_KGDM_V1_0_LV95</Name>
+          <SchemaLanguage>ili2_3</SchemaLanguage>
+          <File>Militaer_Sicherheit/NO_Notfalltreffpunkte_KGDM_V1_0_LV95.ili</File>
+          <Version>2025-03-26</Version>
+          <publishingDate>2025-04-01</publishingDate>
+          <dependsOnModel>
+            <IliRepository20.ModelName_>
+              <value>BS_Basis_KGDM_V1_0_LV95</value>
+            </IliRepository20.ModelName_>
+          </dependsOnModel>
+          <Issuer>https://www.geo.bs.ch</Issuer>
+          <technicalContact>mailto:geo@bs.ch</technicalContact>
+          <md5>0ce9709ff487f0b0d0ae6ffed4f79875</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>            
+    <!--  ===============================================  -->
             <!--  Naturbedingte_Risiken             BS020xxx       -->
             <!--  ===============================================  -->
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS020001">
