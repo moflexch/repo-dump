@@ -687,8 +687,8 @@
                 <Name>OEREB_Basis_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>Lisag/OEREB_Basis_UR_V1.ili</File>
-                <Version>2025-01-20</Version>
-                <publishingDate>2025-01-20</publishingDate>
+                <Version>2025-04-02</Version>
+                <publishingDate>2025-04-02</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
                         <value>GeometryCHLV95_V1</value>
@@ -697,7 +697,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_OEREB_Basis_UR_V1.pdf</furtherInformation>
-                <md5>576b153f9a8f0242e8019fba17d7bb45</md5>
+                <md5>ec8f775b4f2c2e5782ba4e53b58eb72c</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
             
             
