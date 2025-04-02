@@ -9,7 +9,7 @@
     <IliSite09.SiteMetadata BID="SOb0">
       <IliSite09.SiteMetadata.Site TID="1">
         <Name>models.geo.so.ch</Name>
-        <Title>ModelRepository Kantons Solothurn</Title>
+        <Title>Modell-Repository des Kantons Solothurn</Title>
         <shortDescription>Modellablage fuer Datenmodelle der Geobasisdaten des kantonalen Rechts des Kantons Solothurn </shortDescription>
         <Owner>https://geo.so.ch</Owner>
         <technicalContact>mailto:agi@bd.so.ch</technicalContact>
@@ -28,6 +28,9 @@
           </IliSite09.RepositoryLocation_>
           <IliSite09.RepositoryLocation_>
             <value>https://geo.so.ch/usabilityhub/</value>
+          </IliSite09.RepositoryLocation_>
+          <IliSite09.RepositoryLocation_>
+            <value>https://geo.so.ch/models/mirror/</value>
           </IliSite09.RepositoryLocation_>
         </subsidiarySite>
       </IliSite09.SiteMetadata.Site>

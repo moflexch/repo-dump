@@ -1122,6 +1122,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>DE21A83A5FAE733B388A372891298788</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waldfeststellungen_V2_Publikation">
+        <Name>SZ_Waldfeststellungen_V2_Publikation</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AWN/SZ_Waldfeststellungen_V2_Publikation.ili</File>
+        <Version>2023-09-08</Version>
+        <publishingDate>2025-04-02</publishingDate>
+        <Title>Waldfeststellungen (Publikation)</Title>
+        <shortDescription>Publikationsmodell des Themas der Wald- und Stockgrenzen</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>FAACE83F094664F0B7130BFC19AC2280</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waldfeststellungen_20170111">
         <Name>SZ_Waldfeststellungen_20170111</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
