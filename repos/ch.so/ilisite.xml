@@ -29,9 +29,11 @@
           <IliSite09.RepositoryLocation_>
             <value>https://geo.so.ch/usabilityhub/</value>
           </IliSite09.RepositoryLocation_>
+          <!--
           <IliSite09.RepositoryLocation_>
             <value>https://geo.so.ch/models/mirror/</value>
           </IliSite09.RepositoryLocation_>
+          -->
         </subsidiarySite>
       </IliSite09.SiteMetadata.Site>
     </IliSite09.SiteMetadata>
