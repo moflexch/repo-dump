@@ -37,7 +37,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>AFT/Strassenverkehrssignalisation_Verkehrssignale_UR_V1.xml</path>
-                                <md5>439d7b8b4950b2fa498d20a58f79dc4d2d450365</md5>
+                                <md5>cd236366e95f9c2e2ebe43f25946a9eb</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -88,7 +88,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>ARE/Baulinien_Katalog_UR_V1_20240126.xml</path>
-                                <md5>9486a3328cf97714fe0fe7a37d5b65e600598fac</md5>
+                                <md5>76ab6de4e27357a862a059feb636b41f</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -139,7 +139,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>ARE/Laermempfindlichkeitsstufen_Katalog_UR_V2_20240126.xml</path>
-                                <md5>f5639c6314d24c97b0a403fb49a1a79c561999a5</md5>
+                                <md5>cfa44f961299d0ccfd426ea7466ad991</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -190,7 +190,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>ARE/Nutzungsplanung_Katalog_UR_V2_20240522.xml</path>
-                                <md5>a760e2e8713ee9c4d516409afa7c405cec60998d</md5>
+                                <md5>daa4e4447f29716351ee2966266ea297</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -241,7 +241,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>ARE/Schutzmassnahmen_Katalog_UR_V1_20241218.xml</path>
-                                <md5>058595d8774f70f28436d7722347508663ae987c</md5>
+                                <md5>700c3c1f36f29934bc41ba2d0cf24c52</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -285,14 +285,14 @@
                     </DatasetIdx16.Code_>
                 </categories>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
-                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldreservate_UR_V1.pdf</furtherInformation>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldabstandslinien_UR_V2.pdf</furtherInformation>
                 <files>
                     <DatasetIdx16.DataFile>
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
                                 <path>ARE/Waldabstandslinien_Katalog_UR_V2_20240126.xml</path>
-                                <md5>cc23735c40235936730fe9795d0fc9099d43624c</md5>
+                                <md5>d520adf856000ae7f2fe7a8bf0412e98</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -343,7 +343,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>AFJ/Waldgrenzen_Katalog_UR_V2_20240126.xml</path>
-                                <md5>3066b67a62b59421bc71fe531ee7508c15d9ca36</md5>
+                                <md5>f21ff8638f8cd36309452c636b089613</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -394,7 +394,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>AFU/Gewaesserraum_Katalog_UR_V1_20240126.xml</path>
-                                <md5>f20127d77d4939096d5813ad22710c7f1697bd8a</md5>
+                                <md5>450de5787a0700ebd4e2bf4d355e8854</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -411,6 +411,57 @@
                         </model>
                         <owner>mailto:mail@lisag.ch</owner>
                         <localId>ch.ur.katalog_gewaesserraum_ur</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="9">
+                <id>Landwirtschaftlicher_Naturschutz_UR_V1.Codelisten</id>
+                <version>2025-04-17</version>
+                <publishingDate>2025-04-17</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Landwirtschaftlicher Naturschutz</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Landwirtschaftlicher_Naturschutz_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Landwirtschaftlicher_Naturschutz_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>ALA/Landwirtschaftlicher_Naturschutz_Katalog_UR_V1_20250417.xml</path>
+                                <md5>d2ef658de850e085095c1157308c2b97</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_lw_naturschutz</id>
+                        <version>2024-01-26</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Landwirtschaftlicher_Naturschutz_UR_V1.Codelisten </name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_lw_naturschutz</localId>
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>

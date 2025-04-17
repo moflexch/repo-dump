@@ -381,6 +381,27 @@
                 <md5>60b2003e6e4eff51f430f11cf29269dc</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA003">
+                <Name>Landwirtschaftlicher_Naturschutz_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ALA/Landwirtschaftlicher_Naturschutz_UR_V1.ili</File>
+                <Version>2025-04-17</Version>
+                <publishingDate>2025-04-17</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>11-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Landwirtschaftlicher_Naturschutz_UR_V1.pdf</furtherInformation>
+                <md5>199ecc8fc63f4b1165719cc07558ccdb</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
             <!--  ===============================================  -->
             <!--  Amt für Raumentwicklung [ARE]                    -->
