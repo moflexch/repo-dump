@@ -406,7 +406,7 @@
                         <version>2024-01-26</version>
                         <model>
                             <DatasetIdx16.ModelLink>
-                                <name>Gewaesserraum_UR_V1.Katalog_Gewaesserraum_UR </name>
+                                <name>Gewaesserraum_UR_V1.Katalog_Gewaesserraum_UR</name>
                             </DatasetIdx16.ModelLink>
                         </model>
                         <owner>mailto:mail@lisag.ch</owner>
@@ -457,11 +457,62 @@
                         <version>2024-01-26</version>
                         <model>
                             <DatasetIdx16.ModelLink>
-                                <name>Landwirtschaftlicher_Naturschutz_UR_V1.Codelisten </name>
+                                <name>Landwirtschaftlicher_Naturschutz_UR_V1.Codelisten</name>
                             </DatasetIdx16.ModelLink>
                         </model>
                         <owner>mailto:mail@lisag.ch</owner>
                         <localId>ch.ur.katalog_lw_naturschutz</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="10">
+                <id>Landwirtschaftlicher_Naturschutz_UR_V1.Codelisten</id>
+                <version>2025-04-03</version>
+                <publishingDate>2025-04-03</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Waldreservate</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Waldreservate_UR_V1_1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldreservate_UR_V1_1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>AFJ/Waldreservate_Katalog_UR_V1_1_20250403.xml</path>
+                                <md5>7f51c250b5ee82d5e2190e33dd54ca4f</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.katalog_waldreservat</id>
+                        <version>2025-04-03</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Waldreservate_UR_V1_1.Codelisten</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.katalog_waldreservat</localId>
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>

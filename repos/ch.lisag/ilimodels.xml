@@ -161,7 +161,7 @@
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ005">
                 <Name>Waldreservat_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>AFJ/Waldreservat_UR_V1.ili</File>
+                <File>AFJ/replaced/Waldreservat_UR_V1.ili</File>
                 <Version>2024-01-26</Version>
                 <publishingDate>2024-04-01</publishingDate>
                 <dependsOnModel>
@@ -178,11 +178,38 @@
                         <value>Units</value>
                     </IliRepository09.ModelName_>
                 </dependsOnModel>
-                <Tags>157</Tags>
+                <Tags>160</Tags>
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldreservat_UR_V1.pdf</furtherInformation>
                 <md5>9276921276341d12af9b466939861549</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ006">
+                <Name>Waldreservate_UR_V1_1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>AFJ/Waldreservate_UR_V1_1.ili</File>
+                <Version>2025-04-03</Version>
+                <publishingDate>2025-04-03</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>OEREB_Basis_UR_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>160</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Waldreservat_UR_V1_1.pdf</furtherInformation>
+                <md5>d6022173fc9fd0a91fbab4d3f454ad16</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
 
