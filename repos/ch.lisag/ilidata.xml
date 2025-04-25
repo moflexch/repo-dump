@@ -213,8 +213,8 @@
 
             <DatasetIdx16.DataIndex.DatasetMetadata TID="5">
                 <id>Schutzmassnahmen_UR_V1.Katalog_Schutzmassnahmen_UR</id>
-                <version>2024-12-18</version>
-                <publishingDate>2024-12-18</publishingDate>
+                <version>2025-04-25</version>
+                <publishingDate>2025-04-25</publishingDate>
                 <owner>mailto:mail@lisag.ch</owner>
                 <title>
                     <DatasetIdx16.MultilingualText>
@@ -240,8 +240,8 @@
                         <fileFormat>application/interlis+xml;version=2.3</fileFormat>
                         <file>
                             <DatasetIdx16.File>
-                                <path>ARE/Schutzmassnahmen_Katalog_UR_V1_20241218.xml</path>
-                                <md5>700c3c1f36f29934bc41ba2d0cf24c52</md5>
+                                <path>ARE/Schutzmassnahmen_Katalog_UR_V1_20250425.xml</path>
+                                <md5>ad1ca9b33d56acead9757da65fb8f205</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -250,7 +250,7 @@
                     <DatasetIdx16.DataIndex.BasketMetadata>
                         <!-- BID of basket in XTF -->
                         <id>ch.ur.katalog_schutzmassnahmen</id>
-                        <version>2024-12-18</version>
+                        <version>2025-04-25</version>
                         <model>
                             <DatasetIdx16.ModelLink>
                                 <name>Schutzmassnahmen_UR_V1.Katalog_Schutzmassnahmen_UR</name>
