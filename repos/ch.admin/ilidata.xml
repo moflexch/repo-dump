@@ -256,6 +256,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="5">
         <id>ch.admin.geo.models.NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_3_20190708</id>
         <version>2019-07-08</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_4_20250306</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2019-07-08</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -285,7 +290,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_3.xml</path>
+                <path>BAFU/replaced/NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_3.xml</path>
                 <md5>3ad9d98f5412452e0ccbf73e10a11872</md5>
               </DatasetIdx16.File>
             </file>
@@ -10508,6 +10513,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="187">
         <id>ch.admin.geo.models.NoisePollutionRegisterForNationalRoads_Catalogues_V1_1_20221019</id>
         <version>2022-10-19</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.NoisePollutionRegisterForNationalRoads_Catalogues_V1_2_20250306</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2022-11-17</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -10531,7 +10541,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NoisePollutionRegisterForNationalRoads_Catalogues_V1_1.xml</path>
+                <path>BAFU/replaced/NoisePollutionRegisterForNationalRoads_Catalogues_V1_1.xml</path>
                 <md5>38cec25185ec43983c1e80cdeb6bc49c</md5>
               </DatasetIdx16.File>
             </file>
@@ -14781,6 +14791,99 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b01</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="277">
+        <id>ch.admin.geo.models.NoisePollutionRegisterForNationalRoads_Catalogues_V1_2_20250306</id>
+        <version>2025-03-06</version>
+        <publishingDate>2025-04-29</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NoisePollutionRegisterForNationalRoads_Catalogues_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NoisePollutionRegisterForNationalRoads_Catalogues_V1_2.xml</path>
+                <md5>070f7ac1bdf798a7de7a796ce02eb2ad</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-03-06</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NoisePollutionRegisterForNationalRoads_V1_2.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.noisepollutionregisterfornationalroads_catalogues_v1_2</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="278">
+        <id>ch.admin.geo.models.NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_4_20250306</id>
+        <version>2025-03-06</version>
+        <publishingDate>2025-04-29</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_4</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/NoisePollutionRegisterForRailwayInfrastructure_LV95_V1_4</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_4.xml</path>
+                <md5>d4052c09ae4538586155f4777186ef76</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-03-06</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NoisePollutionRegisterForRailwayInfrastructure_Codelisten_V1_4.codelists</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.NoisePollutionRegisterForRailwayInfrastructure_Catalogues_V1_4</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>

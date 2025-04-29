@@ -13979,7 +13979,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004379">
       <Name>NoisePollutionRegisterForRailwayInfrastructure_Codelisten_V1_3</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/NoisePollutionRegisterForRailwayInfrastructure_V1_3.ili</File>
+      <File>BAFU/replaced/NoisePollutionRegisterForRailwayInfrastructure_V1_3.ili</File>
       <Version>2019-07-08</Version>
       <publishingDate>2019-10-21</publishingDate>
       <dependsOnModel>
@@ -14000,7 +14000,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004380">
       <Name>NoisePollutionRegisterForRailwayInfrastructure_LV03_V1_3</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/NoisePollutionRegisterForRailwayInfrastructure_V1_3.ili</File>
+      <File>BAFU/replaced/NoisePollutionRegisterForRailwayInfrastructure_V1_3.ili</File>
       <Version>2019-07-08</Version>
       <publishingDate>2019-10-21</publishingDate>
       <dependsOnModel>
@@ -14024,7 +14024,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004381">
       <Name>NoisePollutionRegisterForRailwayInfrastructure_LV95_V1_3</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/NoisePollutionRegisterForRailwayInfrastructure_V1_3.ili</File>
+      <File>BAFU/replaced/NoisePollutionRegisterForRailwayInfrastructure_V1_3.ili</File>
       <Version>2019-07-08</Version>
       <publishingDate>2019-10-21</publishingDate>
       <dependsOnModel>
@@ -17245,7 +17245,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004515">
       <Name>NoisePollutionRegisterForNationalRoads_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/NoisePollutionRegisterForNationalRoads_V1_1.ili</File>
+      <File>BAFU/replaced/NoisePollutionRegisterForNationalRoads_V1_1.ili</File>
       <Version>2022-10-19</Version>
       <publishingDate>2022-11-17</publishingDate>
       <dependsOnModel>
@@ -18598,6 +18598,78 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>40fd6502236277a64e03e4ebccb634e9</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004566">
+      <Name>NoisePollutionRegisterForRailwayInfrastructure_Codelisten_V1_4</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/NoisePollutionRegisterForRailwayInfrastructure_V1_4.ili</File>
+      <Version>2025-03-06</Version>
+      <publishingDate>2025-04-29</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>126.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>7b45edad3715190888102580fb388240</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004567">
+      <Name>NoisePollutionRegisterForRailwayInfrastructure_LV95_V1_4</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/NoisePollutionRegisterForRailwayInfrastructure_V1_4.ili</File>
+      <Version>2025-03-06</Version>
+      <publishingDate>2025-04-29</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>NoisePollutionRegisterForRailwayInfrastructure_Codelisten_V1_4</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>126.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>7b45edad3715190888102580fb388240</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004568">
+      <Name>NoisePollutionRegisterForNationalRoads_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/NoisePollutionRegisterForNationalRoads_V1_2.ili</File>
+      <Version>2025-03-06</Version>
+      <publishingDate>2025-04-29</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>142.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>c64e91bbc496715cf82ca950005f012a</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -32664,7 +32736,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="519001">
       <Name>OfficialIndexOfLocalities_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>Swisstopo/OfficialIndexOfLocalities_V1_0.ili</File>
+      <File>obsolete/OfficialIndexOfLocalities_V1_0.ili_o0</File>
       <Version>2024-01-01</Version>
       <publishingDate>2023-11-20</publishingDate>
       <dependsOnModel>
@@ -32685,7 +32757,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="519002">
       <Name>FixpunkteLV_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>Swisstopo/FixpunkteLV_V1_0.ili</File>
+      <File>obsolete/FixpunkteLV_V1_0_o0.ili</File>
       <Version>2024-02-13</Version>
       <publishingDate>2024-09-18</publishingDate>
       <dependsOnModel>
@@ -32737,7 +32809,7 @@
       <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
       <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.swisstopo.admin.ch/de/landesgrenze</furtherInformation>
-      <md5>cef4737c81bfbd58b094299473a3c8ed</md5>
+      <md5>1720401df70f40337893020feecbf579</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
     <IliRepository20.RepositoryIndex.ModelMetadata TID="519005">
@@ -32758,7 +32830,53 @@
       <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
       <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.swisstopo.admin.ch/de/landesgrenze</furtherInformation>
-      <md5>91e850ce4583eabb802dd5bcb35ab313</md5>
+      <md5>9d39ffef178b5ef48f3db433bd2120d7</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519006">
+      <Name>OfficialIndexOfLocalities_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/OfficialIndexOfLocalities_V1_0.ili</File>
+      <Version>2025-04-10</Version>
+      <publishingDate>2025-04-29</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-01-01</precursorVersion>
+      <Tags>181.1</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:plz@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/en/official-directory-of-towns-and-cities</furtherInformation>
+      <md5>5cd3a4b554021efb2265a9c9c6f7517f</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519007">
+      <Name>FixpunkteLV_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/FixpunkteLV_V1_0.ili</File>
+      <Version>2025-04-10</Version>
+      <publishingDate>2025-04-29</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometrie_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualitaet_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-02-13</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/schweizerische-bezugssysteme</furtherInformation>
+      <md5>a784e7d2680480ca045842f33506f701</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
