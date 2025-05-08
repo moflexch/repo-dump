@@ -11,6 +11,7 @@
         AfSt                 AfStXXX
         AFT                  AFTXXX
         AFU                  AFUXXX
+        AfV                  AfVXXX
         AfWoeV               AfWoeVXXX
         ALA                  ALAXXX
         ARE                  AREXXX
@@ -359,6 +360,29 @@
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Tank_UR_V1.pdf</furtherInformation>
                 <md5>666fe92daec2cd4dafe245494adf0d50</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
+            
+            <!--  ===============================================  -->
+            <!--  Amt für Volksschulen  [AfV]                      -->
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AfV001">
+                <Name>Schulkreise_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>AfV/Schulkreise_UR_V1.ili</File>
+                <Version>2025-05-08</Version>
+                <publishingDate>2025-05-08</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>9-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schulkreise_UR_V1.pdf</furtherInformation>
+                <md5>5c43f391083b71991bf1ec8eb8194865</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+
+
             <!--  ===============================================  -->
             <!--  Amt für Wirtschaft und öffentlichen Verkehr  [AfWoeV] -->
 
