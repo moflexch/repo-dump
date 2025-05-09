@@ -334,10 +334,48 @@
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_Master_V5_2">
+        <Name>Waldreservate_ZH_V5_2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/Waldreservate_ZH_Master_V5_2.ili</File>
+        <Version>2025-05-05</Version>
+        <publishingDate>2025-05-05</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>CoordSys</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CHAdminCodes_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Waldreservate</Title>
+        <shortDescription>Geobasisdatensatz Nr. 160-ZH Waldreservate des Kantons; Mastermodell</shortDescription>
+        <Issuer>http://models.geo.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_Transfer_V5_2">
+        <Name>Waldreservate_ZH_V5_2</Name>
+        <SchemaLanguage>ili1</SchemaLanguage>
+        <File>ARE/Waldreservate_ZH_Transfer_V5_2.ili</File>
+        <Version>2025-04-30</Version>
+        <publishingDate>2025-04-30</publishingDate>
+        <Title>Waldreservate</Title>
+        <shortDescription>Geobasisdatensatz Nr. 160-ZH Waldreservate des Kantons; Transfermodell</shortDescription>
+        <Issuer>http://oereb.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_Master_V5">
         <Name>Waldreservate_ZH_V5</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ARE/Waldreservate_ZH_Master_V5.ili</File>
+        <File>ARE/replaced/Waldreservate_ZH_Master_V5.ili</File>
         <Version>2023-09-11</Version>
         <publishingDate>2023-09-11</publishingDate>
         <dependsOnModel>
@@ -363,7 +401,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Waldreservate_ZH_Transfer_V5">
         <Name>Waldreservate_ZH_V5</Name>
         <SchemaLanguage>ili1</SchemaLanguage>
-        <File>ARE/Waldreservate_ZH_Transfer_V5.ili</File>
+        <File>ARE/replaced/Waldreservate_ZH_Transfer_V5.ili</File>
         <Version>2023-09-12</Version>
         <publishingDate>2023-09-12</publishingDate>
         <Title>Waldreservate</Title>
