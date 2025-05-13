@@ -635,10 +635,39 @@
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Genereller_Entwaesserungsplan_ZH_V1_LV95_2021-12-06_IL23">
+        <Name>Genereller_Entwaesserungsplan_ZH_V1_LV95</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AWEL/Genereller_Entwaesserungsplan_ZH_V1_LV95_2021-12-06_IL23.ili</File>
+        <Version>2021-12-06</Version>
+        <publishingDate>2021-12-06</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Base_LV95</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Basis_ZH_V1_LV95</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>SIA405_Base_Abwasser_LV95</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>VSADSSMINI_2020_LV95</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Genereller Entwaesserungsplan</Title>
+        <shortDescription>Geobasisdatensatz Nr. 129-ZH GEP</shortDescription>
+        <Issuer>http://models.geo.zh.ch/</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Genereller_Entwaesserungsplan_ZH_V1_LV95_2020-09-25_IL23">
         <Name>Genereller_Entwaesserungsplan_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWEL/Genereller_Entwaesserungsplan_ZH_V1_LV95_2020-09-25_IL23.ili</File>
+        <File>AWEL/replaced/Genereller_Entwaesserungsplan_ZH_V1_LV95_2020-09-25_IL23.ili</File>
         <Version>2020-09-25</Version>
         <publishingDate>2020-09-25</publishingDate>
         <dependsOnModel>
@@ -661,10 +690,30 @@
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Versickerungsfaehigkeit_ZH_V1_LV95_2021-12-15_IL23">
+        <Name>Versickerungsfaehigkeit_ZH_V1_LV95</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AWEL/Versickerungsfaehigkeit_ZH_V1_LV95_2021-12-15_IL23.ili</File>
+        <Version>2021-12-15</Version>
+        <publishingDate>2021-12-15</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Base_LV95</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>SIA405_Base_Abwasser_LV95</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Versickerungsfaehigkeit</Title>
+        <shortDescription>Geobasisdatensatz Nr. 129-ZH Versickerungsfaehigkeit</shortDescription>
+        <Issuer>http://models.geo.zh.ch/</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Versickerungsfaehigkeit_ZH_V1_LV95_2020-09-28_IL23">
         <Name>Versickerungsfaehigkeit_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWEL/Versickerungsfaehigkeit_ZH_V1_LV95_2020-09-28_IL23.ili</File>
+        <File>AWEL/replaced/Versickerungsfaehigkeit_ZH_V1_LV95_2020-09-28_IL23.ili</File>
         <Version>2020-09-28</Version>
         <publishingDate>2020-09-28</publishingDate>
         <dependsOnModel>
