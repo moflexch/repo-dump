@@ -673,8 +673,7 @@
         <Version>2019-05-16</Version>
         <publishingDate>2019-10-09</publishingDate>
         <Title>Datenmodell zum Thema Gewässerraum</Title>
-        <shortDescription>Dieses Modell passt das Bundesmodell zum Gewässerraum (ID 190.1) auf die
-          kantonalen Bedürfnisse an</shortDescription>
+        <shortDescription>Dieses Modell passt das Bundesmodell zum Gewässerraum (ID 190.1) auf die kantonalen Bedürfnisse an</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>EC573C8B14082B77BC065887D47FA1AC</md5>
@@ -682,7 +681,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Wasserentnahmen_20190325">
         <Name>SZ_Wasserentnahmen_20190325</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_Wasserentnahmen_2019-03-25.ili</File>
+        <File>AFG/replaced/SZ_Wasserentnahmen_2019-03-25.ili</File>
         <Version>2019-03-25</Version>
         <publishingDate>2019-03-25</publishingDate>
         <dependsOnModel>
@@ -691,8 +690,7 @@
           </IliRepository09.ModelName_>
         </dependsOnModel>
         <Title>Inventar der bestehenden Wasserentnahmen</Title>
-        <shortDescription>Dieses Modell stellt das Inventar der bestehenden Wasserentnahmen
-          dar</shortDescription>
+        <shortDescription>Dieses Modell stellt das Inventar der bestehenden Wasserentnahmen dar</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>98289C7BFFC56361DFE2AF252D720AC6</md5>
@@ -700,12 +698,11 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Wasserentnahmen_20191120">
         <Name>SZ_Wasserentnahmen_20191120</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_Wasserentnahmen_2019-11-20.ili</File>
+        <File>AFG/replaced/SZ_Wasserentnahmen_2019-11-20.ili</File>
         <Version>2019-03-25</Version>
         <publishingDate>2019-11-20</publishingDate>
         <Title>Inventar der bestehenden Wasserentnahmen</Title>
-        <shortDescription>Dieses Modell stellt das Inventar der bestehenden Wasserentnahmen
-          dar</shortDescription>
+        <shortDescription>Dieses Modell stellt das Inventar der bestehenden Wasserentnahmen dar</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>5DA2430243C565644618C2BE60911D66</md5>
@@ -2782,6 +2779,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>1713ED7395A882A3E47EB8C4A46E7BA0</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Wasserentnahmen_V1">
+        <Name>SZ_Wasserentnahmen_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Wasserentnahmen_V1.ili</File>
+        <Version>2025-04-08</Version>
+        <publishingDate>2025-05-14</publishingDate>
+        <Title>kantonales Modell zur Erfassung der Wasserentnahmen</Title>
+        <shortDescription>Das Bundesmodell enthielt Fehler, weshalb ein kantonales Modell erstellt wurde. Dieses kantonale Modell wurde zudem vereinfacht</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>FF806B33310EF438F99973B6159DA3A4</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Landwirtschaft AFL-->
