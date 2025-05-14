@@ -226,7 +226,7 @@
 	<IliRepository09.RepositoryIndex.ModelMetadata TID="9">
 		<Name>PlanerischerGewaesserschutz_V1_2_GR</Name>
 		<SchemaLanguage>ili2_3</SchemaLanguage>
-		<File>2_Natur_und_Umwelt/L_Umweltschutz_Naturschutz/replaced/PlanerischerGewaesserschutz_V1_2_GR.ili</File>
+		<File>2_Natur_und_Umwelt/L_Umweltschutz_Naturschutz/PlanerischerGewaesserschutz_V1_2_GR.ili</File>
 		<Version>2023-08-30</Version>
 		<publishingDate>2024-11-04</publishingDate>
 		<dependsOnModel>
