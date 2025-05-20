@@ -10,12 +10,12 @@
     <!--Basismodell des Kantons Zürich KTZH-->
     <!--=====================================================================-->
     <IliRepository09.RepositoryIndex BID="KTZH">
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="Basis_ZH_V1_LV95_2017-03-29_IL23">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Basis_ZH_V1_LV95_2021-10-29_IL23">
         <Name>Basis_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>Basis/Basis_ZH_V1_LV95_2017-03-29_IL23.ili</File>
-        <Version>2017-03-29</Version>
-        <publishingDate>2017-03-29</publishingDate>
+        <File>Basis/Basis_ZH_V1_LV95_2021-10-29_IL23.ili</File>
+        <Version>2021-10-29</Version>
+        <publishingDate>2021-10-29</publishingDate>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>CoordSys</value>
@@ -738,7 +738,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Versickerungskataster_ZH_V1_LV95_2020-09-24_IL23">
         <Name>Versickerungskataster_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWEL/Versickerungskataster_ZH_V1_LV95_2020-09-24_IL23.ili</File>
+        <File>AWEL/replaced/Versickerungskataster_ZH_V1_LV95_2020-09-24_IL23.ili</File>
         <Version>2020-09-24</Version>
         <publishingDate>2020-09-24</publishingDate>
         <dependsOnModel>
