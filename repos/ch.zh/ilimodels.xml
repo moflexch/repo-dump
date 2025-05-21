@@ -690,7 +690,7 @@
         <Issuer>http://models.geo.zh.ch/</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata -->
+      </IliRepository09.RepositoryIndex.ModelMetadata> -->
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Versickerungsfaehigkeit_ZH_V1_LV95_2021-12-15_IL23">
         <Name>Versickerungsfaehigkeit_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -734,7 +734,7 @@
         <Issuer>http://models.geo.zh.ch/</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata-->
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Versickerungskataster_ZH_V1_LV95_2020-09-24_IL23">
         <Name>Versickerungskataster_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -758,7 +758,7 @@
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-    </IliRepository09.RepositoryIndex>
+    </IliRepository09.RepositoryIndex> -->
     <!--=====================================================================-->
     <!--Modelle des Obergerichts OG-->
     <!--=====================================================================-->
