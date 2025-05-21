@@ -757,8 +757,8 @@
         <Issuer>http://models.geo.zh.ch/</Issuer>
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
-      </IliRepository09.RepositoryIndex.ModelMetadata>
-    </IliRepository09.RepositoryIndex> -->
+      </IliRepository09.RepositoryIndex.ModelMetadata> -->
+    </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
     <!--Modelle des Obergerichts OG-->
     <!--=====================================================================-->
