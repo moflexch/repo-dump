@@ -1324,7 +1324,7 @@
 				<Issuer>https://models.geo.ai.ch/AGI</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>6cd2989b4a5fb9148d5840a1e5697b9a</md5>
+				<md5>cf6a3966fa1b31119ae7120350796f3d</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI007103">
