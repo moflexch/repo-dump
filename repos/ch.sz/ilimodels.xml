@@ -484,7 +484,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Handlungsbedarf_Fliessgewaesser_V1">
         <Name>SZ_Handlungsbedarf_Fliessgewaesser_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_Handlungsbedarf_Fliessgewaesser_V1.ili</File>
+        <File>AFG/replaced/SZ_Handlungsbedarf_Fliessgewaesser_V1.ili</File>
         <Version>2021-01-28</Version>
         <publishingDate>2021-01-28</publishingDate>
         <precursorVersion>2021-01-07</precursorVersion>
@@ -1537,7 +1537,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Bodenaufwertung_V1">
         <Name>SZ_Bodenaufwertung_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_Bodenaufwertung_V1.ili</File>
+        <File>AFU/replaced/SZ_Bodenaufwertung_V1.ili</File>
         <Version>2022-04-08</Version>
         <publishingDate>2022-04-11</publishingDate>
         <Title>Bodenaufwertung</Title>
@@ -2765,6 +2765,35 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>107FA350D9D82DAF428770B5C854B83C</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Notablagerungen_V1_1">
+        <Name>SZ_Notablagerungen_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Notablagerungen_V1_1.ili</File>
+        <Version>2025-05-16</Version>
+        <publishingDate>2025-05-22</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>Units</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Notablagerungsstandorte</Title>
+        <shortDescription>Dieses Modell dient als Basis für die Erfassung von Notablagerungsstandorten im Kanton Schwyz</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>83B63CFDCA6B90F8F536FA6B61ACDBE0</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Bodenaufwertung_V1_1">
+        <Name>SZ_Bodenaufwertung_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Bodenaufwertung_V1_1.ili</File>
+        <Version>2025-05-20</Version>
+        <publishingDate>2025-05-23</publishingDate>
+        <Title>Bodenaufwertung</Title>
+        <shortDescription>Dieses Modell beschreibt einerseits wo, dass auf landwirtschaftlichen Nutzflächen ein Aufwertungspotezial durch verursachte Schäden vorhanden ist. Und andererseits, welche Flächen für eine potenzielle Aufwertung infrage kommen.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>F493945073C5AB9B288D8A7DEAD19627</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
       <!--==================================================-->
@@ -2783,7 +2812,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gewaessernamen_V2_Erfassung">
         <Name>SZ_Gewaessernamen_V2_Erfassung</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFG/SZ_Gewaessernamen_V2_Erfassung.ili</File>
+        <File>AFG/replaced/SZ_Gewaessernamen_V2_Erfassung.ili</File>
         <Version>2021-02-09</Version>
         <publishingDate>2021-02-09</publishingDate>
         <Title>Erfassung Gewässernamen</Title>
@@ -2795,7 +2824,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gewaessernamen_V2">
         <Name>SZ_Gewaessernamen_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFG/SZ_Gewaessernamen_V2.ili</File>
+        <File>AFG/replaced/SZ_Gewaessernamen_V2.ili</File>
         <Version>2021-02-09</Version>
         <publishingDate>2021-02-09</publishingDate>
         <Title>Gewässernamen</Title>
@@ -2827,6 +2856,30 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>FF806B33310EF438F99973B6159DA3A4</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Handlungsbedarf_Fliessgewaesser_V1_2">
+        <Name>SZ_Handlungsbedarf_Fliessgewaesser_V1_2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Handlungsbedarf_Fliessgewaesser_V1_2.ili</File>
+        <Version>2025-05-16</Version>
+        <publishingDate>2025-05-23</publishingDate>
+        <Title>Handlungsbedarf an Fliessgewässern</Title>
+        <shortDescription>Dieses Modell beschreibt die Ergebnisse einer Analyse, bei welcher der Handlungsbedarf an Fliessgewässer nach Abschnitt bestimmt wurde. Bei dieser Analyse wurde die Revitalisierungplanung mit der Hochwassergefahr, ausgehend von den Fliessgewässern, kombiniert.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>CF2C8C81ECF5C4AB6C66EB5833FF86CA</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gewaessernamen_V2_1">
+        <Name>SZ_Gewaessernamen_V2_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Gewaessernamen_V2_1.ili</File>
+        <Version>2025-05-16</Version>
+        <publishingDate>2025-05-23</publishingDate>
+        <Title>Gewässernamen</Title>
+        <shortDescription>Die Namen für Fliessgewässer werden nach diesem Modell erfasst. Aktuell werden nur die Namen der Fliessgewässer geführt. Das Modell ist aber erweiterbar für die Namen der Standgewässer. Die Namen der Fliessgewässer beziehen sich auf den Datensatz a041b (Gewässernetz, kantonal).</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>5727E69BBD873D3D660160E0C83A93BB</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Landwirtschaft AFL-->
