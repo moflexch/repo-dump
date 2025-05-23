@@ -382,7 +382,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_planerischerGewaesserschutz_oberirdisch_V1">
         <Name>SZ_planerischerGewaesserschutz_oberirdisch_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_planerischerGewaesserschutz_oberirdisch_V1.ili</File>
+        <File>AFG/replaced/SZ_planerischerGewaesserschutz_oberirdisch_V1.ili</File>
         <Version>2022-05-13</Version>
         <publishingDate>2022-05-30</publishingDate>
         <Title>planerischer Gewässerschutz betreffend oberirdischer Gewässer und deren Uferbereiche</Title>
@@ -1549,7 +1549,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Globalstrahlung_V1">
         <Name>SZ_Globalstrahlung_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_Globalstrahlung_V1.ili</File>
+        <File>AFU/replaced/SZ_Globalstrahlung_V1.ili</File>
         <Version>2022-01-12</Version>
         <publishingDate>2022-01-19</publishingDate>
         <Title>Globalstrahlung</Title>
@@ -2645,7 +2645,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Notablagerungen_V1">
         <Name>SZ_Notablagerungen_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFU/SZ_Notablagerungen_V1.ili</File>
+        <File>AFU/replaced/SZ_Notablagerungen_V1.ili</File>
         <Version>2022-02-14</Version>
         <publishingDate>2022-02-14</publishingDate>
         <dependsOnModel>
@@ -2753,9 +2753,33 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>1AB550079087C2F4FAAE9D8C3D9DCA8C</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Globalstrahlung_V1_1">
+        <Name>SZ_Globalstrahlung_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Globalstrahlung_V1_1.ili</File>
+        <Version>2025-05-20</Version>
+        <publishingDate>2025-05-23</publishingDate>
+        <Title>Globalstrahlung</Title>
+        <shortDescription>Gebietseinteilung des Kantons nach der Globalstrahlung</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>107FA350D9D82DAF428770B5C854B83C</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
       <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_planerischerGewaesserschutz_oberirdisch_V1_1">
+        <Name>SZ_planerischerGewaesserschutz_oberirdisch_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_planerischerGewaesserschutz_oberirdisch_V1_1.ili</File>
+        <Version>2025-05-16</Version>
+        <publishingDate>2025-05-23</publishingDate>
+        <Title>planerischer Gewässerschutz betreffend oberirdischer Gewässer und deren Uferbereiche</Title>
+        <shortDescription>Das Modell orientiert sich am Bundesmodell 'PlanerischerGewaesserschutz_LV95_V1_1' (130.1, 131.1, 132.1). Dieses wird im Kanton nach zwei Modellen bewirtschaftet (Aufteilung: oberirdisch/unterirdisch). Daten, welche für das vollständige Bundesmodell erforderlich sind, werden erst zum Zeitpunkt der Datenabgabe hinzugefügt</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>68D641C5906B168D2644C2CF149E4D6E</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gewaessernamen_V2_Erfassung">
         <Name>SZ_Gewaessernamen_V2_Erfassung</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
