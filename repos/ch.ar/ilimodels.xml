@@ -549,6 +549,23 @@
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>28fccb0cee773260899675c7de8013f2</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_ERKAS_Strassen_Kataster_V1_2">
+        <Name>AR_ERKAS_Strassen_Kataster_V1_2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>TBA/AR_ERKAS_Strassen_V1_2.ili</File>
+        <Version>2025-05-20</Version>
+        <publishingDate>2025-06-05</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Risikokataster</Title>
+        <shortDescription>kantonale Erweiterung des Eidgenössischen Risikokatasters gemäss Störfallverordnung (ERKAS), Teil Strassen</shortDescription>
+        <Issuer>https://models.geo.ar.ch/TBA</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>d9dcf0844742a1fa9db1fc6de20bcf43</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
     <!--Modelle des Amts für Raum und Wald-->
