@@ -2881,6 +2881,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>5727E69BBD873D3D660160E0C83A93BB</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Revitalisierung_Seen_V1_3">
+        <Name>SZ_Revitalisierung_Seen_V1_3</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Revitalisierung_Seen_V1_3.ili</File>
+        <Version>2025-05-16</Version>
+        <publishingDate>2025-06-08</publishingDate>
+        <Title>Revitalisierung von Seen; abgeändertes Bundesmodell</Title>
+        <shortDescription>Dieses Modell beschreibt die Revitalisierung von Seen entsprechend den kantonalen Erhebungen.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>66A6F5F581EDBBD7157F162BD5133608</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Landwirtschaft AFL-->
       <!--==================================================-->
