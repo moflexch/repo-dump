@@ -23,7 +23,7 @@
       <!-- Raumplanung GIS Daten AG    -->
 
 
-       <IliRepository09.RepositoryIndex.ModelMetadata TID="Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0_PROD">
+       <IliRepository09.RepositoryIndex.ModelMetadata TID="Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>RAUMPLANUNG/Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0.ili</File>
@@ -32,13 +32,10 @@
         <Tags>GeobasisdatenID?</Tags>
         <Title/>
         <shortDescription/>
-        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <Issuer>https://models.gis-daten.ch/nw-ow/RAUMPLANUNG/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>11d7f00d8fb7b54a5108dc96a0aab8fc</md5>
+        <md5>4f5701df3a553fc39e1a029454506e0f</md5>
         <dependsOnModel>
-          <IliRepository09.ModelName_>
-           <value>CatalogueObjects_V1</value>
-          </IliRepository09.ModelName_>
           <IliRepository09.ModelName_>
            <value>GeometryCHLV95_V1</value>
           </IliRepository09.ModelName_>
