@@ -34,7 +34,7 @@
         <shortDescription/>
         <Issuer>https://models.gis-daten.ch/nw-ow/RAUMPLANUNG/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>4f5701df3a553fc39e1a029454506e0f</md5>
+        <md5>97023e147e04ad3b15dd36a15108e5f6</md5>
         <dependsOnModel>
           <IliRepository09.ModelName_>
            <value>GeometryCHLV95_V1</value>
