@@ -20611,7 +20611,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008071">
       <Name>Seilbahnen_LV95_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/Seilbahnen_V1_2.ili</File>
+      <File>BAV/replaced/Seilbahnen_V1_2.ili</File>
       <Version>2018-07-25</Version>
       <publishingDate>2018-12-03</publishingDate>
       <dependsOnModel>
@@ -20636,7 +20636,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008072">
       <Name>Seilbahnen_LV03_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/Seilbahnen_V1_2.ili</File>
+      <File>BAV/replaced/Seilbahnen_V1_2.ili</File>
       <Version>2018-07-25</Version>
       <publishingDate>2018-12-03</publishingDate>
       <dependsOnModel>
@@ -20661,7 +20661,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008073">
       <Name>InstallationsTransportCables_MN95_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/InstallationsTransportCables_V1_2.ili</File>
+      <File>BAV/replaced/InstallationsTransportCables_V1_2.ili</File>
       <Version>2018-07-25</Version>
       <publishingDate>2018-12-03</publishingDate>
       <dependsOnModel>
@@ -20689,7 +20689,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008074">
       <Name>InstallationsTransportCables_MN03_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/InstallationsTransportCables_V1_2.ili</File>
+      <File>BAV/replaced/InstallationsTransportCables_V1_2.ili</File>
       <Version>2018-07-25</Version>
       <publishingDate>2018-12-03</publishingDate>
       <dependsOnModel>
@@ -21647,6 +21647,57 @@
       <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
       <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-a-z/geoinformation/geodonnees-de-base/arrets-des-transports-publics.html</furtherInformation>
       <md5>585b0d3e28811d599e3fdae3fc637423</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008113">
+      <Name>Seilbahnen_V1_3</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/Seilbahnen_V1_3.ili</File>
+      <Version>2025-01-01</Version>
+      <publishingDate>2025-06-24</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>HaltestellenOeV_V2_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>TransportunternehmenOeV_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>99.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/seilbahnen-mit-bundeskonzession.html</furtherInformation>
+      <md5>5d047d36d6dcd530aeb3e4e9508ff6eb</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008114">
+      <Name>InstallationsTransportCables_V1_3</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/InstallationsTransportCables_V1_3.ili</File>
+      <Version>2025-01-01</Version>
+      <publishingDate>2025-06-24</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Seilbahnen_V1_3</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>ArretsTP_V2_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>EntreprisesTP_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>99.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-generaux/themes-specialises/geoinformation/geodonnees-de-base/installations-a-cables-a-concession-federale.html</furtherInformation>
+      <md5>d2a63899d3a29449bf5cc7753b3d5887</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
