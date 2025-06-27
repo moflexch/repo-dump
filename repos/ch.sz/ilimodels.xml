@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3" xmlns:ili2c="http://www.interlis.ch/ili2c"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://models.geo.sz.ch/IliRepository09.xsd">
+  xsi:schemaLocation="https://models.geo.sz.ch/IliRepository09.xsd">
   <HEADERSECTION VERSION="2.3" SENDER="">
     <MODELS>
       <MODEL NAME="IliRepository09" VERSION="2012-02-20" URI="mailto:ce@eisenhutinformatik.ch"/>
@@ -2662,7 +2662,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1_1">
         <Name>SZ_Abfallanlagen_MatEntnahmestellen_V1_1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFU/SZ_Abfallanlagen_MatEntnahmestellen_V1_1.ili</File>
+        <File>AFU/replaced/SZ_Abfallanlagen_MatEntnahmestellen_V1_1.ili</File>
         <Version>2022-07-28</Version>
         <publishingDate>2024-12-05</publishingDate>
         <dependsOnModel>
@@ -2793,6 +2793,23 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>F493945073C5AB9B288D8A7DEAD19627</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1_2">
+        <Name>SZ_Abfallanlagen_MatEntnahmestellen_V1_2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Abfallanlagen_MatEntnahmestellen_V1_2.ili</File>
+        <Version>2025-05-16</Version>
+        <publishingDate>2025-06-27</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>Units</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>kantonale Kehrichtverbrennungsanlagen, Inertstoffdeponien und Matrialentnamestellen</Title>
+        <shortDescription>Dieses Modell ist eine kantonale Auslegung des Bundesmodells Abfallanlagen und Materialentnahmestelle (Identifikatoren 114.1 und 114.3). Es wurde umstrukturiert und erweitert.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>3891BE1503533DF92DF39F507311EEE7</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
