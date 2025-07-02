@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="KGK-CGC-20171212" VERSION="2.3">
+<MODELS><MODEL NAME="IliSite09" VERSION="2009-11-12" URI="mailto:ce@eisenhutinformatik.ch"/></MODELS>
+</HEADERSECTION>
+<DATASECTION>
+<IliSite09.SiteMetadata  BID="IKb0">
+	<IliSite09.SiteMetadata.Site  TID="1">
+	<Name>models.kgk-cgc.ch</Name>
+	<Title>Model-Repositories der Kantone und der KGK-CGC</Title>
+	<shortDescription>Uebersicht der kantonalen Model-Repositories, gemeinsame Modelle der KGK-CGC und Schnittstelle zu models.interlis.ch</shortDescription>
+	<Owner>https://www.kgk-cgc.ch</Owner>
+	<technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
+	<parentSite>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.interlis.ch</value>
+		</IliSite09.RepositoryLocation_>
+	</parentSite>
+	<subsidiarySite>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.ag.ch</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>http://models.geo.ai.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.ar.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.be.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.bl.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.bs.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.gl.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.gr.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.lu.ch/</value>
+		</IliSite09.RepositoryLocation_>	
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.gis-daten.ch/nw-ow/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.sg.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.sh.ch/</value>
+		</IliSite09.RepositoryLocation_>				
+		<IliSite09.RepositoryLocation_>
+			<value>https://geo.so.ch/models/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.sz.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.tg.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>http://models.geo.ti.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://webgis.lisag.ch/models/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>https://models.geo.zg.ch/</value>
+		</IliSite09.RepositoryLocation_>
+		<IliSite09.RepositoryLocation_>
+			<value>http://models.geo.zh.ch/</value>
+		</IliSite09.RepositoryLocation_>
+	</subsidiarySite>
+	</IliSite09.SiteMetadata.Site>
+</IliSite09.SiteMetadata>
+</DATASECTION>
+</TRANSFER>
