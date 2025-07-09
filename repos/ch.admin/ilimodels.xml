@@ -32620,7 +32620,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="504002">
       <Name>Holznutzungsbewilligung_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>BAFU/Holznutzungsbewilligung_V1_0.ili</File>
+      <File>obsolete/Holznutzungsbewilligung_V1_0_o0.ili</File>
       <Version>2024-12-20</Version>
       <publishingDate>2025-01-23</publishingDate>
       <dependsOnModel>
@@ -32711,6 +32711,36 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>96143f0a7f19641bd0a88b87561269b1</md5>
+
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="504005">
+      <Name>Holznutzungsbewilligung_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAFU/Holznutzungsbewilligung_V1_0.ili</File>
+      <Version>2025-07-03</Version>
+      <publishingDate>2025-07-09</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Localisation_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CatalogueObjects_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CHAdminCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>InternationalCodes_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-12-20</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>edef61004f840bd6d55cd0124762870b</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->

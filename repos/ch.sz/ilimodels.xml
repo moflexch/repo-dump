@@ -2824,7 +2824,7 @@
         <shortDescription>Das Modell orientiert sich am Bundesmodell 'PlanerischerGewaesserschutz_LV95_V1_1' (130.1, 131.1, 132.1). Dieses wird im Kanton nach zwei Modellen bewirtschaftet (Aufteilung: oberirdisch/unterirdisch). Daten, welche für das vollständige Bundesmodell erforderlich sind, werden erst zum Zeitpunkt der Datenabgabe hinzugefügt</shortDescription>
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>68D641C5906B168D2644C2CF149E4D6E</md5>
+        <md5>A4AC56B84D4677D54E444DD63B47A0F4</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gewaessernamen_V2_Erfassung">
         <Name>SZ_Gewaessernamen_V2_Erfassung</Name>
