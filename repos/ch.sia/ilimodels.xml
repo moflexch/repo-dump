@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="SIA-20250118" VERSION="2.3">
+    <HEADERSECTION SENDER="SIA-20250731" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -2768,6 +2768,147 @@
                 <Issuer>http://www.sia.ch/405</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <md5>2deddce398ec3b307bedb745b5f26d0e</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="263" >
+                <Name>SIA405_Base_d_2025</Name>
+                <SchemaLanguage>ili2_4</SchemaLanguage>
+                <File>2025/SIA405_Base_d_2025-20250731.ili</File>
+                <Version>2025-07-31</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>GeometryCHLV95_V2</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://405.sia.ch/models/</Issuer>
+                <technicalContact>mailto:LKMap@sia.ch</technicalContact>
+                <furtherInformation>https://sia.ch/405</furtherInformation>
+                <md5>a6c259a0f528a25e7fb097ec6aed8e2f</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="264" >
+                <Name>SIA405_Base_f_2025</Name>
+                <SchemaLanguage>ili2_4</SchemaLanguage>
+                <File>2025/SIA405_Base_f_2025-20250731.ili</File>
+                <Version>2025-07-31</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>GeometryCHLV95_V2</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_d_2025</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://405.sia.ch/models/</Issuer>
+                <technicalContact>mailto:LKMap@sia.ch</technicalContact>
+                <furtherInformation>https://sia.ch/405</furtherInformation>
+                <md5>c707dc45b3ff5423e7c9a558eee8af24</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="265" >
+                <Name>SIA405_Base_i_2025</Name>
+                <SchemaLanguage>ili2_4</SchemaLanguage>
+                <File>2025/SIA405_Base_i_2025-20250731.ili</File>
+                <Version>2025-07-31</Version>
+                <NameLanguage>it</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>GeometryCHLV95_V2</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_d_2025</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://405.sia.ch/models/</Issuer>
+                <technicalContact>mailto:LKMap@sia.ch</technicalContact>
+                <furtherInformation>https://sia.ch/405</furtherInformation>
+                <md5>a661f5e10138e1f1005311defbc43470</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="266" >
+                <Name>SIA405_LKMap_d_2025</Name>
+                <SchemaLanguage>ili2_4</SchemaLanguage>
+                <File>2025/SIA405_LKMap_d_2025-20250731.ili</File>
+                <Version>2025-07-31</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>GeometryCHLV95_V2</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_d_2025</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://405.sia.ch/models/</Issuer>
+                <technicalContact>mailto:LKMap@sia.ch</technicalContact>
+                <furtherInformation>https://sia.ch/405</furtherInformation>
+                <md5>2ae6c98fd02ba6a941b030026669f35f</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="267" >
+                <Name>SIA405_LKMap_f_2025</Name>
+                <SchemaLanguage>ili2_4</SchemaLanguage>
+                <File>2025/SIA405_LKMap_f_2025-20250731.ili</File>
+                <Version>2025-07-31</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>GeometryCHLV95_V2</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_d_2025</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_f_2025</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_LKMap_d_2025</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://405.sia.ch/models/</Issuer>
+                <technicalContact>mailto:LKMap@sia.ch</technicalContact>
+                <furtherInformation>https://sia.ch/405</furtherInformation>
+                <md5>7a8bfa45478d79d8aad43d84594fbff6</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="268" >
+                <Name>SIA405_LKMap_i_2025</Name>
+                <SchemaLanguage>ili2_4</SchemaLanguage>
+                <File>2025/SIA405_LKMap_i_2025-20250731.ili</File>
+                <Version>2025-07-31</Version>
+                <NameLanguage>it</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>GeometryCHLV95_V2</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_d_2025</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_i_2025</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_LKMap_d_2025</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://405.sia.ch/models/</Issuer>
+                <technicalContact>mailto:LKMap@sia.ch</technicalContact>
+                <furtherInformation>https://sia.ch/405</furtherInformation>
+                <md5>6a63a9b482f65762cdde1800f118ff76</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
         </IliRepository20.RepositoryIndex>
     </DATASECTION>

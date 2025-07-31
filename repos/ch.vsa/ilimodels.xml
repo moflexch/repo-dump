@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="VSA-20250704" VERSION="2.3">
+    <HEADERSECTION SENDER="VSA-20250731" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -1791,7 +1791,7 @@
                         <value>Text</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>2023-07-10</precursorVersion>
+                <precursorVersion>2023-10-26</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
