@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-	<HEADERSECTION SENDER="SIA-20211020" VERSION="2.3">
+	<HEADERSECTION SENDER="SIA-20250731" VERSION="2.3">
 		<MODELS>
 			<MODEL NAME="IliSite09" VERSION="2009-11-12" URI="mailto:ce@eisenhutinformatik.ch" />
 		</MODELS>
@@ -11,12 +11,17 @@
 				<Name>www.sia.ch/405</Name>
 				<Title>ModelRepository Schweizerischer Ingenieur und Architektenverein sia405</Title>
 				<shortDescription>Modellablage fuer Datenmodelle der Norm sia405</shortDescription>
-				<Owner>http://www.sia.ch/</Owner>
+				<Owner>https://www.sia.ch/</Owner>
 				<technicalContact>mailto:martin.riniker@sia.ch</technicalContact>
-				<furtherInformation>https://www.sia.ch/de/dienstleistungen/normen/geodaten/</furtherInformation>
+				<furtherInformation>https://www.sia.ch/405</furtherInformation>
 				<parentSite>
 					<IliSite09.RepositoryLocation_>
-						<value>http://models.interlis.ch</value>
+						<value>https://models.interlis.ch</value>
+					</IliSite09.RepositoryLocation_>
+				</parentSite>
+				<parentSite>
+					<IliSite09.RepositoryLocation_>
+						<value>https://models.geo.admin.ch</value>
 					</IliSite09.RepositoryLocation_>
 				</parentSite>
 				<subsidiarySite>
