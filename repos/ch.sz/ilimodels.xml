@@ -1568,7 +1568,7 @@
         <shortDescription>Die geologischen Bereicht führen Informationen zu verschiedene Untersuchungen, wie z.B. Bohrungen</shortDescription>
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>4EC462407ED92C4A88CE750E24F4DEC4</md5>
+        <md5>E79EF01A9BB5C1BCC740E4AA5D7102D2</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Bohrdaten_V1">
         <Name>SZ_Bohrdaten_V1</Name>
