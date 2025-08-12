@@ -557,21 +557,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>7a3a9c7ae8cfc416fe3ca35addc96ee1</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS009014">
-                <Name>SW_StatAuswertungen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gesellschaft_Kultur/SW_StatAuswertungen_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-06-06</Version>
-                <publishingDate>2019-06-06</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>785d480663614c8823d83b26b04000ba</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS009016">
                 <Name>SO_SchulstandorteGemeindenRiehenBettingen_GGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -890,21 +875,6 @@
         <!--  ===============================================  -->
             <!--  Grenzen                           BS012xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012001">
-                <Name>WE_StatistischeRaumeinheiten_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/WE_StatistischeRaumeinheiten_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-01-16</Version>
-                <publishingDate>2018-02-27</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>0d876f11106afca7231f4e183396ca4b</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012003">
                 <Name>DP_BauberatungDenkmalpflege_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1024,21 +994,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>d53643941a4e9baeb1740bab73acda3d</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>   
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012016">
-                <Name>KK_KatholischeKirchenkreise_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/KK_KatholischeKirchenkreise_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-05-18</Version>
-                <publishingDate>2022-06-07</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>d96245399dc2f75fdbfdf74415e71144</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>          
             <!--  ===============================================  -->
             <!--  Grundstueckskataster              BS013xxx       -->
             <!--  ===============================================  -->
@@ -1241,21 +1196,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>F6B9B272E1B73E95747632116B9E59E9</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS019007">
-                <Name>RM_Geschwindigkeitsmonitoring_KGDM_V2_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Militaer_Sicherheit/RM_Geschwindigkeitsmonitoring_KGDM_V2_0_LV95.ili</File>
-                <Version>2022-01-03</Version>
-                <publishingDate>2022-02-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>cf49228bfb0f7580bff1bf6732043a52</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS019008">
                 <Name>PN_Polizeiposten_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1325,21 +1265,6 @@
             <!--  ===============================================  -->
             <!--  Ortsangaben                       BS022xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS022002">
-                <Name>SN_Strassennamen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Ortsangaben/SN_Strassennamen_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-09-20</Version>
-                <publishingDate>2019-01-22</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>d0d3e82fa6e46e8c2d1154cbfc3c4c6d</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Raumplanung                       BS023xxx       -->
             <!--  ===============================================  -->
@@ -1577,24 +1502,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>927789b0432b422bb0d5fcb8a2165db7</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023026">
-                <Name>FF_Fruchtfolgeflaechen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/FF_Fruchtfolgeflaechen_KGDM_V1_0_LV95.ili</File>
-                <Version>2021-02-03</Version>
-                <publishingDate>2021-06-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>45d426cadd43ad23f082cf84361aaffc</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023027">
                 <Name>MV_MehrwertabgabeRiehen_PGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1655,60 +1562,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>21c773e4f431a15beb12c7e8368597ba</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023031">
-                <Name>BM_BauStrassenWeglinienRiehen_GGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/BM_BauStrassenWeglinienRiehen_GGDM_V1_0_LV95.ili</File>
-                <Version>2023-10-03</Version>
-                <publishingDate>2023-11-07</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>6724d9fe6c72af94ed65c3b3afb62bfb</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023032">
-                <Name>BN_BauStrassenWeglinienBasel_GGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/BN_BauStrassenWeglinienBasel_GGDM_V1_0_LV95.ili</File>
-                <Version>2023-10-03</Version>
-                <publishingDate>2023-11-07</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>5a825681581f40eb4003b697df6e65fa</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>	
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023033">
-                <Name>BO_BauStrassenWeglinienBettingen_GGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/BO_BauStrassenWeglinienBettingen_GGDM_V1_0_LV95.ili</File>
-                <Version>2023-10-03</Version>
-                <publishingDate>2023-11-07</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>3a253d20994fbe66d5fba0d525d31d73</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>				
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023034">
               <Name>HD_Dachflaechenkataster_KGDM_V1_0_LV95</Name>
               <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1986,19 +1839,19 @@
                 <md5>19039dddd39973703ad6b1412b5bf358</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025013">
-                <Name>TV_TeilrichtplanVelo_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/TV_TeilrichtplanVelo_KGDM_V1_0_LV95.ili</File>
-                <Version>2020-03-12</Version>
-                <publishingDate>2020-05-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>e5eedd72a68cb3096d5b7b35cb9ca844</md5>
+              <Name>TV_TeilrichtplanVelo_KGDM_V1_0_LV95</Name>
+              <SchemaLanguage>ili2_3</SchemaLanguage>
+              <File>Verkehr/TV_TeilrichtplanVelo_KGDM_V1_0_LV95.ili</File>
+              <Version>2020-03-12</Version>
+              <publishingDate>2020-05-05</publishingDate>
+              <dependsOnModel>
+                <IliRepository20.ModelName_>
+                  <value>BS_Basis_KGDM_V1_0_LV95</value>
+                </IliRepository20.ModelName_>
+              </dependsOnModel>
+              <Issuer>https://www.geo.bs.ch</Issuer>
+              <technicalContact>mailto:geo@bs.ch</technicalContact>
+              <md5>e5eedd72a68cb3096d5b7b35cb9ca844</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025015">
                 <Name>TF_TeilrichtplanFussWanderwege_KGDM_V1_0_LV95</Name>

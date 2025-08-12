@@ -31,7 +31,7 @@
                         <file>
                             <DatasetIdx16.File>
                                 <path>1_Grundlagen_und_Planung/E_Raumplanung_Grundstueckskataster/Ortsplanung_Kant_Zonenkat_TG01.itf</path>
-                                <md5>181c49b6db8258e641a7e0c852a03000</md5>
+                                <md5>7DD1FFF470BD33614384E61F29ED6CD4</md5>
                             </DatasetIdx16.File>
                         </file>
                     </DatasetIdx16.DataFile>
@@ -44,7 +44,7 @@
                                 <name>ORTSPLANUNG_KANT_ZONENKAT_TG01.Kant_Zonenkat</name>
                             </DatasetIdx16.ModelLink>
                         </model>
-                        <owner>mailto:models@geo.admin.ch</owner>
+                        <owner>mailto:thurgis@tg.ch</owner>
                         <localId>itf0</localId>
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
@@ -52,7 +52,7 @@
             <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
                 <id>Gemeindekat_TG01</id>
                 <version>1</version>
-                <owner>mailto:models@geo.admin.ch</owner>
+                <owner>mailto:thurgis@tg.ch</owner>
                 <title>
                     <DatasetIdx16.MultilingualText>
                         <LocalisedText>
@@ -86,7 +86,7 @@
                                 <name>GEMEINDEKATALOG_TG01.Gemeindekat_TG</name>
                             </DatasetIdx16.ModelLink>
                         </model>
-                        <owner>mailto:models@geo.admin.ch</owner>
+                        <owner>mailto:thurgis@tg.ch</owner>
                         <localId>itf0</localId>
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>
@@ -130,7 +130,7 @@
                                 <name>Gemeindekatalog_TG02.Gemeindekatalog</name>
                             </DatasetIdx16.ModelLink>
                         </model>
-                        <owner>mailto:models@geo.admin.ch</owner>
+                        <owner>mailto:thurgis@tg.ch</owner>
                         <localId>Gemeindekatalog_B001</localId>
                     </DatasetIdx16.DataIndex.BasketMetadata>
                 </baskets>

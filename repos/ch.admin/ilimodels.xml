@@ -11529,7 +11529,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004274">
       <Name>Schutzbauten_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Schutzbauten_V1.ili</File>
+      <File>BAFU/replaced/Schutzbauten_V1.ili</File>
       <Version>2018-05-08</Version>
       <publishingDate>2018-05-14</publishingDate>
       <dependsOnModel>
@@ -11551,7 +11551,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004275">
       <Name>Schutzbauten_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Schutzbauten_V1.ili</File>
+      <File>BAFU/replaced/Schutzbauten_V1.ili</File>
       <Version>2018-05-08</Version>
       <publishingDate>2018-05-14</publishingDate>
       <dependsOnModel>
@@ -32757,8 +32757,8 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>96143f0a7f19641bd0a88b87561269b1</md5>
-
     </IliRepository20.RepositoryIndex.ModelMetadata>
+
     <IliRepository20.RepositoryIndex.ModelMetadata TID="504005">
       <Name>Holznutzungsbewilligung_V1_0</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
@@ -32787,6 +32787,27 @@
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>edef61004f840bd6d55cd0124762870b</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="504006">
+      <Name>Schutzbauten_V1_1</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAFU/Schutzbauten_V1_1.ili</File>
+      <Version>2025-07-08</Version>
+      <publishingDate>2025-08-12</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Units</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>81.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>048f70fb6a6f7c976578a219ac06f3ec</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
