@@ -13235,7 +13235,7 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="244">
         <id>ch.admin.geo.models.Hydrologische_Messnetze_Catalogues_V1_1_20241029</id>
         <version>2024-10-29</version>
-        <publishingDate>2024-11-01</publishingDate>
+        <publishingDate>2025-08-12</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -13259,7 +13259,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>BAFU/Hydrologische_Messnetze_Catalogues_V1_1.xml</path>
-                <md5>a0a5760ee3d4a16c30da4c64b13eb45b</md5>
+                <md5>3c951480276f3f9bc68fba6b41cd0910</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
