@@ -2562,10 +2562,22 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>37a7e7e8bb9b50a4d4d794fc3ccefd30</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+     <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Themenverwaltung_V2">
+        <Name>SZ_Themenverwaltung_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AGI/SZ_Themenverwaltung_V2.ili</File>
+        <Version>2025-08-06</Version>
+        <publishingDate>2025-08-29</publishingDate>
+        <Title>Themenverwaltung</Title>
+        <shortDescription>Die Themenverwaltung umfasst Information über die in der kantonalen Geodateninfrastruktur gehaltenen Datensätze</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>64DC881589F506EB6144EB048AB2E64D</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Themenverwaltung_V1_2">
         <Name>SZ_Themenverwaltung_V1_2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AGI/SZ_Themenverwaltung_V1_2.ili</File>
+        <File>AGI/replaced/SZ_Themenverwaltung_V1_2.ili</File>
         <Version>2022-08-12</Version>
         <publishingDate>2022-08-15</publishingDate>
         <Title>Themenverwaltung</Title>
