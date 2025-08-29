@@ -2572,7 +2572,7 @@
         <shortDescription>Die Themenverwaltung umfasst Information über die in der kantonalen Geodateninfrastruktur gehaltenen Datensätze</shortDescription>
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>64DC881589F506EB6144EB048AB2E64D</md5>
+        <md5>E1F3A6EBA0D898C7E110D419DC9C2384</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Themenverwaltung_V1_2">
         <Name>SZ_Themenverwaltung_V1_2</Name>
