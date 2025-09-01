@@ -96,7 +96,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Bohrungen_Sondierungen_V1_1">
         <Name>AR_Bohrungen_Sondierungen_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/AR_Bohrungen_Sondierungen_V1_1.ili</File>
+        <File>AFU/replaced/AR_Bohrungen_Sondierungen_V1_1.ili</File>
         <Version>2022-11-24</Version>
         <publishingDate>2022-11-24</publishingDate>
         <dependsOnModel>
@@ -189,6 +189,26 @@
         <Issuer>https://models.geo.ar.ch/AFU</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>e47ba6b20f92552bc0ce5730f88e6989</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Bohrungen_Sondierungen_V1_2">
+        <Name>AR_Bohrungen_Sondierungen_V1_2</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFU/AR_Bohrungen_Sondierungen_V1_2.ili</File>
+        <Version>2025-08-11</Version>
+        <publishingDate>2025-09-01</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Bohrungen und Sondierungen</Title>
+        <shortDescription>kantonales Modell der Standorte, an denen Bohrungen und Sondierungen vorgenommen wurden</shortDescription>
+        <Issuer>https://models.geo.ar.ch/AFU</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>adecd4c51de3e77b8d091da7c0a6f233</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
