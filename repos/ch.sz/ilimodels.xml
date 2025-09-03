@@ -2469,6 +2469,33 @@
         <md5>C51A8BEA4DFEA2F67BF0FEBF1B42DE47</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
+      <!--Modelle des Verkehrsamtes-->
+      <!--==================================================-->
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1">
+        <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>VA/SZ_Einschraenkungen_Binnenschifffahrt_V1.ili</File>
+        <Version>2023-01-04</Version>
+        <publishingDate>2024-11-26</publishingDate>
+        <Title>Einschränkungen für die Binnenschifffahrt</Title>
+        <shortDescription>kantonales Modell zur Erfassung der Einschränkungen für die Binnenschifffahrt</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>ABF850895414FB17E4A66DCE71AA0E2C</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1_Erfassung">
+        <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1_Erfassung</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>VA/replaced/SZ_Einschraenkungen_Binnenschifffahrt_V1_Erfassung.ili</File>
+        <Version>2023-01-04</Version>
+        <publishingDate>2023-05-12</publishingDate>
+        <Title>Binnenschifffahrt</Title>
+        <shortDescription>Die Binnenschifffahrt Objekte werden in einer Fachapplikation erfasst und über dieses Datenmodell publiziert</shortDescription>
+        <Issuer>http://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>287D12D0738F66E8BBE4D72B080C3B7A</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <!--==================================================-->
       <!--Modelle der Bezirke-->
       <!--==================================================-->
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Wuhr_SZ_V01_01">
@@ -2994,30 +3021,6 @@
       <!--==================================================-->
       <!--Modelle des Verkehrsamtes-->
       <!--==================================================-->
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1">
-        <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>VA/SZ_Einschraenkungen_Binnenschifffahrt_V1.ili</File>
-        <Version>2023-01-04</Version>
-        <publishingDate>2024-11-26</publishingDate>
-        <Title>Einschränkungen für die Binnenschifffahrt</Title>
-        <shortDescription>kantonales Modell zur Erfassung der Einschränkungen für die Binnenschifffahrt</shortDescription>
-        <Issuer>https://models.geo.sz.ch</Issuer>
-        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>ABF850895414FB17E4A66DCE71AA0E2C</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1_Erfassung">
-        <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1_Erfassung</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>VA/replaced/SZ_Einschraenkungen_Binnenschifffahrt_V1_Erfassung.ili</File>
-        <Version>2023-01-04</Version>
-        <publishingDate>2023-05-12</publishingDate>
-        <Title>Binnenschifffahrt</Title>
-        <shortDescription>Die Binnenschifffahrt Objekte werden in einer Fachapplikation erfasst und über dieses Datenmodell publiziert</shortDescription>
-        <Issuer>http://models.geo.sz.ch</Issuer>
-        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>287D12D0738F66E8BBE4D72B080C3B7A</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
 </TRANSFER>
