@@ -335,36 +335,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>8c766ad1d6959b79fbd85b9763222019</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006005">
-                <Name>FW_FernwaermeVersorgungsgebiet_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Energie/FW_FernwaermeVersorgungsgebiet_KGDM_V1_0_LV95.ili</File>
-                <Version>2023-10-04</Version>
-                <publishingDate>2023-11-07</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>ae06e36c7133c604deea948a2f083841</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006006">
-                <Name>EN_GebietseinteilungEnergiefachstellen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Energie/EN_GebietseinteilungEnergiefachstellen_KGDM_V1_0_LV95.ili</File>
-                <Version>2023-03-04</Version>
-                <publishingDate>2024-10-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>f5c35dd87b73f7991189b72a4230d9a4</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006007">
               <Name>KP_KantonalePhotovoltaikanlagen_KGDM_V1_0_LV95</Name>
               <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -875,36 +845,6 @@
         <!--  ===============================================  -->
             <!--  Grenzen                           BS012xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012003">
-                <Name>DP_BauberatungDenkmalpflege_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/DP_BauberatungDenkmalpflege_KGDM_V1_0_LV95.ili</File>
-                <Version>2021-03-04</Version>
-                <publishingDate>2022-04-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>f455ae6f85fdfba4b9d9b9b5da39b10c</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012005">
-                <Name>AI_GebietseinteilungArbeitsinspektorat_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/AI_GebietseinteilungArbeitsinspektorat_KGDM_V1_0_LV95.ili</File>
-                <Version>2021-12-08</Version>
-                <publishingDate>2022-02-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>857113a718109190ed7b970768a14fd6</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
 			      <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012007">
                 <Name>FE_Friedhofseinteilung_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -933,21 +873,6 @@
                 </dependsOnModel><Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>507c0df97c118f798723f4c536b99f53</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012011">
-                <Name>GF_GebietseinteilungFeuerpolizei_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/GF_GebietseinteilungFeuerpolizei_KGDM_V1_0_LV95.ili</File>
-                <Version>2020-12-02</Version>
-                <publishingDate>2021-02-02</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>314ee8a852bd3771a963cfa35c446a52</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012013">
                 <Name>BV_Baubewilligungsverfahren_KGDM_V2_0_LV95</Name>
@@ -1322,42 +1247,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>84361d4540d8b1d8aa8f6328a7d49b4f</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023008">
-                <Name>NB_NutzungsplanungBettingen_GGDM_V1_1_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/NB_NutzungsplanungBettingen_GGDM_V1_1_LV95.ili</File>
-                <Version>2022-01-31</Version>
-                <publishingDate>2019-06-04</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>ba163ca0dc442aabcb197bd7785f66d7</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023010">
-                <Name>RN_NutzungsplanungRiehen_GGDM_V1_1_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/RN_NutzungsplanungRiehen_GGDM_V1_1_LV95.ili</File>
-                <Version>2024-03-25</Version>
-                <publishingDate>2019-09-19</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>74402131f7525fef3378531c900cc026</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>  
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023012">
                 <Name>WA_Wohnanteilplan_GGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1375,24 +1264,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>59d62750899f11280b25a80b63ebf3b2</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023014">
-                <Name>NP_NutzungsplanungBasel_GGDM_V1_1_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/NP_NutzungsplanungBasel_GGDM_V1_1_LV95.ili</File>
-                <Version>2022-01-31</Version>
-                <publishingDate>2019-11-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>52b89945c9aca25654b14f34b664a6ba</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023016">
                 <Name>PX_PlanungszonenBettingen_GGDM_V1_0_LV95</Name>
@@ -2201,42 +2072,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>20e1d735fc473da0de30e8ad6055cae2</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026015">
-                <Name>NJ_InventarGeschuetzteNaturobjekte_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Wald_Flora_Fauna/NJ_InventarGeschuetzteNaturobjekte_KGDM_V1_0_LV95.ili</File>
-                <Version>2021-01-28</Version>
-                <publishingDate>2022-02-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>48399efee3b80663cf40ad28da178288</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026017">
-                <Name>NE_Naturersatzflaechen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Wald_Flora_Fauna/NE_Naturersatzflaechen_KGDM_V1_0_LV95.ili</File>
-                <Version>2023-04-26</Version>
-                <publishingDate>2023-10-03</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>95f6a0e31daf9535a37b6e2831c1f6a4</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026019">
                 <Name>WR_Waldreservate_KGDM_V1_0_LV95</Name>
