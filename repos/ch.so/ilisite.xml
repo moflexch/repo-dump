@@ -24,6 +24,9 @@
         </parentSite>
         <subsidiarySite>
           <IliSite09.RepositoryLocation_>
+            <value>https://geo.so.ch/datahub/</value>
+          </IliSite09.RepositoryLocation_>
+          <IliSite09.RepositoryLocation_>
             <value>https://data.geo.so.ch/</value>
           </IliSite09.RepositoryLocation_>
           <IliSite09.RepositoryLocation_>
