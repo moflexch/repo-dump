@@ -2952,7 +2952,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Messstellen_Hydrometrie_V1_Bearbeitung">
         <Name>SZ_Messstellen_Hydrometrie_V1_Bearbeitung</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AFG/SZ_Messstellen_Hydrometrie_V1_Bearbeitung.ili</File>
+        <File>AFG/replaced/SZ_Messstellen_Hydrometrie_V1_Bearbeitung.ili</File>
         <Version>2025-04-03</Version>
         <publishingDate>2025-07-04</publishingDate>
         <Title>Messstellen Hydrometrie</Title>
@@ -2960,6 +2960,33 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>9A9702EC38A33F7D890C29EC0E863DB1</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Messstellen_Hydrometrie_V1">
+        <Name>SZ_Messstellen_Hydrometrie_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Messstellen_Hydrometrie_V1.ili</File>
+        <Version>2025-04-03</Version>
+        <publishingDate>2025-09-29</publishingDate>
+        <Title>Messstellen Hydrometrie</Title>
+        <shortDescription>Mit diesem Modell werden die Standorte von Abfluss, Pegel- und Temperaturmessstellen (Parameter der Hydrometrie) bearbeitet.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>F832C6FAE1C8A3EA2FB102FE65F8D51E</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <!--==================================================-->
+      <!--Modelle des Amtes für Wald und Naturgefahen AWN-->
+      <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grabenmeldungen_V1">
+        <Name>SZ_Grabenmeldungen_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Grabenmeldungen_V1.ili</File>
+        <Version>2025-03-27</Version>
+        <publishingDate>2025-09-29</publishingDate>
+        <Title>Grabenmeldungen</Title>
+        <shortDescription>Mit diesem Modell werden die Standorte von Gräben und Gräbenübergängen in Naturschutzgebieten bearbeitet.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>5ABFD3A05302B9DEF509B66C4D2A3E73</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Landwirtschaft AFL-->
