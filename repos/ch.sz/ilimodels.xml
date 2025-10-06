@@ -2850,6 +2850,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>3891BE1503533DF92DF39F507311EEE7</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Bohrungen_Umwelt_V1">
+        <Name>SZ_Bohrungen_Umwelt_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Bohrungen_Umwelt_V1.ili</File>
+        <Version>2024-09-03</Version>
+        <publishingDate>2025-10-06</publishingDate>
+        <Title>Bohrungen des Bereichs 'Umwelt'</Title>
+        <shortDescription>Datenmodell für die Erfassung von Bohrungen aud dem Zuständigkeitsgebiet des Amtes für Umwelt und Energie (AfU)</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>E2084AD159F89DB5EB8F85676E161A11</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Gewässer AFG-->
       <!--==================================================-->
