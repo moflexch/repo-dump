@@ -1355,24 +1355,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>3089423fcb635a9307ecd637ea09a67e</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023025">
-                <Name>AZ_ArchaeologischerZonenplan_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Raumplanung/AZ_ArchaeologischerZonenplan_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-03-15</Version>
-                <publishingDate>2022-04-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                  <IliRepository20.ModelName_>
-                    <value>OR_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>927789b0432b422bb0d5fcb8a2165db7</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS023027">
                 <Name>MV_MehrwertabgabeRiehen_PGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1511,21 +1493,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>2d5bf02093e367456f5d4fb2d217f340</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024010">
-                <Name>PM_Schallpegelmessungen_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Umweltschutz_Laerm/PM_Schallpegelmessungen_KGDM_V1_0_LV95.ili</File>
-                <Version>2020-09-16</Version>
-                <publishingDate>2020-11-03</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>7762b4527e52503fcb61562e43fefa92</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024011">
                 <Name>TI_Tigermueckenbekaempfung_KGDM_V2_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1619,21 +1586,6 @@
             <!--  ===============================================  -->
             <!--  Verkehr                           BS025xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025001">
-                <Name>AT_Ausnahmetransportrouten_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/AT_Ausnahmetransportrouten_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-01-14</Version>
-                <publishingDate>2018-05-29</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>37f86f5ce950fc8de1902372a0b11229</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025003">
                 <Name>LN_LiniennetzOeV_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -2124,21 +2076,6 @@
             <!--  ===============================================  -->
             <!--  Wasser_und_Abfallsysteme          BS027xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS027001">
-                <Name>AH_AbfuhrzonenRiehenBettingen_GGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Wasser_und_Abfallsysteme/AH_AbfuhrzonenRiehenBettingen_GGDM_V1_0_LV95.ili</File>
-                <Version>2022-11-07</Version>
-                <publishingDate>2022-12-06</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>e6e44ebf3a378fb767581fbca637d60f</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS027002">
                 <Name>RC_Recyclingstellen_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
