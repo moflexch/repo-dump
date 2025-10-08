@@ -26,13 +26,13 @@
        <IliRepository09.RepositoryIndex.ModelMetadata TID="Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>RAUMPLANUNG/Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0.ili</File>
+        <File>Raumplanung/Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0.ili</File>
         <Version>2025-02-20</Version>
         <publishingDate/>
         <Tags>GeobasisdatenID?</Tags>
         <Title/>
         <shortDescription/>
-        <Issuer>https://models.gis-daten.ch/nw-ow/RAUMPLANUNG/</Issuer>
+        <Issuer>https://models.gis-daten.ch/nw-ow/Raumplanung/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <md5>97023e147e04ad3b15dd36a15108e5f6</md5>
         <dependsOnModel>
@@ -47,7 +47,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Nutzungsplanung_NWOW_V2">
         <Name>Nutzungsplanung_NWOW_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>RAUMPLANUNG/Nutzungsplanung_NWOW_V2.ili</File>
+        <File>Raumplanung/Nutzungsplanung_NWOW_V2.ili</File>
         <Version>2025-02-20</Version>
         <publishingDate/>
         <Tags>GeobasisdatenID?</Tags>
@@ -74,7 +74,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Raumplanung_Basis_NWOW_V2">
         <Name>Raumplanung_Basis_NWOW_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>RAUMPLANUNG/Raumplanung_Basis_NWOW_V2.ili</File>
+        <File>Raumplanung/Raumplanung_Basis_NWOW_V2.ili</File>
         <Version>2025-02-20</Version>
         <publishingDate>2025-02-20</publishingDate>
 		<dependsOnModel>
@@ -84,7 +84,7 @@
         </dependsOnModel>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-		<furtherInformation>https://models.gis-daten.ch/nw-ow/RAUMPLANUNG/PDF/Datenmodelle/T-Geodatmod-NP_Doku_xxxxxxx.pdf</furtherInformation>
+		<furtherInformation>https://models.gis-daten.ch/nw-ow/Raumplanung/PDF/Datenmodelle/T-Geodatmod-NP_Doku_xxxxxxx.pdf</furtherInformation>
         <md5>692ad895dfd0199620985d2ee9e8cac3</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
 	  
