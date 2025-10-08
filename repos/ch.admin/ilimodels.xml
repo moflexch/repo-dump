@@ -18718,6 +18718,36 @@
       <md5>c64e91bbc496715cf82ca950005f012a</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004569">
+      <Name>NABODAT_ErgebnisseBodenbelastung_Punktdaten_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_V1_1.ili</File>
+      <Version>2025-07-07</Version>
+      <publishingDate>2025-10-08</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2021-04-15</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:nabodat@ccsols.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>9dd776af23e9ae43e39146efc4b928c4</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
 
