@@ -2474,7 +2474,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1">
         <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>VA/SZ_Einschraenkungen_Binnenschifffahrt_V1.ili</File>
+        <File>VA/replaced/SZ_Einschraenkungen_Binnenschifffahrt_V1.ili</File>
         <Version>2023-01-04</Version>
         <publishingDate>2024-11-26</publishingDate>
         <Title>Einschränkungen für die Binnenschifffahrt</Title>
@@ -3030,10 +3030,10 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>2474f75609a6e31c44a0366e1c3267a9</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-	  <!--==================================================-->
+      <!--==================================================-->
       <!--Modelle des des Tiefbauamtes TBA-->
       <!--==================================================-->
-	  <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Strassenbauprojekte_V1">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Strassenbauprojekte_V1">
         <Name>SZ_Strassenbauprojekte_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>TBA/SZ_Strassenbauprojekte_V1.ili</File>
@@ -3060,6 +3060,18 @@
       <!--==================================================-->
       <!--Modelle des Verkehrsamtes-->
       <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1_1">
+        <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>VA/SZ_Einschraenkungen_Binnenschifffahrt_V1_1.ili</File>
+        <Version>2025-10-07</Version>
+        <publishingDate>2025-10-09</publishingDate>
+        <Title>Einschränkungen für die Binnenschifffahrt</Title>
+        <shortDescription>kantonales Modell zur Erfassung der Einschränkungen für die Binnenschifffahrt</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>F1EE20F81539B2BCB400D584032EE849</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
 </TRANSFER>
