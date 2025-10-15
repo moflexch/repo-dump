@@ -9732,7 +9732,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>ARE/Richtplaene_Catalogues_V1.xml</path>
+                <path>obsolete/Richtplaene_Catalogues_V1_o0.xml</path>
                 <md5>8efc638a38d6d0f05486a9768fac25d2</md5>
               </DatasetIdx16.File>
             </file>
@@ -15348,6 +15348,58 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.bafu.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="289">
+        <id>ch.admin.geo.models.Richtplaene_Catalogues_V1_20251009</id>
+        <version>2025-10-09</version>
+        <precursorVersion>2022-07-01</precursorVersion>
+        <publishingDate>2025-10-15</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog ARE Richtplaene_Catalogues_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/PlansDirecteurs_V1</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/PianiDirettori_V1</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@are.admin.ch</technicalContact>
+        <furtherInformation>https://www.are.admin.ch/mgm</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>ARE/Richtplaene_Catalogues_V1.xml</path>
+                <md5>01efca59f155e4ee7f52a1308d5670e2</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-10-09</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Richtplaene_V1.Richtplaene_Catalogues</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>0930a0f2-905c-43fe-b889-fac1987a42e7</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
