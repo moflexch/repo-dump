@@ -2985,6 +2985,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>F832C6FAE1C8A3EA2FB102FE65F8D51E</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Messstellen_Hydrometrie_V1_Publikation">
+        <Name>SZ_Messstellen_Hydrometrie_V1_Publikation</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Messstellen_Hydrometrie_V1_Publikation.ili</File>
+        <Version>2025-04-03</Version>
+        <publishingDate>2025-10-20</publishingDate>
+        <Title>Messstellen Hydrometrie</Title>
+        <shortDescription>Mit diesem Modell werden die Standorte von Abfluss, Pegel- und Temperaturmessstellen (Parameter der Hydrometrie) bearbeitet.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>9D36C5527B267B6A58DE7B3B9BF1DC71</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Wald und Naturgefahen AWN-->
       <!--==================================================-->
