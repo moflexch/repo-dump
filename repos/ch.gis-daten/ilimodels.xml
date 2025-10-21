@@ -22,6 +22,25 @@
 
       <!-- Raumplanung GIS Daten AG    -->
 
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0">
+        <Name>Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>Raumplanung/Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0.ili</File>
+        <Version>2025-10-22</Version>
+        <publishingDate/>
+        <Tags>GeobasisdatenID?</Tags>
+        <Title/>
+        <shortDescription/>
+        <Issuer>https://models.gis-daten.ch/nw-ow/Raumplanung/</Issuer>
+        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
+        <md5>c393797392e62a728f2e941408126e3b</md5>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      
 
        <IliRepository09.RepositoryIndex.ModelMetadata TID="Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
@@ -34,7 +53,7 @@
         <shortDescription/>
         <Issuer>https://models.gis-daten.ch/nw-ow/Raumplanung/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <md5>97023e147e04ad3b15dd36a15108e5f6</md5>
+         <md5>73754005f2b1d77755b4308a3df3abdb</md5>
         <dependsOnModel>
           <IliRepository09.ModelName_>
            <value>GeometryCHLV95_V1</value>
@@ -42,8 +61,7 @@
        </dependsOnModel>
       </IliRepository09.RepositoryIndex.ModelMetadata>
 
-	  
-      
+
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Nutzungsplanung_NWOW_V2">
         <Name>Nutzungsplanung_NWOW_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
