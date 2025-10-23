@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="VSA-20251021" VERSION="2.3">
+    <HEADERSECTION SENDER="VSA-20250917" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -1828,31 +1828,6 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>https://www.vsa.ch/wiki</furtherInformation>
                 <md5>2a4a9c678bf5c574bb3a80e121a9b368</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="271" >
-                <Name>VSA_KEK_2019_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2019/VSA_KEK_2019_2_d_LV95-20210416.ili</File>
-                <Version>16.04.2021</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_ABWASSER_2015_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>2e0ac3ec2a2fe4690165de855f735c87</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
         </IliRepository20.RepositoryIndex>
     </DATASECTION>
