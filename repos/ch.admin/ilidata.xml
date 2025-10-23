@@ -12118,7 +12118,7 @@
             <version>2023-05-01</version>
             <model>
               <DatasetIdx16.ModelLink>
-                <name>LegendeEintrag_PlanGewaesserschutz_V1_2.LegendeEintrag</name>
+                <name>PlanerischerGewaesserschutz_V1_2.LegendeEintrag</name>
               </DatasetIdx16.ModelLink>
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
