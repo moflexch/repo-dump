@@ -24859,12 +24859,12 @@
       <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>db0dc4eb37d242aed2f51f68c59623de</md5>
-    </IliRepository09.RepositoryIndex.ModelMetadata>    
-
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+    
     <IliRepository09.RepositoryIndex.ModelMetadata TID="010070">
       <Name>SolarAndWindEnergyProjects_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BFE/SolarAndWindEnergyProjects_V1.ili</File>
+      <File>BFE/replaced/SolarAndWindEnergyProjects_V1.ili</File>
       <Version>2023-11-10</Version>
       <publishingDate>2024-01-24</publishingDate>
       <dependsOnModel>
@@ -24883,9 +24883,32 @@
       <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>5875f68f4ae5c50bd01b5b27a101aaee</md5>
-    </IliRepository09.RepositoryIndex.ModelMetadata>    
-
-
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+    
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010071">
+      <Name>SolarAndWindEnergyProjects_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/SolarAndWindEnergyProjects_V1_1.ili</File>
+      <Version>2025-10-02</Version>
+      <publishingDate>2025-10-24</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>229.1,230.1</Tags>      
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>e218334b8867eb5be987fada887beff6</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+    
 <!-- =================================================================== -->
 <!-- BFS OFS UST FSO                                              011xxx -->
 

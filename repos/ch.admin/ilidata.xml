@@ -13354,7 +13354,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/SolarAndWindEnergyProjects_EnergySourceCatalogue_V1.xml</path>
+                <path>BFE/replaced/SolarAndWindEnergyProjects_EnergySourceCatalogue_V1_20231110.xml</path>
                 <md5>a54c5b23974e18350d2b6466d9f25544</md5>
               </DatasetIdx16.File>
             </file>
@@ -13399,7 +13399,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/SolarAndWindEnergyProjects_StatusCatalogue_V1.xml</path>
+                <path>BFE/replaced/SolarAndWindEnergyProjects_StatusCatalogue_V1_20231110.xml</path>
                 <md5>fdaa4546ca8ec8e55db6b4fce85ff100</md5>
               </DatasetIdx16.File>
             </file>
@@ -13780,7 +13780,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BLW/Orchards_Catalogue_V1.xml</path>
+                <path>BLW/replaced/Orchards_Catalogue_V1_20241031.xml</path>
                 <md5>7065919b3f139b4f8686dbfb1641d145</md5>
               </DatasetIdx16.File>
             </file>
@@ -15400,6 +15400,147 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>0930a0f2-905c-43fe-b889-fac1987a42e7</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="290">
+        <id>ch.admin.geo.models.Orchards_Catalogue_V1_20251029</id>
+        <version>2025-10-29</version>
+        <precursorVersion>2024-10-31</precursorVersion>
+        <publishingDate>2025-10-24</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BLW Orchards_Catalogue_V1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/Orchards_V1</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@blw.admin.ch</technicalContact>
+        <furtherInformation>https://www.blw.admin.ch/blw/de/home/politik/datenmanagement/geografisches-informationssystem-gis/minimale-geodatenmodelle.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BLW/Orchards_Catalogue_V1.xml</path>
+                <md5>943c453cffb768a235890db9e45d69b1</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-10-29</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>fruitType_Catalogue_V1.Codelists</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.blw.orchards_catalogue_v1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="291">
+        <id>ch.admin.geo.models.SolarAndWindEnergyProjects_EnergySourceCatalogue_V1_1_20251002</id>
+        <version>2025-10-02</version>
+        <precursorVersion>2023-11-10</precursorVersion>
+        <publishingDate>2025-10-24</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE SolarAndWindEnergyProjects_EnergySourceCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/SolarAndWindEnergyProjects_EnergySourceCatalogue_V1_1.xml</path>
+                <md5>29570efd9255f686e197d174b6b81278</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-10-02</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>SolarAndWindEnergyProjects_V1_1.EnergySourceCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="292">
+        <id>ch.admin.geo.models.SolarAndWindEnergyProjects_StatusCatalogue_V1_1_20251002</id>
+        <version>2025-10-02</version>
+        <precursorVersion>2023-11-10</precursorVersion>
+        <publishingDate>2025-10-24</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE SolarAndWindEnergyProjects_StatusCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/SolarAndWindEnergyProjects_StatusCatalogue_V1_1.xml</path>
+                <md5>e0ad660dbfac2544ad599ad745234bf7</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-10-02</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>SolarAndWindEnergyProjects_V1_1.StatusCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
