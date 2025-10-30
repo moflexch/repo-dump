@@ -1444,7 +1444,7 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>D3A2E45C5C8F23419F40DFC5E5EDB5FE</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1_2021-10-04">
         <Name>SZ_Schleppschlauchpflicht_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFL/replaced/SZ_Schleppschlauchpflicht_V1_2021-10-04.ili</File>
@@ -1503,7 +1503,7 @@
         <browseOnly>false</browseOnly>
         <md5>e5d2cb74ebb09b13f568e0838ace0de1</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1_1">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Abfallanlagen_MatEntnahmestellen_V1_1_2022-07-28">
         <Name>SZ_Abfallanlagen_MatEntnahmestellen_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFU/replaced/SZ_Abfallanlagen_MatEntnahmestellen_V1_1_ili2.3.ili</File>
