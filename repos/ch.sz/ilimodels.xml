@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3" xmlns:ili2c="http://www.interlis.ch/ili2c"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://models.geo.sz.ch/IliRepository09.xsd">
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
   <HEADERSECTION VERSION="2.3" SENDER="">
     <MODELS>
       <MODEL NAME="IliRepository09" VERSION="2012-02-20" URI="mailto:ce@eisenhutinformatik.ch"/>
@@ -1630,13 +1628,14 @@
             <value>Units</value>
           </IliRepository09.ModelName_>
         </dependsOnModel>
+        <precursorVersion>2020-03-30</precursorVersion>
         <Title>Datenmodell zum Thema Wärmenutzung</Title>
         <shortDescription>Dieses Modell beschreibt die Zulässigkeit einers Gebietes für die Wärmenutzung aus dem Untergrund oder dem Grundwasser sowie die im Kanton erstellten Wärmenutzungsanlagen</shortDescription>
-        <Issuer>http://models.geo.sz.ch</Issuer>
+		<Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>62969CB5B55224FA921458F6F6113BD5</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waermenutzung_V2">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waermenutzung_V2_2020-03-30">
         <Name>SZ_Waermenutzung_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFU/replaced/SZ_Waermenutzung_V2.ili</File>
@@ -2756,7 +2755,7 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>18D53193D9C566656AE379C2F32A5647</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Unternehmen_V2_1">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Unternehmen_V2_1_2023-06-29">
         <Name>SZ_Unternehmen_V2_1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>AFU/replaced/SZ_Unternehmen_V2_1_V_2023-06-29.ili</File>
@@ -2774,6 +2773,7 @@
         <File>AFU/replaced/SZ_Unternehmen_V2_1.ili</File>
         <Version>2024-12-13</Version>
         <publishingDate>2024-12-23</publishingDate>
+        <precursorVersion>2023-06-29</precursorVersion>
         <Title>Datenmodell der Unternehmen</Title>
         <shortDescription>Stammdaten von Unternehmen, auf welche aus verschiedenen Fachmodellen Bezug genommen wird</shortDescription>
         <Issuer>https://models.geo.sz.ch</Issuer>
