@@ -174,8 +174,8 @@
         <Name>AR_StromversorgungssicherheitNetzgebiete_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFU/AR_StromversorgungssicherheitNetzgebiete_V1.ili</File>
-        <Version>2025-08-12</Version>
-        <publishingDate>2025-08-12</publishingDate>
+        <Version>2025-10-27</Version>
+        <publishingDate>2025-11-04</publishingDate>
         <dependsOnModel>
           <IliRepository09.ModelName_>
             <value>CHAdminCodes_V1</value>
@@ -188,7 +188,7 @@
         <shortDescription>kantonale Erweiterung des Bundesmodells SupplySecurity_RuledAreas</shortDescription>
         <Issuer>https://models.geo.ar.ch/AFU</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
-        <md5>e47ba6b20f92552bc0ce5730f88e6989</md5>
+        <md5>948b8831e652ef1ea2c4044a70f3f12a</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Bohrungen_Sondierungen_V1_2">
         <Name>AR_Bohrungen_Sondierungen_V1_2</Name>

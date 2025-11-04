@@ -179,6 +179,131 @@
 				</dependsOnModel>
 				<md5>523c27ddd1a162ec9f13313caa887423</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="21">
+				<Name>IPW_GWP_Basis</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/IPW_GWP_Basis.ili</File>
+				<Version>2023-03-27</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>f75c237fc239f5f03b1e0b2f1740c72c</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="22">
+				<Name>GWP_Bern_13_1</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/GWP_Bern_13_1.ili</File>
+				<Version>2023-04-19</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>IPW_GWP_Basis</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>acdb139bdad00ffc1f1e5fd19e9c696d</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="23">
+				<Name>GWP_Bern_13_2</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/GWP_Bern_13_2.ili</File>
+				<Version>2025-06-25</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>IPW_GWP_Basis</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>9e2fad37f0be1b60410349a8127f7b7d</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="24">
+				<Name>GWP_Bern_13_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/GWP_Bern_13_3.ili</File>
+				<Version>2025-06-25</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>IPW_GWP_Basis</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>bcec52b670b5490b56449b304f6bdd86</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="25">
+				<Name>PIE_PGA_Base</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/PIE_PGA_Base.ili</File>
+				<Version>2025-06-25</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>PIE_PGA_Base</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>7618cccc65d3308b5f5009177bd425ff</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="26">
+				<Name>PGA_Berne_13_1</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/PGA_Berne_13_1.ili</File>
+				<Version>2023-04-19</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>PIE_PGA_Base</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>150c30e479cb2dfd51db012ca710ff91</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="27">
+				<Name>PGA_Berne_13_2</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/PGA_Berne_13_2.ili</File>
+				<Version>2025-06-25</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>PIE_PGA_Base</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>a16962c6530363b35c7d9e79dabd0171</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="28">
+				<Name>PGA_Berne_13_3</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/PGA_Berne_13_3.ili</File>
+				<Version>2025-06-25</Version>
+				<publishingDate>2025-11-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>PIE_PGA_Base</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>7a874bc3445c828fbe4585693c07cca9</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="998">
 				<Name>test_mgdm_V1_1</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
