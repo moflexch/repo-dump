@@ -248,13 +248,13 @@
 				<publishingDate>2025-11-04</publishingDate>
 				<dependsOnModel>
 					<IliRepository09.ModelName_>
-						<value>PIE_PGA_Base</value>
+						<value>IPW_GWP_Basis</value>
 					</IliRepository09.ModelName_>
 					<IliRepository09.ModelName_>
 						<value>Units</value>
 					</IliRepository09.ModelName_>
 				</dependsOnModel>
-				<md5>7618cccc65d3308b5f5009177bd425ff</md5>
+				<md5>a8ca654ac20f84f7bd360f87380942d5</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="26">
 				<Name>PGA_Berne_13_1</Name>
