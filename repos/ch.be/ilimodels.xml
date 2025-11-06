@@ -267,7 +267,10 @@
 						<value>Units</value>
 					</IliRepository09.ModelName_>
 					<IliRepository09.ModelName_>
-						<value>PIE_PGA_Base</value>
+						<value>IPW_GWP_Basis</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GWP_Bern_13_1</value>
 					</IliRepository09.ModelName_>
 				</dependsOnModel>
 				<md5>150c30e479cb2dfd51db012ca710ff91</md5>
@@ -283,7 +286,10 @@
 						<value>Units</value>
 					</IliRepository09.ModelName_>
 					<IliRepository09.ModelName_>
-						<value>PIE_PGA_Base</value>
+						<value>IPW_GWP_Basis</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GWP_Bern_13_2</value>
 					</IliRepository09.ModelName_>
 				</dependsOnModel>
 				<md5>a16962c6530363b35c7d9e79dabd0171</md5>
@@ -299,7 +305,10 @@
 						<value>Units</value>
 					</IliRepository09.ModelName_>
 					<IliRepository09.ModelName_>
-						<value>PIE_PGA_Base</value>
+						<value>IPW_GWP_Basis</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GWP_Bern_13_3</value>
 					</IliRepository09.ModelName_>
 				</dependsOnModel>
 				<md5>7a874bc3445c828fbe4585693c07cca9</md5>
