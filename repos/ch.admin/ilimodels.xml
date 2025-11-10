@@ -24835,7 +24835,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="010069">
       <Name>PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BFE/PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1.ili</File>
+      <File>BFE/replaced/PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1.ili</File>
       <Version>2023-06-19</Version>
       <publishingDate>2023-10-14</publishingDate>
       <dependsOnModel>
@@ -24907,6 +24907,36 @@
       <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>e218334b8867eb5be987fada887beff6</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+   
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010072">
+      <Name>PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/PipelinesystemUnderSupervisionByFederalGovernmentExtended_V1.ili</File>
+      <Version>2025-10-29</Version>
+      <publishingDate>2025-11-10</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>PipelinesystemUnderSupervisionByFederalGovernment_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2023-06-19</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>72c771c45d66839188db954cd00a7d9a</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
     
 <!-- =================================================================== -->
@@ -27719,7 +27749,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="014112">
       <Name>Gebietsueberwachung_Schadorganismen_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BLW/Gebietsueberwachung_Schadorganismen_V1_2.ili</File>
+      <File>BLW/replaced/Gebietsueberwachung_Schadorganismen_V1_2.ili</File>
       <Version>2019-02-01</Version>
       <publishingDate>2019-02-01</publishingDate>
       <dependsOnModel>
