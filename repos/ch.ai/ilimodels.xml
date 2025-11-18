@@ -503,7 +503,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001111">
 				<Name>AI_Erschliessungsstand_V2_3</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>ARE/AI_Erschliessungsstand_V2_3.ili</File>
+				<File>ARE/replaced/AI_Erschliessungsstand_V2_3.ili</File>
 				<Version>2023-07-25</Version>
 				<publishingDate>2023-07-25</publishingDate>
 				<dependsOnModel>
@@ -531,10 +531,44 @@
 				</dependsOnModel>
 				<Title>Erschliessungsstand Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
 				<Tags/>
+				<Issuer>https://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>042f1648c5933a97535090948f63ce30</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001117">
+				<Name>AI_Erschliessungsstand_V2_3_1</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Erschliessungsstand_V2_3_1.ili</File>
+				<Version>2025-07-04</Version>
+				<publishingDate>2025-07-04</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Erschliessungsstand Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>084e7c8c0b3e5ba0c7e66375284e84fb</md5>
+				<md5>eacf07f39048c4b23940b2bc9265b069</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001112">
