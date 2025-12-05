@@ -1802,7 +1802,7 @@
                         <value>SIA405_Base_Abwasser_1_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>21.20.2023</precursorVersion>
+                <precursorVersion>21.10.2023</precursorVersion>
                 <Issuer>http://www.sia.ch/405</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
