@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="VSA-20251021" VERSION="2.3">
+    <HEADERSECTION SENDER="VSA-20251205" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -51,30 +51,6 @@
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>e5c22e237a7e723428e8ed9cbf67f414</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="22" >
-                <Name>DSS_3D_2020_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/VSA_DSS_3D_2020_2_d_LV95-20201109.ili</File>
-                <Version>09.11.2020</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_Abwasser_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>DSS_2020_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <md5>15a19787dcba7e27453ca63d9a4c1926</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="29" >
                 <Name>IGSFunction</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -100,7 +76,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="35" >
                 <Name>DSS_3D_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSA_DSS_3D_2020_2_d_LV95-20201209.ili</File>
+                <File>2020/precursorVersion/VSA_DSS_3D_2020_2_d_LV95-20201209.ili</File>
                 <Version>09.12.2020</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -117,15 +93,15 @@
                         <value>DSS_2020_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>09.11.2020</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>de7c6c8a218e336bf30dd69812d7e0b1</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="37" >
                 <Name>SIA405_ABWASSER_3D_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/SIA405_Abwasser_3D_2020_2_d_LV95-20210323.ili</File>
+                <File>2020/precursorVersion/SIA405_Abwasser_3D_2020_2_d_LV95-20210323.ili</File>
                 <Version>23.03.2021</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -147,35 +123,10 @@
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>42425811b168ff91bfe39248cd61d778</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="38" >
-                <Name>VSA_KEK_2020_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/VSA_KEK_2020_2_d_LV95-20210416.ili</File>
-                <Version>16.04.2021</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_Abwasser_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_ABWASSER_2020_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>3aa5865e0690730454ca4f2c1ddd82ff</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="39" >
                 <Name>VSA_KEK_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSA_KEK_2020_2_d_LV95-20210503.ili</File>
+                <File>2020/precursorVersion/VSA_KEK_2020_2_d_LV95-20210503.ili</File>
                 <Version>03.05.2021</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -192,77 +143,10 @@
                         <value>SIA405_ABWASSER_2020_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>16.04.2021</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>83eed28ca1f04932ce1890998ee1e74a</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="40" >
-                <Name>VSADSSMINI_2020_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/VSADSSMINI_2020_2_d_LV95-20210625.ili</File>
-                <Version>25.06.2021</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_Abwasser_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>afd77b93bab1f263c84f78ef325b6342</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="41" >
-                <Name>DSS_2020_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/VSA_DSS_2020_2_d_LV95-20210625.ili</File>
-                <Version>25.06.2021</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_Abwasser_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>65105bbdfa2a9496d41b634749ef4919</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="42" >
-                <Name>SIA405_ABWASSER_2020_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/SIA405_Abwasser_2020_2_d_LV95-20210626.ili</File>
-                <Version>26.06.2021</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>Units</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Base_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>SIA405_Base_Abwasser_LV95</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.sia.ch/405</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>18b051dc8a0189096f995773019c1d98</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="81" >
                 <Name>VSADSSMINI_2020_LV95_CHECK_T</Name>
@@ -323,7 +207,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="95" >
                 <Name>SDEE_3D_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSA_SDEE_3D_2020_2_f_LV95-20210929.ili</File>
+                <File>2020/precursorVersion/VSA_SDEE_3D_2020_2_f_LV95-20210929.ili</File>
                 <Version>29.09.2021</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -406,7 +290,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="161" >
                 <Name>VSADSSMINI_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSADSSMINI_2020_2_d_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/VSADSSMINI_2020_2_d_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -420,7 +304,6 @@
                         <value>SIA405_Base_Abwasser_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>25.06.2021</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
@@ -429,7 +312,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="164" >
                 <Name>VSASDEEMINI_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSASDEEMINI_2020_2_f_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/VSASDEEMINI_2020_2_f_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -460,7 +343,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="165" >
                 <Name>VSASDSAMINI_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSASDSAMINI_2020_2_i_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/VSASDSAMINI_2020_2_i_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>it</NameLanguage>
                 <dependsOnModel>
@@ -491,7 +374,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="166" >
                 <Name>SIA405_ABWASSER_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/SIA405_Abwasser_2020_2_d_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/SIA405_Abwasser_2020_2_d_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -505,7 +388,6 @@
                         <value>SIA405_Base_Abwasser_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>26.06.2021</precursorVersion>
                 <Issuer>http://www.sia.ch/405</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
@@ -514,7 +396,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="167" >
                 <Name>SIA405_EAUX_USEES_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/SIA405_Eaux_usees_2020_2_f_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/SIA405_Eaux_usees_2020_2_f_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -539,12 +421,13 @@
                 </dependsOnModel>
                 <Issuer>http://www.sia.ch/405</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>e9ab4e124a74b3da1a758f5e6d768ab2</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="168" >
                 <Name>DSS_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSA_DSS_2020_2_d_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/VSA_DSS_2020_2_d_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -558,7 +441,6 @@
                         <value>SIA405_Base_Abwasser_LV95</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>25.06.2021</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
@@ -567,7 +449,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="169" >
                 <Name>SDEE_2020_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSA_SDEE_2020_2_f_LV95-20230807.ili</File>
+                <File>2020/precursorVersion/VSA_SDEE_2020_2_f_LV95-20230807.ili</File>
                 <Version>07.08.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -868,7 +750,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="222" >
                 <Name>SIA405_ABWASSER_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/SIA405_Abwasser_2020_1_2_d_LV95-20231021.ili</File>
+                <File>2020_1/precursorVersion/SIA405_Abwasser_2020_1_2_d_LV95-20231021.ili</File>
                 <Version>21.10.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -890,7 +772,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="223" >
                 <Name>SIA405_ABWASSER_3D_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/SIA405_Abwasser_3D_2020_1_2_d_LV95-20231021.ili</File>
+                <File>2020_1/precursorVersion/SIA405_Abwasser_3D_2020_1_2_d_LV95-20231021.ili</File>
                 <Version>21.10.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -915,7 +797,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="225" >
                 <Name>SIA405_EAUX_USEES_3D_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/SIA405_Eaux_usees_3D_2020_1_2_f_LV95-20231021.ili</File>
+                <File>2020_1/precursorVersion/SIA405_Eaux_usees_3D_2020_1_2_f_LV95-20231021.ili</File>
                 <Version>21.10.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -952,7 +834,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="226" >
                 <Name>DSS_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSA_DSS_2020_1_2_d_LV95-20231018.ili</File>
+                <File>2020_1/precursorVersion/VSA_DSS_2020_1_2_d_LV95-20231018.ili</File>
                 <Version>18.10.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -974,7 +856,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="227" >
                 <Name>DSS_3D_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSA_DSS_3D_2020_1_2_d_LV95-20231018.ili</File>
+                <File>2020_1/precursorVersion/VSA_DSS_3D_2020_1_2_d_LV95-20231018.ili</File>
                 <Version>18.10.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -999,7 +881,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="229" >
                 <Name>SDEE_3D_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSA_SDEE_3D_2020_1_2_f_LV95-20231021.ili</File>
+                <File>2020_1/precursorVersion/VSA_SDEE_3D_2020_1_2_f_LV95-20231021.ili</File>
                 <Version>21.10.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -1036,7 +918,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="230" >
                 <Name>VSA_KEK_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSA_KEK_2020_1_2_d_LV95-20231030.ili</File>
+                <File>2020_1/precursorVersion/VSA_KEK_2020_1_2_d_LV95-20231030.ili</File>
                 <Version>30.10.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -1061,7 +943,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="231" >
                 <Name>VSA_IVI_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSA_IVI_2020_1_2_f_LV95-20231030.ili</File>
+                <File>2020_1/precursorVersion/VSA_IVI_2020_1_2_f_LV95-20231030.ili</File>
                 <Version>30.10.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -1578,7 +1460,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="253" >
                 <Name>VSADSSMINI_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSADSSMINI_2020_1_2_d_LV95-20231106.ili</File>
+                <File>2020_1/precursorVersion/VSADSSMINI_2020_1_2_d_LV95-20231106.ili</File>
                 <Version>06.11.2023</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -1600,7 +1482,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="254" >
                 <Name>VSASDEEMINI_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSASDEEMINI_2020_1_2_f_LV95-20231106.ili</File>
+                <File>2020_1/precursorVersion/VSASDEEMINI_2020_1_2_f_LV95-20231106.ili</File>
                 <Version>06.11.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -1631,7 +1513,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="255" >
                 <Name>VSASDSAMINI_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSASDSAMINI_2020_1_2_i_LV95-20231106.ili</File>
+                <File>2020_1/precursorVersion/VSASDSAMINI_2020_1_2_i_LV95-20231106.ili</File>
                 <Version>06.11.2023</Version>
                 <NameLanguage>it</NameLanguage>
                 <dependsOnModel>
@@ -1662,7 +1544,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="256" >
                 <Name>SIA405_EAUX_USEES_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/SIA405_Eaux_usees_2020_1_2_f_LV95-20231106.ili</File>
+                <File>2020_1/precursorVersion/SIA405_Eaux_usees_2020_1_2_f_LV95-20231106.ili</File>
                 <Version>06.11.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -1693,7 +1575,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="257" >
                 <Name>SDEE_2020_1_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSA_SDEE_2020_1_2_f_LV95-20231106.ili</File>
+                <File>2020_1/precursorVersion/VSA_SDEE_2020_1_2_f_LV95-20231106.ili</File>
                 <Version>06.11.2023</Version>
                 <NameLanguage>fr</NameLanguage>
                 <dependsOnModel>
@@ -1853,6 +1735,782 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>2e0ac3ec2a2fe4690165de855f735c87</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="272" >
+                <Name>SIA405_ABWASSER_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/SIA405_Abwasser_2020_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>d6f2d5424bfce0bbf0d672aac68c492d</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="273" >
+                <Name>SIA405_ABWASSER_3D_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/SIA405_Abwasser_3D_2020_1_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>21.10.2023</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>cb95a6555724100d1f9f100368681770</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="274" >
+                <Name>SIA405_ABWASSER_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/SIA405_Abwasser_2020_1_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>21.20.2023</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>1a334b3c94abda461b3668cb056f191c</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="275" >
+                <Name>SIA405_ABWASSER_3D_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/SIA405_Abwasser_3D_2020_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>23.03.2021</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>d7fb452ff15f82f5501479b81edd1702</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="276" >
+                <Name>DSS_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSA_DSS_2020_1_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>18.10.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>65d1ecd6e2d84f2bd227db0cb24a80ae</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="277" >
+                <Name>DSS_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSA_DSS_2020_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>3ef8188e6aa300912a290bf388ddcde6</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="279" >
+                <Name>DSS_3D_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSA_DSS_3D_2020_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>09.12.2020</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>67b25686e14e22a71a1754ea99cd82ea</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="280" >
+                <Name>VSA_KEK_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSA_KEK_2020_1_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>30.10.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>27128214eefa8c35613b885c33513fff</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="281" >
+                <Name>VSA_KEK_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSA_KEK_2020_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>03.05.2021</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>69a891621207333dce59200c8a40ba9a</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="282" >
+                <Name>VSADSSMINI_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSADSSMINI_2020_1_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>06.11.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>f538ab1e39362208745214e23bf30bfb</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="283" >
+                <Name>VSADSSMINI_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSADSSMINI_2020_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>b23425dc9fa48f3608c7ce4ea4645f68</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="285" >
+                <Name>DSS_3D_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSA_DSS_3D_2020_1_2_d_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>18.10.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>addd4adb1fc0bd6982c13cbcccbb13df</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="286" >
+                <Name>SIA405_EAUX_USEES_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/SIA405_Eaux_usees_2020_1_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>06.11.2023</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>2d9e7917923a4b14b7bb4de488d8f06b</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="287" >
+                <Name>SIA405_EAUX_USEES_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/SIA405_Eaux_usees_2020_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>faeea9d2f3e0a807c8a616bc83d2d183</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="290" >
+                <Name>SIA405_EAUX_USEES_3D_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/SIA405_Eaux_usees_3D_2020_1_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_EAUX_USEES_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_3D_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>21.10.2023</precursorVersion>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>804e620ea58bd781f385dd932fd2117e</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="291" >
+                <Name>VSA_IVI_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSA_IVI_2020_1_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_EAUX_USEES_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSA_KEK_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>30.10.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>c388ac417f916bcb86977767caa05ca5</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="292" >
+                <Name>VSA_IVI_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSA_IVI_2020_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_EAUX_USEES_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSA_KEK_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>be6497d020e035f825f18ecd05efa91e</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="293" >
+                <Name>SDEE_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSA_SDEE_2020_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>ba51d1a492fd161b93644cc76a87edb7</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="294" >
+                <Name>SDEE_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSA_SDEE_2020_1_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>06.11.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>f247e1a739eb2358f928f64cd664cea9</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="295" >
+                <Name>SDEE_3D_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSA_SDEE_3D_2020_1_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SDEE_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_3D_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>21.10.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>4c5672809b7a90bf7e08f9942cabfeeb</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="296" >
+                <Name>SDEE_3D_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSA_SDEE_3D_2020_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SDEE_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>DSS_3D_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>29.09.2021</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>5c23bdddf6a6b2f49c249d001571ddf0</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="298" >
+                <Name>VSASDEEMINI_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSASDEEMINI_2020_1_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>06.11.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>6a1d97bf431dba710b9d2a980f3a3904</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="299" >
+                <Name>VSASDEEMINI_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSASDEEMINI_2020_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>e5d7fae8687c34a7b3b934fee5c70313</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="300" >
+                <Name>VSASDSAMINI_2020_1_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSASDSAMINI_2020_1_2_i_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>it</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_i_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Acque_di_scarico_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>06.11.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>c20f5e17ddaa5bed2d818161d665f5b9</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="301" >
+                <Name>VSASDSAMINI_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSASDSAMINI_2020_2_i_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>it</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_i_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Acque_di_scarico_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>07.08.2023</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>fd0f25e48e92dc916a5f13743db7517d</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="302" >
+                <Name>SIA405_EAUX_USEES_3D_2020_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/SIA405_Eaux_usees_3D_2020_2_f_LV95-20251129.ili</File>
+                <Version>29.11.2025</Version>
+                <NameLanguage>fr</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>Units</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Base_f_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Abwasser_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_Base_Eaux_usees_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_EAUX_USEES_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>SIA405_ABWASSER_3D_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>http://www.sia.ch/405</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>779a2347215733c3fa5aec5692bc242a</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
         </IliRepository20.RepositoryIndex>
     </DATASECTION>
