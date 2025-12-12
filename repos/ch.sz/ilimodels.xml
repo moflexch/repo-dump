@@ -290,7 +290,7 @@
       <!--==================================================-->
       <!--Modelle des Amtes für Volksschulen und Sport AVS-->
       <!--==================================================-->
-	  <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Standorte_Schulanlagen_V2">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Standorte_Schulanlagen_V2">
         <Name>SZ_Standorte_Schulanlagen_V2</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AVS/SZ_Standorte_Schulanlagen_V2.ili</File>
@@ -573,7 +573,7 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>C42654C2A391235FA071C3FB0D99459C</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-	  <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Baugesuche_gewaessernah_V1_1">
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Baugesuche_gewaessernah_V1_1">
         <Name>SZ_Baugesuche_gewaessernah_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>AFG/SZ_Baugesuche_gewaessernah_V1_1.ili</File>
@@ -1161,7 +1161,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Grueben_20180403">
         <Name>SZ_Grueben_20180403</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWN/SZ_Grueben_2018-04-03.ili</File>
+        <File>AWN/replaced/SZ_Grueben_2018-04-03.ili</File>
         <Version>2018-04-03</Version>
         <publishingDate>2019-02-04</publishingDate>
         <Title>Grueben</Title>
@@ -1173,7 +1173,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Panoramatafeln_20180522">
         <Name>SZ_Panoramatafeln_20180522</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWN/SZ_Panoramatafeln_2018-05-22.ili</File>
+        <File>AWN/replaced/SZ_Panoramatafeln_2018-05-22.ili</File>
         <Version>2018-05-22</Version>
         <publishingDate>2019-02-04</publishingDate>
         <Title>Panoramatafeln</Title>
@@ -1631,7 +1631,7 @@
         <precursorVersion>2020-03-30</precursorVersion>
         <Title>Datenmodell zum Thema Wärmenutzung</Title>
         <shortDescription>Dieses Modell beschreibt die Zulässigkeit einers Gebietes für die Wärmenutzung aus dem Untergrund oder dem Grundwasser sowie die im Kanton erstellten Wärmenutzungsanlagen</shortDescription>
-		<Issuer>http://models.geo.sz.ch</Issuer>
+        <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>62969CB5B55224FA921458F6F6113BD5</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
@@ -1750,7 +1750,7 @@
         <browseOnly>true</browseOnly>
         <md5>1CC5E51501E201560DE8769128D5EAB2</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
-	  <IliRepository09.RepositoryIndex.ModelMetadata
+      <IliRepository09.RepositoryIndex.ModelMetadata
         TID="SZ_planerischerGewaesserschutz_V3_Erfassung">
         <Name>SZ_planerischerGewaesserschutz_V3_Erfassung</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1998,7 +1998,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Standorte_Schulanlagen_Mittelschule_20160726">
         <Name>SZ_Standorte_Schulanlagen_Mittelschule_20160726</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AMH/SZ_Standorte_Schulanlagen_Mittelschule_2016-07-26.ili</File>
+        <File>AMH/replaced/SZ_Standorte_Schulanlagen_Mittelschule_2016-07-26.ili</File>
         <Version>20160726</Version>
         <publishingDate>2016-07-26</publishingDate>
         <Title>Standorte von Schulanlagen Mittelschule</Title>
@@ -2637,6 +2637,21 @@
         <md5>acb9be652091991c0bab332c9bcdbd40</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
+      <!--Modelle des Amtes für Volksschulen und Sport AVS-->
+      <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Sportanlagen_V2">
+        <Name>SZ_Sportanlagen_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AVS/SZ_Sportanlagen_V2.ili</File>
+        <Version>2025-11-13</Version>
+        <publishingDate>2025-12-12</publishingDate>
+        <Title>Sportanlagen</Title>
+        <shortDescription>kantonales Modell der Sportanlagen</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>97AC8435756CAC1650F7CFFBDD98A827</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <!--==================================================-->
       <!--Modelle des Amtes für Umweltschutz AFU-->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Waermenutzung_V2_1">
@@ -3011,6 +3026,45 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>5ABFD3A05302B9DEF509B66C4D2A3E73</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Panoramatafeln_V2">
+        <Name>SZ_Panoramatafeln_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Panoramatafeln_V2.ili</File>
+        <Version>2025-11-13</Version>
+        <publishingDate>2025-12-12</publishingDate>
+        <Title>Panoramatafeln</Title>
+        <shortDescription>kantonales Modell der Panoramatafeln</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>C6E167A9BF358277E877F8E69F65A6C4</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grueben_V2">
+        <Name>SZ_Grueben_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Grueben_V2.ili</File>
+        <Version>2025-11-13</Version>
+        <publishingDate>2025-12-12</publishingDate>
+        <Title>Grueben</Title>
+        <shortDescription>kantonales Modell der Grueben</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>F9E8608D88851C4D347202FD6F991A13</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <!--==================================================-->
+      <!--Modelle des Amtes für Mittel- und Hochschulen AMH -->
+      <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Standorte_Schulanlagen_Mittelschule_V2">
+        <Name>SZ_Standorte_Schulanlagen_Mittelschule_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AMH/SZ_Standorte_Schulanlagen_Mittelschule_V2.ili</File>
+        <Version>2025-11-13</Version>
+        <publishingDate>2025-12-12</publishingDate>
+        <Title>Standorte von Schulanlagen (Mittelschule)</Title>
+        <shortDescription>Dieses Modell beschreibt die Standorte von Schulanlagen der Mittelschulen</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>4339212E4E0342C2E1B6D1143C00B215</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Amtes für Landwirtschaft AFL-->
