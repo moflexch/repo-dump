@@ -54,7 +54,7 @@
 						<version>1</version>
 						<model>
 							<DatasetIdx16.ModelLink>
-								<name>SIA405_Base_Abwasser_LV95.Administration</name>
+								<name>IPW_GWP_Basis.GWP_Administration</name>
 							</DatasetIdx16.ModelLink>
 						</model>
 						<owner>mailto:reseau.awa@be.ch</owner>
