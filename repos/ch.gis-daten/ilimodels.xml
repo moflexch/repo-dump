@@ -146,6 +146,52 @@
         <browseOnly>false</browseOnly>
         <md5>13d7a115017a16c83773d1f14ab491b5</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
+        <Name>Admin_NWOW_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Administration/admin_nwow_v1.ili</File>
+        <Version>2025-12-15</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2025-12-15</publishingDate>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>4b0e3f75c8dff49a644b10a2c93af606</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="8">
+        <Name>Geotope_NWOW_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
+        <Version>2025-12-15</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2025-12-15</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>Admin_NWOW_V1</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>08e8ace15d518124fbd0190658a99219</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+	        <IliRepository20.RepositoryIndex.ModelMetadata TID="9">
+        <Name>Pflanzenschutzgebiete_NW_V1_0</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Pflanzenschutzgebiete_NW_V1_0.ili</File>
+        <Version>2025-12-17</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2025-12-17</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>08cca221dc308cfa4b7f39b72cb8af75</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
 </TRANSFER>
