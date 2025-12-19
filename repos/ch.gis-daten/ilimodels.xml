@@ -119,17 +119,17 @@
         <Name>Pflanzenschutzgebiete_NW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Natur_Landschaftsschutz/Pflanzenschutzgebiete_NW_V1_0.ili</File>
-        <Version>2025-12-18</Version>
+        <Version>2025-12-19</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-18</publishingDate>
+        <publishingDate>2025-12-19</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
-        <Issuer>http://models.gis-daten.ch/NAT_LAND_UMWE</Issuer>
+        <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>fd3124e984fa9611a87c04e45f14b262</md5>
+        <md5>e6f3b5cc51fc0cc74e61f0b4e6c082bd</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
         <Name>Raumplanung_Basis_NWOW_V2</Name>
