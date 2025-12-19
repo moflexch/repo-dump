@@ -3018,7 +3018,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grabenmeldungen_V1">
         <Name>SZ_Grabenmeldungen_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AWN/SZ_Grabenmeldungen_V1.ili</File>
+        <File>AWN/replaced/SZ_Grabenmeldungen_V1.ili</File>
         <Version>2025-03-27</Version>
         <publishingDate>2025-09-29</publishingDate>
         <Title>Grabenmeldungen</Title>
@@ -3026,6 +3026,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>5ABFD3A05302B9DEF509B66C4D2A3E73</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grabenmeldungen_V1_1">
+        <Name>SZ_Grabenmeldungen_V1_1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Grabenmeldungen_V1_1.ili</File>
+        <Version>2025-10-30</Version>
+        <publishingDate>2025-12-19</publishingDate>
+        <Title>Grabenmeldungen</Title>
+        <shortDescription>Mit diesem Modell werden die Standorte von Gräben und Gräbenübergängen in Naturschutzgebieten bearbeitet.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>A1AA1673634BB2C6A82032F65B1633E2</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Panoramatafeln_V2">
         <Name>SZ_Panoramatafeln_V2</Name>
