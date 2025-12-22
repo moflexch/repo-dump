@@ -127,9 +127,10 @@
             <value>GeometryCHLV95_V2</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
+        <Tags>31-NW</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>ffa8c53d87521ea6f6396de8614e4e53</md5>
+        <md5>d701d324c528f010196c6dc5c694accd</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
         <Name>Raumplanung_Basis_NWOW_V2</Name>

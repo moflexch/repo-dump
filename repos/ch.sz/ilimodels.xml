@@ -2550,7 +2550,7 @@
     <!--==================================================-->
     <IliRepository20.RepositoryIndex BID="ch.sz.geo.models.ili2_4">
       <!--==================================================-->
-      <!--Modelle des Amtes für Geoinformation AGI-->
+      <!-- Modelle des Amtes für Geoinformation AGI         -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Masterkataog_V2_1">
         <Name>SZ_Masterkatalog_V2_1</Name>
@@ -2637,7 +2637,7 @@
         <md5>acb9be652091991c0bab332c9bcdbd40</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Volksschulen und Sport AVS-->
+      <!-- Modelle des Amtes für Volksschulen und Sport AVS -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Sportanlagen_V2">
         <Name>SZ_Sportanlagen_V2</Name>
@@ -2652,7 +2652,7 @@
         <md5>97AC8435756CAC1650F7CFFBDD98A827</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Umweltschutz AFU-->
+      <!-- Modelle des Amtes für Umweltschutz AFU           -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Waermenutzung_V2_1">
         <Name>SZ_Waermenutzung_V2_1</Name>
@@ -2878,7 +2878,7 @@
         <md5>E2084AD159F89DB5EB8F85676E161A11</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Gewässer AFG-->
+      <!-- Modelle des Amtes für Gewässer AFG               -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_planerischerGewaesserschutz_oberirdisch_V1_1">
         <Name>SZ_planerischerGewaesserschutz_oberirdisch_V1_1</Name>
@@ -3013,8 +3013,20 @@
         <md5>9D36C5527B267B6A58DE7B3B9BF1DC71</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Wald und Naturgefahen AWN-->
+      <!-- Modelle des Amtes für Wald und Naturgefahen AWN  -->
       <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gebietseinteilung_Forst">
+        <Name>SZ_Gebietseinteilung_Forst</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Gebietseinteilung_Forst_V1.ili</File>
+        <Version>2025-01-24</Version>
+        <publishingDate>2025-12-22</publishingDate>
+        <Title>Gebietseinteilung Forst</Title>
+        <shortDescription>Einteilung des Kantonsgebietes in Forstkreise und Forstgebiete gemäss der kantonalen Verordnung zum Waldgesetz (SRSZ 313.111)</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>67035BC62028E10CD2CE1CFAC8E7F9A2</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grabenmeldungen_V1">
         <Name>SZ_Grabenmeldungen_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
@@ -3064,7 +3076,7 @@
         <md5>F9E8608D88851C4D347202FD6F991A13</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Mittel- und Hochschulen AMH -->
+      <!-- Modelle des Amtes für Mittel- und Hochschulen AMH-->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Standorte_Schulanlagen_Mittelschule_V2">
         <Name>SZ_Standorte_Schulanlagen_Mittelschule_V2</Name>
@@ -3079,7 +3091,7 @@
         <md5>4339212E4E0342C2E1B6D1143C00B215</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Landwirtschaft AFL-->
+      <!-- Modelle des Amtes für Landwirtschaft AFL         -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Schleppschlauchpflicht_V1_1">
         <Name>SZ_Schleppschlauchpflicht_V1_1</Name>
@@ -3094,7 +3106,7 @@
         <md5>4E68249CE982C2648E96B8A5E8C3CE22</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Amtes für Amt für Militär, Feuer- und Zivilschutz AMFZ-->
+      <!-- Modelle des Amtes für Amt für Militär, Feuer- und Zivilschutz AMFZ -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Loescheinrichtungen_V1">
         <Name>SZ_Loescheinrichtungen_V1</Name>
@@ -3109,7 +3121,7 @@
         <md5>2474f75609a6e31c44a0366e1c3267a9</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des des Tiefbauamtes TBA-->
+      <!-- Modelle des des Tiefbauamtes TBA                 -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Strassenbauprojekte_V1">
         <Name>SZ_Strassenbauprojekte_V1</Name>
@@ -3136,7 +3148,7 @@
         <md5>57CD9BDBCF4630F8589D689729E71E3F</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!--Modelle des Verkehrsamtes-->
+      <!-- Modelle des Verkehrsamtes                        -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1_1">
         <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1_1</Name>
