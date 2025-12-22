@@ -286,6 +286,26 @@
         		<md5>6787edb0c71131c02074157bedb297ed</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
 
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFT004">
+        		<Name>Gewaessernetz_UR_V1_0</Name>
+        		<SchemaLanguage>ili2_3</SchemaLanguage>
+        		<File>AFT/Gewaessernetz_UR_V1_0.ili</File>
+        		<Version>2025-10-10</Version>
+        		<publishingDate>2025-10-10</publishingDate>
+        		<dependsOnModel>
+        		  <IliRepository09.ModelName_>
+        		    <value>GeometryCHLV95_V1</value>
+        		  </IliRepository09.ModelName_>
+                  <IliRepository09.ModelName_>
+        		    <value>Units</value>
+        		  </IliRepository09.ModelName_>
+        		</dependsOnModel>
+        		<Issuer>https://webgis.lisag.ch/models/</Issuer>
+        		<technicalContact>mailto:mail@lisag.ch</technicalContact>
+        		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Gewaessernetz_UR_V1_0.pdf</furtherInformation>
+        		<md5>4324a0b1f74fbda83389274ab2597266</md5>
+        	</IliRepository09.RepositoryIndex.ModelMetadata>
+
 
             <!--  ===============================================  -->
             <!--  Amt für Umwelt [AFU]                             -->

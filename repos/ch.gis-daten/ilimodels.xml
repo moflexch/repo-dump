@@ -11,12 +11,12 @@
         <Name>Admin_NWOW_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Administration/admin_nwow_v1.ili</File>
-        <Version>2025-12-15</Version>
+        <Version>2025-12-22</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-15</publishingDate>
-        <Issuer>http://models.gis-daten.ch/ADMIN</Issuer>
+        <publishingDate>2025-12-22</publishingDate>
+        <Issuer>http://models.gis-daten.ch/nw-ow/Administration/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>4b0e3f75c8dff49a644b10a2c93af606</md5>
+        <md5>4e7526eb03c3a9ac178052c560fca512</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="1">
         <Name>Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0</Name>
@@ -79,9 +79,9 @@
         <Name>Geotope_NWOW_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
-        <Version>2025-12-11</Version>
+        <Version>2025-12-22</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-18</publishingDate>
+        <publishingDate>2025-12-22</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -95,7 +95,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>6c1ed8fdb48e4e0e1bea766313586254</md5>
+        <md5>d701d324c528f010196c6dc5c694accd</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
         <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
@@ -130,7 +130,7 @@
         <Tags>31-NW</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>d701d324c528f010196c6dc5c694accd</md5>
+        <md5>ffa8c53d87521ea6f6396de8614e4e53</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
         <Name>Raumplanung_Basis_NWOW_V2</Name>
