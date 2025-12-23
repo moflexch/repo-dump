@@ -799,7 +799,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Waldreservate_V2_1">
         <Name>SZ_Waldreservate_V2_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWN/SZ_Waldreservate_V2_1.ili</File>
+        <File>AWN/replaced/SZ_Waldreservate_V2_1.ili</File>
         <Version>2023-07-18</Version>
         <publishingDate>2023-07-18</publishingDate>
         <Title>kantonales Datenmodell zum Thema Waldreservate</Title>
@@ -3015,6 +3015,18 @@
       <!--==================================================-->
       <!-- Modelle des Amtes für Wald und Naturgefahen AWN  -->
       <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Waldreservate_V3">
+        <Name>SZ_Waldreservate_V3</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Waldreservate_V3.ili</File>
+        <Version>2025-02-10</Version>
+        <publishingDate>2025-12-23</publishingDate>
+        <Title>kantonales Datenmodell zum Bearbeiten des Themas Waldreservate</Title>
+        <shortDescription>Dieses Modell beschreibt die Waldreservate. Es erweitert das Bundesmodell (ID 160.1) mit den kantonalen Mehranforderungen und wird bei der Datenbearbeitung verwendet</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>ADEF1F54125B6AEA616C3273EBCEC19D</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gebietseinteilung_Forst">
         <Name>SZ_Gebietseinteilung_Forst</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
