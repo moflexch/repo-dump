@@ -3165,7 +3165,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1_1">
         <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1_1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>VA/SZ_Einschraenkungen_Binnenschifffahrt_V1_1.ili</File>
+        <File>VA/replaced/SZ_Einschraenkungen_Binnenschifffahrt_V1_1.ili</File>
         <Version>2025-10-07</Version>
         <publishingDate>2025-10-09</publishingDate>
         <Title>Einschränkungen für die Binnenschifffahrt</Title>
@@ -3173,6 +3173,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>CDAF5F6A0E687BC31A202EB763474923</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Einschraenkungen_Binnenschifffahrt_V1_2">
+        <Name>SZ_Einschraenkungen_Binnenschifffahrt_V1_2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>VA/SZ_Einschraenkungen_Binnenschifffahrt_V1_2.ili</File>
+        <Version>2025-11-05</Version>
+        <publishingDate>2025-12-29</publishingDate>
+        <Title>Einschränkungen für die Binnenschifffahrt</Title>
+        <shortDescription>kantonales Modell zur Erfassung der Einschränkungen für die Binnenschifffahrt</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>BB2DEA3C208ACAE49DC80564C34B8AEF</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
