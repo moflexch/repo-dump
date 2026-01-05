@@ -79,9 +79,9 @@
         <Name>Geotope_NWOW_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
-        <Version>2025-12-22</Version>
+        <Version>2026-01-05</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-22</publishingDate>
+        <publishingDate>2026-01-05</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -95,7 +95,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>d701d324c528f010196c6dc5c694accd</md5>
+        <md5>5d6a8bede09d0960691cd095c6d428f0</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
         <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
