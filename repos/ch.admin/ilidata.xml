@@ -10048,6 +10048,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="177">
         <id>ch.admin.geo.models.OeREBKRM_V2_0_Gesetze_20220901</id>
         <version>2022-09-01</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.OeREBKRM_V2_0_Gesetze_20251209</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2022-08-30</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -10080,7 +10085,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>V_D/OeREB/OeREBKRM_V2_0_Gesetze.xml</path>
+                <path>V_D/OeREB/replaced/OeREBKRM_V2_0_Gesetze_20220901.xml</path>
                 <md5>e292a91864bae0a80e32618ceeb2ad95</md5>
               </DatasetIdx16.File>
             </file>
@@ -10147,6 +10152,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="179">
         <id>ch.admin.geo.models.OeREBKRM_V2_0_Texte_20220901</id>
         <version>2022-09-01</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.OeREBKRM_V2_0_Texte_20251209</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2022-08-30</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -10170,7 +10180,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>V_D/OeREB/OeREBKRM_V2_0_Texte.xml</path>
+                <path>V_D/OeREB/replaced/OeREBKRM_V2_0_Texte_20220901.xml</path>
                 <md5>556f164f3f34c3228e97aa121d3122a5</md5>
               </DatasetIdx16.File>
             </file>
@@ -15587,6 +15597,105 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="294">
+        <id>ch.admin.geo.models.OeREBKRM_V2_0_Texte_20251209</id>
+        <version>2025-12-09</version>
+        <publishingDate>2026-01-06</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog OeREB OeREBKRM_V2_0_Texte</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+        <furtherInformation>https://www.cadastre.ch/oereb-public</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>V_D/OeREB/OeREBKRM_V2_0_Texte.xml</path>
+                <md5>4205538ffc87d2751269df3312fcbd48</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-12-09</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>OeREBKRMkvs_V2_0.Konfiguration</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.v_d.oerebkrmkvs_konfiguration_texte</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="295">
+        <id>ch.admin.geo.models.OeREBKRM_V2_0_Gesetze_20251209</id>
+        <version>2025-12-09</version>
+        <publishingDate>2025-01-06</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog OeREB OeREBKRM_V2_0_Gesetze</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/OeREBKRMtrsfr_V2_0</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/OeREBKRMkvs_V2_0</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/OeREBKRMazg_V2_0</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+        <furtherInformation>https://www.cadastre.ch/oereb-public</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>V_D/OeREB/OeREBKRM_V2_0_Gesetze.xml</path>
+                <md5>4433259e3898b86ca719cff3c4483b9a</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-12-09</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>OeREBKRM_V2_0.Dokumente</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.v_d.oerebkrmvs_vorschriften</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
