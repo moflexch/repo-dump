@@ -59,20 +59,20 @@
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="3">
         <Name>Nutzungsplanung_NWOW_V2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Nutzungsplanung_NWOW_V2.ili</File>
         <Version>2025-01-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-11</publishingDate>
+        <publishingDate>2026-01-16</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V1</value>
+            <value>CatalogueObjects_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
           </IliRepository20.ModelName_>
           <IliRepository20.ModelName_>
             <value>Raumplanung_Basis_NWOW_V2</value>
-          </IliRepository20.ModelName_>
-          <IliRepository20.ModelName_>
-            <value>CatalogueObjects_V1</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
         <Title>Kantonales Geodatenmodell Nutzungsplanung</Title>
@@ -80,7 +80,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>85ff320b0fd5d967b0a1d3f681d30f9f</md5>
+        <md5>7e2d28610e8df447bb5dee807cdce77d</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="4">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
@@ -104,18 +104,18 @@
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
         <Name>Raumplanung_Basis_NWOW_V2</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Raumplanung_Basis_NWOW_V2.ili</File>
         <Version>2025-01-20</Version>
-        <publishingDate>2025-12-17</publishingDate>
+        <publishingDate>2026-01-16</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V1</value>
+            <value>GeometryCHLV95_V2</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>e1c4c13bd1778d0648e0f5fc210b27b4</md5>
+        <md5>aca7470e34b4db4cd9b626e8fdc08a37</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="6">
         <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
