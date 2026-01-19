@@ -1,4 +1,4 @@
-# Status at 2026-01-19 15:26
+# Status at 2026-01-19 18:52
 |Site|ilisite.xml|ilimodels.xml|ilidata.xml|
 |---|---|---|---|
 |[ch.sia](https://405.sia.ch/models/)|:white_check_mark: ([200](https://405.sia.ch/models/ilisite.xml))|:white_check_mark: ([200](https://405.sia.ch/models/ilimodels.xml))|:black_square_button: ([404](https://405.sia.ch/models/ilidata.xml))|
@@ -26,4 +26,3 @@
 |[ch.kgk-cgc](https://models.kgk-cgc.ch/)|:white_check_mark: ([200](https://models.kgk-cgc.ch/ilisite.xml))|:white_check_mark: ([200](https://models.kgk-cgc.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.kgk-cgc.ch/ilidata.xml))|
 |[ch.vsa](https://vsa.ch/models/)|:white_check_mark: ([200](https://vsa.ch/models/ilisite.xml))|:white_check_mark: ([200](https://vsa.ch/models/ilimodels.xml))|:white_check_mark: ([200](https://vsa.ch/models/ilidata.xml))|
 |[li.llv](https://models.geo.llv.li/)|:white_check_mark: ([200](https://models.geo.llv.li/ilisite.xml))|:white_check_mark: ([200](https://models.geo.llv.li/ilimodels.xml))|:black_square_button: ([404](https://models.geo.llv.li/ilidata.xml))|
-|[info.proadmintierra](https://repositorio.proadmintierra.info/)|:black_square_button: ([000](https://repositorio.proadmintierra.info/ilisite.xml))|:black_square_button: ([000](https://repositorio.proadmintierra.info/ilimodels.xml))|:black_square_button: ([000](https://repositorio.proadmintierra.info/ilidata.xml))|
