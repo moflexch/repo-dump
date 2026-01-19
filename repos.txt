@@ -31,4 +31,4 @@ https://vsa.ch/models/
 https://models.geo.llv.li/
 
 # Colombia
-https://repositorio.proadmintierra.info/
+# https://repositorio.proadmintierra.info/ - not accessible (disabled 2026-01-19)
