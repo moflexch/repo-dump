@@ -600,7 +600,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schutzbauten_Wasser_V1">
         <Name>SZ_Schutzbauten_Wasser_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_Schutzbauten_Wasser_V1.ili</File>
+        <File>AFG/replaced/SZ_Schutzbauten_Wasser_V1.ili</File>
         <Version>2020-06-08</Version>
         <publishingDate>2020-06-08</publishingDate>
         <dependsOnModel>
@@ -3011,6 +3011,23 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>9D36C5527B267B6A58DE7B3B9BF1DC71</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+	  <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Schutzbauten_Wasser_V2">
+        <Name>SZ_Schutzbauten_Wasser_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFG/SZ_Schutzbauten_Wasser_V2.ili</File>
+        <Version>2026-01-09</Version>
+        <publishingDate>2026-01-16</publishingDate>
+		<dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>Units</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Schutzbauten Naturgefahren, kantonal; Prozessbereich: Wasser</Title>
+        <shortDescription>kantonales Modell der Schutzbauten Naturgefahren auf der Grundlage des Bundesmodells; die Zuständigkeit fällt in das Amt für Gewässer (AfG); der Prozessbereich betrifft denjenigen des Wassers; die Datenerfassung erfolgt auf Stufe der Bezirke</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>4F14C1E3EEFF5016C2EA370087EF1FD8</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Wald und Naturgefahen AWN  -->

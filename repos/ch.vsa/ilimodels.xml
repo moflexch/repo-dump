@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-    <HEADERSECTION SENDER="VSA-20251205" VERSION="2.3">
+    <HEADERSECTION SENDER="VSA-20260113" VERSION="2.3">
         <MODELS>
             <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="mailto:ce@eisenhutinformatik.ch"/>
         </MODELS>
@@ -61,17 +61,6 @@
                 <technicalContact>mailto:support@infogrips.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>a202c3600274f889419391d4b5d45fba</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="30" >
-                <Name>MINIFunction</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/MINIFunction-20141029.ili</File>
-                <Version>2014-10-29</Version>
-                <NameLanguage>de</NameLanguage>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:support@infogrips.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>d04b5d805cdeb14191513d141090e201</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="35" >
                 <Name>DSS_3D_2020_LV95</Name>
@@ -244,10 +233,9 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="157" >
                 <Name>MINIFunction</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/MINIFunction-20230718.ili</File>
+                <File>2020/precursorVersion/MINIFunction-20230718.ili</File>
                 <Version>2023-07-18</Version>
                 <NameLanguage>de</NameLanguage>
-                <precursorVersion>2014-10-29</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:support@infogrips.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
@@ -1603,60 +1591,10 @@
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>35e1237bdbf469c4e4f8cc5bc347cd43</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="261" >
-                <Name>VSADSSMINI_2020_1_LV95_CHECK_FP</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/precursorVersion/VSADSSMINI_CHECK_FP_2020_1_2_d_LV95-20250612.ili</File>
-                <Version>2025-06-12</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2020_1_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>IGSFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>MINIFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Text</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>d4e62eb5d4d281e6c0c53a1cb7782a2c</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="262" >
-                <Name>VSADSSMINI_2020_LV95_CHECK_FP</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/precursorVersion/VSADSSMINI_CHECK_FP_2020_2_d_LV95-20250612.ili</File>
-                <Version>2025-06-12</Version>
-                <NameLanguage>de</NameLanguage>
-                <dependsOnModel>
-                    <IliRepository20.ModelName_>
-                        <value>VSADSSMINI_2020_LV95</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>IGSFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>MINIFunction</value>
-                    </IliRepository20.ModelName_>
-                    <IliRepository20.ModelName_>
-                        <value>Text</value>
-                    </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>http://www.vsa.ch/models</Issuer>
-                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
-                <furtherInformation>http://dss.vsa.ch</furtherInformation>
-                <md5>e0316c031acd2bf4e55dbca428794c36</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="269" >
                 <Name>VSADSSMINI_2020_1_LV95_CHECK_FP</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020_1/VSADSSMINI_CHECK_FP_2020_1_2_d_LV95-20250911.ili</File>
+                <File>2020_1/precursorVersion/VSADSSMINI_CHECK_FP_2020_1_2_d_LV95-20250911.ili</File>
                 <Version>2025-09-11</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -1676,7 +1614,6 @@
                         <value>Math</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>2025-06-12</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>https://www.vsa.ch/wiki</furtherInformation>
@@ -1685,7 +1622,7 @@
             <IliRepository20.RepositoryIndex.ModelMetadata TID="270" >
                 <Name>VSADSSMINI_2020_LV95_CHECK_FP</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>2020/VSADSSMINI_CHECK_FP_2020_2_d_LV95-20250911.ili</File>
+                <File>2020/precursorVersion/VSADSSMINI_CHECK_FP_2020_2_d_LV95-20250911.ili</File>
                 <Version>2025-09-11</Version>
                 <NameLanguage>de</NameLanguage>
                 <dependsOnModel>
@@ -1705,7 +1642,6 @@
                         <value>Math</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
-                <precursorVersion>2025-06-12</precursorVersion>
                 <Issuer>http://www.vsa.ch/models</Issuer>
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>https://www.vsa.ch/wiki</furtherInformation>
@@ -2511,6 +2447,76 @@
                 <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
                 <furtherInformation>http://dss.vsa.ch</furtherInformation>
                 <md5>779a2347215733c3fa5aec5692bc242a</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="303" >
+                <Name>MINIFunction</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/MINIFunction-20260108.ili</File>
+                <Version>2026-01-08</Version>
+                <NameLanguage>de</NameLanguage>
+                <precursorVersion>2023-07-18</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:support@infogrips.ch</technicalContact>
+                <furtherInformation>http://dss.vsa.ch</furtherInformation>
+                <md5>bb82d74eeb444c7b6127e2e3022c6292</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="304" >
+                <Name>VSADSSMINI_2020_LV95_CHECK_FP</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020/VSADSSMINI_CHECK_FP_2020_2_d_LV95-20260109.ili</File>
+                <Version>2026-01-09</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2020_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>IGSFunction</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>MINIFunction</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Text</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Math</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>2025-09-11</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>https://www.vsa.ch/wiki</furtherInformation>
+                <md5>1d3caee083e43da610dcdffae318e8e8</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="305" >
+                <Name>VSADSSMINI_2020_1_LV95_CHECK_FP</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>2020_1/VSADSSMINI_CHECK_FP_2020_1_2_d_LV95-20260109.ili</File>
+                <Version>2026-01-09</Version>
+                <NameLanguage>de</NameLanguage>
+                <dependsOnModel>
+                    <IliRepository20.ModelName_>
+                        <value>VSADSSMINI_2020_1_LV95</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>IGSFunction</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>MINIFunction</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Text</value>
+                    </IliRepository20.ModelName_>
+                    <IliRepository20.ModelName_>
+                        <value>Math</value>
+                    </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <precursorVersion>2025-09-11</precursorVersion>
+                <Issuer>http://www.vsa.ch/models</Issuer>
+                <technicalContact>mailto:stefan.burckhardt@sjib.ch</technicalContact>
+                <furtherInformation>https://www.vsa.ch/wiki</furtherInformation>
+                <md5>625a5d52b98aa9a26e5e2ac769fd392d</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
         </IliRepository20.RepositoryIndex>
     </DATASECTION>
