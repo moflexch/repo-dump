@@ -8,69 +8,6 @@
   <DATASECTION>
     <IliRepository20.RepositoryIndex BID="b1">
       <IliRepository20.RepositoryIndex.ModelMetadata TID="0">
-        <Name>Raumplanung_Basis_NWOW_V2</Name>
-        <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Raumplanung/Raumplanung_Basis_NWOW_V2.ili</File>
-        <Version>2025-01-20</Version>
-        <publishingDate>2026-01-20</publishingDate>
-        <dependsOnModel>
-          <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V2</value>
-          </IliRepository20.ModelName_>
-        </dependsOnModel>
-        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
-        <browseOnly>false</browseOnly>
-        <md5>5a60d02bc190703530dd1bf632762599</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="1">
-        <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
-        <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>Gewaesser/PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1.ili</File>
-        <Version>2024-04-30</Version>
-        <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-13</publishingDate>
-        <dependsOnModel>
-          <IliRepository20.ModelName_>
-            <value>PlanerischerGewaesserschutz_V1_2</value>
-          </IliRepository20.ModelName_>
-        </dependsOnModel>
-        <Title>Minimales Geobasisdatenmodell mit kantonaler Erweiterung Planerischer Gewaesserschutz</Title>
-        <Tags>130.1,131.1,132.1</Tags>
-        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
-        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
-        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
-        <browseOnly>false</browseOnly>
-        <md5>8c92217cfe4550afa68ca2294d23484f</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="2">
-        <Name>Admin_NWOW_V1</Name>
-        <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Administration/admin_nwow_v1.ili</File>
-        <Version>2025-12-22</Version>
-        <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-22</publishingDate>
-        <Issuer>http://models.gis-daten.ch/nw-ow/Administration/</Issuer>
-        <browseOnly>false</browseOnly>
-        <md5>4e7526eb03c3a9ac178052c560fca512</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="3">
-        <Name>Pflanzenschutzgebiete_NW_V1_0</Name>
-        <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Natur_Landschaftsschutz/Pflanzenschutzgebiete_NW_V1_0.ili</File>
-        <Version>2025-12-19</Version>
-        <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-19</publishingDate>
-        <dependsOnModel>
-          <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V2</value>
-          </IliRepository20.ModelName_>
-        </dependsOnModel>
-        <Tags>31-NW</Tags>
-        <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
-        <browseOnly>false</browseOnly>
-        <md5>ffa8c53d87521ea6f6396de8614e4e53</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="4">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>Raumplanung/Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0.ili</File>
@@ -90,27 +27,135 @@
         <browseOnly>false</browseOnly>
         <md5>cfbbdbe8c4d35f9ae0cef31810c46b5b</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
-        <Name>Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0</Name>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="1">
+        <Name>Admin_NWOW_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Administration/admin_nwow_v1.ili</File>
+        <Version>2025-12-22</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2025-12-22</publishingDate>
+        <Issuer>http://models.gis-daten.ch/nw-ow/Administration/</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>4e7526eb03c3a9ac178052c560fca512</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="2">
+        <Name>Raumplanung_Basis_NWOW_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Raumplanung/Raumplanung_Basis_NWOW_V2.ili</File>
+        <Version>2025-01-20</Version>
+        <publishingDate>2026-01-20</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>5a60d02bc190703530dd1bf632762599</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="3">
+        <Name>Wasserrechtsverzeichnis_NWOW_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Gewaesser/Wasserrechtsverzeichnis_NWOW_V1.ili</File>
+        <Version>2025-08-19</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2025-12-11</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>CatalogueObjects_V2</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Issuer>http://models.gis-daten.ch/nw-ow/Gewaesser</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>0fdfd3dc943aea9a7870fb991897514d</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="4">
+        <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>Raumplanung/Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0.ili</File>
-        <Version>2025-10-14</Version>
+        <File>Gewaesser/PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1.ili</File>
+        <Version>2024-04-30</Version>
         <NameLanguage>de</NameLanguage>
         <publishingDate>2026-01-13</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V1</value>
+            <value>PlanerischerGewaesserschutz_V1_2</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
-        <Title>Minimales Geobasisdatenmodell mit kantonaler Erweiterung Richtpläne der Kantone</Title>
-        <Tags>69.1</Tags>
+        <Title>Minimales Geobasisdatenmodell mit kantonaler Erweiterung Planerischer Gewaesserschutz</Title>
+        <Tags>130.1,131.1,132.1</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
-        <technicalContact>mailto:info@are.admin.ch</technicalContact>
-        <furtherInformation>https://www.are.admin.ch/mgm</furtherInformation>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>9e4fba3b3ba688b6bacbaf276f235a57</md5>
+        <md5>8c92217cfe4550afa68ca2294d23484f</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
+        <Name>Wasserrechtsverzeichnis_NWOW_V1_intern</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Gewaesser/Wasserrechtsverzeichnis_NWOW_V1_intern.ili</File>
+        <Version>2025-08-19</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2025-12-09</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>CatalogueObjects_V2</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Issuer>http://models.gis-daten.ch/NAT_LAND_UMWE</Issuer>
+        <browseOnly>false</browseOnly>
+        <md5>b9f388704906da21dbf1cb0b219e7e4e</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="6">
+        <Name>Kulturdenkmaeler_OW_V1_0</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Bevoelkerung_Gesellschaft_Kultur/Kulturdenkmaeler_OW_V1_0.ili</File>
+        <Version>2026-01-20</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2026-01-20</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>Admin_NWOW_V1</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Kantonales Geobasisdatenmodell Geschützte Kulturobjekte nationaler, regionaler und lokaler Bedeutung</Title>
+        <Tags>20-OW</Tags>
+        <Issuer>https://models.gis-daten.ch/RAUM_VERK_BAU/</Issuer>
+        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
+        <browseOnly>false</browseOnly>
+        <md5>da6cb1145b4d34766946369d0815cd64</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
+        <Name>Geotope_NWOW_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
+        <Version>2026-01-05</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2026-01-05</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>Admin_NWOW_V1</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Kantonales Geodatenmodell Geotope</Title>
+        <Tags>1-GIS</Tags>
+        <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
+        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
+        <browseOnly>false</browseOnly>
+        <md5>5d6a8bede09d0960691cd095c6d428f0</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="8">
         <Name>Nutzungsplanung_NWOW_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Nutzungsplanung_NWOW_V2.ili</File>
@@ -135,87 +180,42 @@
         <browseOnly>false</browseOnly>
         <md5>fe65fae31d6180e4a5cbedc3707cb43e</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
-        <Name>Kulturdenkmaeler_OW_V1_0</Name>
-        <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Bevoelkerung_Gesellschaft_Kultur/Kulturdenkmaeler_OW_V1_0.ili</File>
-        <Version>2026-01-20</Version>
-        <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-20</publishingDate>
-        <dependsOnModel>
-          <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V2</value>
-          </IliRepository20.ModelName_>
-          <IliRepository20.ModelName_>
-            <value>Admin_NWOW_V1</value>
-          </IliRepository20.ModelName_>
-        </dependsOnModel>
-        <Title>Kantonales Geobasisdatenmodell Geschützte Kulturobjekte nationaler, regionaler und lokaler Bedeutung</Title>
-        <Tags>20-OW</Tags>
-        <Issuer>https://models.gis-daten.ch/RAUM_VERK_BAU/</Issuer>
-        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
-        <browseOnly>false</browseOnly>
-        <md5>29c5f0060147c4107a2e358aa392f4a3</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="8">
-        <Name>Wasserrechtsverzeichnis_NWOW_V1</Name>
-        <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Gewaesser/Wasserrechtsverzeichnis_NWOW_V1.ili</File>
-        <Version>2025-08-19</Version>
-        <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-11</publishingDate>
-        <dependsOnModel>
-          <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V2</value>
-          </IliRepository20.ModelName_>
-          <IliRepository20.ModelName_>
-            <value>CatalogueObjects_V2</value>
-          </IliRepository20.ModelName_>
-        </dependsOnModel>
-        <Issuer>http://models.gis-daten.ch/nw-ow/Gewaesser</Issuer>
-        <browseOnly>false</browseOnly>
-        <md5>0fdfd3dc943aea9a7870fb991897514d</md5>
-      </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="9">
-        <Name>Wasserrechtsverzeichnis_NWOW_V1_intern</Name>
-        <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Gewaesser/Wasserrechtsverzeichnis_NWOW_V1_intern.ili</File>
-        <Version>2025-08-19</Version>
+        <Name>Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>Raumplanung/Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0.ili</File>
+        <Version>2025-10-14</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2025-12-09</publishingDate>
+        <publishingDate>2026-01-13</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
-            <value>GeometryCHLV95_V2</value>
-          </IliRepository20.ModelName_>
-          <IliRepository20.ModelName_>
-            <value>CatalogueObjects_V2</value>
+            <value>GeometryCHLV95_V1</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
-        <Issuer>http://models.gis-daten.ch/NAT_LAND_UMWE</Issuer>
+        <Title>Minimales Geobasisdatenmodell mit kantonaler Erweiterung Richtpläne der Kantone</Title>
+        <Tags>69.1</Tags>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <technicalContact>mailto:info@are.admin.ch</technicalContact>
+        <furtherInformation>https://www.are.admin.ch/mgm</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>b9f388704906da21dbf1cb0b219e7e4e</md5>
+        <md5>9e4fba3b3ba688b6bacbaf276f235a57</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="10">
-        <Name>Geotope_NWOW_V1</Name>
+        <Name>Pflanzenschutzgebiete_NW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
-        <Version>2026-01-05</Version>
+        <File>Natur_Landschaftsschutz/Pflanzenschutzgebiete_NW_V1_0.ili</File>
+        <Version>2025-12-19</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-05</publishingDate>
+        <publishingDate>2025-12-19</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
           </IliRepository20.ModelName_>
-          <IliRepository20.ModelName_>
-            <value>Admin_NWOW_V1</value>
-          </IliRepository20.ModelName_>
         </dependsOnModel>
-        <Title>Kantonales Geodatenmodell Geotope</Title>
-        <Tags>1-GIS</Tags>
+        <Tags>31-NW</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
-        <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>5d6a8bede09d0960691cd095c6d428f0</md5>
+        <md5>ffa8c53d87521ea6f6396de8614e4e53</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
