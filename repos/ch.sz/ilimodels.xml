@@ -2877,6 +2877,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>E2084AD159F89DB5EB8F85676E161A11</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grundwasservorkommen_V1">
+        <Name>SZ_Grundwasservorkommen_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFU/SZ_Grundwasservorkommen_V1.ili</File>
+        <Version>2025-12-09</Version>
+        <publishingDate>2026-01-21</publishingDate>
+        <Title>Grundwasservorkommen</Title>
+        <shortDescription>Dieses Modell erweitert das gleichnamige Bundesmodell mit kantonalen Mehranforderungen</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>68B5861701DB247E163ECD04CA8A1687</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Gewässer AFG               -->
       <!--==================================================-->

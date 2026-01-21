@@ -21006,7 +21006,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008085">
       <Name>EinschraenkungenBinnenschifffahrt_Kataloge_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/EinschraenkungenBinnenschifffahrt_V1.ili</File>
+      <File>BAV/replaced/EinschraenkungenBinnenschifffahrt_V1.ili</File>
       <Version>2020-02-26</Version>
       <publishingDate>2020-03-16</publishingDate>
       <dependsOnModel>
@@ -21075,7 +21075,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008088">
       <Name>RestrictionsNavigationInterieure_Catalogues_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/RestrictionsNavigationInterieure_V1.ili</File>
+      <File>BAV/replaced/RestrictionsNavigationInterieure_V1.ili</File>
       <Version>2020-02-26</Version>
       <publishingDate>2020-03-16</publishingDate>
       <dependsOnModel>
@@ -21469,7 +21469,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008103">
       <Name>EinschraenkungenBinnenschifffahrt_LV95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/EinschraenkungenBinnenschifffahrt_V1.ili</File>
+      <File>BAV/replaced/EinschraenkungenBinnenschifffahrt_V1.ili</File>
       <Version>2022-07-26</Version>
       <publishingDate>2022-07-26</publishingDate>
       <dependsOnModel>
@@ -21494,7 +21494,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008104">
       <Name>EinschraenkungenBinnenschifffahrt_LV03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/EinschraenkungenBinnenschifffahrt_V1.ili</File>
+      <File>BAV/replaced/EinschraenkungenBinnenschifffahrt_V1.ili</File>
       <Version>2022-07-26</Version>
       <publishingDate>2022-07-26</publishingDate>
       <dependsOnModel>
@@ -21519,7 +21519,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008105">
       <Name>RestrictionsNavigationInterieure_MN95_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/RestrictionsNavigationInterieure_V1.ili</File>
+      <File>BAV/replaced/RestrictionsNavigationInterieure_V1.ili</File>
       <Version>2022-07-26</Version>
       <publishingDate>2022-07-26</publishingDate>
       <dependsOnModel>
@@ -21547,7 +21547,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="008106">
       <Name>RestrictionsNavigationInterieure_MN03_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAV/RestrictionsNavigationInterieure_V1.ili</File>
+      <File>BAV/replaced/RestrictionsNavigationInterieure_V1.ili</File>
       <Version>2022-07-26</Version>
       <publishingDate>2022-07-26</publishingDate>
       <dependsOnModel>
@@ -21825,6 +21825,102 @@
       <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
       <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-generaux/themes-specialises/geoinformation/geodonnees-de-base/installations-a-cables-a-concession-federale.html</furtherInformation>
       <md5>08ed05976a17dea8fae06748f84ac3d5</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008117">
+      <Name>EinschraenkungenBinnenschifffahrt_Kataloge_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/EinschraenkungenBinnenschifffahrt_V1_1.ili</File>
+      <Version>2025-10-13</Version>
+      <publishingDate>2026-01-21</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>100.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/einschraenkungen_binnenschifffahrt.html</furtherInformation>
+      <md5>ae153076ac377b7a3c78e0d61f84c73e</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008118">
+      <Name>EinschraenkungenBinnenschifffahrt_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/EinschraenkungenBinnenschifffahrt_V1_1.ili</File>
+      <Version>2025-10-13</Version>
+      <publishingDate>2026-01-21</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>EinschraenkungenBinnenschifffahrt_Kataloge_V1_1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>100.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/einschraenkungen_binnenschifffahrt.html</furtherInformation>
+      <md5>ae153076ac377b7a3c78e0d61f84c73e</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008119">
+      <Name>RestrictionsNavigationInterieure_Catalogues_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/RestrictionsNavigationInterieure_V1_1.ili</File>
+      <Version>2025-10-13</Version>
+      <publishingDate>2026-01-21</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>EinschraenkungenBinnenschifffahrt_Kataloge_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>100.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-generaux/themes-specialises/geoinformation/geodonnees-de-base/restrictions-navigation-interieure.html</furtherInformation>
+      <md5>98610b26965f424713d8289b036315b2</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="008120">
+      <Name>RestrictionsNavigationInterieure_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAV/RestrictionsNavigationInterieure_V1_1.ili</File>
+      <Version>2025-10-13</Version>
+      <publishingDate>2026-01-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>EinschraenkungenBinnenschifffahrt_V1_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>RestrictionsNavigationInterieure_Catalogues_V1_1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>100.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BAV/</Issuer>
+      <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+      <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/einschraenkungen_binnenschifffahrt.html</furtherInformation>
+      <md5>98610b26965f424713d8289b036315b2</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->

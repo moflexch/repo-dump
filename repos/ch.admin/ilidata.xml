@@ -2979,6 +2979,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="48">
         <id>ch.admin.geo.models.EinschraenkungenBinnenschifffahrt_V1</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.EinschraenkungenBinnenschifffahrt_V1_1</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2020-03-16</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -3011,7 +3016,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAV/EinschraenkungenBinnenschifffahrt_V1.xml</path>
+                <path>BAV/replaced/EinschraenkungenBinnenschifffahrt_V1.xml</path>
                 <md5>d9a00551b14057fc1f10f279ec8bc834</md5>
               </DatasetIdx16.File>
             </file>
@@ -6114,6 +6119,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="102">
         <id>ch.admin.geo.models.RestrictionsNavigationInterieure_V1</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.RestrictionsNavigationInterieure_V1_1</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2020-03-16</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -6143,7 +6153,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAV/RestrictionsNavigationInterieure_V1.xml</path>
+                <path>BAV/replaced/RestrictionsNavigationInterieure_V1.xml</path>
                 <md5>3467b7bedcd16b9932e1b3474f147d55</md5>
               </DatasetIdx16.File>
             </file>
@@ -15696,6 +15706,114 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.v_d.oerebkrmvs_vorschriften</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="296">
+        <id>ch.admin.geo.models.EinschraenkungenBinnenschifffahrt_V1_1</id>
+        <version>2025-10-13</version>
+        <publishingDate>2026-01-21</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAV EinschraenkungenBinnenschifffahrt_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/EinschraenkungenBinnenschifffahrt_Kataloge_V1_1</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/EinschraenkungenBinnenschifffahrt_V1_1</value>
+          </DatasetIdx16.Code_>
+       </categories>
+        <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+        <furtherInformation>https://www.bav.admin.ch/bav/de/home/allgemeine-themen/fachthemen/geoinformation/geobasisdaten/einschraenkungen_binnenschifffahrt.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAV/EinschraenkungenBinnenschifffahrt_V1_1.xml</path>
+                <md5>6c4cf82a45add3206efb7b0c78ecfe6a</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-10-13</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>EinschraenkungenBinnenschifffahrt_Kataloge_V1_1.Kataloge</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="297">
+        <id>ch.admin.geo.models.RestrictionsNavigationInterieure_V1_1</id>
+        <version>2025-10-13</version>
+        <publishingDate>2026-01-21</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAV RestrictionsNavigationInterieure_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/RestrictionsNavigationInterieure_V1_1</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/RestrictionsNavigationInterieure_Catalogues_V1_1</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/EinschraenkungenBinnenschifffahrt_Kataloge_V1_1</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/EinschraenkungenBinnenschifffahrt_V1_1</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bav.admin.ch</technicalContact>
+        <furtherInformation>https://www.bav.admin.ch/bav/fr/home/themes-generaux/themes-specialises/geoinformation/geodonnees-de-base/restrictions-navigation-interieure.html</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAV/RestrictionsNavigationInterieure_V1_1.xml</path>
+                <md5>e8fbddd9374e6507cd60be02698277eb</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-10-13</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>RestrictionsNavigationInterieure_Catalogues_V1_1.Catalogues</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b1</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
