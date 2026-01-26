@@ -914,7 +914,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Schutzbauten_AWN_V1_1_Erfassung">
         <Name>SZ_Schutzbauten_AWN_V1_1_Erfassung</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWN/SZ_Schutzbauten_AWN_V1_1_Erfassung.ili</File>
+        <File>AWN/replaced/SZ_Schutzbauten_AWN_V1_1_Erfassung.ili</File>
         <Version>2020-06-22</Version>
         <publishingDate>2020-08-06</publishingDate>
         <dependsOnModel>
@@ -3115,6 +3115,23 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>F9E8608D88851C4D347202FD6F991A13</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Schutzbauten_ohne_Wasser_V2">
+        <Name>SZ_Schutzbauten_ohne_Wasser_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Schutzbauten_ohne_Wasser_V2.ili</File>
+        <Version>2026-01-09</Version>
+        <publishingDate>2026-01-26</publishingDate>
+		<dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>Units</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Schutzbauten Naturgefahren; kantonal, ohne Prozessbereich Wasser</Title>
+        <shortDescription>kantonales Modell der Schutzbauten Naturgefahren auf der Grundlage des Bundesmodells; Zuständigkeit: Amt für Wald und Natur (AWN)</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>6ADD2A23F65E183232891DDE0E4A04A6</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Mittel- und Hochschulen AMH-->
