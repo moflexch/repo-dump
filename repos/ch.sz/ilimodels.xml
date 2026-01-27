@@ -1672,7 +1672,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_TWVinNotlagen_20180913">
         <Name>SZ_TWVinNotlagen_20180913</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_TWVinNotlagen_2018-09-13.ili</File>
+        <File>AFU/replaced/SZ_TWVinNotlagen_2018-09-13.ili</File>
         <Version>2018-09-13</Version>
         <publishingDate>2018-09-13</publishingDate>
         <dependsOnModel>
@@ -1689,7 +1689,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_TWVinNotlagen_20180307">
         <Name>SZ_TWVinNotlagen_20180307</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFU/SZ_TWVinNotlagen_2018-03-07.ili</File>
+        <File>AFU/replaced/SZ_TWVinNotlagen_2018-03-07.ili</File>
         <Version>2018-03-07</Version>
         <publishingDate>2018-04-04</publishingDate>
         <dependsOnModel>
@@ -1702,6 +1702,23 @@
         <Issuer>http://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>E44261199BEC6CCFDE8BCBABAD12E867</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Wasserversorgungsatlas_V1">
+        <Name>SZ_Wasserversorgungsatlas_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AFU/SZ_Wasserversorgungsatlas_V1.ili</File>
+        <Version>2020-11-25</Version>
+        <publishingDate>2018-04-04</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Wasserversorgunsatlas</Title>
+        <shortDescription>Dieses Modell beinhaltet die für den Wasserversorgunsatlas notwendigen Klassen aus den MGDM Grundwasseraustritte, -fassungen und -anreicherungsanlagen, und Inventar Trinkwasserversorgung in Notlagen. Die Klassen wurden teilweise kantonal erweitert</shortDescription>
+        <Issuer>http://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>1210E6F99D3B8619871ACE92C51F662D</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Grundwasseraustritte_20180913">
         <Name>SZ_Grundwasseraustritte_20180913</Name>
