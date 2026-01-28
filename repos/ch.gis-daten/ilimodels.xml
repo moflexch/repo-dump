@@ -44,9 +44,9 @@
         <Name>Waldabstandslinien_NWOW_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Waldabstandslinien_NWOW_V2.ili</File>
-        <Version>2025-01-20</Version>
+        <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-26</publishingDate>
+        <publishingDate>2026-01-28</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -60,7 +60,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>f24a79639f9fe6a092d51246438fb879</md5>
+        <md5>26ce750ec14bbceb3e665566603637b0</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="3">
         <Name>Richtplaene_MGDM_V1_Kantonal_NW_V1_0</Name>
@@ -82,6 +82,28 @@
         <md5>32cc29991257faa5577ed0e6dd140e2c</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="4">
+        <Name>Waldgrenzen_NWOW_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>Raumplanung/Waldgrenzen_NWOW_V2.ili</File>
+        <Version>2026-02-20</Version>
+        <NameLanguage>de</NameLanguage>
+        <publishingDate>2026-01-28</publishingDate>
+        <dependsOnModel>
+          <IliRepository20.ModelName_>
+            <value>GeometryCHLV95_V2</value>
+          </IliRepository20.ModelName_>
+          <IliRepository20.ModelName_>
+            <value>Raumplanung_Basis_NWOW_V2</value>
+          </IliRepository20.ModelName_>
+        </dependsOnModel>
+        <Title>Kantonales Geodatenmodell Walgrenzen</Title>
+        <Tags>157</Tags>
+        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
+        <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
+        <browseOnly>false</browseOnly>
+        <md5>69bd3028b9e1690df947ee742371e83f</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
         <Name>Admin_NWOW_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Administration/admin_nwow_v1.ili</File>
@@ -92,13 +114,13 @@
         <browseOnly>false</browseOnly>
         <md5>4e7526eb03c3a9ac178052c560fca512</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="6">
         <Name>Nutzungsplanung_NWOW_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Nutzungsplanung_NWOW_V2.ili</File>
-        <Version>2025-01-20</Version>
+        <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-26</publishingDate>
+        <publishingDate>2026-01-28</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -112,9 +134,9 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>8c47c4f1cc6450e58f744bff4065714b</md5>
+        <md5>2404656f0171f171334f246ffa314cfc</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="6">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
         <Name>Geotope_NWOW_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
@@ -136,7 +158,7 @@
         <browseOnly>false</browseOnly>
         <md5>5d6a8bede09d0960691cd095c6d428f0</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="8">
         <Name>Kulturdenkmaeler_OW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Bevoelkerung_Gesellschaft_Kultur/Kulturdenkmaeler_OW_V1_0.ili</File>
@@ -158,7 +180,7 @@
         <browseOnly>false</browseOnly>
         <md5>85181ba37f1c7df1ab2e72c993bf85d6</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="8">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="9">
         <Name>Wasserrechtsverzeichnis_NWOW_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Gewaesser/Wasserrechtsverzeichnis_NWOW_V1.ili</File>
@@ -177,7 +199,7 @@
         <browseOnly>false</browseOnly>
         <md5>0fdfd3dc943aea9a7870fb991897514d</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="9">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="10">
         <Name>Artenschutz_OW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Natur_Landschaftsschutz/Artenschutz_OW_V1_0.ili</File>
@@ -197,7 +219,7 @@
         <browseOnly>false</browseOnly>
         <md5>27960f2b3c399be8ef5f0e8405d8463f</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="10">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="11">
         <Name>Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>Raumplanung/Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0.ili</File>
@@ -217,13 +239,13 @@
         <browseOnly>false</browseOnly>
         <md5>4b656bd6ee5719e09b83e72ad8a35e03</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="11">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="12">
         <Name>Laermempfindlichkeitsstufen_NWOW_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Laermempfindlichkeitsstufen_NWOW_V2.ili</File>
-        <Version>2025-01-20</Version>
+        <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-26</publishingDate>
+        <publishingDate>2026-01-28</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -237,9 +259,9 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>8d9dd9aaf552503a1a5c1508f771528b</md5>
+        <md5>8cfa083b6cb41551b9236610d348ccb8</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="12">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="13">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>Raumplanung/Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0.ili</File>
@@ -259,7 +281,7 @@
         <browseOnly>false</browseOnly>
         <md5>cfbbdbe8c4d35f9ae0cef31810c46b5b</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="13">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="14">
         <Name>Raumplanung_Basis_NWOW_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Raumplanung_Basis_NWOW_V2.ili</File>
@@ -274,7 +296,7 @@
         <browseOnly>false</browseOnly>
         <md5>f6c089272d4ee62602cffad776358d76</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="14">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="15">
         <Name>PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>Gewaesser/PlanerischerGewaesserschutz_MGDM_V1_2_NWOW_V1.ili</File>
@@ -294,7 +316,7 @@
         <browseOnly>false</browseOnly>
         <md5>8c92217cfe4550afa68ca2294d23484f</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
-      <IliRepository20.RepositoryIndex.ModelMetadata TID="15">
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="16">
         <Name>Wasserrechtsverzeichnis_NWOW_V1_intern</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Gewaesser/Wasserrechtsverzeichnis_NWOW_V1_intern.ili</File>
