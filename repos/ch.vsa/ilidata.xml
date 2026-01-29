@@ -9,7 +9,7 @@
     <DatasetIdx16.DataIndex BID="b1">
       <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
         <id>vsa_organisationen</id>
-        <version>2026-01-07</version>
+        <version>2026-01-28</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -43,7 +43,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>organisation/vsa_organisationen.xtf</path>
-                <md5>2a6a6282d43f38cc0f1561819f3e061e</md5>
+                <md5>0402adee2ed14016e71d692ade232a66</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
@@ -64,7 +64,7 @@
 <!-- neu 30.10.2023 MinorChange 2020.1-->
       <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
         <id>vsa_organisationen_2020_1</id>
-        <version>2026-01-07</version>
+        <version>2026-01-28</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -98,7 +98,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>organisation/vsa_organisationen_2020_1.xtf</path>
-                <md5>ef6faecea7d737be5958779886819ceb</md5>
+                <md5>cceb3f60616220a3e6e50faaed6eec43</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
