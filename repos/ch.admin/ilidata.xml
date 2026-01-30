@@ -12175,7 +12175,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NoisePollutionRegisterForMilitaryShootingRanges_Codelists_V1_1.xml</path>
+                <path>BAFU/replaced/NoisePollutionRegisterForMilitaryShootingRanges_Codelists_V1_1.xml</path>
                 <md5>db8c992388776eb77a6fb337b7bfb5f0</md5>
               </DatasetIdx16.File>
             </file>
@@ -13233,7 +13233,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Revitalisierung_Fliessgewaesser_Catalogues_V1_2.xml</path>
+                <path>obsolete/Revitalisierung_Fliessgewaesser_Catalogues_V1_2_o2.xml</path>
                 <md5>9926b6e3f1d960428fb797ae77044b81</md5>
               </DatasetIdx16.File>
             </file>
@@ -15814,6 +15814,99 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b1</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="298">
+        <id>ch.admin.geo.models.Revitalisierung_Fliessgewaesser_Catalogues_V1_2_20260129</id>
+        <version>2024-01-11</version>
+        <publishingDate>2026-01-30</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Revitalisierung_Fliessgewaesser_Catalogues_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Revitalisierung_Fliessgewaesser_Catalogues_V1_2.xml</path>
+                <md5>4c59a86ba2b4b590fe6ac8d37cdd358d</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2024-01-11</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Revitalisierung_Fliessgewaesser_V1_2.Catalogs</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.revitalisierung_fliessgewaesser_catalogues_V1_2</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="299">
+        <id>ch.admin.geo.models.NoisePollutionRegisterForMilitaryShootingRanges_Codelisten_V1_2_20251204</id>
+        <version>2025-12-04</version>
+        <publishingDate>2026-01-30</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NoisePollutionRegisterForMilitaryShootingRanges_Codelisten_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/model/NoisePollutionRegisterForMilitaryShootingRanges_V1_2</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.4</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NoisePollutionRegisterForMilitaryShootingRanges_Codelisten_V1_2.xml</path>
+                <md5>09f52756798cef8a1592bd86a58ed2f4</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-12-04</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NoisePollutionRegisterForMilitaryShootingRanges_Codelists_V1_2.codelists</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.NoisePollutionRegisterForMilitaryShootingRanges_Codelisten_V1_2_20251204</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
