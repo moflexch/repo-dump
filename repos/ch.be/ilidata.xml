@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+	<HEADERSECTION SENDER="BE"
+	               VERSION="2.3">
+		<MODELS>
+			<MODEL NAME="DatasetIdx16"
+			       VERSION="2018-11-21"
+			       URI="mailto:ce@eisenhutinformatik.ch"/>
+		</MODELS>
+	</HEADERSECTION>
+	<DATASECTION>
+		<DatasetIdx16.DataIndex BID="b1">
+			<DatasetIdx16.DataIndex.DatasetMetadata TID="1">
+				<id>gwp-be_organisationen</id>
+				<version>2025-12-11</version>
+				<owner>mailto:reseau.awa@be.ch</owner>
+				<title>
+					<DatasetIdx16.MultilingualText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedText>
+								<Text>Datensatz der Organisationen zum Datenmodell 13-BE</Text>
+							</DatasetIdx16.LocalisedText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualText>
+				</title>
+				<shortDescription>
+					<DatasetIdx16.MultilingualMText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedMText>
+								<Language>de</Language>
+								<Text>Mit rund 340 öffentlichen Wasserversorgungen ist die Versorgung sehr kleinräumig strukturiert. Die planerische Herausforderung besteht darin, Wasserversorgungen zu restrukturieren, Anlagen auf einem hohen technischen Stand zu halten und die öffentliche Wasserversorgung langfristig qualitativ und quantitativ zu gewährleisten. Das Amt für Wasser und Abfall (AWA) führt gemeinsam mit den betroffenen Wasserversorgungen die Planungsarbeiten auf regionaler Ebene durch. Mit der geplanten Einführung der Informationsplattform Wasser (IPW) werden die digitalen Datenlieferungen gemäss GWP-Datenmodell 13-BE standardisiert.</Text>
+							</DatasetIdx16.LocalisedMText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualMText>
+				</shortDescription>
+				<categories>
+					<DatasetIdx16.Code_>
+						<value>http://codes.interlis.ch/type/referenceData</value>
+					</DatasetIdx16.Code_>
+				</categories>
+				<files>
+					<DatasetIdx16.DataFile>
+						<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+						<file>
+							<DatasetIdx16.File>
+								<path>Bevoelkerung_und_Wirtschaft/Versorgung_Entsorgung_Kommunikation/gwp-be_organisationen.xtf</path>
+								<md5>c11c7e5098ce6aca65b60a0f53041e22</md5>
+							</DatasetIdx16.File>
+						</file>
+					</DatasetIdx16.DataFile>
+				</files>
+				<baskets>
+					<DatasetIdx16.DataIndex.BasketMetadata>
+						<version>1</version>
+						<model>
+							<DatasetIdx16.ModelLink>
+								<name>IPW_GWP_Basis.GWP_Administration</name>
+							</DatasetIdx16.ModelLink>
+						</model>
+						<owner>mailto:reseau.awa@be.ch</owner>
+						<localId>ch23sag5orgbaskt</localId>
+					</DatasetIdx16.DataIndex.BasketMetadata>
+				</baskets>
+			</DatasetIdx16.DataIndex.DatasetMetadata>
+		</DatasetIdx16.DataIndex>
+	</DATASECTION>
+</TRANSFER>
