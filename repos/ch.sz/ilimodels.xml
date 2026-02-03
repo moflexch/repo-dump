@@ -3139,7 +3139,7 @@
         <File>AWN/SZ_Schutzbauten_ohne_Wasser_V2.ili</File>
         <Version>2026-01-09</Version>
         <publishingDate>2026-01-26</publishingDate>
-		<dependsOnModel>
+        <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>Units</value>
           </IliRepository20.ModelName_>
@@ -3149,6 +3149,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>6ADD2A23F65E183232891DDE0E4A04A6</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Ueberwachungsinventar_Naturgefahrenprozesse_V2">
+        <Name>SZ_Ueberwachungsinventar_Naturgefahrenprozesse_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Ueberwachungsinventar_Naturgefahrenprozesse_V2.ili</File>
+        <Version>2025-11-20</Version>
+        <publishingDate>2026-02-03</publishingDate>
+        <Title>Überwachungsinventar für Naturgefahrenprozesse</Title>
+        <shortDescription>Dieses Modell beschreibt die Standorte von Überwachungsobjekten für Naturgefahrenprozesse</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>96E439D267DCF5D622B2A2DEE793EEAB</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Mittel- und Hochschulen AMH-->
