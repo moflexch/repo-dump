@@ -2,8 +2,8 @@
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
 	<HEADERSECTION SENDER="GEOVD" VERSION="2.3">
 		<MODELS>
-			<MODEL NAME="IliRepository09" VERSION="2024-01-01" URI="http://models.interlis.vd.ch/repository09"/>
-			<MODEL NAME="IliRepository20" VERSION="2024-09-26" URI="http://models.interlis.vd.ch/repository20"/>
+			<MODEL NAME="IliRepository09" VERSION="2024-01-01" URI="http://evd.vd.ch/geo/repository09"/>
+			<MODEL NAME="IliRepository20" VERSION="2024-09-26" URI="http://evd.vd.ch/geo/repository20"/>
 		</MODELS>
 	</HEADERSECTION>
 	<DATASECTION>
@@ -15,7 +15,6 @@
 				<File>DGTL/md01movddmn95v24.ili</File>
 				<Version>24.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-16</publishingDate>
 				<Original/>
 				<precursorVersion/>
@@ -36,7 +35,6 @@
 				<File>DGF/CH7.1_Immeubles_V11.0.0.ili</File>
 				<Version>11.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -59,7 +57,6 @@
 				<File>DGF/CH8.1_AutresDonnees_V11.0.0.ili</File>
 				<Version>11.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -82,7 +79,6 @@
 				<File>DGMR/CH14.1_ComptageRoutier_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-11-12</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -105,7 +101,6 @@
 				<File>DGIP/CH17.1_VoiesHistoriques_V2.1.0.ili</File>
 				<Version>2.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-02</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -128,7 +123,6 @@
 				<File>DGE/CH23A.1_BiotopesRegionauxSurface_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -151,7 +145,6 @@
 				<File>DGE/CH23A.2_BiotopesRegionauxLigne_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -174,7 +167,6 @@
 				<File>DGE/CH23A.3_BiotopesRegionauxPoint_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -197,7 +189,6 @@
 				<File>DGE/CH23B.1_BiotopesLocauxSurface_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -220,7 +211,6 @@
 				<File>DGE/CH26.1_ZonesAlluviales_V1.6.0.ili</File>
 				<Version>1.6.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -243,7 +233,6 @@
 				<File>DGE/CH27.1_HautsMarais_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-08-30</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -266,7 +255,6 @@
 				<File>DGE/CH28.1_BasMarais_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -289,7 +277,6 @@
 				<File>DGE/CH29.1_SitesReproductionBatraciensFixe_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -312,7 +299,6 @@
 				<File>DGE/CH29.2_SitesReproductionBatraciensItinerant_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -335,7 +321,6 @@
 				<File>SPEI/CH66.1_InventaireApprovisionnementEauPotablePenurieGrave_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-02-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -358,7 +343,6 @@
 				<File>DGMR/CH67.1_VoiesCyclables_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-02</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -381,7 +365,6 @@
 				<File>DGTL/CH68.1_SurfacesAssolement_V1.0.1.ili</File>
 				<Version>1.0.1</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -404,7 +387,6 @@
 				<File>DGTL/CH69.1_PlansDirecteursCantons_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -427,7 +409,6 @@
 				<File>DGTL/CH73.1_PlansAffectationCantonaux_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-13</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -450,7 +431,6 @@
 				<File>DGTL/CH73.2_PlansAffectationCommunaux_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-13</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -473,7 +453,6 @@
 				<File>DGTL/CH74.1_EtatEquipement_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -496,7 +475,6 @@
 				<File>DGTL/CH76.1_ZonesReserveesCantonales_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-12</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -519,7 +497,6 @@
 				<File>DGTL/CH76.2_ZonesReserveesCommunales_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-12</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -542,7 +519,6 @@
 				<File>DGMR/CH79.1_ReseauxPedestres_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-02</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -565,7 +541,6 @@
 				<File>DGE/CH81.1_StationsMesureCharriage_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -588,7 +563,6 @@
 				<File>DGE/CH100.1_RestrictionsNavigationInterieure_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -614,7 +588,6 @@
 				<File>DGE/CH113.1_RisquesAccidentEntreprise_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -637,7 +610,6 @@
 				<File>DGE/CH113.2_RisquesAccidentRoutier_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -660,7 +632,6 @@
 				<File>DGE/CH114.1_InstallationsEliminationDechets_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -683,7 +654,6 @@
 				<File>DGE/CH114.2_Decharges_V1.5.0.ili</File>
 				<Version>1.5.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -706,7 +676,6 @@
 				<File>DGE/CH114.3_SitesExtractionMateriaux_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -729,7 +698,6 @@
 				<File>DGE/CH116.1_SitesPollues_V1.5.0.ili</File>
 				<Version>1.5.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -752,7 +720,6 @@
 				<File>DGE/CH122.1_RelevesPollutionAtmospherique_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -775,7 +742,6 @@
 				<File>DGE/CH125.1_AtteintesSols_V1.3.0.ili</File>
 				<Version>1.3.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -807,7 +773,6 @@
 				<File>DGE/CH128.1_PREE_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -830,7 +795,6 @@
 				<File>DGE/CH130.1_SecteursProtectionEaux_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -853,7 +817,6 @@
 				<File>DGE/CH131.1_ProtectionEauxSouterraines_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -876,7 +839,6 @@
 				<File>DGE/CH132.1_PerimetresProtectionEauxSouterraines_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -899,7 +861,6 @@
 				<File>DGE/CH134.1_StationsMesureEauxSuperficielles_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-10-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -922,7 +883,6 @@
 				<File>DGE/CH134.3_ReseauxMesureEauxSouterraines_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-10-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -945,7 +905,6 @@
 				<File>DGE/CH134.4_StationsMesureEau_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-10-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -971,7 +930,6 @@
 				<File>DGE/CH134.5_StationsEpuration_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-10-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -994,7 +952,6 @@
 				<File>DGE/CH136.1_StationsMesureNiveauDebitEau_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-10-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1020,7 +977,6 @@
 				<File>DGE/CH139.2_Resurgences_Captages_AlimentationArtificielle_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-13</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1043,7 +999,6 @@
 				<File>DGE/CH140.1_PrelevementsDebitsResiduels_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1066,7 +1021,6 @@
 				<File>DGE/CH140.2_RestitutionDebitsResiduels_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1089,7 +1043,6 @@
 				<File>DGE/CH141.1_AlimentationArtificielle_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-02-17</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1112,7 +1065,6 @@
 				<File>DGE/CH144.1_BruitRoutier_V1.3.0.ili</File>
 				<Version>1.3.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-03-17</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1135,7 +1087,6 @@
 				<File>DGTL/CH145.1_DegreSensibiliteBruit_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-13</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1158,7 +1109,6 @@
 				<File>DGAV/CH151.1_CadastreViticole_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1181,7 +1131,6 @@
 				<File>DGAV/CH153.1_SurfaceUtilisationAgricole_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1204,7 +1153,6 @@
 				<File>DGAV/CH153.2_TerrassesVignoble_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1227,7 +1175,6 @@
 				<File>DGAV/CH153.3_PromotionBiodiversite_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1250,7 +1197,6 @@
 				<File>DGAV/CH153.5_SurfaceAgricoleUtileEstivage_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1273,7 +1219,6 @@
 				<File>DGAV/CH153.6_UnitesExploitationAgricole_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1296,7 +1241,6 @@
 				<File>DGAV/CH153.6_UnitesExploitationAgricole_V3.0.0.ili</File>
 				<Version>3.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-11-21</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1319,7 +1263,6 @@
 				<File>DGE/CH157.1_LimitesForestieresStatiques_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-13</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1342,7 +1285,6 @@
 				<File>DGE/CH159.1_DistancesForet_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-13</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1365,7 +1307,6 @@
 				<File>DGE/CH161.1_ForetProtectrice_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1388,7 +1329,6 @@
 				<File>DGE/CH166.1_CartesDangers_V1.3.0.ili</File>
 				<Version>1.3.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-07-25</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1411,7 +1351,6 @@
 				<File>DGE/CH167.1_CadastreDangers_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>de</NameLanguage>
 				<publishingDate>2024-03-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1437,7 +1376,6 @@
 				<File>DGE/CH182.1_Radon_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-08-28</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1460,7 +1398,6 @@
 				<File>DGE/CH183.1_ZonesDesserte_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-05</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1483,7 +1420,6 @@
 				<File>DGMR/CH184.1_ConvoisExceptionnels_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-02</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1509,7 +1445,6 @@
 				<File>DGE/CH185.1_Defrichement_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1532,7 +1467,6 @@
 				<File>DGE/CH187.1_ParcsNaturels_V1.3.0.ili</File>
 				<Version>1.3.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1555,7 +1489,6 @@
 				<File>DGIP/CH188.1_BiensCulturels_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-02</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1578,7 +1511,6 @@
 				<File>DGE/CH189.1_PrairiesPaturages_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1601,7 +1533,6 @@
 				<File>DGE/CH190.1_EspaceEaux_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1627,7 +1558,6 @@
 				<File>DGE/CH191.1_RevitalisationCoursEau_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-06</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1650,7 +1580,6 @@
 				<File>DGE/CH191.2_RevitalisationRivesLacustres_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-06</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1673,7 +1602,6 @@
 				<File>DGE/CH192.1_AssainissementCentralesHydroelectriques_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1699,7 +1627,6 @@
 				<File>DGE/CH194.1_OuvragesAccumulation_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-03-25</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1722,7 +1649,6 @@
 				<File>DGE/CH195.1_TranquiliteFauneSauvage_V2.1.0.ili</File>
 				<Version>2.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1748,7 +1674,6 @@
 				<File>DGE/CH195.2_ItinerairesFauneSauvage_V2.1.0.ili</File>
 				<Version>2.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-08</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1774,7 +1699,6 @@
 				<File>DGE/CH210.1_SituationRisquesEntreprise_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1797,7 +1721,6 @@
 				<File>DGE/CH210.2_SituationRisquesRoutier_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-04</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1820,7 +1743,6 @@
 				<File>DGAV/CH227.1_InfrastructuresAgricoles_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2024-04-03</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1849,7 +1771,6 @@
 				<File>DGMR/VD80.1_LimitesConstructionRoutesCommunales_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-01-21</publishingDate>
 				<Original/>
 				<dependsOnModel>
@@ -1872,7 +1793,6 @@
 				<File>POLCANT/VD94.1_ZonesUAS_V1.0.0.ili</File>
 				<Version>1.0.0</Version>
 				<VersionComment/>
-				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-02-06</publishingDate>
 				<Original/>
 				<dependsOnModel>
