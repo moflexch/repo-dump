@@ -118,9 +118,8 @@
         <Name>Nutzungsplanung_NWOW_V2</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Nutzungsplanung_NWOW_V2.ili</File>
-        <Version>2026-02-20</Version>
-        <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-28</publishingDate>
+        <Version>2026-02-04</Version>
+        <publishingDate>2026-02-04</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -129,12 +128,8 @@
             <value>Raumplanung_Basis_NWOW_V2</value>
           </IliRepository20.ModelName_>
         </dependsOnModel>
-        <Title>Kantonales Geodatenmodell Nutzungsplanung</Title>
-        <Tags>73A,73B</Tags>
-        <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
-        <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>2404656f0171f171334f246ffa314cfc</md5>
+        <md5>a138e7c9d7ee7d85427ad67668882b0d</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
         <Name>Geotope_NWOW_V1</Name>
