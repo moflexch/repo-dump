@@ -1,4 +1,4 @@
-# Status at 2026-02-04 19:26
+# Status at 2026-02-05 07:35
 |Site|ilisite.xml|ilimodels.xml|ilidata.xml|
 |---|---|---|---|
 |[ch.sia](https://405.sia.ch/models/)|:white_check_mark: ([200](https://405.sia.ch/models/ilisite.xml))|:white_check_mark: ([200](https://405.sia.ch/models/ilimodels.xml))|:black_square_button: ([404](https://405.sia.ch/models/ilidata.xml))|
@@ -6,8 +6,8 @@
 |[ch.ag](https://models.geo.ag.ch/)|:white_check_mark: ([200](https://models.geo.ag.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.ag.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.ag.ch/ilidata.xml))|
 |[ch.ai](http://models.geo.ai.ch/)|:white_check_mark: ([200](http://models.geo.ai.ch/ilisite.xml))|:white_check_mark: ([200](http://models.geo.ai.ch/ilimodels.xml))|:black_square_button: ([404](http://models.geo.ai.ch/ilidata.xml))|
 |[ch.ar](https://models.geo.ar.ch/)|:white_check_mark: ([200](https://models.geo.ar.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.ar.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.ar.ch/ilidata.xml))|
-|[ch.be](https://models.geo.be.ch/)|:white_check_mark: ([200](https://models.geo.be.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.be.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.geo.be.ch/ilidata.xml))|
-|[ch.bl](https://models.geo.bl.ch/)|:black_square_button: ([000](https://models.geo.bl.ch/ilisite.xml))|:black_square_button: ([000](https://models.geo.bl.ch/ilimodels.xml))|:black_square_button: ([000](https://models.geo.bl.ch/ilidata.xml))|
+|[ch.be](https://models.geo.be.ch/)|:black_square_button: ([000](https://models.geo.be.ch/ilisite.xml))|:black_square_button: ([000](https://models.geo.be.ch/ilimodels.xml))|:black_square_button: ([000](https://models.geo.be.ch/ilidata.xml))|
+|[ch.bl](https://models.geo.bl.ch/)|:white_check_mark: ([200](https://models.geo.bl.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.bl.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.geo.bl.ch/ilidata.xml))|
 |[ch.bs](https://models.geo.bs.ch/)|:white_check_mark: ([200](https://models.geo.bs.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.bs.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.bs.ch/ilidata.xml))|
 |[ch.gl](https://models.geo.gl.ch/)|:white_check_mark: ([200](https://models.geo.gl.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.gl.ch/ilimodels.xml))|:white_check_mark: ([200](https://models.geo.gl.ch/ilidata.xml))|
 |[ch.gr](https://models.geo.gr.ch/)|:white_check_mark: ([200](https://models.geo.gr.ch/ilisite.xml))|:white_check_mark: ([200](https://models.geo.gr.ch/ilimodels.xml))|:black_square_button: ([404](https://models.geo.gr.ch/ilidata.xml))|
