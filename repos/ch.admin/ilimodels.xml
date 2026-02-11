@@ -33126,7 +33126,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="509002">
       <Name>UASAwarenessZone_V1</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>BAZL/UASAwarenessZone_V1.ili</File>
+      <File>obsolete/UASAwarenessZone_V1_o0.ili</File>
       <Version>2026-01-07</Version>
       <publishingDate>2026-01-14</publishingDate>
       <dependsOnModel>
@@ -33141,6 +33141,27 @@
       <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
       <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
       <md5>7e3c5fd6e01c949f2f6471067e6aa665</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="509003">
+      <Name>UASAwarenessZone_V1</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAZL/UASAwarenessZone_V1.ili</File>
+      <Version>2026-02-02</Version>
+      <publishingDate>2026-02-11</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>InternationalCodes_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2026-01-07</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/BAZL/</Issuer>
+      <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
+      <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
+      <md5>a2c5acd044ee8a02939442048763cf8c</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
