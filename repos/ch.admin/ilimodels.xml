@@ -33334,10 +33334,179 @@
         </IliRepository20.ModelName_>
       </dependsOnModel>
       <precursorVersion>2024-02-13</precursorVersion>
+      <Tags>34.1,34.2,34.3,53.1,53.2</Tags>
       <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
       <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.swisstopo.admin.ch/de/schweizerische-bezugssysteme</furtherInformation>
       <md5>a784e7d2680480ca045842f33506f701</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519008">
+      <Name>AmtlichesOrtschaftenverzeichnis_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/OfficialIndexOfLocalities_DE_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>OfficialIndexOfLocalities_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>181.1</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:plz@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/amtliches-ortschaftenverzeichnis</furtherInformation>
+      <md5>11560b87067350a8105bc55392038dfc</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519009">
+      <Name>RepertoireOfficielDesLocalites_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/OfficialIndexOfLocalities_FR_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>OfficialIndexOfLocalities_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>181.1</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:plz@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/fr/repertoire-officiel-des-localites</furtherInformation>
+      <md5>57da203648e316d2c2bc76ec35180cb0</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519010">
+      <Name>ElencoUfficialeDelleLocalita_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/OfficialIndexOfLocalities_IT_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>OfficialIndexOfLocalities_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>181.1</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:plz@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/it/elenco-ufficiale-delle-localita</furtherInformation>
+      <md5>9101e023ee041905c06532139dc19ad1</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519011">
+      <Name>PointsFixesMN_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/FixpunkteLV_FR_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>FixpunkteLV_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometrie_FR_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualite_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>34.1,34.2,34.3,53.1,53.2</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/schweizerische-bezugssysteme</furtherInformation>
+      <md5>3ed9fca5dd6ae0e1f50ca9d3bd1a0d5b</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519012">
+      <Name>PuntiFissiMN_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/FixpunkteLV_IT_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>FixpunkteLV_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Geometria_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>DMAVTYM_Qualita_V1_0</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>34.1,34.2,34.3,53.1,53.2</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/schweizerische-bezugssysteme</furtherInformation>
+      <md5>df1d4fd0e35469113e3f845a31342d32</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519013">
+      <Name>LimitesTerritorialesMN_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/HoheitsgrenzenLV_FR_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>HoheitsgrenzenLV_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>39.4</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/landesgrenze</furtherInformation>
+      <md5>f17dd43dbe7dcf98e2e376cc8dffe792</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="519014">
+      <Name>ConfiniGiurisdizionaliMN_V1_0</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>Swisstopo/HoheitsgrenzenLV_IT_V1_0.ili</File>
+      <Version>2026-01-31</Version>
+      <publishingDate>2026-02-13</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>HoheitsgrenzenLV_V1_0</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>39.4</Tags>
+      <Issuer>https://models.geo.admin.ch/Swisstopo/</Issuer>
+      <technicalContact>mailto:vermessung@swisstopo.ch</technicalContact>
+      <furtherInformation>https://www.swisstopo.admin.ch/de/landesgrenze</furtherInformation>
+      <md5>fd6daf0c963f7a2aa3e248ac61cb9312</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->

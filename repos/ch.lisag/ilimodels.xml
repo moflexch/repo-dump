@@ -358,8 +358,8 @@
                 <Name>Entsorgungsrouten_Siedlungsabfaelle_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>AFU/Entsorgungsrouten_Siedlungsabfaelle_UR_V1.ili</File>
-                <Version>2019-12-19</Version>
-                <publishingDate>2024-04-01</publishingDate>
+                <Version>2026-02-09</Version>
+                <publishingDate>2026-02-09</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
                         <value>Units</value>
@@ -375,7 +375,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Entsorgungsrouten_Siedlungsabfaelle_UR_V1.pdf</furtherInformation>
-                <md5>c537a464fb6e501ce51ad3952899750a</md5>
+                <md5>bdae4f8285851a2cc76628adde90f5a4</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU004">
