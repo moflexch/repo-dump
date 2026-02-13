@@ -432,17 +432,14 @@
             <!--  ===============================================  -->
             <!--  Amt für Landwirtschaft [ALA]                     -->
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA001">
-                <Name>DM_Seilbahnen_UR_V1</Name>
+                <Name>Seilbahnen_UR_V1</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>ALA/DM_Seilbahnen_UR_V1.ili</File>
-                <Version>2016-01-07</Version>
-                <publishingDate>2016-01-07</publishingDate>
+                <File>ALA/Seilbahnen_UR_V1.ili</File>
+                <Version>2026-02-13</Version>
+                <publishingDate>2026-02-13</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
                         <value>Units</value>
-                    </IliRepository09.ModelName_>
-                    <IliRepository09.ModelName_>
-                        <value>CoordSys</value>
                     </IliRepository09.ModelName_>
                     <IliRepository09.ModelName_>
                         <value>GeometryCHLV95_V1</value>
@@ -452,7 +449,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Seilbahnen_UR_V1.pdf</furtherInformation>
-                <md5>1bd3bead485ae7b4884c37f70fb18649</md5>
+                <md5>b2c1020776b11ed1b532c44a4c9911a3</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ALA002">
