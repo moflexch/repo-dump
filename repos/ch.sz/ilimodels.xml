@@ -2653,6 +2653,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>acb9be652091991c0bab332c9bcdbd40</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+     <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_INTERLIS_Konfiguration_V1">
+        <Name>SZ_INTERLIS_Konfiguration_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AGI/SZ_INTERLIS_Konfiguration_V1.ili</File>
+        <Version>2026-02-11</Version>
+        <publishingDate>2026-02-20</publishingDate>
+        <Title>INTERLIS-Konfiguration</Title>
+        <shortDescription>Über dieses Thema werden alle INTERLIS-spezifischen Informationen geführt. Eine dieser Information ist der Präfix für die STANDARDOID.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>68B07158EACAB5934C0A53EBA9F9FCBF</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Volksschulen und Sport AVS -->
       <!--==================================================-->
@@ -3093,7 +3105,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gebietseinteilung_Forst">
         <Name>SZ_Gebietseinteilung_Forst</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AWN/SZ_Gebietseinteilung_Forst_V1.ili</File>
+        <File>AWN/replaced/SZ_Gebietseinteilung_Forst.ili</File>
         <Version>2025-01-24</Version>
         <publishingDate>2025-12-22</publishingDate>
         <Title>Gebietseinteilung Forst</Title>
@@ -3101,6 +3113,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>67035BC62028E10CD2CE1CFAC8E7F9A2</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Gebietseinteilung_Forst_V1">
+        <Name>SZ_Gebietseinteilung_Forst_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Gebietseinteilung_Forst_V1.ili</File>
+        <Version>2025-01-24</Version>
+        <publishingDate>2026-02-20</publishingDate>
+        <Title>Gebietseinteilung Forst</Title>
+        <shortDescription>Einteilung des Kantonsgebietes in Forstkreise und Forstgebiete gemäss der kantonalen Verordnung zum Waldgesetz (SRSZ 313.111)</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>1E42478330BCE4C63335E18824A41AAB</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Grabenmeldungen_V1">
         <Name>SZ_Grabenmeldungen_V1</Name>
