@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+  <HEADERSECTION SENDER="AGI-20181025" VERSION="2.3">
+    <MODELS>
+      <MODEL NAME="IliSite09" VERSION="2009-11-12" URI="mailto:ce@eisenhutinformatik.ch"/>
+    </MODELS>
+  </HEADERSECTION>
+  <DATASECTION>
+    <IliSite09.SiteMetadata BID="SHb0">
+      <IliSite09.SiteMetadata.Site TID="1">
+        <Name>models.geo.sh.ch</Name>
+        <Title>ModelRepository Kanton Schaffhausen</Title>
+        <shortDescription>Modell-Ablage fuer Datenmodelle der Geobasisdaten des Bundesrechts (Zustaendigkeit Kanton Schaffhausen), des kantonalen Rechts sowie des kommunalen Rechts </shortDescription>
+        <Owner>https://geo.sh.ch</Owner>
+        <technicalContact>mailto:agi@sh.ch</technicalContact>
+        <furtherInformation>https://geo.sh.ch</furtherInformation>
+        <parentSite>
+          <IliSite09.RepositoryLocation_>
+            <value>http://models.geo.kgk-cgc.ch/</value>
+          </IliSite09.RepositoryLocation_>
+          <IliSite09.RepositoryLocation_>
+            <value>http://models.geo.admin.ch/</value>
+          </IliSite09.RepositoryLocation_>
+        </parentSite>
+      </IliSite09.SiteMetadata.Site>
+    </IliSite09.SiteMetadata>
+  </DATASECTION>
+</TRANSFER>
