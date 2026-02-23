@@ -13751,7 +13751,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Kant_Gewaesserzustand_Catalogues_V1_2.xml</path>
+                <path>obsolete/Kant_Gewaesserzustand_Catalogues_V1_2_o0.xml</path>
                 <md5>5c22478b8b3eb015ccf9ee292a698ea8</md5>
               </DatasetIdx16.File>
             </file>
@@ -15907,6 +15907,52 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>ch.admin.bafu.NoisePollutionRegisterForMilitaryShootingRanges_Codelisten_V1_2_20251204</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="300">
+        <id>ch.admin.geo.models.Kant_Gewaesserzustand_V1_2_20251222</id>
+        <version>2025-12-22</version>
+        <precursorVersion>2024-04-08</precursorVersion>
+        <publishingDate>2026-02-23</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Kant_Gewaesserzustand_V1_2</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Kant_Gewaesserzustand_Catalogues_V1_2.xml</path>
+                <md5>ef410480e2fcfde5ccf5a79990bf470d</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2025-12-08</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Kant_Gewaesserzustand_V1_2.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>

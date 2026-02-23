@@ -18378,7 +18378,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="004555">
       <Name>Kant_Gewaesserzustand_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAFU/Kant_Gewaesserzustand_V1_2.ili</File>
+      <File>obsolete/Kant_Gewaesserzustand_V1_2_o0.ili</File>
       <Version>2024-04-08</Version>
       <publishingDate>2024-06-26</publishingDate>
       <dependsOnModel>
@@ -18747,6 +18747,41 @@
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>9dd776af23e9ae43e39146efc4b928c4</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="004570">
+      <Name>Kant_Gewaesserzustand_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAFU/Kant_Gewaesserzustand_V1_2.ili</File>
+      <Version>2025-12-22</Version>
+      <publishingDate>2026-02-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CodeISO</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>Units</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2024-04-08</precursorVersion>
+      <Tags>134.1</Tags>
+      <Issuer>http://models.geo.admin.ch/BAFU</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>e7c43b8cb548e922404de2e7180bc06a</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
 <!-- =================================================================== -->
 <!-- BAG OFSP UFSP FOPH                                           005xxx -->
