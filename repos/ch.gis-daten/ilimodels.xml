@@ -297,7 +297,7 @@
         <File>Natur_Landschaftsschutz/Geotope_NWOW_V1.ili</File>
         <Version>2026-01-05</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-02-09</publishingDate>
+        <publishingDate>2026-02-26</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -311,7 +311,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>bea5a006cc9fb91cd1396a4d4a8431ed</md5>
+        <md5>3099d05a0e2ec5bb318d0a43b54c46d9</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="16">
         <Name>Laermempfindlichkeitsstufen_NWOW_V2</Name>
