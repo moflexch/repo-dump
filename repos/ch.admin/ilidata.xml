@@ -211,6 +211,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="4">
         <id>ch.admin.geo.models.ElectricityProductionPlants_OrientationCatalogue_V1</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.ElectricityProductionPlants_OrientationCatalogue_V1_1</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2021-02-10</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -234,7 +239,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/ElectricityProductionPlants_OrientationCatalogue_V1.xml</path>
+                <path>BFE/replaced/ElectricityProductionPlants_OrientationCatalogue_V1.xml</path>
                 <md5>4d3820ddc899e3fd72ced28e97e9207c</md5>
               </DatasetIdx16.File>
             </file>
@@ -427,6 +432,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="8">
         <id>ch.admin.geo.models.ElectricityProductionPlants_MainCategoryCatalogue_V1</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.ElectricityProductionPlants_MainCategoryCatalogue_V1_1</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2021-02-10</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -450,7 +460,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/ElectricityProductionPlants_MainCategoryCatalogue_V1.xml</path>
+                <path>BFE/replaced/ElectricityProductionPlants_MainCategoryCatalogue_V1.xml</path>
                 <md5>2c60e1a60718de9691c530fcebe4b7f4</md5>
               </DatasetIdx16.File>
             </file>
@@ -2258,6 +2268,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="33">
         <id>ch.admin.geo.models.ElectricityProductionPlants_SubCategoryCatalogue_V1</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.ElectricityProductionPlants_SubCategoryCatalogue_V1_1</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2021-02-10</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -2281,7 +2296,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/ElectricityProductionPlants_SubCategoryCatalogue_V1.xml</path>
+                <path>BFE/replaced/ElectricityProductionPlants_SubCategoryCatalogue_V1.xml</path>
                 <md5>f26ee93102e76a3ebe9d2457afb0302b</md5>
               </DatasetIdx16.File>
             </file>
@@ -6540,6 +6555,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="109">
         <id>ch.admin.geo.models.ElectricityProductionPlants_PlantCategoryCatalogue_V1</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.ElectricityProductionPlants_PlantCategoryCatalogue_V1_1</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2021-02-10</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -6563,7 +6583,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/ElectricityProductionPlants_PlantCategoryCatalogue_V1.xml</path>
+                <path>BFE/replaced/ElectricityProductionPlants_PlantCategoryCatalogue_V1.xml</path>
                 <md5>9dfd3b86847e28536c632d032b8896bc</md5>
               </DatasetIdx16.File>
             </file>
@@ -15949,6 +15969,186 @@
             <model>
               <DatasetIdx16.ModelLink>
                 <name>Kant_Gewaesserzustand_V1_2.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="301">
+        <id>ch.admin.geo.models.ElectricityProductionPlants_OrientationCatalogue_V1_1</id>
+        <version>2026-01-18</version>
+        <publishingDate>2026-02-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE ElectricityProductionPlants_OrientationCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/ElectricityProductionPlants_OrientationCatalogue_V1_1.xml</path>
+                <md5>a7050e6397373a7f040fb82d2492510a</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-01-18</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ElectricityProductionPlants_V1_1.OrientationCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="302">
+        <id>ch.admin.geo.models.ElectricityProductionPlants_MainCategoryCatalogue_V1_1</id>
+        <version>2026-01-18</version>
+        <publishingDate>2026-02-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE ElectricityProductionPlants_MainCategoryCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/ElectricityProductionPlants_MainCategoryCatalogue_V1_1.xml</path>
+                <md5>be5e591705b7e5dbfc1cb7d117b1f378</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-01-18</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ElectricityProductionPlants_V1_1.MainCategoryCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="303">
+        <id>ch.admin.geo.models.ElectricityProductionPlants_SubCategoryCatalogue_V1_1</id>
+        <version>2026-01-18</version>
+        <publishingDate>2026-02-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE ElectricityProductionPlants_SubCategoryCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/ElectricityProductionPlants_SubCategoryCatalogue_V1_1.xml</path>
+                <md5>6c5120e58fc32b8232b033f688f6b89a</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-01-18</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ElectricityProductionPlants_V1_1.SubCategoryCatalogue</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="304">
+        <id>ch.admin.geo.models.ElectricityProductionPlants_PlantCategoryCatalogue_V1_1</id>
+        <version>2026-01-18</version>
+        <publishingDate>2026-02-26</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE ElectricityProductionPlants_PlantCategoryCatalogue_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/ElectricityProductionPlants_PlantCategoryCatalogue_V1_1.xml</path>
+                <md5>d9c66117a3c15356344c446ef7d85b7e</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-01-18</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ElectricityProductionPlants_V1_1.PlantCategoryCatalogue</name>
               </DatasetIdx16.ModelLink>
             </model>
             <owner>mailto:models@geo.admin.ch</owner>

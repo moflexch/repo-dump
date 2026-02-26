@@ -24781,7 +24781,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="010062">
       <Name>ElectricityProductionPlants_V1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BFE/ElectricityProductionPlants_V1.ili</File>
+      <File>BFE/replaced/ElectricityProductionPlants_V1.ili</File>
       <Version>2022-01-04</Version>
       <publishingDate>2022-01-05</publishingDate>
       <dependsOnModel>
@@ -25069,7 +25069,34 @@
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>72c771c45d66839188db954cd00a7d9a</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
-    
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010073">
+      <Name>ElectricityProductionPlants_V1_1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/ElectricityProductionPlants_V1_1.ili</File>
+      <Version>2026-01-18</Version>
+      <publishingDate>2026-02-26</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>221.1</Tags>
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:geoinformation@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>7899d72c0b69a9a94483b5f2a3cebb23</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- BFS OFS UST FSO                                              011xxx -->
 
