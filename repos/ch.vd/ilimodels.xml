@@ -2,8 +2,8 @@
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
 	<HEADERSECTION SENDER="GEOVD" VERSION="2.3">
 		<MODELS>
-			<MODEL NAME="IliRepository09" VERSION="2024-01-01" URI="http://evd.vd.ch/geo/repository09"/>
-			<MODEL NAME="IliRepository20" VERSION="2024-09-26" URI="http://evd.vd.ch/geo/repository20"/>
+			<MODEL NAME="IliRepository09" VERSION="2024-01-01" URI="https://evd.vd.ch/geo/repository09"/>
+			<MODEL NAME="IliRepository20" VERSION="2024-09-26" URI="https://evd.vd.ch/geo/repository20"/>
 		</MODELS>
 	</HEADERSECTION>
 	<DATASECTION>
@@ -225,7 +225,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>2c6bbf9c955e1afc8ea89e00d01c5cb9</md5>			
+				<md5>d48e3949d4e57efbc43c1c41d96b6818</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="fd06f11c-e2e3-416a-9859-80126cf61276">
 				<Name>VD_HautsMarais</Name>
@@ -269,7 +269,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>cc73b128d986f86e3ca4538dd380db24</md5>			
+				<md5>f75e177246679ba0bab1a20511456cb4</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="15787573-271d-406b-a3cb-156ea54feef1">
 				<Name>VD_SitesReproductionBatraciensFixe</Name>
@@ -318,7 +318,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="7b612398-84cc-46e8-ac4c-ae91cfbff9f4">
 				<Name>VD_InventaireApprovisionnementEauPotablePenurieGrave_V2_0_0</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>SPEI/CH66.1_InventaireApprovisionnementEauPotablePenurieGrave_V2.0.0.ili</File>
+				<File>OFCO/CH66.1_InventaireApprovisionnementEauPotablePenurieGrave_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
 				<VersionComment/>
 				<publishingDate>2025-02-05</publishingDate>
@@ -467,7 +467,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>1d68f1a3f15769335cac822072b65d4d</md5>			
+				<md5>a97c6952c143a30f120ca02f00c37a9d</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="104ac92f-50e2-4975-a243-22c139309192">
 				<Name>VD_ZonesReserveesCantonales_V1_1_0</Name>
@@ -765,7 +765,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>f02852f094ecb74b1bd00aa3bd2a2006</md5>			
+				<md5>ec0dca8aea7f648ef200c4eb389246cc</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="57c6f7f9-4580-466c-b177-4315c4930903">
 				<Name>VD_PREE</Name>
@@ -1038,7 +1038,7 @@
 				<md5>4d9ff37c91e105169bab6c20dd3ff996</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="97bc3067-fc2a-413b-9301-35427245c27b">
-				<Name>VD_AlimentationArtificielle</Name>
+				<Name>VD_AlimentationArtificielle_V2_0_0</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
 				<File>DGE/CH141.1_AlimentationArtificielle_V2.0.0.ili</File>
 				<Version>2.0.0</Version>
@@ -1123,7 +1123,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>3d5272e26ea14a7c9802bf408bcb80ef</md5>			
+				<md5>b638e9af9e11a9db5c60a88c2e6ad5c9</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="4cc8eded-59a9-42bc-aa82-642b41cc295b">
 				<Name>VD_SurfaceUtilisationAgricole_V2_0_0</Name>
@@ -1368,7 +1368,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>a53c2a9bc0455169f5a3ff4f1e310346</md5>			
+				<md5>bc700ab888397c224e65a702dc296a4c</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="ab47c2b1-eabd-4a58-b408-ed2b7ce73021">
 				<Name>VD_Radon</Name>
@@ -1412,7 +1412,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>b9f35e2ab9837828b6de38e48e931b49</md5>			
+				<md5>9bf6be0dd0cbe845871b4218ffc0ea3a</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="d3676536-c6e6-43a2-a77a-061f71869f90">
 				<Name>VD_ConvoisExceptionnels</Name>
@@ -1808,6 +1808,28 @@
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
 				<md5>1869a3b8379483d6552ea8b03ba62542</md5>			
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="9ee18067-b37a-4cfb-80d0-f1d711919318">
+				<Name>CadastreCentralesThermiques</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>DGE/VD108.1_CadastreCentralesThermiques_V1.0.0.ili</File>
+				<Version>1.0.0</Version>
+				<VersionComment/>
+				<publishingDate>2026-01-29</publishingDate>
+				<Original/>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>ThermalNetworks_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>				
+				<precursorVersion/>
+				<Title/>
+				<shortDescription/>
+				<Tags/>
+				<Issuer>https://www.vd.ch</Issuer>
+				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
+				<furtherInformation/>
+				<md5>e08f45fcd15d382d8c2d56f2018546a5</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 		</IliRepository09.RepositoryIndex>		
 		<!-- MGDM INTERLIS 2.4 -->
@@ -2372,7 +2394,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>fc596effee99324d39046a96b851baca</md5>			
+				<md5>45622292b8edf7b3fa1f718ffd141d38</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="bdb4a79e-c5c4-4830-bdcc-767445278925">
 				<Name>AutorisationMines</Name>
@@ -2398,7 +2420,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>30502e95af0ab304b36c6f800bd57dd6</md5>			
+				<md5>de6073e20be60edde26a6b0aff79b19e</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="e963f1c9-489f-4878-bec6-430d8cf84ab2">
 				<Name>PlanDirecteurCarrieres_V1_0_1</Name>
@@ -2435,6 +2457,9 @@
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
 						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>Units</value>
 					</IliRepository20.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -2519,7 +2544,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>62d5f9eddcac82c45e0a57c6fda7510d</md5>			
+				<md5>cc19146031ac4c0e1fc6ffec44a5d35d</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="fee29a3b-8586-4a12-b438-02d3bb3a71a4">
 				<Name>RejetsChaleur_V1_1_1</Name>
@@ -2554,13 +2579,13 @@
 				<md5>f512feff022c099b83af93faa53bae67</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="c7ab4324-8c6d-438d-86cb-39ce11e5ea6e">
-				<Name>GeothermieProfonde_V1_5_1</Name>
+				<Name>GeothermieProfonde_V1_6_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD88.1_GeothermieProfonde_V1.5.1.ili</File>
-				<Version>1.5.1</Version>
+				<File>DGE/VD88.1_GeothermieProfonde_V1.6.0.ili</File>
+				<Version>1.6.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2025-01-21</publishingDate>
+				<publishingDate>2026-02-24</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
@@ -2574,7 +2599,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>7e229c432d11388f3113f8e641e2e8ec</md5>			
+				<md5>8c3f691a5588d09365d41cc123790880</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="dbeedb21-689b-4268-be77-5fae6b9ace1e">
 				<Name>GeothermieBasseTemperature_V1_2_1</Name>
@@ -2701,7 +2726,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>769b39eade68cc9d9a48b796be32b210</md5>			
+				<md5>39227393ec7800ab9ee187e3ef2e4ac9</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="a5f30820-709c-4a17-ad6a-81b2d374f6cb">
 				<Name>PatrimoineCulturelImmobilier_V1_0_1</Name>
@@ -2799,7 +2824,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>af20dca4d496788ae25e7b209a16d98a</md5>			
+				<md5>ca2e0ad4484adb0d4462634696f3cdef</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="b22f0205-7a4b-48b7-9b5a-510a4efa1860">
 				<Name>CadastrePlanifCommune_V1_1_1</Name>
