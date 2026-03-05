@@ -350,7 +350,7 @@
         <File>Umweltschutz_Laerm/KbS_MGDM_V1_5_NWOW_V1_0.ili</File>
         <Version>2020-05-01</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-13</publishingDate>
+        <publishingDate>2026-03-05</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>KbS_V1_5</value>
@@ -358,10 +358,10 @@
         </dependsOnModel>
         <Title>Minimales Geobasisdatenmodell mit kantonaler Erweiterung Kataster belastete Standorte</Title>
         <Tags>116.1</Tags>
-        <Issuer>http://models.gis-daten.ch/NAT_LAND_UMWE</Issuer>
+        <Issuer>https://models.gis-daten.ch/nw-ow/Umweltschutz_Laerm</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>908d7797100c114cf9f4b64d8c142b0f</md5>
+        <md5>1b3a0c28bea8ce75b6b2ddf43ed759b1</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
