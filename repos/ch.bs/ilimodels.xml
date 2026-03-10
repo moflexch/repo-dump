@@ -130,21 +130,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>9c2f2b9f775bae26f636b57ece2a1abd</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS001002">
-                <Name>KA_KilometereinteilungAV_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Amtliche_Vermessung/KA_KilometereinteilungAV_KGDM_V1_0_LV95.ili</File>
-                <Version>2023-08-07</Version>
-                <publishingDate>2023-09-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>334bed17277cd5a4f018f23e4bf78ff6</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Atmosphaere_Luft_Klima            BS002xxx       -->
             <!--  ===============================================  -->
@@ -512,21 +497,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>55aa5fb00503e53818c2d7ca56060e6e</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            			      <IliRepository20.RepositoryIndex.ModelMetadata TID="BS010007">
-                <Name>RA_Radonpotential_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gesundheit/RA_Radonpotential_KGDM_V1_0_LV95.ili</File>
-                <Version>2024-09-02</Version>
-                <publishingDate>2024-10-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>63caa5c529847548fd42ddfb390cb51a</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gewaesser                         BS011xxx       -->
             <!--  ===============================================  -->
@@ -574,21 +544,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>f7db9615fdcfca26a0313c287e309610</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011009">
-                <Name>MZ_Makrozoobenthos_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gewaesser/MZ_Makrozoobenthos_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-07-30</Version>
-                <publishingDate>2019-10-03</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>b9c07370f8ec8e7d80b4e10eac7f7aa0</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011011">
                 <Name>GQ_Grundwasserqualitaet_KGDM_V1_0_LV95</Name>
@@ -670,20 +625,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>cbf72cd35a0bb11c8314be6cb05609e2</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012009">
-                <Name>PW_PolitischeWahlkreise_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/PW_PolitischeWahlkreise_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-03-14</Version>
-                <publishingDate>2022-04-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel><Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>507c0df97c118f798723f4c536b99f53</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012013">
                 <Name>BV_Baubewilligungsverfahren_KGDM_V2_0_LV95</Name>
