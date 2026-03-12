@@ -3223,7 +3223,7 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Schutzgebietssignalisation_V1_4">
         <Name>SZ_Schutzgebietssignalisation_V1_4</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>AWN/SZ_Schutzgebietssignalisation_V1_4.ili</File>
+        <File>AWN/replaced/SZ_Schutzgebietssignalisation_V1_4.ili</File>
         <Version>2025-06-12</Version>
         <publishingDate>2026-03-10</publishingDate>
         <Title>Signalisationen der Schutzgebiete</Title>
@@ -3231,6 +3231,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>5653964FC40D29710CFA25871F6EE968</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Schutzgebietssignalisation_V1_5">
+        <Name>SZ_Schutzgebietssignalisation_V1_5</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Schutzgebietssignalisation_V1_5.ili</File>
+        <Version>2026-03-11</Version>
+        <publishingDate>2026-03-12</publishingDate>
+        <Title>Signalisationen der Schutzgebiete</Title>
+        <shortDescription>Dieses Thema führt Informationen zu Signalisationstafeln von Schutzgebieten.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>61A092D1211AF34C451BAFC74D36D97D</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Mittel- und Hochschulen AMH-->
