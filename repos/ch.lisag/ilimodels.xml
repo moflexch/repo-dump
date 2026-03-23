@@ -716,6 +716,48 @@
                 <md5>08d2fdd7bf5b51f2a84acc12410db83f</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE012">
+                <Name>Schutzinventar_intern_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ARE/Schutzinventar_intern_UR_V1.ili</File>
+                <Version>2026-02-27</Version>
+                <publishingDate>2026-02-27</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>62-UR,63-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzinventar_intern_UR_V1.pdf</furtherInformation>
+                <md5>df9b733f82e703b607aeb5d8ffd8ee80</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="ARE013">
+                <Name>Schutzinventar_UR_V1</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>ARE/Schutzinventar_UR_V1.ili</File>
+                <Version>2026-03-02</Version>
+                <publishingDate>2026-03-02</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>CatalogueObjects_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>62-UR,63-UR</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzinventar_UR_V1.pdf</furtherInformation>
+                <md5>1d2d93e11bbafc66aa05ee26f8840ce9</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
             <!--  ===============================================  -->
             <!--  Amt für Strassen- und Schiffsverkehr [ASSV]      -->
             <IliRepository09.RepositoryIndex.ModelMetadata TID="ASSV001">

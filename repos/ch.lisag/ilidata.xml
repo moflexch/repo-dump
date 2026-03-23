@@ -517,6 +517,108 @@
                 </baskets>
             </DatasetIdx16.DataIndex.DatasetMetadata>
 
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="11">
+                <id>Schutzinventar_intern_UR_V1.Codelisten</id>
+                <version>2026-02-27</version>
+                <publishingDate>2026-02-27</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Schutzinventar intern</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Schutzinventar_intern_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzinventar_intern_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>ARE/Schutzinventar_intern_UR_V1_Codelisten_20251204.xml</path>
+                                <md5>8799c3e58572f7ac6f6bc0927f4d50d114325b97</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.schutzinventar_codelistet</id>
+                        <version>2026-02-27</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Schutzinventar_intern_UR_V1.Codelisten</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.schutzinventar_codeliste</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="12">
+                <id>Schutzinventar_UR_V1.Codelisten</id>
+                <version>2026-03-02</version>
+                <publishingDate>2026-03-02</publishingDate>
+                <owner>mailto:mail@lisag.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>Katalog Schutzinventar</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/model/Schutzinventar_UR_V1</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Schutzinventar_UR_V1.pdf</furtherInformation>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>ARE/Schutzinventar_UR_V1_Codelisten_20251204.xml</path>
+                                <md5>e1d6a47892f9431f27ac588e7a3d02551a7cd621</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+                <baskets>
+                    <DatasetIdx16.DataIndex.BasketMetadata>
+                        <!-- BID of basket in XTF -->
+                        <id>ch.ur.schutzinventar_codelistet</id>
+                        <version>2026-03-02</version>
+                        <model>
+                            <DatasetIdx16.ModelLink>
+                                <name>Schutzinventar_UR_V1.Codelisten</name>
+                            </DatasetIdx16.ModelLink>
+                        </model>
+                        <owner>mailto:mail@lisag.ch</owner>
+                        <localId>ch.ur.schutzinventar_codeliste</localId>
+                    </DatasetIdx16.DataIndex.BasketMetadata>
+                </baskets>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+
         </DatasetIdx16.DataIndex>
     </DATASECTION>
 </TRANSFER>
