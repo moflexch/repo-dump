@@ -2438,7 +2438,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Ortstafeln_20180809">
         <Name>SZ_Ortstafeln_20180809</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>TBA/SZ_Ortstafeln_2018-08-09.ili</File>
+        <File>TBA/replaced/SZ_Ortstafeln_2018-08-09.ili</File>
         <Version>2018-08-09</Version>
         <publishingDate>2019-02-05</publishingDate>
         <Title>Ortstafeln (Kantonsstrassen)</Title>
