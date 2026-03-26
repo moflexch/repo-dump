@@ -1857,6 +1857,29 @@
 				<furtherInformation/>
 				<md5>aeb309d99c6d14148ae04459b851c2d1</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
+			<IliRepository20.RepositoryIndex.ModelMetadata TID="e88ea84e-65af-457b-b5ff-494011fe7418">
+				<Name>InfrastructuresSportives_V1_0_0</Name>
+				<SchemaLanguage>ili2_4</SchemaLanguage>
+				<File>SEPS/ACV61.1_InfrastructuresSportives_V1.0.0.ili</File>
+				<Version>1.0.0</Version>
+				<VersionComment/>
+				<NameLanguage>fr</NameLanguage>
+				<publishingDate>2026-03-23</publishingDate>
+				<Original/>
+				<dependsOnModel>
+					<IliRepository20.ModelName_>
+						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+				</dependsOnModel>				
+				<precursorVersion/>
+				<Title/>
+				<shortDescription/>
+				<Tags/>
+				<Issuer>https://www.vd.ch</Issuer>
+				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
+				<furtherInformation/>
+				<md5>2d02aa48120f24c1d7218627d01effe7</md5>			
+			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="265e7fb1-a9a5-47df-952c-2d321ff45f0a">
 				<Name>VD_OuvragesProtectionDangersNaturels</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
@@ -2149,10 +2172,10 @@
 				<md5>c9ba5ce3d2b320f538e94ec8d0f17153</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="b0252063-bbad-48dd-9f7c-880e0df25db8">
-				<Name>VD_CadastreSirenes_V1_0_3</Name>
+				<Name>VD_CadastreSirenes_V1_1_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>SSCM/VD18.1_CadastreSirenes_V1.0.3.ili</File>
-				<Version>1.0.3</Version>
+				<File>SSCM/VD18.1_CadastreSirenes_V1.1.0.ili</File>
+				<Version>1.1.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2025-01-17</publishingDate>
@@ -2160,6 +2183,9 @@
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
 						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>VD_CadastreProtectionCivile</value>
 					</IliRepository20.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -2169,7 +2195,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>231f334a2f80dce5bba05e02431d0642</md5>			
+				<md5>7f16d1f27c3fffabbb494d0cdba1a58b</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="cbc2c636-2065-4f0c-b0e1-cf05b1d127f2">
 				<Name>Lacs_et_Cours_dEau</Name>

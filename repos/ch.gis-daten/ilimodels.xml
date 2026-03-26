@@ -342,9 +342,9 @@
         <Name>Zivilschutz_OW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Militaer_Sicherheit/Zivilschutz_OW_V1_0.ili</File>
-        <Version>2026-03-24</Version>
+        <Version>2026-03-26</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-03-24</publishingDate>
+        <publishingDate>2026-03-26</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -355,7 +355,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/Militaer_Sicherheit/</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>4ffa01b7f212e3f51dd2f97a29cefa9c</md5>
+        <md5>9a9f167184e99fd30b2bbccfe8030f47</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="19">
         <Name>Geotope_NWOW_V1</Name>
