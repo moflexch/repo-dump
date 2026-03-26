@@ -269,8 +269,8 @@
         		<Name>Gewaesserkataster_UR_V1_0</Name>
         		<SchemaLanguage>ili2_3</SchemaLanguage>
         		<File>AFT/Gewaesserkataster_UR_V1_0.ili</File>
-        		<Version>2025-10-10</Version>
-        		<publishingDate>2025-10-10</publishingDate>
+        		<Version>2026-02-23</Version>
+        		<publishingDate>2026-02-23</publishingDate>
         		<dependsOnModel>
         		  <IliRepository09.ModelName_>
         		    <value>GeometryCHLV95_V1</value>
@@ -279,11 +279,11 @@
         		    <value>Units</value>
         		  </IliRepository09.ModelName_>
         		</dependsOnModel>
-                <Tags>21-UR,22-UR</Tags>
+                <Tags>21-UR,22-UR,30-UR</Tags>
         		<Issuer>https://webgis.lisag.ch/models/</Issuer>
         		<technicalContact>mailto:mail@lisag.ch</technicalContact>
         		<furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Gewaesserkataster_UR_V1_0.pdf</furtherInformation>
-        		<md5>6787edb0c71131c02074157bedb297ed</md5>
+        		<md5>8f3ba34393460d55de6d4d9c0712270f</md5>
         	</IliRepository09.RepositoryIndex.ModelMetadata>
 
             <IliRepository09.RepositoryIndex.ModelMetadata TID="AFT004">
