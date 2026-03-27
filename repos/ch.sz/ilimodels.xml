@@ -1300,7 +1300,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Quarantaeneorganismen_Landwirtschaft_V1_1">
         <Name>SZ_Quarantaeneorganismen_Landwirtschaft_V1_1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFL/SZ_Quarantaeneorganismen_Landwirtschaft_V1_1.ili</File>
+        <File>AFL/replaced/SZ_Quarantaeneorganismen_Landwirtschaft_V1_1.ili</File>
         <Version>2023-12-14</Version>
         <publishingDate>2023-12-14</publishingDate>
         <Title>Quarantäneorganismen Landwirtschaft</Title>
@@ -3273,6 +3273,18 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>4E68249CE982C2648E96B8A5E8C3CE22</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Quarantaeneorganismen_Landwirtschaft_V2">
+        <Name>SZ_Quarantaeneorganismen_Landwirtschaft_V2</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AFL/SZ_Quarantaeneorganismen_Landwirtschaft_V2.ili</File>
+        <Version>2026-02-20</Version>
+        <publishingDate>2026-03-27</publishingDate>
+        <Title>Quarantäneorganismen Landwirtschaft</Title>
+        <shortDescription>Information, die zur Eindämmung von Schädlingbefällen in der Landwirtschaft notwendig sind</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>C7C77DEE221C2407D225341711FBAEB3</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Amt für Militär, Feuer- und Zivilschutz AMFZ -->
