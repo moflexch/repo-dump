@@ -24,7 +24,7 @@
         <File>Natur_Landschaftsschutz/Artenschutz_OW_V1_0.ili</File>
         <Version>2026-01-26</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-01-26</publishingDate>
+        <publishingDate>2026-03-31</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -34,9 +34,10 @@
           </IliRepository20.ModelName_>
         </dependsOnModel>
         <Title>Kantonales Geodatenmodell Artenschutz</Title>
+        <Tags>006-GIS</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/Natur_Landschaftsschutz/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>27960f2b3c399be8ef5f0e8405d8463f</md5>
+        <md5>4b4472c003b93d26658bac11a275aaa6</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="2">
         <Name>Richtplaene_MGDM_V1_Kantonal_NWOW_V1_0</Name>
