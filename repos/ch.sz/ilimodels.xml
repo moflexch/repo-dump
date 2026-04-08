@@ -3244,6 +3244,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>61A092D1211AF34C451BAFC74D36D97D</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Rodungen_V1">
+        <Name>SZ_Rodungen_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Rodungen_V1.ili</File>
+        <Version>2025-01-21</Version>
+        <publishingDate>2026-04-08</publishingDate>
+        <Title>Rodungen und Rodungsersatz</Title>
+        <shortDescription>Modell zur Erfassung von Rodungen auf der Grundlage des Bundesmodells</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>FF6E5842955B072C05B503ECC8F43783</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Mittel- und Hochschulen AMH-->
       <!--==================================================-->
