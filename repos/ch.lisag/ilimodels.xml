@@ -401,6 +401,27 @@
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Tank_UR_V1.pdf</furtherInformation>
                 <md5>666fe92daec2cd4dafe245494adf0d50</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
+
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFU005">
+                <Name>KbS_V1_5_UR_V1_0</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>AFU/KbS_V1_5_UR_V1_0.ili</File>
+                <Version>2026-04-02</Version>
+                <publishingDate>2026-04-02</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>KbS_V1_5</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>Units</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>114.2</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_KbS_V1_5_UR_V1_0.pdf</furtherInformation>
+                <md5>a7a9e13f018e457370bdd53c5c5758cc</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
             
             <!--  ===============================================  -->
             <!--  Amt für Volksschulen  [AfV]                      -->
@@ -831,6 +852,7 @@
 
             <!--  ===============================================  -->
             <!--  Kantonspolizei [KAPO]                            -->
+
 
 
             <!--  ===============================================  -->
