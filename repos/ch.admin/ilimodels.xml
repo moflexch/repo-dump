@@ -33136,6 +33136,9 @@
         <IliRepository20.ModelName_>
           <value>CatalogueObjects_V2</value>
         </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>LocalisationCH_V2</value>
+        </IliRepository20.ModelName_>
       </dependsOnModel>
       <Tags>177.1</Tags>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
@@ -33161,7 +33164,6 @@
           <value>CatalogueObjects_V2</value>
         </IliRepository20.ModelName_>
       </dependsOnModel>
-      <precursorVersion>2025-12-04</precursorVersion>
       <Tags>177.1</Tags>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
@@ -33183,6 +33185,7 @@
           <value>Units</value>
         </IliRepository20.ModelName_>
       </dependsOnModel>
+      <precursorVersion>2025-12-04</precursorVersion>
       <Tags>81.2</Tags>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
