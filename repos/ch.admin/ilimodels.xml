@@ -23033,7 +23033,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="009040">
       <Name>AeronauticalCharts_LV03_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAZL/AeronauticalCharts_V1_1.ili</File>
+      <File>BAZL/replaced/AeronauticalCharts_V1_1.ili</File>
       <Version>2020-10-21</Version>
       <publishingDate>2020-10-21</publishingDate>
       <dependsOnModel>
@@ -23055,7 +23055,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="009041">
       <Name>AeronauticalCharts_LV95_V1_1</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BAZL/AeronauticalCharts_V1_1.ili</File>
+      <File>BAZL/replaced/AeronauticalCharts_V1_1.ili</File>
       <Version>2020-10-21</Version>
       <publishingDate>2020-10-21</publishingDate>
       <dependsOnModel>
@@ -23235,6 +23235,30 @@
       <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
       <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
       <md5>d43d828a9d87f36a4b9915141783e57a</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="009048">
+      <Name>AeronauticalCharts_V1_2</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BAZL/AeronauticalCharts_V1_2.ili</File>
+      <Version>2026-03-31</Version>
+      <publishingDate>2026-04-16</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>NonVector_Base_LV95_V3_1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WithLatestModification_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>4.1,4.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAZL/</Issuer>
+      <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
+      <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
+      <md5>2fb0a3b07747c33287ecf4f7e7cd7936</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
@@ -33084,7 +33108,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="504006">
       <Name>Schutzbauten_V1_1</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>BAFU/Schutzbauten_V1_1.ili</File>
+      <File>obsolete/Schutzbauten_V1_1_o0.ili</File>
       <Version>2025-07-08</Version>
       <publishingDate>2025-08-12</publishingDate>
       <dependsOnModel>
@@ -33137,11 +33161,33 @@
           <value>CatalogueObjects_V2</value>
         </IliRepository20.ModelName_>
       </dependsOnModel>
+      <precursorVersion>2025-12-04</precursorVersion>
       <Tags>177.1</Tags>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
       <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
       <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
       <md5>71c9eaaaf3ca7946188e0d4ed84a858e</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="504009">
+      <Name>Schutzbauten_V1_1</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAFU/Schutzbauten_V1_1.ili</File>
+      <Version>2026-03-26</Version>
+      <publishingDate>2026-04-16</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>Units</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <Tags>81.2</Tags>
+      <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
+      <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+      <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+      <md5>6d64ada67a9fde1826b063e624e6a195</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
