@@ -25,6 +25,9 @@
 		  <IliSite09.RepositoryLocation_>
             <value>https://raw.githubusercontent.com/ch-sz-geo/Test_models/main/</value>
           </IliSite09.RepositoryLocation_>
+		  <IliSite09.RepositoryLocation_>
+            <value>https://raw.githubusercontent.com/ch-sz-geo/models/main/</value>
+          </IliSite09.RepositoryLocation_>
         </subsidiarySite>
       </IliSite09.SiteMetadata.Site>
     </IliSite09.SiteMetadata>
