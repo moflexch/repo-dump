@@ -25143,7 +25143,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="012002">
       <Name>eGRISDM11</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BJ/egrisdm11hist20111103.ili</File>
+      <File>BJ/replaced/egrisdm11hist20111103.ili</File>
       <Version>DM11</Version>
       <publishingDate>2011-11-03</publishingDate>
       <Tags>7.1,8.1</Tags>
@@ -25163,6 +25163,19 @@
       <technicalContact>mailto:christian.buetler@bj.admin.ch</technicalContact>
       <furtherInformation>http://www.egris.ch</furtherInformation>
       <md5>879ba8c14d0c8089136eb96bec4bbd07</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="012004">
+      <Name>eGRISDM21</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BJ/egrisdm21hist20210825.ili</File>
+      <Version>2021-08-25</Version>
+      <publishingDate>2026-04-23</publishingDate>
+      <Tags>7.1,8.1</Tags>
+      <Issuer>http://www.bj.admin.ch/</Issuer>
+      <technicalContact>mailto:christian.buetler@bj.admin.ch</technicalContact>
+      <furtherInformation>http://www.egris.ch</furtherInformation>
+      <md5>54e6abad7b1a95f0955b5957753bc653</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
