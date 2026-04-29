@@ -14,8 +14,8 @@
 <Name>Schnittstellenmodell_ARE_AG_LV95</Name>
 <SchemaLanguage>ili2_3</SchemaLanguage>
 <File>ARE/DNP_Geobasisdatenmodell.ili</File>
-<Version>2023-08-15</Version>
-<publishingDate>2023-09-08</publishingDate>
+<Version>2026-03-24</Version>
+<publishingDate>2026-03-24</publishingDate>
 <Issuer>https://models.geo.ag.ch</Issuer>
 <technicalContact>mailto:geoportal@ag.ch</technicalContact>
 </IliRepository09.RepositoryIndex.ModelMetadata>
