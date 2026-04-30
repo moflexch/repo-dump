@@ -1864,7 +1864,7 @@
 				<Version>1.0.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2026-03-23</publishingDate>
+				<publishingDate>2026-04-14</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
@@ -1878,7 +1878,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>2d02aa48120f24c1d7218627d01effe7</md5>			
+				<md5>ac64e385362c265ae76eaff8bd42afd1</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="265e7fb1-a9a5-47df-952c-2d321ff45f0a">
 				<Name>VD_OuvragesProtectionDangersNaturels</Name>
@@ -1979,13 +1979,13 @@
 				<md5>64437fd33ddd97324e1bb149b7a61877</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="9386c54f-1bd4-4906-a9ab-81af3410485f">
-				<Name>CadastreGeologique_V1_0_1</Name>
+				<Name>CadastreGeologique_V1_1_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD6.1_CadastreGeologique_V1.0.1.ili</File>
-				<Version>1.0.1</Version>
+				<File>DGE/VD6.1_CadastreGeologique_V1.1.0.ili</File>
+				<Version>1.1.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2024-12-05</publishingDate>
+				<publishingDate>2026-03-25</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
@@ -1999,7 +1999,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>cad26c5779413e0ad8840fababf0d494</md5>			
+				<md5>d17750134e8adc58ee613ac5c7c4c72f</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="c1bf58fb-6334-4c06-bb66-68b3d3a93b5d">
 				<Name>ObjetsPatrimoineCulturelImmobilier_V1_0_1</Name>
@@ -2628,17 +2628,20 @@
 				<md5>8c3f691a5588d09365d41cc123790880</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="dbeedb21-689b-4268-be77-5fae6b9ace1e">
-				<Name>GeothermieBasseTemperature_V1_2_1</Name>
+				<Name>GeothermieBasseTemperature_V1_3_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD89.1_GeothermieBasseTemperature_V1.2.1.ili</File>
-				<Version>1.2.1</Version>
+				<File>DGE/VD89.1_GeothermieBasseTemperature_V1.3.0.ili</File>
+				<Version>1.3.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2025-01-22</publishingDate>
+				<publishingDate>2026-03-25</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
 						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>GeothermieProfonde_V1_6_0</value>
 					</IliRepository20.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -2648,7 +2651,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>808af467970fe33cbb70fd21eb327fad</md5>			
+				<md5>ba7fbc41c67773c9f73a1eeafac7e323</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="7f9b58f4-9e0c-4c6d-84e3-266393f8fb86">
 				<Name>CadastreReseauxThermiques_V1_2_1</Name>
@@ -2853,13 +2856,13 @@
 				<md5>ca2e0ad4484adb0d4462634696f3cdef</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="b22f0205-7a4b-48b7-9b5a-510a4efa1860">
-				<Name>CadastrePlanifCommune_V1_1_1</Name>
+				<Name>CadastrePlanifCommune_V1_2_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD104.1_PlanificationEnergetiqueCommune_V1.1.1.ili</File>
-				<Version>1.1.1</Version>
+				<File>DGE/VD104.1_PlanificationEnergetiqueCommune_V1.2.0.ili</File>
+				<Version>1.2.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2025-01-17</publishingDate>
+				<publishingDate>2026-04-15</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
@@ -2876,7 +2879,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>0bc3ab403e2cf748f2902f7741e66564</md5>			
+				<md5>c11706963b937844e6c40579779bbb7c</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="e1565165-562f-425d-8bcf-785fb61c5279">
 				<Name>ScenarioApprovisionnementChaleur_V1_1_1</Name>
