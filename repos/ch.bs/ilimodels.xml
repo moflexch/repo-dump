@@ -356,21 +356,6 @@
             <!--  ===============================================  -->
             <!--  Geologie                          BS008xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS008001">
-                <Name>BK_Bohrkataster_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Geologie/BK_Bohrkataster_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-08-02</Version>
-                <publishingDate>2022-09-13</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>b8df9ea342f0dc8d67c639b8f2b5bf54</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gesellschaft_Kultur               BS009xxx       -->
             <!--  ===============================================  -->
@@ -559,22 +544,7 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>8eaceb73d677cbfcefc699bd5b4baaba</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011012">
-                <Name>GX_GrundwasserstandUndTemperatur_KGDM_V2_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Gewaesser/GX_GrundwasserstandUndTemperatur_KGDM_V2_0_LV95.ili</File>
-                <Version>2023-12-15</Version>
-                <publishingDate>2024-01-09</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>138b9a5011290bb0c6867df613914ea3</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>            
+            </IliRepository20.RepositoryIndex.ModelMetadata>          
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS011013">
               <Name>WK_SanierungWasserkraft_KGDM_V1_0_LV95</Name>
               <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -625,21 +595,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>cbf72cd35a0bb11c8314be6cb05609e2</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012013">
-                <Name>BV_Baubewilligungsverfahren_KGDM_V2_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grenzen/BV_Baubewilligungsverfahren_KGDM_V2_0_LV95.ili</File>
-                <Version>2023-06-23</Version>
-                <publishingDate>2021-02-02</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>bc81285567ff1fd5321b6fb2b461d859</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS012014">
                 <Name>GU_GebietseinteilungGebaeudeunterhalt_KGDM_V1_0_LV95</Name>
@@ -1175,21 +1130,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>6249585967f3409633aadeb94da0efea</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025011">
-                <Name>PA_Parkierung_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/PA_Parkierung_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-10-15</Version>
-                <publishingDate>2019-12-03</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>19039dddd39973703ad6b1412b5bf358</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025013">
               <Name>TV_TeilrichtplanVelo_KGDM_V1_0_LV95</Name>
