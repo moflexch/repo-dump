@@ -3987,6 +3987,54 @@
       <md5>7ed5429def6f006d3f565154d7a269ea</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="001085">
+      <Name>Stato_dell_urbanizzazione_MN03_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>ARE/Stato_dell_urbanizzazione_V1.ili</File>
+      <Version>2026-05-07</Version>
+      <publishingDate>2026-05-12</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Stand_der_Erschliessung_LV03_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV03_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InternationalCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>74.1</Tags>
+      <Issuer>https://models.geo.admin.ch/ARE/</Issuer>
+      <technicalContact>mailto:info@are.admin.ch</technicalContact>
+      <furtherInformation>https://www.are.admin.ch/mmg</furtherInformation>
+      <md5>30fe2a87aba4e4c2cc421a74aa635ae0</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="001086">
+      <Name>Stato_dell_urbanizzazione_MN95_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>ARE/Stato_dell_urbanizzazione_V1.ili</File>
+      <Version>2025-10-24</Version>
+      <publishingDate>2026-05-12</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>Stand_der_Erschliessung_LV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InternationalCodes_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Tags>74.1</Tags>
+      <Issuer>https://models.geo.admin.ch/ARE/</Issuer>
+      <technicalContact>mailto:info@are.admin.ch</technicalContact>
+      <furtherInformation>https://www.are.admin.ch/mmg</furtherInformation>
+      <md5>30fe2a87aba4e4c2cc421a74aa635ae0</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 <!-- =================================================================== -->
 <!-- ASTRA OFROU USTRA FEDRO                                      002xxx -->
 
@@ -25200,6 +25248,32 @@
       <technicalContact>mailto:info@blv.admin.ch</technicalContact>
       <furtherInformation>https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen.html</furtherInformation>
       <md5>4d0210e832905b179f1881451f450a3e</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="013002">
+      <Name>AfricanSwineFeverContainment_V1</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BLV/AfricanSwineFeverContainment_V1.ili</File>
+      <Version>2026-05-11</Version>
+      <publishingDate>2026-05-12</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>CHAdminCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>InternationalCodes_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>WithOneState_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/BLV/</Issuer>
+      <technicalContact>mailto:data@blv.admin.ch</technicalContact>
+      <furtherInformation>https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen.html</furtherInformation>
+      <md5>22af2a1a413c0fab37bc0c80535f7e1b</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
