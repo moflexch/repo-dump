@@ -551,9 +551,9 @@
         <Name>Bodenkartierung_NW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Boden/Bodenkartierung_NW_V1_0.ili</File>
-        <Version>2026-05-12</Version>
+        <Version>2026-05-13</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-05-12</publishingDate>
+        <publishingDate>2026-05-13</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -570,7 +570,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/Boden</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>c31a3854cacb0314374426032614d7c0</md5>
+        <md5>a554e4ff549f25fe72907ab874d04940</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="29">
         <Name>Gewaesserueberwachung_NWOW_V1</Name>
