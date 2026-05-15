@@ -2484,6 +2484,18 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>C51A8BEA4DFEA2F67BF0FEBF1B42DE47</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Namen_Verkehrsinfrastruktur_V1">
+        <Name>SZ_Namen_Verkehrsinfrastruktur_V1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>TBA/SZ_Namen_Verkehrsinfrastruktur_V1.ili</File>
+        <Version>2024-08-23</Version>
+        <publishingDate>2026-05-15</publishingDate>
+        <Title>Namen (Verkehrsinfrastruktur)</Title>
+        <shortDescription>Dieses Modell führt die Klassen der Namen von verschiedenen Verkehrsinfrastrukturen.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>B9E6417C8AF5B3FC4D27B141287E4C4F</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!--Modelle des Verkehrsamtes-->
       <!--==================================================-->
