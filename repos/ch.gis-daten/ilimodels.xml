@@ -89,7 +89,7 @@
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Raumplanung/Raumplanung_Basis_NWOW_V2.ili</File>
         <Version>2025-01-20</Version>
-        <publishingDate>2026-01-23</publishingDate>
+        <publishingDate>2026-05-18</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -97,7 +97,7 @@
         </dependsOnModel>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <browseOnly>false</browseOnly>
-        <md5>f6c089272d4ee62602cffad776358d76</md5>
+        <md5>82f894526d121d3fb641c6b80ecb143b</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="5">
         <Name>Vegetationskartierung_NWOW_V1_0</Name>
