@@ -213,6 +213,27 @@
                 <md5>d6022173fc9fd0a91fbab4d3f454ad16</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
+            <IliRepository09.RepositoryIndex.ModelMetadata TID="AFJ007">
+                <Name>Rodungen_UR_V1_0</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>AFJ/Rodungen_UR_V1_0.ili</File>
+                <Version>2025-08-14</Version>
+                <publishingDate>2026-05-21</publishingDate>
+                <dependsOnModel>
+                    <IliRepository09.ModelName_>
+                        <value>GeometryCHLV95_V1</value>
+                    </IliRepository09.ModelName_>
+                    <IliRepository09.ModelName_>
+                        <value>LocalisationCH_V1</value>
+                    </IliRepository09.ModelName_>
+                </dependsOnModel>
+                <Tags>185.1</Tags>
+                <Issuer>https://webgis.lisag.ch/models/</Issuer>
+                <technicalContact>mailto:mail@lisag.ch</technicalContact>
+                <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Rodungen_UR_V1_0.pdf</furtherInformation>
+                <md5>431d78a8de0c450c733c90016fcd9be6</md5>
+            </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
             <!--  ===============================================  -->
             <!--  Amt für Steuern [AfSt]                           -->
