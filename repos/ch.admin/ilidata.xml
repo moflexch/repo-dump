@@ -15050,7 +15050,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1.xml</path>
+                <path>BAFU/replaced/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1_20250707.xml</path>
                 <md5>9eb2909093fda79b86a10763a7dad9f2</md5>
               </DatasetIdx16.File>
             </file>
@@ -15096,7 +15096,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1.xml</path>
+                <path>BAFU/replaced/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1_20250707.xml</path>
                 <md5>50a8a96766148f737b00c6dde6f7dfd1</md5>
               </DatasetIdx16.File>
             </file>
@@ -15142,7 +15142,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1.xml</path>
+                <path>BAFU/replaced/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1_20250707.xml</path>
                 <md5>7374a224cba16d80f3df78e6e286c58a</md5>
               </DatasetIdx16.File>
             </file>
@@ -15188,7 +15188,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1.xml</path>
+                <path>BAFU/replaced/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1_20250707.xml</path>
                 <md5>be8ba274d677efce8b9455c6649d46f3</md5>
               </DatasetIdx16.File>
             </file>
@@ -15234,7 +15234,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1.xml</path>
+                <path>BAFU/replaced/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1_20250707.xml</path>
                 <md5>5ebe4e71c1e90f5d2bd4dca80b8118e1</md5>
               </DatasetIdx16.File>
             </file>
@@ -15280,7 +15280,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1.xml</path>
+                <path>BAFU/replaced/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1_20250707.xml</path>
                 <md5>90f650451e95d7b6634b05290a1de1f0</md5>
               </DatasetIdx16.File>
             </file>
@@ -15326,7 +15326,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1.xml</path>
+                <path>BAFU/replaced/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1_20250707.xml</path>
                 <md5>acd4bccc7d8ff0a975ed240a34d01302</md5>
               </DatasetIdx16.File>
             </file>
@@ -15372,7 +15372,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1.xml</path>
+                <path>BAFU/replaced/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1_20250707.xml</path>
                 <md5>c7053354982d072361daf23b2694f8e9</md5>
               </DatasetIdx16.File>
             </file>
@@ -16153,6 +16153,374 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="305">
+        <id>ch.admin.geo.models.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1.xml</path>
+                <md5>69d0767164d0e8529296e40d6bdaef0c</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenProfildaten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="306">
+        <id>ch.admin.geo.models.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1.xml</path>
+                <md5>d46333744fe168b47db51ce7982a9b26</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenProjektstandort</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="307">
+        <id>ch.admin.geo.models.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:servicestelle_nabodat@agroscope.admin.ch</technicalContact>
+        <furtherInformation>https://www.nabodat.ch/index.php/de/</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1.xml</path>
+                <md5>fedb1ba9b88771010e65cc3da0f10ca1</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NABODAT_ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenProfildaten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Profildaten_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="308">
+        <id>ch.admin.geo.models.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:servicestelle_nabodat@agroscope.admin.ch</technicalContact>
+        <furtherInformation>https://www.nabodat.ch/index.php/de/</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1.xml</path>
+                <md5>b76f1770fab836b6a85e57f27398d325</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NABODAT_ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenProjektstandort</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Projektstandort_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="309">
+        <id>ch.admin.geo.models.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1.xml</path>
+                <md5>69bbc2de88e25060bc45fb6674ac90a2</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenAnalysedaten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="310">
+        <id>ch.admin.geo.models.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>https://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1.xml</path>
+                <md5>2b082c23397f1709bd7bd4edba7dbeb1</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenAnalysedaten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="311">
+        <id>ch.admin.geo.models.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:servicestelle_nabodat@agroscope.admin.ch</technicalContact>
+        <furtherInformation>https://www.nabodat.ch/index.php/de/</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1.xml</path>
+                <md5>7d19fdda6f5627f0567c4b4703e2797a</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-05</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NABODAT_ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenAnalysedaten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analysedaten_V1_1_20260505.xml</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="312">
+        <id>ch.admin.geo.models.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1_20260505</id>
+        <version>2026-05-05</version>
+        <precursorVersion>2025-07-07</precursorVersion>
+        <publishingDate>2026-05-22</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:servicestelle_nabodat@agroscope.admin.ch</technicalContact>
+        <furtherInformation>https://www.nabodat.ch/index.php/de/</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1.xml</path>
+                <md5>33d175e7183fb3c5d2e574c89a37ca5b</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-05-22</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>NABODAT_ErgebnisseBodenbelastung_Punktdaten_V1_1.CodelistenAnalysedaten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.NABODAT_ErgebnisseBodenbelastung_Punktdaten_Codelisten_Analyseparameter_V1_1_20260505.xml</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
