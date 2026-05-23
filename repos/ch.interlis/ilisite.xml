@@ -24,6 +24,9 @@
     <IliSite09.RepositoryLocation_>
       <value>https://405.sia.ch/models</value>
     </IliSite09.RepositoryLocation_>
+    <IliSite09.RepositoryLocation_>
+      <value>http://models.ilitools.ch</value>
+    </IliSite09.RepositoryLocation_>
     <!--Repository unnereichbar ohne Kontaktmöglichkeit. Stand 20240125-->
     <!--<IliSite09.RepositoryLocation_>
       <value>https://repositorio.proadmintierra.info</value>
