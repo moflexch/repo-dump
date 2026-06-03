@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+	<HEADERSECTION SENDER="GEOVD" VERSION="2.3">
+		<MODELS>
+			<MODEL NAME="DatasetIdx16" VERSION="2024-01-01" URI="mailto:info.icdg@vd.ch"/>
+		</MODELS>
+	</HEADERSECTION>
+	<DATASECTION/>
+</TRANSFER>
