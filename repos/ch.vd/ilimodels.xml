@@ -693,16 +693,19 @@
 				<md5>3acf78b1ac207437d4e2c8bf148621fc</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="796f04ed-76e4-4372-a45b-2c993b887d56">
-				<Name>VD_SitesPollues</Name>
+				<Name>SitesPollues</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
 				<File>DGE/CH116.1_SitesPollues_V1.5.0.ili</File>
 				<Version>1.5.0</Version>
 				<VersionComment/>
-				<publishingDate>2024-04-05</publishingDate>
+				<publishingDate>2026-06-01</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository09.ModelName_>
 						<value>KbS_V1_5</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
 					</IliRepository09.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -1829,7 +1832,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>e08f45fcd15d382d8c2d56f2018546a5</md5>			
+				<md5>65a381b0db302efef35d287788295323</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 		</IliRepository09.RepositoryIndex>		
 		<!-- MGDM INTERLIS 2.4 -->
@@ -2810,13 +2813,13 @@
 				<md5>e4fcc06e3576d4d2a687dbc55da1f1b3</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="4c2e258d-ae3e-461c-9f38-b0f076ce0ef4">
-				<Name>VD_ArbresRemarquables_V1_0_0</Name>
+				<Name>VD_ArbresRemarquables_V1_1_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
 				<File>DGE/VD102.1_ArbresRemarquables_V1.0.0.ili</File>
-				<Version>1.0.0</Version>
+				<Version>1.1.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2024-05-16</publishingDate>
+				<publishingDate>2026-05-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
@@ -2830,7 +2833,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>b96a717eb0d3f40506af289ba7675aa2</md5>			
+				<md5>f0e35531e5e897a4e44a06ccd0c3e24e</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="9d2aa251-9884-4070-9b9a-8630724277d2">
 				<Name>VD_EnergetiqueBatiments_V1_1_0</Name>
