@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+	<HEADERSECTION SENDER="ili2pg-4.6.1-63db90def1260a503f0f2d4cb846686cd4851184" VERSION="2.3">
+		<MODELS>
+			<MODEL NAME="DatasetIdx16" VERSION="2018-11-21" URI="mailto:ce@eisenhutinformatik.ch"/>
+		</MODELS>
+	</HEADERSECTION>
+	<DATASECTION>
+		<DatasetIdx16.DataIndex BID="be05cf86-8b8f-40de-ac04-55b867e160fc">
+			<DatasetIdx16.DataIndex.DatasetMetadata TID="0">
+				<id>sh.geo.models.Hauptnutzung_CH</id>
+				<version>2019-04-18</version>
+				<publishingDate>2019-04-18</publishingDate>
+				<owner>mailto:gis@sh.ch</owner>
+				<title>
+					<DatasetIdx16.MultilingualText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedText>
+								<Text>Katalog Hauptnutzung_CH</Text>
+							</DatasetIdx16.LocalisedText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualText>
+				</title>
+				<categories>
+					<DatasetIdx16.Code_>
+						<value>http://codes.interlis.ch/type/referenceData</value>
+					</DatasetIdx16.Code_>
+					<DatasetIdx16.Code_>
+						<value>http://codes.interlis.ch/model/Nutzungsplanung_SH_LV95_V4_0</value>
+					</DatasetIdx16.Code_>
+				</categories>
+				<technicalContact>mailto:gis@sh.ch</technicalContact>
+				<furtherInformation>https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-3854-DE.html</furtherInformation>
+				<files>
+					<DatasetIdx16.DataFile>
+						<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+						<file>
+							<DatasetIdx16.File>
+								<path>PNA/Hauptnutzung_CH.xml</path>
+								<md5>ac0f08a01b175a87fee56e77c3e9536e</md5>
+							</DatasetIdx16.File>
+						</file>
+					</DatasetIdx16.DataFile>
+				</files>
+				<baskets>
+					<DatasetIdx16.DataIndex.BasketMetadata>
+						<version>2019-04-18</version>
+						<model>
+							<DatasetIdx16.ModelLink>
+								<name>Nutzungsplanung_Hauptnutzung_V1_1_SH.Hauptnutzung_CH</name>
+							</DatasetIdx16.ModelLink>
+						</model>
+						<owner>mailto:gis@sh.ch</owner>
+						<localId>sh.pna.hauptnutzung_ch</localId>
+					</DatasetIdx16.DataIndex.BasketMetadata>
+				</baskets>
+			</DatasetIdx16.DataIndex.DatasetMetadata>
+		</DatasetIdx16.DataIndex>
+	</DATASECTION>
+</TRANSFER>
