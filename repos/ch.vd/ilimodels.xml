@@ -715,7 +715,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>d6c7c6a42b4531e947c55db9e9dbe53f</md5>			
+				<md5>14dfb5ecefed63fd1abda397d628d07a</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="8292b5ed-82f3-4807-988c-270156db409c">
 				<Name>VD_RelevesPollutionAtmospherique</Name>
@@ -2815,7 +2815,7 @@
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="4c2e258d-ae3e-461c-9f38-b0f076ce0ef4">
 				<Name>VD_ArbresRemarquables_V1_1_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD102.1_ArbresRemarquables_V1.0.0.ili</File>
+				<File>DGE/VD102.1_ArbresRemarquables_V1.1.0.ili</File>
 				<Version>1.1.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
