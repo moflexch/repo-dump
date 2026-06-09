@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+  <HEADERSECTION SENDER="kgk-cgc" VERSION="2.3">
+    <MODELS>
+      <MODEL NAME="DatasetIdx16" VERSION="2018-10-19" URI="mailto:ce@eisenhutinformatik.ch"/>
+    </MODELS>
+  </HEADERSECTION>
+  <DATASECTION>
+    <DatasetIdx16.DataIndex BID="d65190fa-cc42-45c2-976d-f875ede5a59e">
+
+      <DatasetIdx16.DataIndex.Metadata TID="eb7c2ce1-b3ce-44f9-a434-883f9fe8a87d">
+      	<id>ch.kgk-cgc.datarepository</id>
+      	<version>2023-11-06</version>
+        <owner>https://www.kgk-cgc.ch</owner>
+        <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
+        <restrictions>
+          <DatasetIdx16.Code_>
+            <value>https://opendatacommons.org/licenses/odbl/1-0/</value>
+          </DatasetIdx16.Code_>
+        </restrictions>
+      </DatasetIdx16.DataIndex.Metadata>
+
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="cffbe039-5f3a-4232-8f33-0fdb7e3e5473">
+      	<id>ch.kgk-cgc.gewaesserraum-legendensymbol-oerebzusatz</id>
+      	<title>
+      	  <DatasetIdx16.MultilingualText>
+      	    <LocalisedText>
+      	      <DatasetIdx16.LocalisedText>
+      	        <Language>de</Language>
+      	        <Text>Gewaesserraum: Zusatz OEREB-Legendensymbole</Text>
+      	      </DatasetIdx16.LocalisedText>
+      	    </LocalisedText>
+      	    <LocalisedText>
+      	      <DatasetIdx16.LocalisedText>
+      	        <Language>fr</Language>
+      	        <Text>Espace reserve aux eaux : Ajout des symboles de legende RDPPF</Text>
+      	      </DatasetIdx16.LocalisedText>
+      	    </LocalisedText>
+      	  </DatasetIdx16.MultilingualText>
+      	</title>
+      	<shortDescription>
+      	  <DatasetIdx16.MultilingualMText>
+      	    <LocalisedText>
+      	      <DatasetIdx16.LocalisedMText>
+      	        <Language>de</Language>
+      	        <Text>Gewaesserraum: zusaetzliche Legendensymbole fuer den OEREB-Kataster - Gewaesserraum/Verzichtsflaeche, laufende Aenderungen mit oder ohne Vorwirkung. Im Modell des BAFU werden nur Legendensymbole für rechtskraeftige Objekte definiert.</Text>
+      	      </DatasetIdx16.LocalisedMText>
+      	    </LocalisedText>
+      	    <LocalisedText>
+      	      <DatasetIdx16.LocalisedMText>
+      	        <Language>fr</Language>
+      	        <Text>Espace reserve aux eaux : symbole de legende supplementaire pour le cadastre RDPPF - Espace reserve aux eaux/surface de renoncement, modifications en cours avec ou sans preavis. Dans le modèle de l'OFEV, seuls des symboles de légende sont définis pour les objets ayant force de loi.</Text>
+      	      </DatasetIdx16.LocalisedMText>
+      	    </LocalisedText>
+      	  </DatasetIdx16.MultilingualMText>
+      	</shortDescription>
+      	<version>2024-06-13</version>
+      	<owner>mailto:info@kgk-cgc.ch</owner>
+      	<files>
+      		<DatasetIdx16.DataFile>
+      			<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+      			<file>
+      				<DatasetIdx16.File>
+      					<path>xml/Gewaesserraum_Codetexte_OEREBZusatz_V1_1.xml</path>
+      					<md5>2c9de0429189958c8d3aa6f174a03c37</md5>
+      				</DatasetIdx16.File>
+      			</file>
+      		</DatasetIdx16.DataFile>
+      	</files>
+      	<baskets>
+      		<DatasetIdx16.DataIndex.BasketMetadata>
+      			<id>ch.kgk-cgc.gewaesserraum_codetexte_v1_1</id> <!-- BID of basket in XTF -->
+      			<version>2023-11-08</version>
+      			<model>
+      				<DatasetIdx16.ModelLink>
+      					<name>Gewaesserraum_LegendeEintrag_OEREBZusatz_V1_1.LegendeEintrag </name>	 <!-- qualified TOPIC name -->
+      				</DatasetIdx16.ModelLink>
+      			</model>
+      			<owner>mailto:info@kgk-cgc.ch</owner>
+      		</DatasetIdx16.DataIndex.BasketMetadata>
+      	</baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      
+    </DatasetIdx16.DataIndex>
+  </DATASECTION>
+</TRANSFER>
