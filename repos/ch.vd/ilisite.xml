@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+	<HEADERSECTION SENDER="GEOVD" VERSION="2.3">
+		<MODELS>
+			<MODEL NAME="IliSite09" VERSION="2024-01-01" URI="mailto:info.icdg@vd.ch"/>
+		</MODELS>
+	</HEADERSECTION>
+	<DATASECTION>
+		<IliSite09.SiteMetadata BID="GEOVD01">
+			<IliSite09.SiteMetadata.Site TID="1">
+				<Name>evd.vd.ch/geo/</Name>
+				<Title>Entrepôt des modèles INTERLIS du Canton de Vaud</Title>
+				<shortDescription>Référentiel des modèles de données des géodonnées de base de droit fédéral et de compétence cantonale, ainsi que de droit cantonal et de compétence cantonale ou communale.</shortDescription>
+				<Tags/>
+				<Owner>https://www.vd.ch</Owner>
+				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
+				<furtherInformation>https://www.vd.ch/themes/territoire-et-construction/cadastre-et-geoinformation</furtherInformation>
+				<furtherMetadata/>
+				<parentSite>
+					<IliSite09.RepositoryLocation_>
+						<value>https://models.kgk-cgc.ch/</value>
+					</IliSite09.RepositoryLocation_>
+				</parentSite>
+			</IliSite09.SiteMetadata.Site>
+		</IliSite09.SiteMetadata>
+	</DATASECTION>
+</TRANSFER>
