@@ -405,7 +405,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="SZ_Revitalisierungsplanung_Fliessgewaesser_V1">
         <Name>SZ_Revitalisierungsplanung_Fliessgewaesser_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AFG/SZ_Revitalisierungsplanung_Fliessgewaesser_V1.ili</File>
+        <File>AFG/replaced/SZ_Revitalisierungsplanung_Fliessgewaesser_V1.ili</File>
         <Version>2023-12-22</Version>
         <publishingDate>2024-08-28</publishingDate>
         <Title>Planung der Revitalisierungen von Gewässern (Bereich Fliessgewässer)</Title>
