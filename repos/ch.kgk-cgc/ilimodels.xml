@@ -11,9 +11,9 @@
                 <Name>CGC_CouvertureDuSol_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/CGC_CouvertureDuSol_FR_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>fr</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>GeometryCHLV95_V2</value>
@@ -26,10 +26,10 @@
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-ComplementsDMAV-FR_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>297dedbae35be80ac9e468126a5a8822</md5>
+                <md5>b419136d974d4585f6ed2c165ef03384</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="2">
                 <Name>Gewaesserraum_LegendeEintrag_OEREBZusatz_V1_1</Name>
@@ -97,9 +97,9 @@
                 <Name>CGC_ObjetsDivers_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/CGC_ObjetsDivers_FR_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>fr</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>GeometryCHLV95_V2</value>
@@ -112,10 +112,10 @@
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-ComplementsDMAV-FR_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>693c122c1a611e7e6f597d40bc83fcdd</md5>
+                <md5>0a35cf2b7ff279a825f626e5ca78a0f2</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="6">
                 <Name>KGKCGC_FPDS2_V1_1</Name>
@@ -153,9 +153,9 @@
                 <Name>KGK_Bodenbedeckung_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/KGK_Bodenbedeckung_DE_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>de</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>GeometryCHLV95_V2</value>
@@ -168,18 +168,18 @@
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-DMAVErgaenzungen-DE_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>4d4c6cea76eaf12ee2ca7ebed4b6a159</md5>
+                <md5>ecd4cc57427102b0274f7ea05d1a35b5</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="11">
                 <Name>KGK_Einzelobjekte_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/KGK_Einzelobjekte_DE_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>de</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>GeometryCHLV95_V2</value>
@@ -192,10 +192,10 @@
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-DMAVErgaenzungen-DE_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>e69ce96e55b5cdabed43b4c2d42e3157</md5>
+                <md5>b5a12cf4a5eebf6ee74e7c01939b2b5e</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="14">
                 <Name>ClimateMap_PhysiologicalEquivalentTemperature</Name>
@@ -228,9 +228,9 @@
                 <Name>CGC_CoperturaSuolo_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/CGC_CoperturaSuolo_IT_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>it</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>GeometryCHLV95_V2</value>
@@ -243,46 +243,46 @@
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-ComplementsDMAV-FR_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>687f70017dc31c250177e879bf4be930</md5>
+                <md5>ad949e87e4b198db0304167e8e79be9f</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="17">
                 <Name>CGC_Fondi_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/CGC_Fondi_IT_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>it</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>DMAV_Fondi_V1_1</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-ComplementsDMAV-FR_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>beb73980aa224ddf01413d26c6790115</md5>
+                <md5>00f93966ddadbf80e3f730dc1f986276</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="18">
                 <Name>CGC_Immeubles_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/CGC_Immeubles_FR_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>fr</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>DMAV_Immeubles_V1_1</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-ComplementsDMAV-FR_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>40123631f2c421649fb9264c37285bba</md5>
+                <md5>1c1205390f4d05d05ba4677a24ec55eb</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="20">
                 <Name>Kant_Koordination_NHG_LV95</Name>
@@ -306,27 +306,27 @@
                 <Name>KGK_Grundstuecke_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/KGK_Grundstuecke_DE_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>de</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>DMAV_Grundstuecke_V1_1</value>
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-DMAVErgaenzungen-DE_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>c4635d890c25e1fe21264c451918d589</md5>
+                <md5>00ac3037bcb04c7561e407c5aae18136</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="22">
                 <Name>CGC_OggettiSingoli_V1_0</Name>
                 <SchemaLanguage>ili2_4</SchemaLanguage>
                 <File>ili/CGC_OggettiSingoli_IT_V1_0.ili</File>
-                <Version>1.0.0</Version>
+                <Version>1.0.1</Version>
                 <NameLanguage>it</NameLanguage>
-                <publishingDate>2026-06-15</publishingDate>
+                <publishingDate>2026-06-17</publishingDate>
                 <dependsOnModel>
                     <IliRepository20.ModelName_>
                         <value>GeometryCHLV95_V2</value>
@@ -339,10 +339,10 @@
                     </IliRepository20.ModelName_>
                 </dependsOnModel>
                 <Issuer>https://www.kgk-cgc.ch/</Issuer>
-                <technicalContact>info@kgk-cgc.ch</technicalContact>
+                <technicalContact>mailto:info@kgk-cgc.ch</technicalContact>
                 <furtherInformation>https://models.kgk-cgc.ch/pdf/K002-ComplementsDMAV-FR_V1-0_DEF.pdf</furtherInformation>
                 <browseOnly>false</browseOnly>
-                <md5>1d272f1631910c7f82d96501b5e689f9</md5>
+                <md5>f59de1937a79c555b3602677ff6d7d3f</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="23">
                 <Name>KGKCGC_FPDS2_V1_1_IT</Name>
