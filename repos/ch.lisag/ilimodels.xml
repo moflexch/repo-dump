@@ -217,7 +217,7 @@
                 <Name>Rodungen_UR_V1_0</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
                 <File>AFJ/Rodungen_UR_V1_0.ili</File>
-                <Version>2025-08-14</Version>
+                <Version>2026-03-23</Version>
                 <publishingDate>2026-05-21</publishingDate>
                 <dependsOnModel>
                     <IliRepository09.ModelName_>
@@ -231,7 +231,7 @@
                 <Issuer>https://webgis.lisag.ch/models/</Issuer>
                 <technicalContact>mailto:mail@lisag.ch</technicalContact>
                 <furtherInformation>https://webgis.lisag.ch/PDF/Datenmodelle/DM_Rodungen_UR_V1_0.pdf</furtherInformation>
-                <md5>431d78a8de0c450c733c90016fcd9be6</md5>
+                <md5>e041c6e122f84d551095b7bdf9c11b5a</md5>
             </IliRepository09.RepositoryIndex.ModelMetadata>
 
 

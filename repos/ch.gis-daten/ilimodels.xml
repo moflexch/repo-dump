@@ -652,8 +652,8 @@
         <Name>Naturgefahren_OW_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
         <File>Naturgefahren/Naturgefahren_OW_V1.ili</File>
-        <Version>2024-12-19</Version>
-        <publishingDate>2026-04-29</publishingDate>
+        <Version>2026-06-15</Version>
+        <publishingDate>2026-06-23</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V1</value>
@@ -665,7 +665,7 @@
         <technicalContact>mailto:sebastian.marti@trigonet.ch</technicalContact>
         <furtherInformation>T:\_Sar\Auftraege\GIS_Obwalden\GIS.OW\GIS.OW.1010_Naturgefahren\GIS.OW.1010.13_Migration_Naturgefahren_OW_2023\Datenmodell_2023_aktuell</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>f2a9f26a9fb0161dcad85783c678dc26</md5>
+        <md5>d92a0655c1a1dd5cabcca9003f93a1b8</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="34">
         <Name>Richtplaene_MGDM_V1_Kantonal_NW_V1_0</Name>
