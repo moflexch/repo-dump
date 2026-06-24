@@ -3326,7 +3326,7 @@
         <md5>2474f75609a6e31c44a0366e1c3267a9</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
-      <!-- Modelle des des Tiefbauamtes TBA                 -->
+      <!-- Modelle des Tiefbauamtes TBA                 -->
       <!--==================================================-->
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Strassenbauprojekte_V1">
         <Name>SZ_Strassenbauprojekte_V1</Name>
@@ -3378,6 +3378,21 @@
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>BB2DEA3C208ACAE49DC80564C34B8AEF</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <!--==================================================-->
+      <!-- Modelle des Laboratoriums der Urkantone LABURK -->
+      <!--==================================================-->
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_AfrikanischeSchweinepestContainment_V1">
+        <Name>SZ_AfrikanischeSchweinepestContainment_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>LABURK/SZ_AfrikanischeSchweinepestContainment.ili</File>
+        <Version>2026-05-27</Version>
+        <publishingDate>2026-06-24</publishingDate>
+        <Title>Lücken in den Containment-Räumen für den Ausbruch der Afrikanischen Schweinepest bei Wildschweinen</Title>
+        <shortDescription>Dieses Modell stellt die Lücken in den Containment-Räumen für die Afrikanische Schweinepest bei Wildscheine dar.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>AB6F58B348A07B1A8F4A0FE6728ED533</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>
