@@ -695,8 +695,8 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="796f04ed-76e4-4372-a45b-2c993b887d56">
 				<Name>SitesPollues</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>DGE/CH116.1_SitesPollues_V1.5.0.ili</File>
-				<Version>1.5.0</Version>
+				<File>DGE/CH116.1_SitesPollues_V1.5.1.ili</File>
+				<Version>1.5.1</Version>
 				<VersionComment/>
 				<publishingDate>2026-06-01</publishingDate>
 				<Original/>
@@ -715,7 +715,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>14dfb5ecefed63fd1abda397d628d07a</md5>			
+				<md5>a18a27feda194b07e3411c9ec157c0a2</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="8292b5ed-82f3-4807-988c-270156db409c">
 				<Name>VD_RelevesPollutionAtmospherique</Name>
@@ -1349,19 +1349,19 @@
 				<md5>92812ecd44ced7e768bf3daecdf427ca</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="24ca65a0-9b3e-4dd9-8bb0-1a70ccb23ba5">
-				<Name>VD_CadastreDangers_V1_0_0</Name>
+				<Name>CadastreEvenementsNaturels_V1_1_0</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>DGE/CH167.1_CadastreDangers_V1.0.0.ili</File>
-				<Version>1.0.0</Version>
+				<File>DGE/CH167.1_CadastreEvenementsNaturels_V1.1.0.ili</File>
+				<Version>1.1.0</Version>
 				<VersionComment/>
-				<publishingDate>2024-03-08</publishingDate>
+				<publishingDate>2026-06-12</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository09.ModelName_>
-						<value>Naturereigniskataster_umfassend_LV95_V1</value>
+						<value>Naturereigniskataster_MGDM_LV95_V1</value>
 					</IliRepository09.ModelName_>
 					<IliRepository09.ModelName_>
-						<value>Naturereigniskataster_MGDM_LV95_V1</value>
+						<value>Naturereigniskataster_umfassend_LV95_V1</value>
 					</IliRepository09.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -1371,7 +1371,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>bc700ab888397c224e65a702dc296a4c</md5>			
+				<md5>c150b475bbc40416736c5b8459ceef3e</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="ab47c2b1-eabd-4a58-b408-ed2b7ce73021">
 				<Name>VD_Radon</Name>
@@ -1861,13 +1861,13 @@
 				<md5>aeb309d99c6d14148ae04459b851c2d1</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="e88ea84e-65af-457b-b5ff-494011fe7418">
-				<Name>InfrastructuresSportives_V1_0_0</Name>
+				<Name>InfrastructuresSportives_V1_0_1</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>SEPS/ACV61.1_InfrastructuresSportives_V1.0.0.ili</File>
-				<Version>1.0.0</Version>
+				<File>SEPS/ACV61.1_InfrastructuresSportives_V1.0.1.ili</File>
+				<Version>1.0.1</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2026-04-14</publishingDate>
+				<publishingDate>2026-06-12</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
@@ -1881,7 +1881,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>ac64e385362c265ae76eaff8bd42afd1</md5>			
+				<md5>265f29a00e94692d9406248bf60b3c3c</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="265e7fb1-a9a5-47df-952c-2d321ff45f0a">
 				<Name>VD_OuvragesProtectionDangersNaturels</Name>
@@ -2859,10 +2859,10 @@
 				<md5>ca2e0ad4484adb0d4462634696f3cdef</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="b22f0205-7a4b-48b7-9b5a-510a4efa1860">
-				<Name>CadastrePlanifCommune_V1_2_0</Name>
+				<Name>CadastrePlanifCommune_V1_3_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD104.1_PlanificationEnergetiqueCommune_V1.2.0.ili</File>
-				<Version>1.2.0</Version>
+				<File>DGE/VD104.1_PlanificationEnergetiqueCommune_V1.3.0.ili</File>
+				<Version>1.3.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
 				<publishingDate>2026-04-15</publishingDate>
@@ -2882,7 +2882,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>c11706963b937844e6c40579779bbb7c</md5>			
+				<md5>f10d0d99f40901f1c7b978512aa71a1c</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="e1565165-562f-425d-8bcf-785fb61c5279">
 				<Name>ScenarioApprovisionnementChaleur_V1_1_1</Name>
