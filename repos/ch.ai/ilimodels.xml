@@ -194,9 +194,46 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001103">
 				<Name>AI_Nutzungsplanung_V2_3</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>ARE/AI_Nutzungsplanung_V2_3.ili</File>
+				<File>ARE/replaced/AI_Nutzungsplanung_V2_3.ili</File>
 				<Version>2023-07-25</Version>
 				<publishingDate>2023-07-25</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>Units</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GraphicCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CHAdminCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>InternationalCodes_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>AI_Nutzungsplanung_Codelisten_V2_3</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<Title>Nutzungsplanung (kommunal) Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
+				<Issuer>https://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>bd52ff86188dcc974dadb9e025a0c47c</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001118">
+				<Name>AI_Nutzungsplanung_V2_3_1</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>ARE/AI_Nutzungsplanung_V2_3_1.ili</File>
+				<Version>2026-06-30</Version>
+				<publishingDate>2026-07-06</publishingDate>
 				<dependsOnModel>
 					<IliRepository09.ModelName_>
 						<value>Units</value>
@@ -225,7 +262,7 @@
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>9ff50bc54642714ce45276ad591c2fc2</md5>
+				<md5>929df7db5f1af84ca8fdd68548ea5cf0</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001104">
