@@ -33298,7 +33298,7 @@
     <IliRepository20.RepositoryIndex.ModelMetadata TID="509001">
       <Name>UASGeographicalZone_V2</Name>
       <SchemaLanguage>ili2_4</SchemaLanguage>
-      <File>BAZL/UASGeographicalZone_V2.ili</File>
+      <File>obsolete/UASGeographicalZone_V2_o0.ili</File>
       <Version>2025-03-10</Version>
       <publishingDate>2025-03-28</publishingDate>
       <dependsOnModel>
@@ -33360,6 +33360,33 @@
       <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
       <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
       <md5>a2c5acd044ee8a02939442048763cf8c</md5>
+    </IliRepository20.RepositoryIndex.ModelMetadata>
+
+    <IliRepository20.RepositoryIndex.ModelMetadata TID="509004">
+      <Name>UASGeographicalZone_V2</Name>
+      <SchemaLanguage>ili2_4</SchemaLanguage>
+      <File>BAZL/UASGeographicalZone_V2.ili</File>
+      <Version>2026-06-29</Version>
+      <publishingDate>2026-07-15</publishingDate>
+      <dependsOnModel>
+        <IliRepository20.ModelName_>
+          <value>Text_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>GeometryCHLV95_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>InternationalCodes_V2</value>
+        </IliRepository20.ModelName_>
+        <IliRepository20.ModelName_>
+          <value>CatalogueObjects_V2</value>
+        </IliRepository20.ModelName_>
+      </dependsOnModel>
+      <precursorVersion>2025-03-10</precursorVersion>
+      <Issuer>https://models.geo.admin.ch/BAZL/</Issuer>
+      <technicalContact>mailto:gis@bazl.admin.ch</technicalContact>
+      <furtherInformation>https://www.bazl.admin.ch/geoinformation</furtherInformation>
+      <md5>748f1a1945faab902b2836c03f67d869</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
 <!-- =================================================================== -->
