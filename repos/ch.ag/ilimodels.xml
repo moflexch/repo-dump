@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="AG" VERSION="2.3">
+<MODELS>
+<MODEL NAME="IliRepository09" VERSION="2012-02-20" URI="mailto:ce@eisenhutinformatik.ch"/>
+</MODELS>
+</HEADERSECTION>
+<DATASECTION>
+<!-- ===================================================================== -->
+<!-- Modelle der Abteilung Raumentwicklung ARE -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="ARE">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="MODEL_Schnittstellenmodell_ARE_AG_LV95">
+<Name>MODEL_Schnittstellenmodell_ARE_AG_LV95_2022</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>ARE/MODEL_Schnittstellenmodell_ARE_AG_LV95_2022.ili</File>
+<Version>2022-04-26</Version>
+<publishingDate>2022-04-26</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+<!-- ===================================================================== -->
+<!-- Modelle der Abteilung Umwelt AFU -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="AFU">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Genereller_Entwaesserungsplan_AG">
+<Name>Genereller_Entwaesserungsplan_AG</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>AFU/Genereller_Entwaesserungsplan_AG_V1_20180614_IL2.ili</File>
+<Version>2018-06-14</Version>
+<publishingDate>2018-06-14</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="Abwasserkataster_AG_V2_LV95">
+<Name>Abwasserkataster_AG_V2_LV95</Name>
+<SchemaLanguage>ili2_3</SchemaLanguage>
+<File>AFU/Abwasserkataster_AG_V2_LV95_2019-04-12_IL23.ili</File>
+<Version>2019-04-12</Version>
+<publishingDate>2019-04-12</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+<!-- ===================================================================== -->
+<!-- Modelle des Vermessungsamts ARPVA -->
+<!-- ===================================================================== -->
+<IliRepository09.RepositoryIndex BID="ARPVA">
+<IliRepository09.RepositoryIndex.ModelMetadata TID="DM01AVAG25LV95">
+<Name>DM01AVAG25LV95</Name>
+<SchemaLanguage>ili1</SchemaLanguage>
+<File>ARPVA/DM01AVAG25LV95.ili</File>
+<Version>2011-12-01</Version>
+<publishingDate>2019-08-19</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+<IliRepository09.RepositoryIndex.ModelMetadata TID="MOpublic95_ili1">
+<Name>MOpublic95_ili1</Name>
+<SchemaLanguage>ili1</SchemaLanguage>
+<File>ARPVA/MOpublic95_ili1.ili</File>
+<Version>2013-02-01</Version>
+<publishingDate>2013-02-01</publishingDate>
+<Issuer>https://models.geo.ag.ch</Issuer>
+<technicalContact>mailto:geoportal@ag.ch</technicalContact>
+</IliRepository09.RepositoryIndex.ModelMetadata>
+</IliRepository09.RepositoryIndex>
+</DATASECTION>
+</TRANSFER>
