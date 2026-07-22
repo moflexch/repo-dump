@@ -65,9 +65,9 @@
         <Name>Klimaanalyse_Planungshinweis_NWOW_V1_0</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
         <File>Atmosphaere_Luft_Klima/Klimaanalyse_Planungshinweis_NWOW_V1_0.ili</File>
-        <Version>2026-07-20</Version>
+        <Version>2026-07-22</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-07-20</publishingDate>
+        <publishingDate>2026-07-22</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -81,7 +81,7 @@
         <Issuer>https://models.gis-daten.ch/nw-ow/Atmosphaere_Luft_Klima</Issuer>
         <technicalContact>mailto:support@gis-daten.ch</technicalContact>
         <browseOnly>false</browseOnly>
-        <md5>238d70d5509e2730b0c17430fc425222</md5>
+        <md5>0bbf00dcaebf1b37053347b679fc62a5</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="4">
         <Name>Artenschutz_OW_V1_0</Name>
