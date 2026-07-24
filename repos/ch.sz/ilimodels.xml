@@ -3256,6 +3256,30 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <md5>FF6E5842955B072C05B503ECC8F43783</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Naturgefahren_Grundlagen_Hydrologie_V1">
+        <Name>SZ_Naturgefahren_Grundlagen_Hydrologie_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Naturgefahren_Grundlagen_Hydrologie_V1.ili</File>
+        <Version>2026-05-21</Version>
+        <publishingDate>2026-07-24</publishingDate>
+        <Title>Naturgefahren Grundlagen Hydrologie</Title>
+        <shortDescription>Dieses Modell stellt die hydrologischen Grundlagen für die Naturgefahrenkarte zur Verfügung.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>F6CDD6EF363E45B02A7B1E7582B05EC4</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_Naturgefahren_Grundlagen_Hydrologie_Publikation_V1">
+        <Name>SZ_Naturgefahren_Grundlagen_Hydrologie_Publikation_V1</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>AWN/SZ_Naturgefahren_Grundlagen_Hydrologie_Publikation_V1.ili</File>
+        <Version>2026-05-21</Version>
+        <publishingDate>2026-07-24</publishingDate>
+        <Title>Rodungen und Rodungsersatz</Title>
+        <shortDescription>Dieses Modell stellt die hydrologischen Grundlagen für die Naturgefahrenkarte zur Verfügung.</shortDescription>
+        <Issuer>https://models.geo.sz.ch</Issuer>
+        <technicalContact>mailto:geoportal@sz.ch</technicalContact>
+        <md5>9C16A5BAE53D06BE13363C0554311DCA</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
       <!--==================================================-->
       <!-- Modelle des Amtes für Mittel- und Hochschulen AMH-->
       <!--==================================================-->
@@ -3373,14 +3397,14 @@
       <IliRepository20.RepositoryIndex.ModelMetadata TID="SZ_AfrikanischeSchweinepestContainment_V1">
         <Name>SZ_AfrikanischeSchweinepestContainment_V1</Name>
         <SchemaLanguage>ili2_4</SchemaLanguage>
-        <File>LABURK/SZ_AfrikanischeSchweinepestContainment.ili</File>
+        <File>LABURK/SZ_AfrikanischeSchweinepestContainment_V1.ili</File>
         <Version>2026-05-27</Version>
         <publishingDate>2026-06-24</publishingDate>
         <Title>Lücken in den Containment-Räumen für den Ausbruch der Afrikanischen Schweinepest bei Wildschweinen</Title>
-        <shortDescription>Dieses Modell stellt die Lücken in den Containment-Räumen für die Afrikanische Schweinepest bei Wildscheine dar.</shortDescription>
+        <shortDescription>Dieses Modell stellt die Lücken in den Containment-Räumen für die Afrikanische Schweinepest bei Wildschweine dar.</shortDescription>
         <Issuer>https://models.geo.sz.ch</Issuer>
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
-        <md5>AB6F58B348A07B1A8F4A0FE6728ED533</md5>
+        <md5>C97EF36F32AB29BEA79910930F5C88E8</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
     </IliRepository20.RepositoryIndex>
   </DATASECTION>

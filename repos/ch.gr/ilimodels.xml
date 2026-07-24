@@ -62,7 +62,7 @@
 			</IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>https://models.geo.gr.ch</Issuer>
+		<Issuer>http://models.geo.gr.ch</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>c10ba6acfaa3e9f3d68bd8e7ffc23d2a</md5>
@@ -84,7 +84,7 @@
 			</IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>https://models.geo.gr.ch</Issuer>
+		<Issuer>http://models.geo.gr.ch</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>0224dd6dbbbf00187e46c8c82bc76b79</md5>
@@ -139,7 +139,7 @@
 		  </IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>http://geo.gr.ch</Issuer>
+		<Issuer>https://models.geo.gr.ch</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>a5d5873e05a699bb90e626263e298374</md5>
@@ -157,10 +157,10 @@
 		  </IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>http://geo.gr.ch</Issuer>
+		<Issuer>https://models.geo.gr.ch</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
-		<md5>eee38976b5782a783e61c1040ab5071b</md5>
+		<md5>6d456c2b15fbe454277aced4e6a85894</md5>
 	</IliRepository09.RepositoryIndex.ModelMetadata>
 	
 	<IliRepository09.RepositoryIndex.ModelMetadata TID="8">
@@ -185,7 +185,7 @@
 		<Name>SIA405_LKMap_2015_LKGR</Name>
 		<SchemaLanguage>ili2_3</SchemaLanguage>
 		<File>3_Bevoelkerung_und_Wirtschaft/Q_Versorgung_Entsorgung_Kommunikation/SIA405_LKMap_2015_LKGR_d.ili</File>
-		<Version>2021-04-16</Version>
+		<Version>16.04.2021</Version>
 		<publishingDate>2021-09-07</publishingDate>
 		<dependsOnModel>
 		  <IliRepository09.ModelName_>
@@ -199,17 +199,17 @@
 		  </IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>http://geo.gr.ch</Issuer>
+		<Issuer>https://models.geo.gr.ch/</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>a632404b8504e70f9c9b061dd9a7e0e1</md5>
 	</IliRepository09.RepositoryIndex.ModelMetadata>
 
-	<IliRepository09.RepositoryIndex.ModelMetadata TID="8">
+	<IliRepository09.RepositoryIndex.ModelMetadata TID="10">
 		<Name>GR_Seilbahnen_V1</Name>
 		<SchemaLanguage>ili2_3</SchemaLanguage>
 		<File>3_Bevoelkerung_und_Wirtschaft/P_Verkehr/GR_Seilbahnen_V1.ili</File>
-		<Version>2021-10-20</Version>
+		<Version>20.10.2021</Version>
 		<publishingDate>2023-07-16</publishingDate>
 		<dependsOnModel>
 		  <IliRepository09.ModelName_>
@@ -217,7 +217,7 @@
 		  </IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>http://geo.gr.ch</Issuer>
+		<Issuer>http://models.geo.gr.ch</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>6eba635b6cdd12e97875ea8ced09ffeb</md5>
@@ -301,7 +301,7 @@
 			</IliRepository09.ModelName_>
 		</dependsOnModel>
 		<Tags/>
-		<Issuer>https://models.geo.gr.ch</Issuer>
+		<Issuer>http://models.geo.gr.ch</Issuer>
 		<technicalContact>mailto:gis@alg.gr.ch</technicalContact>
 		<furtherInformation>http://geo.gr.ch</furtherInformation>
 		<md5>b2ac2ce12c06c2c2a69a25ea9ee248dd</md5>
