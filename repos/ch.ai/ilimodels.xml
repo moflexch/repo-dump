@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.interlis.ch/INTERLIS2.3 http://models.geo.ai.ch/IliRepository09.xsd"
-	xmlns="http://www.interlis.ch/INTERLIS2.3" xmlns:ili2c="http://www.interlis.ch/ili2c">
+	xmlns="http://www.interlis.ch/INTERLIS2.3" 
+	xmlns:ili2c="http://www.interlis.ch/ili2c">
 	<HEADERSECTION SENDER="geoinformation@ai.ch" VERSION="2.3">
 		<MODELS>
-			<MODEL NAME="IliRepository09" VERSION="2019-08-30" URI="mailto:geoinformation@ai.ch"/>
+			<!--MODEL NAME="IliRepository09" VERSION="2019-08-30" URI="mailto:geoinformation@ai.ch"/-->
+            <MODEL NAME="IliRepository09" VERSION="2012-02-20" URI="mailto:ce@eisenhutinformatik.ch"/>
+            <MODEL NAME="IliRepository20" VERSION="2020-04-17" URI="http://models.interlis.ch/core"/>
 		</MODELS>
 
 		<!--
@@ -386,7 +389,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001107">
 				<Name>AI_Schutzobjekte_V2_3</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>ARE/AI_Nutzungsplanung_Schutz_V2_3.ili</File>
+				<File>ARE/replaced/AI_Nutzungsplanung_Schutz_V2_3.ili</File>
 				<Version>2023-07-25</Version>
 				<publishingDate>2023-07-25</publishingDate>
 				<dependsOnModel>
@@ -414,10 +417,10 @@
 				</dependsOnModel>
 				<Title>Nutzungsplanung Schutz Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
 				<Tags/>
-				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
+				<Issuer>https://models.geo.ai.ch/ARE/replaced</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>ba5015efbca77b55b3b0c8805f84c0fe</md5>
+				<md5>30e6d08d82c635c988ed98176d54802c</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001108">
@@ -577,7 +580,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001117">
 				<Name>AI_Erschliessungsstand_V2_3_1</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>ARE/AI_Erschliessungsstand_V2_3_1.ili</File>
+				<File>ARE/replaced/AI_Erschliessungsstand_V2_3_1.ili</File>
 				<Version>2025-07-04</Version>
 				<publishingDate>2025-07-04</publishingDate>
 				<dependsOnModel>
@@ -602,11 +605,45 @@
 				</dependsOnModel>
 				<Title>Erschliessungsstand Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
 				<Tags/>
+				<Issuer>https://models.geo.ai.ch/ARE/replaced</Issuer>
+				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
+				<furtherInformation>https://geo.ai.ch</furtherInformation>
+				<md5>a091d927bf8b16b1e7e1b957eea8c830</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+
+			<IliRepository20.RepositoryIndex.ModelMetadata TID="AI001119">
+				<Name>AI_Erschliessungsstand_V2_4</Name>
+				<SchemaLanguage>ili2_4</SchemaLanguage>
+				<File>ARE/AI_Erschliessungsstand_V2_4.ili</File>
+				<Version>2026-02-20</Version>
+				<publishingDate>2026-02-20</publishingDate>
+				<dependsOnModel>
+					<IliRepository20.ModelName_>
+						<value>Units</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>CHAdminCodes_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>InternationalCodes_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>Localisation_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>LocalisationCH_V2</value>
+					</IliRepository20.ModelName_>
+				</dependsOnModel>
+				<Title>Erschliessungsstand Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 73</Title>
+				<Tags/>
 				<Issuer>https://models.geo.ai.ch/ARE</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>eacf07f39048c4b23940b2bc9265b069</md5>
-			</IliRepository09.RepositoryIndex.ModelMetadata>
+				<md5>1b428235344338055492bb0c713b5964</md5>
+			</IliRepository20.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI001112">
 				<Name>AI_Abstandslinien</Name>
