@@ -530,6 +530,23 @@
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Stand_der_Erschliessung_ZH_V1_LV95">
+        <Name>Stand_der_Erschliessung_ZH_V1_LV95</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARE/Stand_der_Erschliessung_ZH_V1_LV95_2024-01-18_IL23.ili</File>
+        <Version>2023-02-09</Version>
+        <publishingDate>2023-02-09</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Basis_ZH_V1_LV95</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Stand der Erschliessung</Title>
+        <shortDescription>Überbauungs- und Erschliessungsstand der Gemeinden Kanton Zürich</shortDescription>
+        <Issuer>http://models.geo.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
     <!--=====================================================================-->
     <!--Modelle des Amtes für Abfall, Wasser, Energie und Luft AWEL-->
