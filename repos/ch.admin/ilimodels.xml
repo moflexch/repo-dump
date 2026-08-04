@@ -24286,7 +24286,7 @@
     <IliRepository09.RepositoryIndex.ModelMetadata TID="010038">
       <Name>EnergieSchweizfuerGemeinden_V1_2</Name>
       <SchemaLanguage>ili2_3</SchemaLanguage>
-      <File>BFE/EnergieSchweizfuerGemeinden_V1_2.ili</File>
+      <File>BFE/replaced/EnergieSchweizfuerGemeinden_V1_2.ili</File>
       <Version>2019-02-22</Version>
       <publishingDate>2019-03-05</publishingDate>
       <dependsOnModel>
@@ -25168,6 +25168,30 @@
       <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
       <md5>7899d72c0b69a9a94483b5f2a3cebb23</md5>
     </IliRepository09.RepositoryIndex.ModelMetadata>
+
+    <IliRepository09.RepositoryIndex.ModelMetadata TID="010074">
+      <Name>EnergieSchweizfuerGemeinden_V1_3</Name>
+      <SchemaLanguage>ili2_3</SchemaLanguage>
+      <File>BFE/EnergieSchweizfuerGemeinden_V1_3.ili</File>
+      <Version>2026-06-03</Version>
+      <publishingDate>2026-08-04</publishingDate>
+      <dependsOnModel>
+        <IliRepository09.ModelName_>
+          <value>CatalogueObjects_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>LocalisationCH_V1</value>
+        </IliRepository09.ModelName_>
+        <IliRepository09.ModelName_>
+          <value>GeometryCHLV95_V1</value>
+        </IliRepository09.ModelName_>
+      </dependsOnModel>
+      <Issuer>https://models.geo.admin.ch/BFE/</Issuer>
+      <technicalContact>mailto:info@bfe.admin.ch</technicalContact>
+      <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+      <md5>6054dc4cc341f1e278fafe94478a8640</md5>
+    </IliRepository09.RepositoryIndex.ModelMetadata>
+
 
 <!-- =================================================================== -->
 <!-- BFS OFS UST FSO                                              011xxx -->

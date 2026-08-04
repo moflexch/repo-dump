@@ -6935,6 +6935,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="114">
         <id>ch.admin.geo.models.ZweitausendWattArealKategorieKatalog_V1_2_20190515</id>
         <version>2019-05-15</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.ZweitausendWattArealKategorieKatalog_V1_3_20260603</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2019-05-15</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -6958,7 +6963,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/ZweitausendWattArealKategorieKatalog_V1_2_20190515.xml</path>
+                <path>BFE/replaced/ZweitausendWattArealKategorieKatalog_V1_2_20190515.xml</path>
                 <md5>2b2f6993e7c50519484148ee988fe1a2</md5>
               </DatasetIdx16.File>
             </file>
@@ -16658,6 +16663,51 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b01</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="316">
+        <id>ch.admin.geo.models.ZweitausendWattArealKategorieKatalog_V1_3_20260603</id>
+        <version>2026-06-03</version>
+        <publishingDate>2026-08-04</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE ZweitausendWattArealKategorieKatalog_V1_3</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/ZweitausendWattArealKategorieKatalog_V1_3.xml</path>
+                <md5>3bbc51e980d80de58cb5b299c65de5b1</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-06-03</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>EnergieSchweizfuerGemeinden_V1_3.ZweitausendWattArealKategorieKatalog</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
