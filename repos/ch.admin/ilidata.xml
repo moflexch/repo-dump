@@ -2178,6 +2178,11 @@
       <DatasetIdx16.DataIndex.DatasetMetadata TID="31">
         <id>ch.admin.geo.models.EnergiestadtKategorieKatalog_V1_2</id>
         <version>1</version>
+        <followupData>
+          <DatasetIdx16.DataLink>
+            <datasetId>ch.admin.geo.models.EnergiestadtKategorieKatalog_V1_3</datasetId>
+          </DatasetIdx16.DataLink>
+        </followupData>
         <publishingDate>2019-03-05</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
@@ -2201,7 +2206,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BFE/EnergiestadtKategorieKatalog_V1_2.xml</path>
+                <path>BFE/replaced/EnergiestadtKategorieKatalog_V1_2.xml</path>
                 <md5>fa4a0c0cdc6048a05a1838dd94f8ffc4</md5>
               </DatasetIdx16.File>
             </file>
@@ -13303,7 +13308,7 @@
             <fileFormat>application/interlis+xml;version=2.3</fileFormat>
             <file>
               <DatasetIdx16.File>
-                <path>BAFU/Hydrologische_Messnetze_Catalogues_V1_1.xml</path>
+                <path>obsolete/Hydrologische_Messnetze_Catalogues_V1_1_o0.xml</path>
                 <md5>3c951480276f3f9bc68fba6b41cd0910</md5>
               </DatasetIdx16.File>
             </file>
@@ -16708,6 +16713,97 @@
             </model>
             <owner>mailto:models@geo.admin.ch</owner>
             <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="317">
+        <id>ch.admin.geo.models.EnergiestadtKategorieKatalog_V1_3</id>
+        <version>2026-06-03</version>
+        <publishingDate>2026-08-06</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BFE EnergiestadtKategorieKatalog_V1_3</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:info@bfe.admin.ch</technicalContact>
+        <furtherInformation>https://www.bfe.admin.ch/geoinformation</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BFE/EnergiestadtKategorieKatalog_V1_3.xml</path>
+                <md5>e688667436a359fb531f6554b75794e9</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-06-03</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>EnergieSchweizfuerGemeinden_V1_3.EnergiestadtKategorieKatalog</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>b001</localId>
+          </DatasetIdx16.DataIndex.BasketMetadata>
+        </baskets>
+      </DatasetIdx16.DataIndex.DatasetMetadata>
+      <DatasetIdx16.DataIndex.DatasetMetadata TID="318">
+        <id>ch.admin.geo.models.Hydrologische_Messnetze_Catalogues_V1_1_20260804</id>
+        <version>2026-08-04</version>
+        <precursorVersion>2024-10-29</precursorVersion>
+        <publishingDate>2026-08-06</publishingDate>
+        <owner>mailto:models@geo.admin.ch</owner>
+        <title>
+          <DatasetIdx16.MultilingualText>
+            <LocalisedText>
+              <DatasetIdx16.LocalisedText>
+                <Text>Katalog BAFU Hydrologische_Messnetze_Catalogues_V1_1</Text>
+              </DatasetIdx16.LocalisedText>
+            </LocalisedText>
+          </DatasetIdx16.MultilingualText>
+        </title>
+        <categories>
+          <DatasetIdx16.Code_>
+            <value>http://codes.interlis.ch/type/referenceData</value>
+          </DatasetIdx16.Code_>
+        </categories>
+        <technicalContact>mailto:gis@bafu.admin.ch</technicalContact>
+        <furtherInformation>http://www.bafu.admin.ch/geodatenmodelle</furtherInformation>
+        <files>
+          <DatasetIdx16.DataFile>
+            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
+            <file>
+              <DatasetIdx16.File>
+                <path>BAFU/Hydrologische_Messnetze_Catalogues_V1_1.xml</path>
+                <md5>d0cfad03594ff20b31c3d4dc48df560b</md5>
+              </DatasetIdx16.File>
+            </file>
+          </DatasetIdx16.DataFile>
+        </files>
+        <baskets>
+          <DatasetIdx16.DataIndex.BasketMetadata>
+            <version>2026-08-06</version>
+            <model>
+              <DatasetIdx16.ModelLink>
+                <name>Hydrologische_Messnetze_V1_1.Codelisten</name>
+              </DatasetIdx16.ModelLink>
+            </model>
+            <owner>mailto:models@geo.admin.ch</owner>
+            <localId>ch.admin.bafu.Hydrologische_Messnetze_Catalogues_V1_1</localId>
           </DatasetIdx16.DataIndex.BasketMetadata>
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
