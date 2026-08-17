@@ -632,10 +632,36 @@
         <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
         <md5></md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="Energieplanung_kommunal_ZH_V2_LV95">
+        <Name>Energieplanung_kommunal_ZH_V2_LV95</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>AWEL/Energieplanung_kommunal_ZH_V2_LV95.ili</File>
+        <Version>2026-07-17</Version>
+        <publishingDate>2026-07-17</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Basis_ZH_V1_LV95</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>Text</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Kommunale Energieplanung</Title>
+        <shortDescription>Geobasisdatensatz Nr. 106-ZH Kommunale Energieplanung</shortDescription>
+        <Issuer>http://models.geo.zh.ch</Issuer>
+        <technicalContact>mailto:gis@bd.zh.ch</technicalContact>
+        <md5></md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
       <IliRepository09.RepositoryIndex.ModelMetadata TID="Energieplanung_kommunal_ZH_V1_LV95_2023-02-10_IL23">
         <Name>Energieplanung_kommunal_ZH_V1_LV95</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>AWEL/Energieplanung_kommunal_ZH_V1_LV95_2023-02-10_IL23.ili</File>
+        <File>AWEL/replaced/Energieplanung_kommunal_ZH_V1_LV95_2023-02-10_IL23.ili</File>
         <Version>2023-02-09</Version>
         <publishingDate>2023-02-09</publishingDate>
         <dependsOnModel>
