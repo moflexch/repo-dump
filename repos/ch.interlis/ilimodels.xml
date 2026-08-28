@@ -1083,6 +1083,17 @@
         <md5>5050cf73cc8c931dfa388fd207a96a18</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
 
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="71">
+        <Name>INTERLIS</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>refhb23/INTERLIS.ili</File>
+        <Version>2005-06-16</Version>
+        <publishingDate>2026-08-28</publishingDate>
+        <technicalContact>mailto:info@interlis.ch</technicalContact>
+        <furtherInformation>https://www.interlis.ch</furtherInformation>
+        <md5>9c18f38049d6b1cbdc0c79c05aebfc37</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+
     </IliRepository09.RepositoryIndex>
 
     <!-- ====================================================================  -->
@@ -1269,6 +1280,18 @@
         <technicalContact>mailto:info@interlis.ch</technicalContact>
         <furtherInformation>https://www.interlis.ch</furtherInformation>
         <md5>f7626667624b0e603769c658b8fc1122</md5>
+      </IliRepository20.RepositoryIndex.ModelMetadata>
+
+      <IliRepository20.RepositoryIndex.ModelMetadata TID="1013">
+        <Name>INTERLIS</Name>
+        <SchemaLanguage>ili2_4</SchemaLanguage>
+        <File>refhb24/INTERLIS.ili</File>
+        <Version>2026-08-28</Version>
+        <publishingDate>2026-08-28</publishingDate>
+        <Issuer>http://www.interlis.ch/models</Issuer>
+        <technicalContact>mailto:info@interlis.ch</technicalContact>
+        <furtherInformation>https://www.interlis.ch</furtherInformation>
+        <md5>be723a9448c3e40608c4fc1a821e9b33</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
 
     </IliRepository20.RepositoryIndex>
