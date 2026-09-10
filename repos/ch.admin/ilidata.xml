@@ -16580,10 +16580,10 @@
         </baskets>
       </DatasetIdx16.DataIndex.DatasetMetadata>
       <DatasetIdx16.DataIndex.DatasetMetadata TID="314">
-        <id>ch.admin.geo.models.ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1_20260702</id>
+        <id>ch.admin.geo.models.ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1_20260812</id>
         <version>2026-07-02</version>
         <precursorVersion>2024-01-15</precursorVersion>
-        <publishingDate>2026-07-06</publishingDate>
+        <publishingDate>2026-08-12</publishingDate>
         <owner>mailto:models@geo.admin.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -16607,7 +16607,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>BFE/ImpulseConsultingRenewableHeating_ConsultantCategoryCatalogue_V1_1.xml</path>
-                <md5>a99ac09c33063b98089ad6e037b32191</md5>
+                <md5>792e320d2d9b0b221fca61b545d2b389</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
