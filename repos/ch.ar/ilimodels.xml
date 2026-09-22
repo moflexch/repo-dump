@@ -663,7 +663,7 @@
       <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Naturgefahren_V1">
         <Name>AR_Naturgefahren_V1</Name>
         <SchemaLanguage>ili2_3</SchemaLanguage>
-        <File>ARW/AR_Naturgefahren_V1.ili</File>
+        <File>ARW/replaced/AR_Naturgefahren_V1.ili</File>
         <Version>2022-01-25</Version>
         <publishingDate>2023-06-27</publishingDate>
         <dependsOnModel>
@@ -740,6 +740,29 @@
         <Issuer>https://models.geo.ar.ch/ARW</Issuer>
         <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
         <md5>86728fd5e268950848772cb7ea6a82f8</md5>
+      </IliRepository09.RepositoryIndex.ModelMetadata>
+      <IliRepository09.RepositoryIndex.ModelMetadata TID="AR_Naturgefahren_V1_1">
+        <Name>AR_Naturgefahren_V1_1</Name>
+        <SchemaLanguage>ili2_3</SchemaLanguage>
+        <File>ARW/AR_Naturgefahren_V1_1.ili</File>
+        <Version>2026-06-01</Version>
+        <publishingDate>2026-09-22</publishingDate>
+        <dependsOnModel>
+          <IliRepository09.ModelName_>
+            <value>Units</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>CHAdminCodes_V1</value>
+          </IliRepository09.ModelName_>
+          <IliRepository09.ModelName_>
+            <value>GeometryCHLV95_V1</value>
+          </IliRepository09.ModelName_>
+        </dependsOnModel>
+        <Title>Kantonale Gefahrenkartierung</Title>
+        <shortDescription>Dieses Modell erweitert das Bundesmodell Gefahrenkartierung.</shortDescription>
+        <Issuer>https://models.geo.ar.ch/ARW</Issuer>
+        <technicalContact>mailto:gisfachstelle@ar.ch</technicalContact>
+        <md5>916ee1c7321eb249b241a998d0902ec1</md5>
       </IliRepository09.RepositoryIndex.ModelMetadata>
     </IliRepository09.RepositoryIndex>
   </DATASECTION>
