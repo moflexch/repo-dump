@@ -34841,7 +34841,7 @@
       <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
       <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
-      <md5>86c8b7999f12b76c1a1bc95fafa5f9fc</md5>
+      <md5>ec28d5bbe66ebe6763b23e9ffb59c9a8</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520044">
@@ -36790,7 +36790,7 @@
       <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
       <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
-      <md5>2e2a4498507b27d77780316dd513077e</md5>
+      <md5>497c0344dc889fcee1b51cb8941376f4</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520114">
@@ -37313,7 +37313,7 @@
       <Issuer>https://models.geo.admin.ch/V_D/</Issuer>
       <technicalContact>mailto:dmav@swisstopo.ch</technicalContact>
       <furtherInformation>https://www.cadastre-manual.admin.ch/de/modelldokumentation-dmav</furtherInformation>
-      <md5>cd6a6320e858b75502ae7fba3ee5f6f9</md5>
+      <md5>61819d94c6df36d7c1b88f30b2b855de</md5>
     </IliRepository20.RepositoryIndex.ModelMetadata>
 
     <IliRepository20.RepositoryIndex.ModelMetadata TID="520133">

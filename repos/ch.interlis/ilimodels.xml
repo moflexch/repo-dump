@@ -573,7 +573,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="38">
 				<Name>CoordSys</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>refhb23/CoordSys-20151124.ili</File>
+				<File>obsolete/CoordSys-20151124_o1.ili</File>
 				<Version>2015-11-24</Version>
 				<publishingDate>2016-01-21</publishingDate>
 				<precursorVersion>2005-06-16</precursorVersion>
@@ -1084,14 +1084,16 @@
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="71">
-				<Name>INTERLIS</Name>
+				<Name>CoordSys</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>refhb23/INTERLIS.ili</File>
-				<Version>2005-06-16</Version>
-				<publishingDate>2026-08-28</publishingDate>
+				<File>refhb23/CoordSys.ili</File>
+				<Version>2026-02-25</Version>
+				<publishingDate>2026-09-24</publishingDate>
+				<precursorVersion>2015-11-24</precursorVersion>
+				<Issuer>http://www.interlis.ch/models</Issuer>
 				<technicalContact>mailto:info@interlis.ch</technicalContact>
 				<furtherInformation>https://www.interlis.ch</furtherInformation>
-				<md5>9c18f38049d6b1cbdc0c79c05aebfc37</md5>
+				<md5>b09e600220e8917f56798fdac12507de</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 		</IliRepository09.RepositoryIndex>
@@ -1117,7 +1119,7 @@
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="1002">
 				<Name>CoordSys</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>refhb24/CoordSys.ili</File>
+				<File>obsolete/CoordSys_refhb24_o0.ili</File>
 				<Version>2014-07-09</Version>
 				<NameLanguage>en</NameLanguage>
 				<publishingDate>2020-02-20</publishingDate>
@@ -1283,18 +1285,6 @@
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="1013">
-				<Name>INTERLIS</Name>
-				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>refhb24/INTERLIS.ili</File>
-				<Version>2026-08-28</Version>
-				<publishingDate>2026-08-28</publishingDate>
-				<Issuer>http://www.interlis.ch/models</Issuer>
-				<technicalContact>mailto:info@interlis.ch</technicalContact>
-				<furtherInformation>https://www.interlis.ch</furtherInformation>
-				<md5>be723a9448c3e40608c4fc1a821e9b33</md5>
-			</IliRepository20.RepositoryIndex.ModelMetadata>
-
-			<IliRepository20.RepositoryIndex.ModelMetadata TID="1014">
 				<Name>eCH0271_1</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
 				<File>geocat.ch/eCH-0271-1-0-0.ili</File>
@@ -1317,6 +1307,19 @@
 				<md5>74c216958f65cc1d9c96fadfebbcfabb</md5>
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 
+			<IliRepository20.RepositoryIndex.ModelMetadata TID="1014">
+				<Name>CoordSys</Name>
+				<SchemaLanguage>ili2_4</SchemaLanguage>
+				<File>refhb24/CoordSys.ili</File>
+				<Version>2026-02-25</Version>
+				<NameLanguage>en</NameLanguage>
+				<publishingDate>2026-09-24</publishingDate>
+				<precursorVersion>2014-07-09</precursorVersion>
+				<Issuer>http://www.interlis.ch/models/refhb24</Issuer>
+				<technicalContact>mailto:info@interlis.ch</technicalContact>
+				<furtherInformation>https://www.interlis.ch</furtherInformation>
+				<md5>eb099c45a92da547ac1dc5ca4bf0897f</md5>
+			</IliRepository20.RepositoryIndex.ModelMetadata>
 		</IliRepository20.RepositoryIndex>
 	</DATASECTION>
 </TRANSFER>
