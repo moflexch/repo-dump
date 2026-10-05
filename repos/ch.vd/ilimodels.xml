@@ -79,7 +79,7 @@
 				<File>DGMR/CH14.1_ComptageRoutier_V1.2.0.ili</File>
 				<Version>1.2.0</Version>
 				<VersionComment/>
-				<publishingDate>2025-11-12</publishingDate>
+				<publishingDate>2026-09-15</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository09.ModelName_>
@@ -93,7 +93,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>c96e5df544bf79d035acffc3021e4173</md5>			
+				<md5>cb3dd9af2eacb1ec4efaf5e5a0c924fb</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="4d2165f4-5d43-4bbc-a2eb-722c963273ee">
 				<Name>VD_VoiesHistoriques</Name>
@@ -1813,12 +1813,12 @@
 				<md5>1869a3b8379483d6552ea8b03ba62542</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="9ee18067-b37a-4cfb-80d0-f1d711919318">
-				<Name>CadastreCentralesThermiques</Name>
+				<Name>CadastreCentralesThermiques_V1_2_0</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>DGE/VD108.1_CadastreCentralesThermiques_V1.0.0.ili</File>
-				<Version>1.0.0</Version>
+				<File>DGE/VD108.1_CadastreCentralesThermiques_V1.2.0.ili</File>
+				<Version>1.2.0</Version>
 				<VersionComment/>
-				<publishingDate>2026-01-29</publishingDate>
+				<publishingDate>2026-07-31</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository09.ModelName_>
@@ -1832,7 +1832,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>65a381b0db302efef35d287788295323</md5>			
+				<md5>34b6d5e335f0625aad97003c5031a30c</md5>			
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 		</IliRepository09.RepositoryIndex>		
 		<!-- MGDM INTERLIS 2.4 -->
@@ -2813,17 +2813,20 @@
 				<md5>e4fcc06e3576d4d2a687dbc55da1f1b3</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="4c2e258d-ae3e-461c-9f38-b0f076ce0ef4">
-				<Name>VD_ArbresRemarquables_V1_1_0</Name>
+				<Name>VD_ArbresRemarquables_V1_2_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD102.1_ArbresRemarquables_V1.1.0.ili</File>
-				<Version>1.1.0</Version>
+				<File>DGE/VD102.1_ArbresRemarquables_V1.2.0.ili</File>
+				<Version>1.2.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2026-05-29</publishingDate>
+				<publishingDate>2026-07-29</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
 						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>Units</value>
 					</IliRepository20.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -2833,7 +2836,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>f0e35531e5e897a4e44a06ccd0c3e24e</md5>			
+				<md5>312fc5171270f02a7ea8ed6b5528855f</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="9d2aa251-9884-4070-9b9a-8630724277d2">
 				<Name>VD_EnergetiqueBatiments_V1_1_0</Name>
@@ -2908,17 +2911,20 @@
 				<md5>48501807c354626a96c540a236ef6288</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 			<IliRepository20.RepositoryIndex.ModelMetadata TID="063345a2-e413-4de1-b249-93cff92e1ccd">
-				<Name>CadastreSolaire_V1_1_0</Name>
+				<Name>CadastreSolaire_V2_0_0</Name>
 				<SchemaLanguage>ili2_4</SchemaLanguage>
-				<File>DGE/VD106.1_CadastreSolaire_V1.1.0.ili</File>
-				<Version>1.1.0</Version>
+				<File>DGE/VD106.1_CadastreSolaire_V2.0.0.ili</File>
+				<Version>2.0.0</Version>
 				<VersionComment/>
 				<NameLanguage>fr</NameLanguage>
-				<publishingDate>2025-06-25</publishingDate>
+				<publishingDate>2025-09-02</publishingDate>
 				<Original/>
 				<dependsOnModel>
 					<IliRepository20.ModelName_>
 						<value>GeometryCHLV95_V2</value>
+					</IliRepository20.ModelName_>
+					<IliRepository20.ModelName_>
+						<value>Units</value>
 					</IliRepository20.ModelName_>
 				</dependsOnModel>				
 				<precursorVersion/>
@@ -2928,7 +2934,7 @@
 				<Issuer>https://www.vd.ch</Issuer>
 				<technicalContact>mailto:info.icdg@vd.ch</technicalContact>
 				<furtherInformation/>
-				<md5>cabf86c2f666e7216d41d63480b171d6</md5>			
+				<md5>a7236fb12b66a9df1cf64e54a393181e</md5>			
 			</IliRepository20.RepositoryIndex.ModelMetadata>
 		</IliRepository20.RepositoryIndex>		
 	</DATASECTION>
