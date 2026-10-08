@@ -1,121 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
-  <HEADERSECTION SENDER="VSA" VERSION="2.3">
-    <MODELS>
-      <MODEL NAME="DatasetIdx16" VERSION="2018-11-21" URI="mailto:ce@eisenhutinformatik.ch"></MODEL>
-    </MODELS>
-  </HEADERSECTION>
-  <DATASECTION>
-    <DatasetIdx16.DataIndex BID="b1">
-      <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
-        <id>vsa_organisationen</id>
-        <version>2026-09-23</version>
-        <owner>mailto:dss-organisation@vsa.ch</owner>
-        <title>
-          <DatasetIdx16.MultilingualText>
-            <LocalisedText>
-              <DatasetIdx16.LocalisedText>
-                <Text>VSA Organisationen</Text>
-              </DatasetIdx16.LocalisedText>
-            </LocalisedText>
-          </DatasetIdx16.MultilingualText>
-        </title>
-        <shortDescription>
-        <DatasetIdx16.MultilingualMText>
-            <LocalisedText>
-                <DatasetIdx16.LocalisedMText>
-                    <Language>de</Language>
-                    <Text>
+	<HEADERSECTION SENDER="VSA" VERSION="2.3">
+		<MODELS>
+			<MODEL NAME="DatasetIdx16" VERSION="2018-11-21" URI="mailto:ce@eisenhutinformatik.ch"/>
+		</MODELS>
+	</HEADERSECTION>
+	<DATASECTION>
+		<DatasetIdx16.DataIndex BID="b1">
+			<DatasetIdx16.DataIndex.DatasetMetadata TID="1">
+				<id>vsa_organisationen</id>
+				<version>2026-10-07</version>
+				<owner>mailto:dss-organisation@vsa.ch</owner>
+				<title>
+					<DatasetIdx16.MultilingualText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedText>
+								<Text>VSA Organisationen</Text>
+							</DatasetIdx16.LocalisedText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualText>
+				</title>
+				<shortDescription>
+					<DatasetIdx16.MultilingualMText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedMText>
+								<Language>de</Language>
+								<Text>
                         Seit dem Release 2020 von VSA DSS und VSA DSS Mini erfolgt die Bewirtschaftung der Angaben zu den Organisationen  zentral auf Basis der Wegleitung Daten der Siedlungsentwässerung. Der VSA bewirtschaftet dazu zusammen mit den interessierten Kantonen eine harmonisierte Liste über die Organisationen. Zum heutigen Zeitpunkt sind folgende Kantone in der Liste enthalten: AG, AI, BE, BL, FR, LU, NW, OW, SG, SH, SO, SZ, TG, UR, ZG, ZH
                     </Text>
-                </DatasetIdx16.LocalisedMText>
-            </LocalisedText>
-        </DatasetIdx16.MultilingualMText>
-        </shortDescription>
-        <categories>
-          <DatasetIdx16.Code_>
-            <value>http://codes.interlis.ch/type/referenceData</value>
-          </DatasetIdx16.Code_>
-        </categories>
-        <files>
-          <DatasetIdx16.DataFile>
-            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
-            <file>
-              <DatasetIdx16.File>
-                <path>organisation/vsa_organisationen.xtf</path>
-                <md5>fe58059a370cd79ebce2a564b9f9b160</md5>
-              </DatasetIdx16.File>
-            </file>
-          </DatasetIdx16.DataFile>
-        </files>
-        <baskets>
-          <DatasetIdx16.DataIndex.BasketMetadata>
-            <version>1</version>
-            <model>
-              <DatasetIdx16.ModelLink>
-                <name>SIA405_Base_Abwasser_LV95.Administration</name>
-              </DatasetIdx16.ModelLink>
-            </model>
-            <owner>mailto:dss-organisation@vsa.ch</owner>
-            <localId>Basket1</localId>
-          </DatasetIdx16.DataIndex.BasketMetadata>
-        </baskets>
-      </DatasetIdx16.DataIndex.DatasetMetadata>
-<!-- neu 30.10.2023 MinorChange 2020.1-->
-      <DatasetIdx16.DataIndex.DatasetMetadata TID="2">
-        <id>vsa_organisationen_2020_1</id>
-        <version>2026-09-23</version>
-        <owner>mailto:dss-organisation@vsa.ch</owner>
-        <title>
-          <DatasetIdx16.MultilingualText>
-            <LocalisedText>
-              <DatasetIdx16.LocalisedText>
-                <Text>VSA Organisationen 2020.1</Text>
-              </DatasetIdx16.LocalisedText>
-            </LocalisedText>
-          </DatasetIdx16.MultilingualText>
-        </title>
-        <shortDescription>
-        <DatasetIdx16.MultilingualMText>
-            <LocalisedText>
-                <DatasetIdx16.LocalisedMText>
-                    <Language>de</Language>
-                    <Text>
+							</DatasetIdx16.LocalisedMText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualMText>
+				</shortDescription>
+				<categories>
+					<DatasetIdx16.Code_>
+						<value>http://codes.interlis.ch/type/referenceData</value>
+					</DatasetIdx16.Code_>
+				</categories>
+				<files>
+					<DatasetIdx16.DataFile>
+						<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+						<file>
+							<DatasetIdx16.File>
+								<path>organisation/vsa_organisationen.xtf</path>
+								<md5>b26767e991017c96f2db5097a903a477</md5>
+							</DatasetIdx16.File>
+						</file>
+					</DatasetIdx16.DataFile>
+				</files>
+				<baskets>
+					<DatasetIdx16.DataIndex.BasketMetadata>
+						<version>1</version>
+						<model>
+							<DatasetIdx16.ModelLink>
+								<name>SIA405_Base_Abwasser_LV95.Administration</name>
+							</DatasetIdx16.ModelLink>
+						</model>
+						<owner>mailto:dss-organisation@vsa.ch</owner>
+						<localId>Basket1</localId>
+					</DatasetIdx16.DataIndex.BasketMetadata>
+				</baskets>
+			</DatasetIdx16.DataIndex.DatasetMetadata>
+			<!-- neu 30.10.2023 MinorChange 2020.1-->
+			<DatasetIdx16.DataIndex.DatasetMetadata TID="2">
+				<id>vsa_organisationen_2020_1</id>
+				<version>2026-10-07</version>
+				<owner>mailto:dss-organisation@vsa.ch</owner>
+				<title>
+					<DatasetIdx16.MultilingualText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedText>
+								<Text>VSA Organisationen 2020.1</Text>
+							</DatasetIdx16.LocalisedText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualText>
+				</title>
+				<shortDescription>
+					<DatasetIdx16.MultilingualMText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedMText>
+								<Language>de</Language>
+								<Text>
                         Seit dem Release 2020 von VSA DSS und VSA DSS Mini erfolgt die Bewirtschaftung der Angaben zu den Organisationen  zentral auf Basis der Wegleitung Daten der Siedlungsentwässerung. Der VSA bewirtschaftet dazu zusammen mit den interessierten Kantonen eine harmonisierte Liste über die Organisationen. Zum heutigen Zeitpunkt sind folgende Kantone in der Liste enthalten: AG, AI, BE, BL, FR, LU, NW, OW, SG, SH, SO, SZ, TG, UR, ZG, ZH
                     </Text>
-                </DatasetIdx16.LocalisedMText>
-            </LocalisedText>
-        </DatasetIdx16.MultilingualMText>
-        </shortDescription>
-        <categories>
-          <DatasetIdx16.Code_>
-            <value>http://codes.interlis.ch/type/referenceData</value>
-          </DatasetIdx16.Code_>
-        </categories>
-        <files>
-          <DatasetIdx16.DataFile>
-            <fileFormat>application/interlis+xml;version=2.3</fileFormat>
-            <file>
-              <DatasetIdx16.File>
-                <path>organisation/vsa_organisationen_2020_1.xtf</path>
-                <md5>eb80301802cd7cc22fbf75456530a70d</md5>
-              </DatasetIdx16.File>
-            </file>
-          </DatasetIdx16.DataFile>
-        </files>
-        <baskets>
-          <DatasetIdx16.DataIndex.BasketMetadata>
-            <version>1</version>
-            <model>
-              <DatasetIdx16.ModelLink>
-                <name>SIA405_Base_Abwasser_1_LV95.Administration</name>
-              </DatasetIdx16.ModelLink>
-            </model>
-            <owner>mailto:dss-organisation@vsa.ch</owner>
-            <localId>Basket1</localId>
-          </DatasetIdx16.DataIndex.BasketMetadata>
-        </baskets>
-      </DatasetIdx16.DataIndex.DatasetMetadata>
-    </DatasetIdx16.DataIndex>
-  </DATASECTION>
+							</DatasetIdx16.LocalisedMText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualMText>
+				</shortDescription>
+				<categories>
+					<DatasetIdx16.Code_>
+						<value>http://codes.interlis.ch/type/referenceData</value>
+					</DatasetIdx16.Code_>
+				</categories>
+				<files>
+					<DatasetIdx16.DataFile>
+						<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+						<file>
+							<DatasetIdx16.File>
+								<path>organisation/vsa_organisationen_2020_1.xtf</path>
+								<md5>34e522e9b95b4451607a60c007c3a8df</md5>
+							</DatasetIdx16.File>
+						</file>
+					</DatasetIdx16.DataFile>
+				</files>
+				<baskets>
+					<DatasetIdx16.DataIndex.BasketMetadata>
+						<version>1</version>
+						<model>
+							<DatasetIdx16.ModelLink>
+								<name>SIA405_Base_Abwasser_1_LV95.Administration</name>
+							</DatasetIdx16.ModelLink>
+						</model>
+						<owner>mailto:dss-organisation@vsa.ch</owner>
+						<localId>Basket1</localId>
+					</DatasetIdx16.DataIndex.BasketMetadata>
+				</baskets>
+			</DatasetIdx16.DataIndex.DatasetMetadata>
+			<!-- neu 8.10.2026 PatchChange 2020.1.2 VSA Standard Rohrprofile-->
+			<DatasetIdx16.DataIndex.DatasetMetadata TID="3">
+				<id>vsa_standard_rohrprofile</id>
+				<version>2026-07-31</version>
+				<owner>mailto:dss-organisation@vsa.ch</owner>
+				<title>
+					<DatasetIdx16.MultilingualText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedText>
+								<Text>VSA Standard Rohrprofile 2020</Text>
+							</DatasetIdx16.LocalisedText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualText>
+				</title>
+				<shortDescription>
+					<DatasetIdx16.MultilingualMText>
+						<LocalisedText>
+							<DatasetIdx16.LocalisedMText>
+								<Language>de</Language>
+								<Text>
+                        VSA Standard Rohrprofile: Zur Nutzung falls Rohrprofile zwischen verschiedenen Operaten vereinheitlicht werden sollen. Integriert sind neben Kreis- und Maulprofil auch verschiedene gängige Spezialprofile wie sie vom Hydraulikprogramm MOUSE / MIKE+ verwendet werden (siehe https://wiki.mikepoweredbydhi.com/mikeurban/anleitungen/sonderprofile_17_beispiele?s[]=sonderprofile). Diese wurden in die Notation für Rohrprofil_Geometrie konvertiert. Andere Hydraulikprogramme können diese ebenso verwenden. Neu sind auch die häufigsten Rechteckprofile von CREABETON integeriert.
+                    </Text>
+							</DatasetIdx16.LocalisedMText>
+						</LocalisedText>
+					</DatasetIdx16.MultilingualMText>
+				</shortDescription>
+				<categories>
+					<DatasetIdx16.Code_>
+						<value>http://codes.interlis.ch/type/referenceData</value>
+					</DatasetIdx16.Code_>
+				</categories>
+				<files>
+					<DatasetIdx16.DataFile>
+						<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+						<file>
+							<DatasetIdx16.File>
+								<path>rohrprofil/vsa_standard_rohrprofile_2020.xtf</path>
+								<md5>4731fd5bdfe907ca19c4d31ec03d6703</md5>
+							</DatasetIdx16.File>
+						</file>
+					</DatasetIdx16.DataFile>
+				</files>
+				<baskets>
+					<DatasetIdx16.DataIndex.BasketMetadata>
+						<version>1</version>
+						<model>
+							<DatasetIdx16.ModelLink>
+								<name>DSS_2020_LV95.Siedlungsentwaesserung</name>
+							</DatasetIdx16.ModelLink>
+						</model>
+						<owner>mailto:dss-organisation@vsa.ch</owner>
+						<localId>Basket1</localId>
+					</DatasetIdx16.DataIndex.BasketMetadata>
+				</baskets>
+			</DatasetIdx16.DataIndex.DatasetMetadata>
+
+
+		<DatasetIdx16.DataIndex.DatasetMetadata TID="4">
+			<id>vsa_standard_rohrprofile</id>
+			<version>2026-07-31</version>
+			<owner>mailto:dss-organisation@vsa.ch</owner>
+			<title>
+				<DatasetIdx16.MultilingualText>
+					<LocalisedText>
+						<DatasetIdx16.LocalisedText>
+							<Text>VSA Standard Rohrprofile 2020.1</Text>
+						</DatasetIdx16.LocalisedText>
+					</LocalisedText>
+				</DatasetIdx16.MultilingualText>
+			</title>
+			<shortDescription>
+				<DatasetIdx16.MultilingualMText>
+					<LocalisedText>
+						<DatasetIdx16.LocalisedMText>
+							<Language>de</Language>
+							<Text>
+                        VSA Standard Rohrprofile: Zur Nutzung falls Rohrprofile zwischen verschiedenen Operaten vereinheitlicht werden sollen. Integriert sind neben Kreis- und Maulprofil auch verschiedene gängige Spezialprofile wie sie vom Hydraulikprogramm MOUSE / MIKE+ verwendet werden (siehe https://wiki.mikepoweredbydhi.com/mikeurban/anleitungen/sonderprofile_17_beispiele?s[]=sonderprofile). Diese wurden in die Notation für Rohrprofil_Geometrie konvertiert. Andere Hydraulikprogramme können diese ebenso verwenden. Neu sind auch die häufigsten Rechteckprofile von CREABETON integeriert.
+                    </Text>
+						</DatasetIdx16.LocalisedMText>
+					</LocalisedText>
+				</DatasetIdx16.MultilingualMText>
+			</shortDescription>
+			<categories>
+				<DatasetIdx16.Code_>
+					<value>http://codes.interlis.ch/type/referenceData</value>
+				</DatasetIdx16.Code_>
+			</categories>
+			<files>
+				<DatasetIdx16.DataFile>
+					<fileFormat>application/interlis+xml;version=2.3</fileFormat>
+					<file>
+						<DatasetIdx16.File>
+							<path>rohrprofil/vsa_standard_rohrprofile_2020_1.xtf</path>
+							<md5>4b8200053d086b5b85a4d7ef0b8425cd</md5>
+						</DatasetIdx16.File>
+					</file>
+				</DatasetIdx16.DataFile>
+			</files>
+			<baskets>
+				<DatasetIdx16.DataIndex.BasketMetadata>
+					<version>1</version>
+					<model>
+						<DatasetIdx16.ModelLink>
+							<name>DSS_2020_1_LV95.Siedlungsentwaesserung</name>
+						</DatasetIdx16.ModelLink>
+					</model>
+					<owner>mailto:dss-organisation@vsa.ch</owner>
+					<localId>Basket1</localId>
+				</DatasetIdx16.DataIndex.BasketMetadata>
+			</baskets>
+		</DatasetIdx16.DataIndex.DatasetMetadata>
+	</DatasetIdx16.DataIndex>
+
+</DATASECTION>
 </TRANSFER>
