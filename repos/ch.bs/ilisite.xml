@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+<HEADERSECTION SENDER="FGI-BS-20180612" VERSION="2.3">
+	<MODELS>
+		<MODEL NAME="IliSite09" VERSION="2009-11-12" URI="mailto:ce@eisenhutinformatik.ch" />
+	</MODELS>
+</HEADERSECTION>
+<DATASECTION>
+	<IliSite09.SiteMetadata  BID="BSb0">
+		<IliSite09.SiteMetadata.Site  TID="1">
+		<Name>models.geo.bs.ch</Name>
+		<Title>ModelRepository Kanton Basel-Stadt</Title>
+		<shortDescription>Modell-Ablage fuer Datenmodelle der Geobasisdaten des Kanton Basel-Stadt</shortDescription>
+		<Owner>https://www.geo.bs.ch</Owner>
+		<technicalContact>mailto:geo@bs.ch</technicalContact>
+		<parentSite>
+			<IliSite09.RepositoryLocation_>
+				<value>https://models.geo.kgk-cgc.ch/</value>
+			</IliSite09.RepositoryLocation_>
+		</parentSite>
+		</IliSite09.SiteMetadata.Site>
+	</IliSite09.SiteMetadata>
+</DATASECTION>
+</TRANSFER>
