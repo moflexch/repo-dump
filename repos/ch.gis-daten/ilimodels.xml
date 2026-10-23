@@ -122,7 +122,7 @@
         <File>Raumplanung/Nutzungsplanung_NWOW_V2.ili</File>
         <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-10-13</publishingDate>
+        <publishingDate>2026-10-22</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -135,9 +135,9 @@
         <Tags>73&gt;A.1,73&gt;B.1</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
-        <furtherInformation>https://www.gis-daten.ch/downloads/public/Uebersicht_MGDM/RAUM_VERK_BAU/Nutzungsplanung.zip</furtherInformation>
+        <furtherInformation>https://models.gis-daten.ch/nw-ow/Raumplanung/Nutzungsplanung_Doku_Kataloge/Nutzungsplanung_NWOW_V2_UML.pdf</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>dbfbb27b75b93c3007cb569a4edb29f6</md5>
+        <md5>9fe00356a10a92ea753c2cf6cf6db3e7</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="7">
         <Name>Kulturdenkmaeler_OW_V1_0</Name>
@@ -438,7 +438,7 @@
         <File>Raumplanung/Laermempfindlichkeitsstufen_NWOW_V2.ili</File>
         <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-10-13</publishingDate>
+        <publishingDate>2026-10-22</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -451,9 +451,9 @@
         <Tags>145.1</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
-        <furtherInformation>https://www.gis-daten.ch/downloads/public/Uebersicht_MGDM/RAUM_VERK_BAU/Laermempfindlichkeitsstufen.zip</furtherInformation>
+        <furtherInformation>https://models.gis-daten.ch/nw-ow/Raumplanung/Nutzungsplanung_Doku_Kataloge/Laermempfindlichkeitsstufen_NWOW_V2_UML.pdf</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>1c540ca70977ad2396e7f8ca3d6b6366</md5>
+        <md5>04a9657ef1623be107f4ab2efdecfaeb</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="23">
         <Name>Geotope_NWOW_V1</Name>
@@ -483,7 +483,7 @@
         <File>Raumplanung/Waldabstandslinien_NWOW_V2.ili</File>
         <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-10-13</publishingDate>
+        <publishingDate>2026-10-22</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -496,9 +496,9 @@
         <Tags>159</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
-        <furtherInformation>https://www.gis-daten.ch/downloads/public/Uebersicht_MGDM/RAUM_VERK_BAU/Waldabstandslinien.zip</furtherInformation>
+        <furtherInformation>https://models.gis-daten.ch/nw-ow/Raumplanung/Nutzungsplanung_Doku_Kataloge/Waldabstandslinien_NWOW_V2_UML.pdf</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>8176d32fdc19ead5801432c7dea741c0</md5>
+        <md5>7372a46401e4dff0a2c5adf71d49beca</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="25">
         <Name>Admin_NWOW_V1</Name>
@@ -616,7 +616,7 @@
         <File>Raumplanung/Waldgrenzen_NWOW_V2.ili</File>
         <Version>2026-02-20</Version>
         <NameLanguage>de</NameLanguage>
-        <publishingDate>2026-10-13</publishingDate>
+        <publishingDate>2026-10-22</publishingDate>
         <dependsOnModel>
           <IliRepository20.ModelName_>
             <value>GeometryCHLV95_V2</value>
@@ -629,9 +629,9 @@
         <Tags>157</Tags>
         <Issuer>https://models.gis-daten.ch/nw-ow/</Issuer>
         <technicalContact>mailto:stans@gis-daten.ch</technicalContact>
-        <furtherInformation>https://www.gis-daten.ch/downloads/public/Uebersicht_MGDM/RAUM_VERK_BAU/Waldgrenzen.zip</furtherInformation>
+        <furtherInformation>https://models.gis-daten.ch/nw-ow/Raumplanung/Nutzungsplanung_Doku_Kataloge/Waldgrenzen_NWOW_V2_UML.pdf</furtherInformation>
         <browseOnly>false</browseOnly>
-        <md5>69688163d3584df6f8ebaa47a30eef8c</md5>
+        <md5>ceb69e68bd8ff9a6b3b3186e54982164</md5>
       </IliRepository20.RepositoryIndex.ModelMetadata>
       <IliRepository20.RepositoryIndex.ModelMetadata TID="32">
         <Name>Richtplaene_MGDM_V1_Kommunal_NWOW_V1_0</Name>
