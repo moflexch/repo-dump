@@ -554,21 +554,6 @@
             <!--  ===============================================  -->
             <!--  Grundstueckskataster              BS013xxx       -->
             <!--  ===============================================  -->
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS013001">
-                <Name>ST_Stockwerkeigentum_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Grundstueckskataster/ST_Stockwerkeigentum_KGDM_V1_0_LV95.ili</File>
-                <Version>2023-05-22</Version>
-                <publishingDate>2023-06-06</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>620f4f422bc7455a8a2a6dbc03d6e968</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>            
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS013002">
               <Name>OG_OeffentlichesGrundeigentum_KGDM_V1_0_LV95</Name>
               <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -933,21 +918,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>602769584cb679be05111980bb21a924</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024014">
-                <Name>GL_Gastrolaerm_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Umweltschutz_Laerm/GL_Gastrolaerm_KGDM_V1_0_LV95.ili</File>
-                <Version>2019-04-17</Version>
-                <publishingDate>2019-04-17</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>                
-                <Issuer>http://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>03dcfdb6f90814c8c61dbebd58541fec</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS024015">
                 <Name>SL_Strassenlaermsanierung_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1026,21 +996,6 @@
               <technicalContact>mailto:geo@bs.ch</technicalContact>
               <md5>e5eedd72a68cb3096d5b7b35cb9ca844</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025015">
-                <Name>TF_TeilrichtplanFussWanderwege_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/TF_TeilrichtplanFussWanderwege_KGDM_V1_0_LV95.ili</File>
-                <Version>2020-03-09</Version>
-                <publishingDate>2020-05-05</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>328a4286ff7c442f9914e5261a200454</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025017">
                 <Name>GO_GueteklassenOeV_KGDM_V1_0_LV95</Name>
                 <SchemaLanguage>ili2_3</SchemaLanguage>
@@ -1055,36 +1010,6 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>c054497f876f7b22c06d5d50d31581d5</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025019">
-                <Name>WW_Wanderwege_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/WW_Wanderwege_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-02-10</Version>
-                <publishingDate>2022-03-01</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>1ebecd6a77812180e8dcfd4658d34c38</md5>
-            </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025021">
-                <Name>PB_GrundlagenParkraumbewirtschaftung_KGDM_V1_0_LV95</Name>
-                <SchemaLanguage>ili2_3</SchemaLanguage>
-                <File>Verkehr/PB_GrundlagenParkraumbewirtschaftung_KGDM_V1_0_LV95.ili</File>
-                <Version>2022-05-03</Version>
-                <publishingDate>2022-06-07</publishingDate>
-                <dependsOnModel>
-                  <IliRepository20.ModelName_>
-                    <value>BS_Basis_KGDM_V1_0_LV95</value>
-                  </IliRepository20.ModelName_>
-                </dependsOnModel>
-                <Issuer>https://www.geo.bs.ch</Issuer>
-                <technicalContact>mailto:geo@bs.ch</technicalContact>
-                <md5>1884476f44644df4126879cdf16484ac</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025022">
                 <Name>US_Unfallschwerpunkte_KGDM_V1_0_LV95</Name>
@@ -1206,21 +1131,6 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>699083c69834f7bef7a71f5c01383673</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
-            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS025031">
-              <Name>LG_Lichtsignalanlagen_KGDM_V1_0_LV95</Name>
-              <SchemaLanguage>ili2_3</SchemaLanguage>
-              <File>Verkehr/LG_Lichtsignalanlagen_KGDM_V1_0_LV95.ili</File>
-              <Version>2024-11-27</Version>
-              <publishingDate>2025-03-04</publishingDate>
-              <dependsOnModel>
-                <IliRepository20.ModelName_>
-                  <value>BS_Basis_KGDM_V1_0_LV95</value>
-                </IliRepository20.ModelName_>
-              </dependsOnModel>
-              <Issuer>https://www.geo.bs.ch</Issuer>
-              <technicalContact>mailto:geo@bs.ch</technicalContact>
-              <md5>e20df1d42053b7957eb588b240a7abf3</md5>
-          </IliRepository20.RepositoryIndex.ModelMetadata>
           <!--  ===============================================  -->
             <!--  Wald_Flora_Fauna                  BS026xxx       -->
             <!--  ===============================================  -->

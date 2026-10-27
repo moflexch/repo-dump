@@ -66,7 +66,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="51">
 				<Name>Nutzungsplanung_BE_V1_0_Catalogues</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>Grundlagen_und_Planung/Raumplanung_Grundstueckskataster/Nutzungsplanung_BE_V1_0_Catalogues.ili</File>
+				<File>obsolete/Nutzungsplanung_BE_V1_0_Catalogues.ili</File>
 				<Version>2022-07-14</Version>
 				<publishingDate>2022-08-19</publishingDate>
 				<dependsOnModel>
@@ -82,7 +82,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="52">
 				<Name>Nutzungsplanung_BE_V1_0</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>Grundlagen_und_Planung/Raumplanung_Grundstueckskataster/Nutzungsplanung_BE_V1_0.ili</File>
+				<File>obsolete/Nutzungsplanung_BE_V1_0.ili</File>
 				<Version>2022-04-01</Version>
 				<publishingDate>2022-08-19</publishingDate>
 				<dependsOnModel>
@@ -110,7 +110,7 @@
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="53">
 				<Name>PlansDAffectation_BE_V1_0</Name>
 				<SchemaLanguage>ili2_3</SchemaLanguage>
-				<File>Grundlagen_und_Planung/Raumplanung_Grundstueckskataster/PlansDAffectation_BE_V1_0.ili</File>
+				<File>obsolete/PlansDAffectation_BE_V1_0.ili</File>
 				<Version>2022-04-01</Version>
 				<publishingDate>2022-08-19</publishingDate>
 				<dependsOnModel>
@@ -137,6 +137,63 @@
 					</IliRepository09.ModelName_>
 				</dependsOnModel>
 				<md5>b337c47653666b10c0e3157a1e64f69a</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="54">
+				<Name>Nutzungsplanung_BE_V2_0_Catalogues</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>prerelease/Nutzungsplanung_BE_V2_0_Catalogues.ili</File>
+				<Version>2025-12-15</Version>
+				<publishingDate>2026-10-27</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>CatalogueObjects_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>LocalisationCH_V1</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>78c062d5c674faa8b22590189e6dc58d</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="55">
+				<Name>Nutzungsplanung_BE_V2_0</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>prerelease/Nutzungsplanung_BE_V2_0.ili</File>
+				<Version>2025-12-15</Version>
+				<publishingDate>2026-10-27</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CatalogueObjects_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_BE_V2_0_Catalogues</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>98693d84d5bdee1c294a21f544a5f929</md5>
+			</IliRepository09.RepositoryIndex.ModelMetadata>
+			<IliRepository09.RepositoryIndex.ModelMetadata TID="56">
+				<Name>PlansDAffectation_BE_V2_0</Name>
+				<SchemaLanguage>ili2_3</SchemaLanguage>
+				<File>prerelease/PlansDAffectation_BE_V2_0.ili</File>
+				<Version>2025-12-15</Version>
+				<publishingDate>2026-10-27</publishingDate>
+				<dependsOnModel>
+					<IliRepository09.ModelName_>
+						<value>GeometryCHLV95_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>CatalogueObjects_V1</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_BE_V2_0_Catalogues</value>
+					</IliRepository09.ModelName_>
+					<IliRepository09.ModelName_>
+						<value>Nutzungsplanung_BE_V2_0</value>
+					</IliRepository09.ModelName_>
+				</dependsOnModel>
+				<md5>a493406fbaf13fef1598f251895a1d8f</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="40">
 				<Name>Planungszonen_BE_V1_0</Name>
