@@ -13,7 +13,7 @@
 				<Title>Geobasisdaten-Modell-Ablage Kanton Bern</Title>
 				<shortDescription>Modell-Ablage fuer Datenmodelle der Geobasisdaten des Kantons Bern</shortDescription>
 				<Owner>https://www.be.ch/geoportal</Owner>
-				<technicalContact>mailto:pascal.kuhn@be.ch</technicalContact>
+				<technicalContact>mailto:bernard.kessler@be.ch</technicalContact>
 				<parentSite>
 					<IliSite09.RepositoryLocation_>
 						<value>http://models.geo.kgk-cgc.ch/</value>
