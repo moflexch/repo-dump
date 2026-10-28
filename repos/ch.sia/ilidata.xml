@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+    <HEADERSECTION SENDER="SIA" VERSION="2.3">
+        <MODELS>
+            <MODEL NAME="DatasetIdx16" VERSION="2022-10-10" URI="mailto:ce@eisenhutinformatik.ch"/>
+        </MODELS>
+    </HEADERSECTION>
+    <DATASECTION>
+        <DatasetIdx16.DataIndex BID="b1">
+            <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
+                <id>ch.sia.405.sia_organisationen</id>
+                <version>2026-10-28</version>
+                <owner>mailto:LKMap@sia.ch</owner>
+                <title>
+                    <DatasetIdx16.MultilingualText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedText>
+                                <Text>SIA Organisationsliste</Text>
+                            </DatasetIdx16.LocalisedText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualText>
+                </title>
+                <shortDescription>
+                    <DatasetIdx16.MultilingualMText>
+                        <LocalisedText>
+                            <DatasetIdx16.LocalisedMText>
+                                <Language>de</Language>
+                                <Text>Liste der Organisationen gemäss Datenmodell SIA405_Base_d_2025</Text>
+                            </DatasetIdx16.LocalisedMText>
+                        </LocalisedText>
+                    </DatasetIdx16.MultilingualMText>
+                </shortDescription>
+                <categories>
+                    <DatasetIdx16.Code_>
+                        <value>http://codes.interlis.ch/type/referenceData</value>
+                    </DatasetIdx16.Code_>
+                </categories>
+                <files>
+                    <DatasetIdx16.DataFile>
+                        <fileFormat>application/interlis+xml;version=2.4</fileFormat>
+                        <file>
+                            <DatasetIdx16.File>
+                                <path>organisation/sia_organisationen.xtf</path>
+                                <md5>55beae1e661c6a5a9f000d5ff02ea600</md5>
+                            </DatasetIdx16.File>
+                        </file>
+                    </DatasetIdx16.DataFile>
+                </files>
+            </DatasetIdx16.DataIndex.DatasetMetadata>
+        </DatasetIdx16.DataIndex>
+    </DATASECTION>
+</TRANSFER>
