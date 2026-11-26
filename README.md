@@ -1,4 +1,4 @@
-# Status at 2026-11-25 17:00
+# Status at 2026-11-26 02:08
 |Site|ilisite.xml|ilimodels.xml|ilidata.xml|
 |---|---|---|---|
 |[ch.sia](https://405.sia.ch/models/)|:white_check_mark: ([](https://405.sia.ch/models/ilisite.xml))|:white_check_mark: ([](https://405.sia.ch/models/ilimodels.xml))|:white_check_mark: ([](https://405.sia.ch/models/ilidata.xml))|
